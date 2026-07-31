@@ -15,7 +15,7 @@
 	<key>serverUrl</key>
 	<string>http://163.223.12.142:18080/servers</string>
 	<key>versionUrl</key>
-	<string></string>
+	<string>http://163.223.12.142:18080/version</string>
 	<key>noticeUrl</key>
 	<string>http://163.223.12.142:18080/notice</string>
 	<key>reportUrl</key>

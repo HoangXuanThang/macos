@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>app_version</key>
-	<string>2.1.0.1</string>
+	<string>2.1.0.0</string>
 	<key>git_version</key>
 	<string>GIT_VERSION</string>
 	<key>loginServer</key>
@@ -15,7 +15,7 @@
 	<key>serverUrl</key>
 	<string>http://163.223.12.142:18080/servers</string>
 	<key>versionUrl</key>
-	<string></string>
+	<string>http://163.223.12.142:18080/version?fake=false</string>
 	<key>noticeUrl</key>
 	<string>http://163.223.12.142:18080/notice</string>
 	<key>reportUrl</key>
