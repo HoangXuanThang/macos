@@ -5,7 +5,7 @@ workflows:
   ios-ipa-workflow:
     name: Build iOS IPA (Cocos2d-x)
     max_build_duration: 120
-    instance_type: mac_mini_m1
+    instance_type: mac_mini_m2
     
     environment:
       ios_signing:
@@ -92,20 +92,18 @@ workflows:
         recipients:
           - user@example.com
         notify:
-          on_success: true
-          on_failure: true
+          success: true
+          failure: true
 
   android-apk-workflow:
     name: Build Android APK (Cocos2d-x)
     max_build_duration: 60
-    instance_type: mac_mini_m1
+    instance_type: mac_mini_m2
 
     environment:
-      android_signing:
-        - my_release_key # Set key alias/password in Codemagic UI if using release key
       vars:
         ANDROID_PROJECT: "MyLuaGame/frameworks/runtime-src/proj.android"
-      java: 11
+      java: 17
 
     scripts:
       - name: Set permissions and build APK
