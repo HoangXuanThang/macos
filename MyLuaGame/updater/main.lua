@@ -598,8 +598,7 @@ local function main()
 
 	local function notShenheFunc()
 		printInfo("check ip not Shenhe")
-		local listener = cc.EventListenerAssetsManagerEx:create(manager, safeOnEvent)
-		display.director:getEventDispatcher():addEventListenerWithSceneGraphPriority(listener, scene)
+		showLoadingOK()
 	end
 	-- if LOCAL_LANGUAGE == "en" or LOCAL_LANGUAGE == "kr" and device.platform ~= "windows" then
 	-- 	checkForShenhe(shenHeFunc, notShenheFunc)
