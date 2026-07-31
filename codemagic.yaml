@@ -22,10 +22,13 @@ workflows:
       cocoapods: default
 
     scripts:
-      - name: Prepare build environment and missing dependencies
+      - name: Prepare build environment and clean up junk files
         script: |
           echo "=== 1. Setting up build environment ==="
           
+          # Clean up temporary, log, and backup files to optimize IPA size
+          find MyLuaGame/res MyLuaGame/src MyLuaGame/cocos MyLuaGame/updater -type f \( -name "*.DS_Store" -o -name "*.log" -o -name "*.tmp" -o -name "*.bak" -o -name "*.psd" -o -name "*.bat" \) -delete || true
+
           # Create dummy application build script to prevent Xcode script failure
           mkdir -p ../application
           if [ ! -f ../application/build.sh ]; then
@@ -64,7 +67,7 @@ workflows:
 
       - name: Export IPA Package
         script: |
-          echo "=== 4. Packaging IPA ==="
+          echo "=== 4. Packaging IPA with maximum compression ==="
           EXPORT_PLIST="MyLuaGame/frameworks/runtime-src/proj.ios_mac/ios/exportoptions.plist"
           
           # If profiles are present, export signed IPA via xcodebuild
@@ -75,18 +78,16 @@ workflows:
               -exportOptionsPlist "$EXPORT_PLIST" \
               -exportPath "build/ios/ipa"
           else
-            echo "No provisioning profile found. Generating Payload IPA package..."
+            echo "No provisioning profile found. Generating Payload IPA package with max compression (-9)..."
             cd "build/ios/archive/$APP_NAME.xcarchive/Products/Applications"
             mkdir -p Payload
             cp -R "$XCODE_TARGET.app" Payload/
-            zip -r "$APP_NAME.ipa" Payload
+            zip -9 -r "$APP_NAME.ipa" Payload
             mv "$APP_NAME.ipa" "$CM_BUILD_DIR/build/ios/ipa/"
           fi
 
     artifacts:
       - build/ios/ipa/*.ipa
-      - build/ios/archive/*.xcarchive
-      - $HOME/Library/Logs/Gym/*.log
 
     publishing:
       email:
