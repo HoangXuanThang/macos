@@ -89,10 +89,11 @@ workflows:
 
     publishing:
       email:
-        events:
-          - build_status
         recipients:
-          - your-email@example.com
+          - user@example.com
+        notify:
+          on_success: true
+          on_failure: true
 
   android-apk-workflow:
     name: Build Android APK (Cocos2d-x)
