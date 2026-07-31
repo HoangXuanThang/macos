@@ -8,9 +8,10 @@ workflows:
     instance_type: mac_mini_m2
     
     environment:
-      ios_signing:
-        distribution_type: ad_hoc # Options: ad_hoc, development, app_store, enterprise
-        bundle_identifier: com.tianji-game.MyLuaGame
+      # Optional: Uncomment ios_signing below if you have added Apple Developer API keys / Provisioning Profiles in Codemagic UI:
+      # ios_signing:
+      #   distribution_type: ad_hoc
+      #   bundle_identifier: com.tianji-game.MyLuaGame
       vars:
         XCODE_PROJECT: "MyLuaGame/frameworks/runtime-src/proj.ios_mac/MyLuaGame.xcodeproj"
         XCODE_SCHEME: "MyLuaGame-mobile"
