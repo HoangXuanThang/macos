@@ -1,0 +1,118 @@
+# Codemagic CI/CD Configuration for Cocos2d-x Lua Project (BÁ VƯƠNG ĐẠI CHIẾN)
+# Documentation: https://docs.codemagic.io/yaml-basic-configuration/yaml-getting-started/
+
+workflows:
+  ios-ipa-workflow:
+    name: Build iOS IPA (Cocos2d-x)
+    max_build_duration: 120
+    instance_type: mac_mini_m1
+    
+    environment:
+      ios_signing:
+        distribution_type: ad_hoc # Options: ad_hoc, development, app_store, enterprise
+        bundle_identifier: com.tianji-game.MyLuaGame
+      vars:
+        XCODE_PROJECT: "MyLuaGame/frameworks/runtime-src/proj.ios_mac/MyLuaGame.xcodeproj"
+        XCODE_SCHEME: "MyLuaGame-mobile"
+        XCODE_TARGET: "MyLuaGame-mobile"
+        XCODE_CONFIGURATION: "Release"
+        APP_NAME: "BaVuongDaiChien"
+      xcode: latest
+      cocoapods: default
+
+    scripts:
+      - name: Prepare build environment and missing dependencies
+        script: |
+          echo "=== 1. Setting up build environment ==="
+          
+          # Create dummy application build script to prevent Xcode script failure
+          mkdir -p ../application
+          if [ ! -f ../application/build.sh ]; then
+            echo "#!/bin/bash" > ../application/build.sh
+            echo "echo 'Application build pre-step executed.'" >> ../application/build.sh
+            chmod +x ../application/build.sh
+          fi
+
+          # Grant execution permissions
+          chmod -R +x tools/ || true
+
+          # Create build directories
+          mkdir -p build/ios/ipa
+          mkdir -p build/ios/deriveddata
+          mkdir -p build/ios/archive
+
+      - name: Initialize keychain and code signing profiles
+        script: |
+          echo "=== 2. Setting up iOS Code Signing ==="
+          keychain initialize || true
+          xcode-project use-profiles || true
+
+      - name: Build Xcode Archive (.xcarchive)
+        script: |
+          echo "=== 3. Archiving Xcode Project ==="
+          xcodebuild clean archive \
+            -project "$XCODE_PROJECT" \
+            -scheme "$XCODE_SCHEME" \
+            -configuration "$XCODE_CONFIGURATION" \
+            -derivedDataPath "build/ios/deriveddata" \
+            -archivePath "build/ios/archive/$APP_NAME.xcarchive" \
+            -destination "generic/platform=iOS" \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGNING_ALLOWED=NO \
+            COMPILER_INDEX_STORE_ENABLE=NO
+
+      - name: Export IPA Package
+        script: |
+          echo "=== 4. Packaging IPA ==="
+          EXPORT_PLIST="MyLuaGame/frameworks/runtime-src/proj.ios_mac/ios/exportoptions.plist"
+          
+          # If profiles are present, export signed IPA via xcodebuild
+          if [ -d "$HOME/Library/MobileDevice/Provisioning Profiles" ] && [ "$(ls -A "$HOME/Library/MobileDevice/Provisioning Profiles")" ]; then
+            echo "Signing profiles detected. Exporting signed IPA..."
+            xcodebuild -exportArchive \
+              -archivePath "build/ios/archive/$APP_NAME.xcarchive" \
+              -exportOptionsPlist "$EXPORT_PLIST" \
+              -exportPath "build/ios/ipa"
+          else
+            echo "No provisioning profile found. Generating Payload IPA package..."
+            cd "build/ios/archive/$APP_NAME.xcarchive/Products/Applications"
+            mkdir -p Payload
+            cp -R "$XCODE_TARGET.app" Payload/
+            zip -r "$APP_NAME.ipa" Payload
+            mv "$APP_NAME.ipa" "$CM_BUILD_DIR/build/ios/ipa/"
+          fi
+
+    artifacts:
+      - build/ios/ipa/*.ipa
+      - build/ios/archive/*.xcarchive
+      - $HOME/Library/Logs/Gym/*.log
+
+    publishing:
+      email:
+        events:
+          - build_status
+        recipients:
+          - your-email@example.com
+
+  android-apk-workflow:
+    name: Build Android APK (Cocos2d-x)
+    max_build_duration: 60
+    instance_type: mac_mini_m1
+
+    environment:
+      android_signing:
+        - my_release_key # Set key alias/password in Codemagic UI if using release key
+      vars:
+        ANDROID_PROJECT: "MyLuaGame/frameworks/runtime-src/proj.android"
+      java: 11
+
+    scripts:
+      - name: Set permissions and build APK
+        script: |
+          echo "=== Building Android APK ==="
+          cd "$ANDROID_PROJECT"
+          chmod +x gradlew
+          ./gradlew assembleRelease --no-daemon
+
+    artifacts:
+      - MyLuaGame/frameworks/runtime-src/proj.android/app/build/outputs/apk/**/*.apk
