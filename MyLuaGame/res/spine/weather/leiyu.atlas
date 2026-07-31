@@ -1,0 +1,104 @@
+
+leiyu.png
+size: 883,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/gt2
+  rotate: false
+  xy: 83, 32
+  size: 65, 20
+  orig: 65, 20
+  offset: 0, 0
+  index: -1
+images/hei
+  rotate: true
+  xy: 83, 16
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+images/ns7
+  rotate: false
+  xy: 463, 32
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+images/wqfm_l1
+  rotate: true
+  xy: 1, 7
+  size: 45, 80
+  orig: 143, 186
+  offset: 26, 51
+  index: -1
+images/wqfm_l2
+  rotate: true
+  xy: 315, 15
+  size: 75, 146
+  orig: 143, 186
+  offset: 26, 4
+  index: -1
+images/wqfm_l3
+  rotate: true
+  xy: 150, 12
+  size: 77, 163
+  orig: 143, 186
+  offset: 27, 4
+  index: -1
+images/wqfm_l4
+  rotate: false
+  xy: 321, 100
+  size: 108, 166
+  orig: 143, 186
+  offset: 10, 4
+  index: -1
+images/wqfm_l5
+  rotate: false
+  xy: 199, 92
+  size: 120, 174
+  orig: 143, 186
+  offset: 0, 3
+  index: -1
+images/wqfm_l6
+  rotate: false
+  xy: 85, 91
+  size: 112, 175
+  orig: 143, 186
+  offset: 0, 2
+  index: -1
+images/xy
+  rotate: true
+  xy: 1, 1
+  size: 4, 79
+  orig: 4, 79
+  offset: 0, 0
+  index: -1
+images/y3b
+  rotate: false
+  xy: 463, 150
+  size: 419, 116
+  orig: 419, 116
+  offset: 0, 0
+  index: -1
+images/y4b
+  rotate: false
+  xy: 581, 12
+  size: 269, 61
+  orig: 269, 61
+  offset: 0, 0
+  index: -1
+images/y5b
+  rotate: false
+  xy: 581, 75
+  size: 295, 73
+  orig: 295, 73
+  offset: 0, 0
+  index: -1
+images/zbt_d
+  rotate: false
+  xy: 1, 54
+  size: 82, 212
+  orig: 82, 212
+  offset: 0, 0
+  index: -1

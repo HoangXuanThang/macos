@@ -1,0 +1,132 @@
+
+my_spine2.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 108, 44
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+bowen_0001
+  rotate: true
+  xy: 107, 68
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+bowen_0002
+  rotate: true
+  xy: 107, 53
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+bowen_0003
+  rotate: true
+  xy: 95, 31
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+bowen_0004
+  rotate: false
+  xy: 82, 15
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+bowen_0005
+  rotate: false
+  xy: 36, 2
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+bowen_0006
+  rotate: false
+  xy: 51, 2
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+bowen_0007
+  rotate: false
+  xy: 66, 2
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+bowen_0008
+  rotate: false
+  xy: 81, 2
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+bowen_0009
+  rotate: true
+  xy: 97, 16
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 15
+  size: 78, 108
+  orig: 78, 108
+  offset: 0, 0
+  index: -1
+shoubi
+  rotate: false
+  xy: 82, 74
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 2, 5
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 120, 91
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 82, 28
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+xiong01
+  rotate: true
+  xy: 82, 46
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+xiong02
+  rotate: false
+  xy: 107, 100
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+zhedang
+  rotate: false
+  xy: 107, 83
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1

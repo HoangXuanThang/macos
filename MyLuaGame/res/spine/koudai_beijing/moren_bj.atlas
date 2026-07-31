@@ -1,0 +1,20 @@
+
+moren_bj.png
+size: 649,320
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wuxianbeijing
+  rotate: false
+  xy: 1, 1
+  size: 485, 318
+  orig: 485, 318
+  offset: 0, 0
+  index: -1
+wuxianbeijing_fanse
+  rotate: true
+  xy: 488, 76
+  size: 243, 160
+  orig: 243, 160
+  offset: 0, 0
+  index: -1

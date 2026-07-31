@@ -1,0 +1,55 @@
+
+shenmishangdian.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaonan_idle_0000
+  rotate: false
+  xy: 87, 2
+  size: 83, 236
+  orig: 83, 236
+  offset: 0, 0
+  index: -1
+xiaonan_idle_0008
+  rotate: false
+  xy: 172, 2
+  size: 83, 236
+  orig: 83, 236
+  offset: 0, 0
+  index: -1
+xiaonan_idle_0016
+  rotate: false
+  xy: 257, 2
+  size: 82, 236
+  orig: 82, 236
+  offset: 0, 0
+  index: -1
+xiaonan_idle_0024
+  rotate: false
+  xy: 509, 2
+  size: 81, 236
+  orig: 81, 236
+  offset: 0, 0
+  index: -1
+xiaonan_idle_0032
+  rotate: false
+  xy: 341, 2
+  size: 82, 236
+  orig: 82, 236
+  offset: 0, 0
+  index: -1
+xiaonan_idle_0040
+  rotate: false
+  xy: 425, 2
+  size: 82, 236
+  orig: 82, 236
+  offset: 0, 0
+  index: -1
+xiaonan_idle_0048
+  rotate: false
+  xy: 2, 2
+  size: 83, 236
+  orig: 83, 236
+  offset: 0, 0
+  index: -1

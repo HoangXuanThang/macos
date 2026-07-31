@@ -1,0 +1,90 @@
+
+floor_tx.png
+size: 1188,756
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GOOD
+  rotate: true
+  xy: 761, 200
+  size: 314, 96
+  orig: 314, 96
+  offset: 0, 0
+  index: -1
+chen3_1
+  rotate: true
+  xy: 761, 27
+  size: 171, 90
+  orig: 278, 162
+  offset: 9, 15
+  index: -1
+chen3_2
+  rotate: true
+  xy: 1106, 571
+  size: 184, 81
+  orig: 278, 162
+  offset: 12, 17
+  index: -1
+chen3_3
+  rotate: false
+  xy: 984, 14
+  size: 187, 108
+  orig: 278, 162
+  offset: 38, 17
+  index: -1
+chen3_4
+  rotate: true
+  xy: 859, 173
+  size: 166, 124
+  orig: 278, 162
+  offset: 64, 18
+  index: -1
+chen3_5
+  rotate: true
+  xy: 859, 341
+  size: 173, 129
+  orig: 278, 162
+  offset: 62, 20
+  index: -1
+chen3_6
+  rotate: false
+  xy: 990, 257
+  size: 171, 129
+  orig: 278, 162
+  offset: 66, 25
+  index: -1
+chen3_7
+  rotate: false
+  xy: 985, 124
+  size: 164, 131
+  orig: 278, 162
+  offset: 69, 26
+  index: -1
+chen3_8
+  rotate: true
+  xy: 853, 19
+  size: 152, 129
+  orig: 278, 162
+  offset: 78, 27
+  index: -1
+guangyun
+  rotate: false
+  xy: 1, 1
+  size: 758, 754
+  orig: 758, 754
+  offset: 0, 0
+  index: -1
+perfect
+  rotate: true
+  xy: 1006, 388
+  size: 367, 98
+  orig: 367, 98
+  offset: 0, 0
+  index: -1
+zha
+  rotate: true
+  xy: 761, 516
+  size: 239, 243
+  orig: 256, 256
+  offset: 6, 5
+  index: -1

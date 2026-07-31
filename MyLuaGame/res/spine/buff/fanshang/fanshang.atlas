@@ -1,0 +1,27 @@
+
+fanshang.png
+size: 368,171
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/c1
+  rotate: false
+  xy: 135, 4
+  size: 120, 166
+  orig: 120, 166
+  offset: 0, 0
+  index: -1
+images/c2
+  rotate: false
+  xy: 257, 4
+  size: 110, 166
+  orig: 110, 166
+  offset: 0, 0
+  index: -1
+images/c3
+  rotate: false
+  xy: 1, 1
+  size: 132, 169
+  orig: 132, 169
+  offset: 0, 0
+  index: -1

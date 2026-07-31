@@ -1,0 +1,90 @@
+
+yuzhou.png
+size: 1988,411
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/guangyun
+  rotate: true
+  xy: 689, 31
+  size: 379, 377
+  orig: 379, 377
+  offset: 0, 0
+  index: -1
+effect/sdd1
+  rotate: true
+  xy: 1498, 21
+  size: 46, 156
+  orig: 46, 156
+  offset: 0, 0
+  index: -1
+effect/sdd2
+  rotate: false
+  xy: 1911, 262
+  size: 76, 148
+  orig: 76, 148
+  offset: 0, 0
+  index: -1
+effect/sdd3
+  rotate: false
+  xy: 1911, 113
+  size: 56, 147
+  orig: 56, 147
+  offset: 0, 0
+  index: -1
+effect/sdd4
+  rotate: true
+  xy: 1834, 18
+  size: 93, 141
+  orig: 93, 141
+  offset: 0, 0
+  index: -1
+effect/xingyun3
+  rotate: false
+  xy: 1, 15
+  size: 686, 395
+  orig: 686, 395
+  offset: 0, 0
+  index: -1
+effect/xingyun4
+  rotate: true
+  xy: 1068, 15
+  size: 395, 247
+  orig: 395, 247
+  offset: 0, 0
+  index: -1
+effect/xyb
+  rotate: false
+  xy: 1317, 1
+  size: 179, 409
+  orig: 179, 409
+  offset: 0, 0
+  index: -1
+hei
+  rotate: true
+  xy: 1, 6
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+s2/s2_wgy1
+  rotate: false
+  xy: 1498, 257
+  size: 411, 153
+  orig: 411, 153
+  offset: 0, 0
+  index: -1
+s2/s2_wsg11
+  rotate: false
+  xy: 1498, 69
+  size: 334, 186
+  orig: 334, 186
+  offset: 0, 0
+  index: -1
+s2/sssq1
+  rotate: false
+  xy: 1834, 180
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1

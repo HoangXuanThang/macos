@@ -1,0 +1,27 @@
+
+meihuo.png
+size: 235,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/aixin1
+  rotate: false
+  xy: 169, 27
+  size: 65, 60
+  orig: 67, 63
+  offset: 1, 1
+  index: -1
+images/ax_2
+  rotate: true
+  xy: 106, 14
+  size: 73, 61
+  orig: 76, 65
+  offset: 2, 2
+  index: -1
+images/ax_3
+  rotate: false
+  xy: 1, 1
+  size: 103, 86
+  orig: 112, 97
+  offset: 5, 6
+  index: -1

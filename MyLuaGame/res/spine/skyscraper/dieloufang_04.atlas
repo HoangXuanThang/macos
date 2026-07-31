@@ -1,0 +1,34 @@
+
+dieloufang_04.png
+size: 537,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chilun1
+  rotate: false
+  xy: 382, 1
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 1, 2
+  size: 379, 377
+  orig: 379, 377
+  offset: 0, 0
+  index: -1
+keday
+  rotate: false
+  xy: 382, 78
+  size: 84, 136
+  orig: 84, 136
+  offset: 0, 0
+  index: -1
+xiaoyx
+  rotate: false
+  xy: 382, 216
+  size: 154, 163
+  orig: 154, 163
+  offset: 0, 0
+  index: -1

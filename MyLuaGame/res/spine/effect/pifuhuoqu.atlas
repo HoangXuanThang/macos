@@ -1,0 +1,76 @@
+
+pifuhuoqu.png
+size: 446,1029
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj1
+  rotate: true
+  xy: 1, 267
+  size: 761, 208
+  orig: 761, 208
+  offset: 0, 0
+  index: -1
+ch2
+  rotate: true
+  xy: 299, 676
+  size: 352, 140
+  orig: 352, 140
+  offset: 0, 0
+  index: -1
+dxx
+  rotate: false
+  xy: 267, 29
+  size: 91, 93
+  orig: 91, 93
+  offset: 0, 0
+  index: -1
+wz
+  rotate: true
+  xy: 211, 583
+  size: 445, 86
+  orig: 445, 86
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 267, 124
+  size: 170, 204
+  orig: 170, 204
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: true
+  xy: 211, 330
+  size: 251, 83
+  orig: 251, 83
+  offset: 0, 0
+  index: -1
+xx3
+  rotate: true
+  xy: 296, 332
+  size: 197, 76
+  orig: 197, 76
+  offset: 0, 0
+  index: -1
+yq1
+  rotate: false
+  xy: 360, 37
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+yq2
+  rotate: false
+  xy: 1, 1
+  size: 264, 264
+  orig: 264, 264
+  offset: 0, 0
+  index: -1
+yq_yy
+  rotate: false
+  xy: 299, 531
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1

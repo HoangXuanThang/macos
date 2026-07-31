@@ -1,0 +1,69 @@
+
+hero_yuangupangding_buff.png
+size: 744,390
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/daoguang_1
+  rotate: true
+  xy: 380, 132
+  size: 53, 200
+  orig: 53, 200
+  offset: 0, 0
+  index: -1
+TX/guanghuan1
+  rotate: false
+  xy: 590, 141
+  size: 152, 248
+  orig: 152, 248
+  offset: 0, 0
+  index: -1
+TX/guangyun
+  rotate: true
+  xy: 1, 10
+  size: 379, 377
+  orig: 379, 377
+  offset: 0, 0
+  index: -1
+TX/huaban2
+  rotate: false
+  xy: 380, 187
+  size: 208, 202
+  orig: 256, 256
+  offset: 27, 30
+  index: -1
+TX/skill2_huo_0001
+  rotate: false
+  xy: 380, 33
+  size: 69, 97
+  orig: 80, 100
+  offset: 10, 0
+  index: -1
+TX/skill2_huo_0002
+  rotate: true
+  xy: 644, 68
+  size: 71, 99
+  orig: 80, 100
+  offset: 5, 0
+  index: -1
+TX/skill2_huo_0003
+  rotate: true
+  xy: 644, 1
+  size: 65, 96
+  orig: 80, 100
+  offset: 6, 0
+  index: -1
+TX/skill2_huo_0004
+  rotate: true
+  xy: 451, 75
+  size: 55, 86
+  orig: 80, 100
+  offset: 13, 0
+  index: -1
+TX/xiaoliuguang
+  rotate: false
+  xy: 582, 20
+  size: 60, 119
+  orig: 64, 128
+  offset: 4, 4
+  index: -1

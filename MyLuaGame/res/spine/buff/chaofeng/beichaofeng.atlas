@@ -1,0 +1,34 @@
+
+beichaofeng.png
+size: 240,182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cf/guangyun
+  rotate: false
+  xy: 1, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+fn1
+  rotate: false
+  xy: 183, 85
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+fn2
+  rotate: false
+  xy: 183, 50
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+fn3
+  rotate: false
+  xy: 183, 122
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1

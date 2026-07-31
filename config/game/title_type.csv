@@ -1,0 +1,8 @@
+﻿VariableName,type,name_cn,name_tw,name,name_vn,name_en,name_th,name_in,name_ma,name_ph
+Defaults,1,"""""","""""","""""","""""","""""","""""","""""","""""",""""""
+ID(按照id顺序从上往下显示),称号类型,称号标题语言包,称号标题语言包,称号标题语言包,称号标题语言包_越南,称号标题语言包_韩,称号标题语言包_韩,称号标题语言包_韩,称号标题语言包_韩,称号标题语言包_韩
+1,,,,Honor,Danh dự,Honor,เกียรติยศ,Kehormatan,Kehormatan,Karangalan
+2,2,,,Adventure,Phiêu lưu,Adventure,การผจญภัย,Petualangan,Pengembaraan,Pakikipagsapalaran
+3,3,,,Events,Hoạt động,Events,กิจกรรม,Acara,Acara,Mga kaganapan
+4,4,,,Achievements,Thành tựu,Achievements,ความสำเร็จ,Prestasi,Pencapaian,Mga tagumpay
+99,99,,,Others,Khác,Others,อื่น ๆ,Lainnya,Lain-lain,Iba pa

@@ -1,0 +1,419 @@
+
+lihui_wuyaowang.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingjing1
+  rotate: false
+  xy: 1660, 829
+  size: 43, 80
+  orig: 43, 80
+  offset: 0, 0
+  index: -1
+bingjing10
+  rotate: false
+  xy: 1944, 1796
+  size: 72, 250
+  orig: 72, 250
+  offset: 0, 0
+  index: -1
+bingjing2
+  rotate: false
+  xy: 899, 94
+  size: 51, 10
+  orig: 51, 10
+  offset: 0, 0
+  index: -1
+bingjing3
+  rotate: true
+  xy: 2018, 1971
+  size: 75, 27
+  orig: 75, 27
+  offset: 0, 0
+  index: -1
+bingjing4
+  rotate: true
+  xy: 1998, 1415
+  size: 13, 48
+  orig: 13, 48
+  offset: 0, 0
+  index: -1
+bingjing5
+  rotate: false
+  xy: 1944, 1562
+  size: 82, 232
+  orig: 82, 232
+  offset: 0, 0
+  index: -1
+bingjing6
+  rotate: true
+  xy: 1047, 1619
+  size: 111, 345
+  orig: 111, 345
+  offset: 0, 0
+  index: -1
+bingjing7
+  rotate: true
+  xy: 2, 2
+  size: 49, 141
+  orig: 49, 141
+  offset: 0, 0
+  index: -1
+bingjing8
+  rotate: true
+  xy: 1373, 1069
+  size: 64, 119
+  orig: 64, 119
+  offset: 0, 0
+  index: -1
+bingjing9
+  rotate: false
+  xy: 1581, 691
+  size: 21, 76
+  orig: 21, 76
+  offset: 0, 0
+  index: -1
+bingxue1
+  rotate: true
+  xy: 1718, 925
+  size: 121, 38
+  orig: 121, 38
+  offset: 0, 0
+  index: -1
+bingxue2
+  rotate: false
+  xy: 145, 13
+  size: 148, 38
+  orig: 148, 38
+  offset: 0, 0
+  index: -1
+bingxue4
+  rotate: true
+  xy: 1998, 1430
+  size: 130, 48
+  orig: 130, 48
+  offset: 0, 0
+  index: -1
+bingxue5
+  rotate: false
+  xy: 1710, 1433
+  size: 88, 21
+  orig: 88, 21
+  offset: 0, 0
+  index: -1
+bingxue6
+  rotate: false
+  xy: 1541, 1159
+  size: 160, 272
+  orig: 160, 272
+  offset: 0, 0
+  index: -1
+bingxue6_1
+  rotate: false
+  xy: 1703, 1159
+  size: 160, 272
+  orig: 160, 272
+  offset: 0, 0
+  index: -1
+bingzhu1
+  rotate: true
+  xy: 775, 1038
+  size: 14, 89
+  orig: 14, 89
+  offset: 0, 0
+  index: -1
+bingzhu2
+  rotate: true
+  xy: 301, 40
+  size: 48, 256
+  orig: 48, 256
+  offset: 0, 0
+  index: -1
+bingzhu3
+  rotate: false
+  xy: 1327, 1417
+  size: 17, 200
+  orig: 17, 200
+  offset: 0, 0
+  index: -1
+bingzhu4
+  rotate: false
+  xy: 1497, 391
+  size: 31, 177
+  orig: 31, 177
+  offset: 0, 0
+  index: -1
+bingzhu5
+  rotate: false
+  xy: 1800, 1065
+  size: 32, 92
+  orig: 32, 92
+  offset: 0, 0
+  index: -1
+images/yun2
+  rotate: false
+  xy: 1865, 1161
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+images/yun3
+  rotate: false
+  xy: 1041, 1371
+  size: 31, 3
+  orig: 31, 3
+  offset: 0, 0
+  index: -1
+images/yun4
+  rotate: false
+  xy: 1346, 1609
+  size: 46, 8
+  orig: 46, 8
+  offset: 0, 0
+  index: -1
+images/yun5
+  rotate: false
+  xy: 1497, 371
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+images/yun6
+  rotate: false
+  xy: 1541, 1048
+  size: 257, 109
+  orig: 257, 109
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 1038
+  size: 771, 1008
+  orig: 771, 1008
+  offset: 0, 0
+  index: -1
+suijing1
+  rotate: true
+  xy: 1497, 570
+  size: 197, 82
+  orig: 197, 82
+  offset: 0, 0
+  index: -1
+texiao7
+  rotate: false
+  xy: 785, 29
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 2, 685
+  size: 285, 351
+  orig: 285, 351
+  offset: 0, 0
+  index: -1
+xuhua
+  rotate: true
+  xy: 1865, 1176
+  size: 278, 131
+  orig: 278, 131
+  offset: 0, 0
+  index: -1
+yanguang2
+  rotate: false
+  xy: 775, 1693
+  size: 270, 353
+  orig: 270, 353
+  offset: 0, 0
+  index: -1
+yaoguang1
+  rotate: true
+  xy: 1485, 769
+  size: 140, 173
+  orig: 140, 173
+  offset: 0, 0
+  index: -1
+youjianjia
+  rotate: false
+  xy: 1373, 1135
+  size: 166, 296
+  orig: 166, 296
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 1710, 1456
+  size: 274, 232
+  orig: 274, 232
+  offset: 0, 0
+  index: -1
+zhedang
+  rotate: false
+  xy: 1485, 911
+  size: 231, 135
+  orig: 231, 135
+  offset: 0, 0
+  index: -1
+zuijing2
+  rotate: true
+  xy: 559, 16
+  size: 72, 224
+  orig: 72, 224
+  offset: 0, 0
+  index: -1
+zuojiajian
+  rotate: true
+  xy: 775, 1370
+  size: 321, 264
+  orig: 321, 264
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 1041, 1376
+  size: 241, 284
+  orig: 241, 284
+  offset: 0, 0
+  index: -1
+红色烟雾/元件-10001
+  rotate: false
+  xy: 289, 722
+  size: 297, 314
+  orig: 297, 314
+  offset: 0, 0
+  index: -1
+红色烟雾/元件-10002
+  rotate: false
+  xy: 1047, 1732
+  size: 297, 314
+  orig: 297, 314
+  offset: 0, 0
+  index: -1
+红色烟雾/元件-10003
+  rotate: false
+  xy: 1346, 1732
+  size: 297, 314
+  orig: 297, 314
+  offset: 0, 0
+  index: -1
+红色烟雾/元件-10004
+  rotate: false
+  xy: 1645, 1732
+  size: 297, 314
+  orig: 297, 314
+  offset: 0, 0
+  index: -1
+红色烟雾/元件-10005
+  rotate: false
+  xy: 2, 369
+  size: 297, 314
+  orig: 297, 314
+  offset: 0, 0
+  index: -1
+红色烟雾/元件-10006
+  rotate: false
+  xy: 2, 53
+  size: 297, 314
+  orig: 297, 314
+  offset: 0, 0
+  index: -1
+红色烟雾/元件-10007
+  rotate: false
+  xy: 775, 1054
+  size: 297, 314
+  orig: 297, 314
+  offset: 0, 0
+  index: -1
+红色烟雾/元件-10008
+  rotate: false
+  xy: 301, 406
+  size: 297, 314
+  orig: 297, 314
+  offset: 0, 0
+  index: -1
+红色烟雾/元件-10009
+  rotate: false
+  xy: 301, 90
+  size: 297, 314
+  orig: 297, 314
+  offset: 0, 0
+  index: -1
+红色烟雾/元件-10010
+  rotate: false
+  xy: 588, 722
+  size: 297, 314
+  orig: 297, 314
+  offset: 0, 0
+  index: -1
+红色烟雾/元件-10011
+  rotate: false
+  xy: 600, 406
+  size: 297, 314
+  orig: 297, 314
+  offset: 0, 0
+  index: -1
+红色烟雾/元件-10012
+  rotate: false
+  xy: 600, 90
+  size: 297, 314
+  orig: 297, 314
+  offset: 0, 0
+  index: -1
+红色烟雾/元件-10013
+  rotate: false
+  xy: 887, 738
+  size: 297, 314
+  orig: 297, 314
+  offset: 0, 0
+  index: -1
+红色烟雾/元件-10014
+  rotate: false
+  xy: 899, 422
+  size: 297, 314
+  orig: 297, 314
+  offset: 0, 0
+  index: -1
+红色烟雾/元件-10015
+  rotate: false
+  xy: 899, 106
+  size: 297, 314
+  orig: 297, 314
+  offset: 0, 0
+  index: -1
+红色烟雾/元件-10016
+  rotate: false
+  xy: 1074, 1060
+  size: 297, 314
+  orig: 297, 314
+  offset: 0, 0
+  index: -1
+红色烟雾/元件-10017
+  rotate: false
+  xy: 1186, 744
+  size: 297, 314
+  orig: 297, 314
+  offset: 0, 0
+  index: -1
+红色烟雾/元件-10018
+  rotate: false
+  xy: 1198, 428
+  size: 297, 314
+  orig: 297, 314
+  offset: 0, 0
+  index: -1
+红色烟雾/元件-10019
+  rotate: false
+  xy: 1198, 112
+  size: 297, 314
+  orig: 297, 314
+  offset: 0, 0
+  index: -1
+红色烟雾/元件-10020
+  rotate: true
+  xy: 1394, 1433
+  size: 297, 314
+  orig: 297, 314
+  offset: 0, 0
+  index: -1

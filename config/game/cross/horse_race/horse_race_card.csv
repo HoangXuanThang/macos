@@ -1,0 +1,63 @@
+﻿VariableName,unitID,name,name_tw,name_en,name_th,name_in,name_ph,name_ma,name_vn,group,weight,speed,stamina,staminaCost,staminaRecovery,sprintRandom,sprintInterval,sprintMultiple,sprintTime
+Defaults,0,"""""","""""","""""","""""","""""","""""","""""","""""",0,100,50,100.1,10.5,10.5,10,2,1.5,1
+ID,选手ID,选手名称,选手名称,name_en,name_th,name_in,name_ph,name_ma,name_vn,选手组,选手随机权重,初始速度(1s),体力,体力每0.1秒消耗,体力每0.1秒回复,冲刺概率（0-100）,冲刺每0.1秒随机一次,冲刺影响速度倍数,冲刺维持时长(多少个0.1s)
+1,721,Articuno,急凍鳥,Articuno,Articuno,Articuno,Articuno,Articuno,Articuno,1,,500,150,1.5,1,38,12,,18
+2,741,Moltres,火焰鳥,Moltres,Moltres,Moltres,Moltres,Moltres,Moltres,1,,560,145,1.5,1,35,14,,16
+3,731,Zapdos,閃電鳥,Zapdos,Zapdos,Zapdos,Zapdos,Zapdos,Zapdos,1,,590,140,1.5,1,32,15,,15
+4,753,Dragonite,快龍,Dragonite,Dragonite,Dragonite,Dragonite,Dragonite,Dragonite,1,,630,135,1.5,1,30,16,,14
+5,1893,Salamence,暴飛龍,Salamence,Salamence,Salamence,Salamence,Salamence,Salamence,2,,500,150,1.5,1,38,12,,18
+6,863,Togekiss,波克基斯,Togekiss,Togekiss,Togekiss,Togekiss,Togekiss,Togekiss,2,,560,145,1.5,1,35,14,,16
+7,1951,Latios,拉帝歐斯,Latios,Latios,Latios,Latios,Latios,Latios,2,,590,140,1.5,1,32,15,,15
+8,1941,Latias,拉帝亞斯,Latias,Latias,Latias,Latias,Latias,Latias,2,,630,135,1.5,1,30,16,,14
+9,2401,Cresselia,克雷色利亞,Cresselia,Cresselia,Cresselia,Cresselia,Cresselia,Cresselia,3,,425,150,1.5,1,38,12,,18
+10,1395,Gardevoir,沙奈朵,Gardevoir,Gardevoir,Gardevoir,Gardevoir,Gardevoir,Gardevoir,3,,481,145,1.5,1,35,14,,16
+11,2843,Gothitelle,哥德小姐,Gothitelle,Gothitelle,Gothitelle,Gothitelle,Gothitelle,Gothitelle,3,,502,140,1.5,1,32,15,,15
+12,2993,Chandelure,水晶燈火靈,Chandelure,Chandelure,Chandelure,Chandelure,Chandelure,Chandelure,3,,536,135,1.5,1,30,16,,14
+13,1261,Lugia,洛奇亞,Lugia,Lugia,Lugia,Lugia,Lugia,Lugia,4,,598,150,1.5,1,38,12,,18
+14,1271,Ho-Oh,鳳王,Ho-Oh,Ho-Oh,Ho-Oh,Ho-Oh,Ho-Oh,Ho-Oh,4,,672,145,1.5,1,35,14,,16
+15,1961,Kyogre,蓋歐卡,Kyogre,Kyogre,Kyogre,Kyogre,Kyogre,Kyogre,4,,708,140,1.5,1,32,15,,15
+16,1971,Groudon,固拉多,Groudon,Groudon,Groudon,Groudon,Groudon,Groudon,4,,756,135,1.5,1,30,16,,14
+17,242,Arcanine,風速狗,Arcanine,Arcanine,Arcanine,Arcanine,Arcanine,Arcanine,5,,500,150,1.5,1,38,12,,18
+18,1171,Houndour,戴魯比,Houndour,Houndour,Houndour,Houndour,Houndour,Houndour,5,,560,145,1.5,1,35,14,,16
+19,1841,Absol,阿勃梭魯,Absol,Absol,Absol,Absol,Absol,Absol,5,,590,140,1.5,1,32,15,,15
+20,2242,Lucario,路卡利歐,Lucario,Lucario,Lucario,Lucario,Lucario,Lucario,5,,630,135,1.5,1,30,16,,14
+21,23,Blastoise,水箭龜,Blastoise,Blastoise,Blastoise,Blastoise,Blastoise,Blastoise,6,,425,150,1.5,1,38,12,,18
+22,641,Lapras,拉普拉斯,Lapras,Lapras,Lapras,Lapras,Lapras,Lapras,6,,481,145,1.5,1,35,14,,16
+23,2033,Empoleon,帝王拿波,Empoleon,Empoleon,Empoleon,Empoleon,Empoleon,Empoleon,6,,502,140,1.5,1,32,15,,15
+24,803,Feraligatr,大力鱷,Feraligatr,Feraligatr,Feraligatr,Feraligatr,Feraligatr,Feraligatr,6,,536,135,1.5,1,30,16,,14
+25,1313,Swampert,巨沼怪,Swampert,Swampert,Swampert,Swampert,Swampert,Swampert,7,,425,150,1.5,1,38,12,,18
+26,552,Starmie,寶石海星,Starmie,Starmie,Starmie,Starmie,Starmie,Starmie,7,,481,145,1.5,1,35,14,,16
+27,3772,Toxapex,超壞星,Toxapex,Toxapex,Toxapex,Toxapex,Toxapex,Toxapex,7,,502,140,1.5,1,32,15,,15
+28,3303,Greninja,甲賀忍蛙,Greninja,Greninja,Greninja,Greninja,Greninja,Greninja,7,,536,135,1.5,1,30,16,,14
+29,2822,Zoroark,索羅亞克,Zoroark,Zoroark,Zoroark,Zoroark,Zoroark,Zoroark,8,,500,150,1.5,1,38,12,,18
+30,2432,Darkrai,達克萊伊,Darkrai,Darkrai,Darkrai,Darkrai,Darkrai,Darkrai,8,,560,145,1.5,1,35,14,,16
+31,2723,Krookodile,流氓鱷,Krookodile,Krookodile,Krookodile,Krookodile,Krookodile,Krookodile,8,,590,140,1.5,1,32,15,,15
+32,1082,Weavile,瑪狃拉,Weavile,Weavile,Weavile,Weavile,Weavile,Weavile,8,,630,135,1.5,1,30,16,,14
+33,131,Cleffa,皮寶寶,Cleffa,Cleffa,Cleffa,Cleffa,Cleffa,Cleffa,9,,375,150,1.5,1,38,12,,18
+34,151,Igglybuff,寶寶丁,Igglybuff,Igglybuff,Igglybuff,Igglybuff,Igglybuff,Igglybuff,9,,420,145,1.5,1,35,14,,16
+35,3431,Swirlix,綿綿泡芙,Swirlix,Swirlix,Swirlix,Swirlix,Swirlix,Swirlix,9,,443,140,1.5,1,32,15,,15
+36,471,Lickitung,大舌頭,Lickitung,Lickitung,Lickitung,Lickitung,Lickitung,Lickitung,9,,473,135,1.5,1,30,16,,14
+37,1253,Tyranitar,班基拉斯,Tyranitar,Tyranitar,Tyranitar,Tyranitar,Tyranitar,Tyranitar,10,,375,150,1.5,1,38,12,,18
+38,1503,Aggron,波士可朵拉,Aggron,Aggron,Aggron,Aggron,Aggron,Aggron,10,,420,145,1.5,1,35,14,,16
+39,712,Snorlax,卡比獸,Snorlax,Snorlax,Snorlax,Snorlax,Snorlax,Snorlax,10,,443,140,1.5,1,32,15,,15
+40,1423,Slaking,請假王,Slaking,Slaking,Slaking,Slaking,Slaking,Slaking,10,,473,135,1.5,1,30,16,,14
+41,2442,Shaymin - Sky,謝米·天空形態,Shaymin - Sky,Shaymin - Sky,Shaymin - Sky,Shaymin - Sky,Shaymin - Sky,Shaymin - Sky,11,,598,150,1.5,1,38,12,,18
+42,3211,Reshiram,萊希拉姆,Reshiram,Reshiram,Reshiram,Reshiram,Reshiram,Reshiram,11,,672,145,1.5,1,35,14,,16
+43,3221,Zekrom,捷克羅姆,Zekrom,Zekrom,Zekrom,Zekrom,Zekrom,Zekrom,11,,708,140,1.5,1,32,15,,15
+44,3241,Kyurem,酋雷姆,Kyurem,Kyurem,Kyurem,Kyurem,Kyurem,Kyurem,11,,756,135,1.5,1,30,16,,14
+45,1221,Raikou,雷公,Raikou,Raikou,Raikou,Raikou,Raikou,Raikou,12,,500,150,1.5,1,38,12,,18
+46,1231,Entei,炎帝,Entei,Entei,Entei,Entei,Entei,Entei,12,,560,145,1.5,1,35,14,,16
+47,1241,Suicune,水君,Suicune,Suicune,Suicune,Suicune,Suicune,Suicune,12,,590,140,1.5,1,32,15,,15
+48,7001,404404,小智版皮卡丘,404404,404404,404404,404404,404404,Ash Pikachu,12,,630,135,1.5,1,30,16,,14
+49,1911,Regirock,雷吉洛克,Regirock,Regirock,Regirock,Regirock,Regirock,Regirock,13,,500,150,1.5,1,38,12,,18
+50,1921,Regice,雷吉艾斯,Regice,Regice,Regice,Regice,Regice,Regice,13,,560,145,1.5,1,35,14,,16
+51,1931,Registeel,雷吉斯奇魯,Registeel,Registeel,Registeel,Registeel,Registeel,Registeel,13,,590,140,1.5,1,32,15,,15
+52,2381,Regigigas,雷吉奇卡斯,Regigigas,Regigigas,Regigigas,Regigigas,Regigigas,Regigigas,13,,630,135,1.5,1,30,16,,14
+53,9001,Ditto - Purple,百變怪·紫色,Ditto - Purple,Ditto - Purple,Ditto - Purple,Ditto - Purple,Ditto - Purple,Ditto - Purple,14,,375,150,1.5,1,38,12,,18
+54,9002,Ditto - Orange,百變怪·橙色,Ditto - Orange,Ditto - Orange,Ditto - Orange,Ditto - Orange,Ditto - Orange,Ditto - Orange,14,,420,145,1.5,1,35,14,,16
+55,9003,Ditto - Red,百變怪·紅色,Ditto - Red,Ditto - Red,Ditto - Red,Ditto - Red,Ditto - Red,Ditto - Red,14,,443,140,1.5,1,32,15,,15
+56,221,Psyduck,可達鴨,Psyduck,Psyduck,Psyduck,Psyduck,Psyduck,Psyduck,14,,473,135,1.5,1,30,16,,14
+57,1982,404404,超級裂空座,404404,404404,404404,404404,404404,Super Rift Seat,15,,598,150,1.5,1,38,12,,18
+58,2351,Dialga,帝牙盧卡,Dialga,Dialga,Dialga,Dialga,Dialga,Dialga,15,,672,145,1.5,1,35,14,,16
+59,2361,Palkia,帕路奇亞,Palkia,Palkia,Palkia,Palkia,Palkia,Palkia,15,,708,140,1.5,1,32,15,,15
+60,2391,Giratina,騎拉帝納,Giratina,Giratina,Giratina,Giratina,Giratina,Giratina,15,,756,135,1.5,1,30,16,,14

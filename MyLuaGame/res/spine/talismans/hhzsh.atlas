@@ -1,0 +1,83 @@
+
+hhzsh.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gg
+  rotate: false
+  xy: 394, 31
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+hulu
+  rotate: true
+  xy: 2, 28
+  size: 220, 390
+  orig: 220, 390
+  offset: 0, 0
+  index: -1
+pd1
+  rotate: true
+  xy: 586, 217
+  size: 31, 132
+  orig: 31, 132
+  offset: 0, 0
+  index: -1
+pd22
+  rotate: false
+  xy: 394, 52
+  size: 44, 196
+  orig: 44, 196
+  offset: 0, 0
+  index: -1
+pd33
+  rotate: false
+  xy: 440, 60
+  size: 43, 188
+  orig: 43, 188
+  offset: 0, 0
+  index: -1
+pd4
+  rotate: false
+  xy: 566, 116
+  size: 14, 48
+  orig: 14, 48
+  offset: 0, 0
+  index: -1
+pd5
+  rotate: true
+  xy: 2, 2
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1
+pd6
+  rotate: true
+  xy: 720, 217
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+pd7
+  rotate: false
+  xy: 485, 166
+  size: 99, 82
+  orig: 99, 82
+  offset: 0, 0
+  index: -1
+st1
+  rotate: false
+  xy: 485, 70
+  size: 79, 94
+  orig: 79, 94
+  offset: 0, 0
+  index: -1
+st2
+  rotate: false
+  xy: 586, 175
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1

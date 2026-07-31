@@ -1,0 +1,69 @@
+
+icon_tx_2.png
+size: 304, 124
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+2zs
+  rotate: false
+  xy: 276, 36
+  size: 21, 21
+  orig: 160, 160
+  offset: 84, 10
+  index: -1
+dk
+  rotate: false
+  xy: 2, 6
+  size: 117, 116
+  orig: 160, 160
+  offset: 21, 22
+  index: -1
+dzs
+  rotate: false
+  xy: 239, 22
+  size: 35, 35
+  orig: 160, 160
+  offset: 94, 21
+  index: -1
+sg
+  rotate: false
+  xy: 239, 59
+  size: 63, 63
+  orig: 64, 67
+  offset: 1, 1
+  index: -1
+sn
+  rotate: false
+  xy: 121, 6
+  size: 116, 116
+  orig: 160, 160
+  offset: 22, 22
+  index: -1
+sz1
+  rotate: false
+  xy: 276, 18
+  size: 21, 16
+  orig: 160, 160
+  offset: 76, 26
+  index: -1
+sz2
+  rotate: false
+  xy: 259, 2
+  size: 15, 18
+  orig: 160, 160
+  offset: 131, 42
+  index: -1
+sz3
+  rotate: true
+  xy: 276, 3
+  size: 13, 20
+  orig: 160, 160
+  offset: 51, 112
+  index: -1
+sz4
+  rotate: true
+  xy: 239, 3
+  size: 17, 18
+  orig: 160, 160
+  offset: 29, 114
+  index: -1

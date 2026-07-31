@@ -1,0 +1,27 @@
+
+liuxue.png
+size: 161,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/liuxue
+  rotate: false
+  xy: 1, 1
+  size: 131, 58
+  orig: 131, 58
+  offset: 0, 0
+  index: -1
+images/x1
+  rotate: false
+  xy: 149, 29
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1
+images/x2
+  rotate: false
+  xy: 134, 23
+  size: 13, 36
+  orig: 13, 36
+  offset: 0, 0
+  index: -1

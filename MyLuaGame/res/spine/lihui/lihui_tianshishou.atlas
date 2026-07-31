@@ -1,0 +1,97 @@
+
+lihui_tianshishou.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: false
+  xy: 2, 2
+  size: 527, 203
+  orig: 527, 203
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: true
+  xy: 635, 602
+  size: 510, 209
+  orig: 510, 209
+  offset: 0, 0
+  index: -1
+chibang3
+  rotate: false
+  xy: 1441, 1418
+  size: 570, 565
+  orig: 570, 565
+  offset: 0, 0
+  index: -1
+chibang4
+  rotate: false
+  xy: 876, 1344
+  size: 563, 639
+  orig: 563, 639
+  offset: 0, 0
+  index: -1
+ershi1
+  rotate: false
+  xy: 1356, 1195
+  size: 102, 147
+  orig: 102, 147
+  offset: 0, 0
+  index: -1
+ershi2
+  rotate: false
+  xy: 1246, 1166
+  size: 108, 176
+  orig: 108, 176
+  offset: 0, 0
+  index: -1
+mofazhen
+  rotate: false
+  xy: 2, 1114
+  size: 872, 869
+  orig: 872, 869
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 207
+  size: 631, 905
+  orig: 631, 905
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 635, 218
+  size: 71, 109
+  orig: 71, 109
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 531, 57
+  size: 103, 148
+  orig: 103, 148
+  offset: 0, 0
+  index: -1
+yougebo
+  rotate: false
+  xy: 750, 320
+  size: 140, 280
+  orig: 140, 280
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 876, 1153
+  size: 189, 368
+  orig: 189, 368
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 635, 291
+  size: 113, 309
+  orig: 113, 309
+  offset: 0, 0
+  index: -1

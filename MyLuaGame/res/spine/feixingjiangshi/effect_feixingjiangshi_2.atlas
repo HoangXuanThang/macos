@@ -1,0 +1,62 @@
+
+effect_feixingjiangshi_2.png
+size: 1053, 391
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+thunder_s01
+  rotate: false
+  xy: 931, 201
+  size: 120, 188
+  orig: 167, 387
+  offset: 12, 198
+  index: -1
+thunder_s02
+  rotate: false
+  xy: 636, 2
+  size: 134, 387
+  orig: 167, 387
+  offset: 1, 0
+  index: -1
+thunder_s03
+  rotate: false
+  xy: 482, 15
+  size: 152, 374
+  orig: 167, 387
+  offset: 8, 13
+  index: -1
+thunder_s05
+  rotate: false
+  xy: 324, 14
+  size: 156, 375
+  orig: 167, 387
+  offset: 7, 12
+  index: -1
+thunder_s06
+  rotate: false
+  xy: 2, 16
+  size: 160, 373
+  orig: 167, 387
+  offset: 6, 14
+  index: -1
+thunder_s07
+  rotate: false
+  xy: 164, 17
+  size: 158, 372
+  orig: 167, 387
+  offset: 8, 14
+  index: -1
+thunder_s08
+  rotate: false
+  xy: 772, 18
+  size: 86, 371
+  orig: 167, 387
+  offset: 39, 13
+  index: -1
+thunder_s10
+  rotate: false
+  xy: 860, 54
+  size: 69, 335
+  orig: 167, 387
+  offset: 50, 19
+  index: -1

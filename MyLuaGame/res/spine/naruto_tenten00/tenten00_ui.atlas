@@ -1,0 +1,125 @@
+
+tenten00_ui.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+tiantian_biyan
+  rotate: false
+  xy: 351, 224
+  size: 95, 26
+  orig: 96, 26
+  offset: 0, 0
+  index: -1
+tiantian_houtoufa
+  rotate: false
+  xy: 446, 227
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+tiantian_juanzhou
+  rotate: true
+  xy: 851, 451
+  size: 60, 171
+  orig: 60, 172
+  offset: 0, 0
+  index: -1
+tiantian_juanzhou1
+  rotate: false
+  xy: 240, 185
+  size: 31, 25
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+tiantian_shenti
+  rotate: false
+  xy: 156, 210
+  size: 195, 301
+  orig: 195, 301
+  offset: 0, 0
+  index: -1
+tiantian_shouzhi
+  rotate: false
+  xy: 69, 76
+  size: 31, 14
+  orig: 32, 15
+  offset: 0, 1
+  index: -1
+tiantian_tou
+  rotate: true
+  xy: 679, 375
+  size: 136, 172
+  orig: 136, 172
+  offset: 0, 0
+  index: -1
+tiantian_youbao
+  rotate: false
+  xy: 69, 90
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+tiantian_youliuhai
+  rotate: true
+  xy: 156, 166
+  size: 44, 84
+  orig: 45, 84
+  offset: 1, 0
+  index: -1
+tiantian_youshou
+  rotate: true
+  xy: 351, 307
+  size: 62, 353
+  orig: 62, 354
+  offset: 0, 0
+  index: -1
+tiantian_youtui
+  rotate: true
+  xy: 351, 369
+  size: 142, 328
+  orig: 142, 328
+  offset: 0, 0
+  index: -1
+tiantian_zuobao
+  rotate: false
+  xy: 0, 0
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
+tiantian_zuoliuhai
+  rotate: false
+  xy: 0, 72
+  size: 69, 86
+  orig: 70, 86
+  offset: 1, 0
+  index: -1
+tiantian_zuoshangbi
+  rotate: false
+  xy: 851, 386
+  size: 164, 65
+  orig: 164, 65
+  offset: 0, 0
+  index: -1
+tiantian_zuoshou1
+  rotate: false
+  xy: 558, 252
+  size: 55, 55
+  orig: 55, 56
+  offset: 0, 1
+  index: -1
+tiantian_zuotui
+  rotate: false
+  xy: 0, 158
+  size: 156, 353
+  orig: 156, 353
+  offset: 0, 0
+  index: -1
+tiantian_zuoxiaobi
+  rotate: false
+  xy: 351, 250
+  size: 207, 57
+  orig: 207, 57
+  offset: 0, 0
+  index: -1

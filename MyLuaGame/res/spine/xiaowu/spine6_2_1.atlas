@@ -1,0 +1,111 @@
+
+spine6_2_1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 0, 1282
+  size: 1560, 720
+  orig: 1560, 720
+  offset: 0, 0
+  index: -1
+bianzi1
+  rotate: false
+  xy: 1450, 1174
+  size: 51, 106
+  orig: 51, 106
+  offset: 0, 0
+  index: -1
+bianzi2
+  rotate: false
+  xy: 1879, 1681
+  size: 50, 102
+  orig: 50, 102
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 2009, 1914
+  size: 88, 38
+  orig: 88, 38
+  offset: 0, 0
+  index: -1
+datui
+  rotate: false
+  xy: 431, 396
+  size: 161, 176
+  orig: 161, 176
+  offset: 0, 0
+  index: -1
+houtoufa1
+  rotate: false
+  xy: 1125, 1011
+  size: 323, 269
+  orig: 323, 269
+  offset: 0, 0
+  index: -1
+houtoufa2
+  rotate: false
+  xy: 1562, 1564
+  size: 315, 219
+  orig: 315, 219
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: false
+  xy: 1562, 1474
+  size: 66, 88
+  orig: 66, 88
+  offset: 0, 0
+  index: -1
+qunzi02
+  rotate: false
+  xy: 0, 347
+  size: 429, 225
+  orig: 429, 225
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 574
+  size: 1123, 706
+  orig: 1123, 706
+  offset: 0, 0
+  index: -1
+toufa05
+  rotate: false
+  xy: 1125, 881
+  size: 43, 128
+  orig: 43, 128
+  offset: 0, 0
+  index: -1
+tui01
+  rotate: false
+  xy: 0, 0
+  size: 76, 345
+  orig: 76, 345
+  offset: 0, 0
+  index: -1
+xiaqunzi
+  rotate: false
+  xy: 1562, 1785
+  size: 445, 217
+  orig: 445, 217
+  offset: 0, 0
+  index: -1
+xiong01
+  rotate: false
+  xy: 594, 494
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+xiong02
+  rotate: false
+  xy: 78, 267
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1

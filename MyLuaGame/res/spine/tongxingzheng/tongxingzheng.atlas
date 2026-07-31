@@ -1,0 +1,48 @@
+
+tongxingzheng.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu1
+  rotate: false
+  xy: 345, 137
+  size: 127, 132
+  orig: 127, 132
+  offset: 0, 0
+  index: -1
+caidai
+  rotate: true
+  xy: 345, 393
+  size: 47, 516
+  orig: 47, 516
+  offset: 0, 0
+  index: -1
+g_ban
+  rotate: false
+  xy: 345, 271
+  size: 209, 120
+  orig: 209, 120
+  offset: 0, 0
+  index: -1
+g_jianb
+  rotate: false
+  xy: 2, 2
+  size: 324, 108
+  orig: 324, 108
+  offset: 0, 0
+  index: -1
+particle02
+  rotate: false
+  xy: 2, 112
+  size: 341, 328
+  orig: 341, 328
+  offset: 0, 0
+  index: -1
+w_xx
+  rotate: false
+  xy: 556, 287
+  size: 102, 104
+  orig: 102, 104
+  offset: 0, 0
+  index: -1

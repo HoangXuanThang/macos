@@ -1,0 +1,22 @@
+﻿VariableName,type,sortID,name,name_vn,name_ma,name_en,name_th,name_ph,name_in,features,inUnlock,languages
+Defaults,1,1,,,,,,,,"""""",0,<cn;ma;in;ph;en;vn;th;kr>
+ID（顺序排序）,类型(1=奖励领取 2=抽卡 3=战斗报名 4=快速冒险 5=公会事宜),排序改这列,英文,英文,中文繁体,英文,中文简体_越南,中文简体_韩,中文简体_韩,功能,是否在unlock表中有配置,语言区域
+101,,,Guild daily gift pack,Gói quà hàng ngày của công hội,Pakej harian persatuan,Guild daily gift pack,ของขวัญประจำวันของสมาคม,Araw-araw na regalo ng guild,Paket hadiah harian guild,unionDailyGift,,
+102,,2,Guild daily red envelope,Bao lì xì hàng ngày của công hội,Angpau harian persatuan,Guild daily red envelope,ซองอั่งเปาประจำวันของสมาคม,Araw-araw na pulang sobre ng guild,Amplop merah harian guild,unionRedpacket,1,
+103,,3,Daily reward for adventure license,Phần thưởng hàng ngày cho giấy phép phiêu lưu,Ganjaran harian lesen pengembaraan,Daily reward for adventure license,รางวัลประจำวันของใบอนุญาตผจญภัย,Araw-araw na gantimpala para sa lisensya ng pakikipagsapalaran,Hadiah harian untuk lisensi petualangan,trainer,1,
+104,,4,Resource accumulation,Tích lũy tài nguyên,Pengumpulan sumber,Resource accumulation,สะสมทรัพยากร,Pag-iipon ng mga mapagkukunan,Akumulasi sumber daya,gainGold,,
+201,2,,Diamond card draw,Rút thẻ kim cương,Cabutan kad berlian,Diamond card draw,สุ่มการ์ดเพชร,Diamond card draw,Undian kartu berlian,drawCardRmb,,
+202,2,2,Gold card draw,Rút thẻ vàng,Cabutan kad emas,Gold card draw,สุ่มการ์ดทอง,Gold card draw,Undian kartu emas,drawCardGold,,
+203,2,3,Jewelry card draw,Rút thẻ trang sức,Cabutan kad permata,Jewelry card draw,สุ่มการ์ดอัญมณี,Jewelry card draw,Undian kartu permata,drawEquip,1,
+204,2,5,Exploration and treasure hunt,Khám phá và tìm kho báu,Teroka dan cari harta,Exploration and treasure hunt,สำรวจและค้นหาสมบัติ,Paggalugad at paghahanap ng kayamanan,Eksplorasi dan pencarian harta karun,explorer,1,
+205,2,4,Battle script draw,Rút chiến văn,Cabutan teks pertempuran,Battle script draw,สุ่มคำอักษรต่อสู้,Draw ng battle script,Undian naskah pertempuran,gem,1,
+206,2,6,Secret manual draw,Rút bí kíp,Cabutan kitab rahsia,Secret manual draw,สุ่มคัมภีร์ลับ,Draw ng secret manual,Undian kitab rahasia,chip,1,
+301,3,,Martial arts tournament,Đại hội võ đạo,Pertandingan seni mempertahankan diri,Martial arts tournament,ศึกศิลปะการต่อสู้,Torneo ng martial arts,Turnamen bela diri,craft,1,
+302,3,2,Guild war,Chiến tranh công hội,Perang persatuan,Guild war,สงครามสมาคม,Digmaan ng guild,Perang guild,unionFight,1,
+303,3,3,Cross-server martial arts tournament,Đại hội võ đạo liên server,Pertandingan merentas pelayan,Cross-server martial arts tournament,ศึกข้ามเซิร์ฟเวอร์,Cross-server na martial arts tournament,Turnamen bela diri lintas server,crossCraft,1,
+401,4,,Daily dungeon,Phó bản hàng ngày,Penjara bawah tanah harian,Daily dungeon,ดันเจี้ยนรายวัน,Daily dungeon,Dungeon harian,activityGate,1,
+402,4,2,Development path,Con đường phát triển,Jalan pembangunan,Development path,เส้นทางพัฒนา,Landas ng pag-unlad,Jalur pengembangan,endlessTower,1,
+501,5,,Guild donation,Quyên góp cho công hội,Derma kepada persatuan,Guild donation,บริจาคให้สมาคม,Donasyon sa guild,Donasi untuk guild,unionContrib,,
+502,5,2,Guild wish,ước nguyện trong công hội,Hajat dalam persatuan,Guild wish,อธิษฐานในสมาคม,Pagnanais sa loob ng guild,Harapan di dalam guild,unionFragDonate,,
+503,5,3,Speed-up for friends,Tăng tốc cho bạn bè,Percepat untuk rakan,Speed-up for friends,เร่งเวลาให้เพื่อน,Tulong sa pagpapabilis para sa kaibigan,Mempercepat teman,unionTrainingSpeedup,,
+504,5,4,Guild dungeon,Phó bản công hội,Penjara bawah tanah persatuan,Guild dungeon,ดันเจี้ยนสมาคม,Dungeon ng guild,Dungeon guild,unionFuben,,

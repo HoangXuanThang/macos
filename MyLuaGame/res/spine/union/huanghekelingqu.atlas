@@ -1,0 +1,27 @@
+
+huanghekelingqu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/flare_Fire
+  rotate: false
+  xy: 2, 2
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+huanglihe
+  rotate: false
+  xy: 283, 55
+  size: 103, 101
+  orig: 104, 107
+  offset: 1, 0
+  index: -1
+yuanpan
+  rotate: false
+  xy: 158, 33
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1

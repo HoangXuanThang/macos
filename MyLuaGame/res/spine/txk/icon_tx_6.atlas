@@ -1,0 +1,97 @@
+
+icon_tx_6.png
+size: 557, 125
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+chi1
+  rotate: false
+  xy: 252, 36
+  size: 100, 87
+  orig: 160, 160
+  offset: 55, 52
+  index: -1
+chi2
+  rotate: false
+  xy: 123, 13
+  size: 105, 44
+  orig: 160, 160
+  offset: 40, 112
+  index: -1
+diao
+  rotate: false
+  xy: 354, 49
+  size: 83, 74
+  orig: 160, 160
+  offset: 23, 10
+  index: -1
+dk
+  rotate: false
+  xy: 2, 5
+  size: 119, 118
+  orig: 160, 160
+  offset: 21, 21
+  index: -1
+jin1
+  rotate: false
+  xy: 442, 8
+  size: 59, 45
+  orig: 160, 160
+  offset: 36, 110
+  index: -1
+jin2
+  rotate: false
+  xy: 503, 5
+  size: 38, 48
+  orig: 160, 160
+  offset: 34, 109
+  index: -1
+longt
+  rotate: true
+  xy: 354, 2
+  size: 45, 86
+  orig: 160, 160
+  offset: 0, 68
+  index: -1
+longz
+  rotate: false
+  xy: 230, 2
+  size: 46, 32
+  orig: 160, 160
+  offset: 54, 108
+  index: -1
+mao
+  rotate: false
+  xy: 123, 59
+  size: 127, 64
+  orig: 160, 160
+  offset: 9, 95
+  index: -1
+wb
+  rotate: true
+  xy: 439, 55
+  size: 68, 89
+  orig: 160, 160
+  offset: 72, 2
+  index: -1
+xing
+  rotate: false
+  xy: 530, 97
+  size: 25, 26
+  orig: 29, 29
+  offset: 2, 1
+  index: -1
+zhu1
+  rotate: true
+  xy: 278, 3
+  size: 31, 35
+  orig: 160, 160
+  offset: 96, 38
+  index: -1
+zhu2
+  rotate: true
+  xy: 315, 3
+  size: 31, 35
+  orig: 160, 160
+  offset: 96, 38
+  index: -1

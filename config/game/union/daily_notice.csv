@@ -1,0 +1,11 @@
+﻿VariableName,_beizhu,targetType,tarhetArg,desc,desc_vn,desc_tw,desc_en,desc_th,desc_in,desc_ph,desc_ma,goto
+Defaults,,,,"""""","""""","""""","""""","""""","""""","""""","""""",
+提醒项目ID,名称备注,目标类型参数,目标值参数,文本描述,desc_vn,文本描述,desc_en,desc_th,desc_in,desc_ph,desc_ma,功能建筑
+1,,contribute,,Upgrade the building of your union,Cùng công hội xây dựng và phát triển,,Upgrade the building of your union,ร่วมกันสร้างและพัฒนากับกิลด์  ,Bersama guild membangun dan mengembangkan  ,Magkasamang bumuo at paunlarin ang guild  ,Bersama guild membina dan membangunkan  ,contribute
+2,,uniontask,,You have uncompleted daily quests,Có nhiệm vụ hàng ngày chưa hoàn thành,,You have uncompleted daily quests,มีภารกิจประจำวันที่ยังไม่เสร็จสิ้น  ,Ada tugas harian yang belum selesai  ,May mga araw-araw na gawain na hindi pa tapos  ,Ada tugas harian yang belum selesai  ,contribute
+3,,dailygift,,You can claim daily pack,Có thể nhận quà hàng ngày,,You can claim daily pack,สามารถรับของรางวัลรายวันได้  ,Dapat menerima hadiah harian  ,Maaaring tumanggap ng pang-araw-araw na gantimpala  ,Boleh menerima hadiah harian  ,dailygift
+4,,speedup,6,Speed up for your comrade,Tăng tốc cho đồng đội,,Speed up for your comrade,เร่งความเร็วให้กับเพื่อนร่วมทีม  ,Percepat untuk rekan tim  ,Pabilisin para sa mga kasamahan  ,Mempercepat untuk rakan sepasukan  ,training
+5,,dailypacket,,Theres Red Packet to be claimed,Có bao lì xì có thể nhận,,Theres Red Packet to be claimed,มีซองอั่งเปาที่สามารถรับได้  ,Ada amplop merah yang bisa diterima  ,May mga red envelope na maaaring matanggap  ,Ada sampul merah yang boleh diterima  ,redpacket
+6,,fuben,3,Challenge union Dungeon,Thách đấu công hội phụ bản,,Challenge union Dungeon,ท้าทายดันเจี้ยนกิลด์  ,Tantang dungeon guild  ,Hamunin ang guild dungeon  ,Cabaran dungeon guild  ,fuben
+7,,fightsign,,Registration for union War is open,Có thể đăng ký tham gia chiến tranh công hội,,Registration for union War is open,สามารถลงทะเบียนเข้าร่วมสงครามกิลด์ได้  ,Dapat mendaftar untuk ikut perang guild  ,Maaaring magparehistro para sumali sa guild war  ,Boleh mendaftar untuk menyertai perang guild  ,unionfight
+8,,fragdonate,,You can make a wish,Có thể thực hiện ước nguyện,,You can make a wish,สามารถทำคำอธิษฐาน,Dapat membuat permohonan,Maaaring magawa ang mga hiling,Boleh merealisasikan hajat,fragdonate

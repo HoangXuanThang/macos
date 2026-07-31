@@ -1,0 +1,4 @@
+﻿VariableName,numMax,winAward,winAward_vn,winAward_kr,winAward_en,winAward_tw,failAward,failAward_vn,failAward_kr,failAward_en,failAward_tw,openWeekday,servOpenDays,autoSignVIP,minBetRate,betRateFix,maxBetWin,damageScoreRatio
+Defaults,,<>,<>,<>,<>,<>,<>,<>,<>,<>,<>,<1;2;3;4;5;6;7>,,,,,,1000
+ID,报名人数上限,胜利奖励,胜利奖励,胜利奖励,胜利奖励,胜利奖励,失败奖励,失败奖励,失败奖励,失败奖励,失败奖励,开放星期,相对开服开启时间,自动报名VIP,赔率最小值,赔率修正系数,下注最高金币奖励,伤害转积分比例
+1,3000,<<1;150;{6005=1}>>,,,,,<<1;150;{6006=1}>>,,,,,,3,3,2,1,1000000,500

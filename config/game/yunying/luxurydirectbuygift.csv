@@ -1,0 +1,51 @@
+﻿VariableName,huodongID,_beizhu,titleName,titleName_vn,titleName_en,titleName_kr,name,name_vn,name_en,name_kr,targetType,targetArg,item,limit,rechargeID,rmbCost,discount,icon
+Defaults,-1,"""""","""""","""""","""""","""""","""""","""""","""""","""""",-1,<>,{},0,-1,-1,-1,""""""
+ID,活动版本ID,备注,礼包标题,礼包标题,礼包标题,礼包标题,礼包名称,礼包名称,礼包名称,礼包名称,礼包类型”1:人物等级礼包;2:vip等级;3:s+神兽数量“,礼包参数,礼包内容,限购次数,recharge表ID,钻石售卖价格,折扣标签,礼包icon
+1,1001,,Exclusive new member gift package,,,,Newbie Gift Pack,,,,1,<1;9>,{13=1;12=5;11=3;gold=300000;rmb=5000},1,,1000,100,activity/exclusive_limit/box_zsdj.png
+2,1001,,Exclusive new member gift package,,,,Lv10+ gift packs,,,,1,<10;19>,{13=3;12=5;11=1;gold=300000;rmb=5000},1,102,,100,activity/exclusive_limit/box_zsdj.png
+3,1001,,Exclusive new member gift package,,,,Lv20+ gift packs,,,,1,<20;29>,{gold=300000;rmb=5000;12=5},1,,3000,100,activity/exclusive_limit/box_zsdj.png
+4,1001,,Exclusive new member gift package,,,,Lv30+ gift packs,,,,1,<30;39>,{gold=5000;rmb=300000;12=5},1,104,,100,activity/exclusive_limit/box_zsdj.png
+5,1001,,Exclusive new member gift package,,,,Lv40+ gift packs,,,,1,<40;49>,{gold=10004},1,105,,100,activity/exclusive_limit/box_zsdj.png
+6,1001,,Exclusive new member gift package,,,,Lv50+ gift packs,,,,1,<50;59>,{13=1;12=5;11=3;gold=300000;rmb=5000},1,106,,100,activity/exclusive_limit/box_zsdj.png
+7,1001,,Exclusive new member gift package,,,,Lv60+ gift packs,,,,1,<60;69>,{13=3;12=5;11=1;gold=300000;rmb=5000},1,107,,100,activity/exclusive_limit/box_zsdj.png
+8,1001,,Exclusive new member gift package,,,,Lv70+ gift packs,,,,1,<70;79>,{gold=300000;rmb=5000;12=5},1,108,,100,activity/exclusive_limit/box_zsdj.png
+9,1001,,Exclusive new member gift package,,,,Lv80+ gift packs,,,,1,<80;89>,{gold=5000;rmb=300000;12=5},1,109,,100,activity/exclusive_limit/box_zsdj.png
+10,1001,,Exclusive new member gift package,,,,Lv90+ gift packs,,,,1,<90;99>,{gold=10004},1,110,,100,activity/exclusive_limit/box_zsdj.png
+11,1001,,Exclusive new member gift package,,,,Lv100+ gift packs,,,,1,<100;103>,{13=1;12=5;11=3;gold=300000;rmb=5000},1,111,,100,activity/exclusive_limit/box_zsdj.png
+12,1001,,Exclusive new member gift package,,,,Max Level Gift Pack,,,,1,<104;125>,{13=3;12=5;11=1;gold=300000;rmb=5000},1,112,,100,activity/exclusive_limit/box_zsdj.png
+13,1001,,Exclusive new member gift package,,,,Bronze VIP Star,,,,2,<1;3>,{502=50;942=1;519=10;rmb=3280},1,,2000,100,activity/exclusive_limit/box_zsvip.png
+14,1001,,Exclusive new member gift package,,,,Silver VIP Star,,,,2,<4;6>,{502=50;942=1;519=10;rmb=3280},1,108,,100,activity/exclusive_limit/box_zsvip.png
+15,1001,,Exclusive new member gift package,,,,Gold VIP Star,,,,2,<7;9>,{502=50;942=1;519=10;rmb=3280},1,,4000,100,activity/exclusive_limit/box_zsvip.png
+16,1001,,Exclusive new member gift package,,,,Platinum VIP Star,,,,2,<10;12>,{502=50;942=1;519=10;rmb=3280},1,110,,100,activity/exclusive_limit/box_zsvip.png
+17,1001,,Exclusive new member gift package,,,,Diamond VIP Star,,,,2,<13;15>,{502=50;942=1;519=10;rmb=3280},1,111,,100,activity/exclusive_limit/box_zsvip.png
+18,1001,,Exclusive new member gift package,,,,King VIP Star,,,,2,<16;18>,{502=50;942=1;519=10;rmb=3280},1,112,,100,activity/exclusive_limit/box_zsvip.png
+19,1001,,Exclusive new member gift package,,,,Level 1 Legendary Hero,,,,3,<1;4>,{604=10;19=10;521=50;rmb=1280},1,,3000,100,activity/exclusive_limit/box_zsss.png
+20,1001,,Exclusive new member gift package,,,,Level 2 Legendary Hero,,,,3,<5;8>,{604=50;19=50;521=50;rmb=3280;452=100},1,107,,100,activity/exclusive_limit/box_zsss.png
+21,1001,,Exclusive new member gift package,,,,Level 3 Legendary Hero,,,,3,<9;12>,{604=100;19=100;521=50;rmb=4880;452=200},1,,6000,100,activity/exclusive_limit/box_zsss.png
+22,1001,,Exclusive new member gift package,,,,Level 4 Legendary Hero,,,,3,<13;15>,{604=100;19=100;521=50;rmb=6480;452=300},1,109,,100,activity/exclusive_limit/box_zsss.png
+23,1001,,Exclusive new member gift package,,,,Level 5 Legendary Hero,,,,3,<16;19>,{604=100;19=100;521=50;rmb=6480;452=300},1,110,,100,activity/exclusive_limit/box_zsss.png
+24,1001,,Exclusive new member gift package,,,,Level 6 Legendary Hero,,,,3,<20;30>,{604=100;19=100;521=50;rmb=6480;452=300},1,111,,100,activity/exclusive_limit/box_zsss.png
+25,1002,,Exclusive new member gift package,,,,Newbie Gift Pack,,,,1,<1;9>,{13=1;12=5;11=3;gold=300000;rmb=5000},1,,1000,100,activity/exclusive_limit/box_zsdj.png
+26,1002,,Exclusive new member gift package,,,,Lv10+ gift packs,,,,1,<10;19>,{13=3;12=5;11=1;gold=300000;rmb=5000},1,102,,100,activity/exclusive_limit/box_zsdj.png
+27,1002,,Exclusive new member gift package,,,,Lv20+ gift packs,,,,1,<20;29>,{gold=300000;rmb=5000;12=5},1,,3000,100,activity/exclusive_limit/box_zsdj.png
+28,1002,,Exclusive new member gift package,,,,Lv30+ gift packs,,,,1,<30;39>,{gold=5000;rmb=300000;12=5},1,104,,100,activity/exclusive_limit/box_zsdj.png
+29,1002,,Exclusive new member gift package,,,,Lv40+ gift packs,,,,1,<40;49>,{gold=10004},1,105,,100,activity/exclusive_limit/box_zsdj.png
+30,1002,,Exclusive new member gift package,,,,Lv50+ gift packs,,,,1,<50;59>,{13=1;12=5;11=3;gold=300000;rmb=5000},1,106,,100,activity/exclusive_limit/box_zsdj.png
+31,1002,,Exclusive new member gift package,,,,Lv60+ gift packs,,,,1,<60;69>,{13=3;12=5;11=1;gold=300000;rmb=5000},1,107,,100,activity/exclusive_limit/box_zsdj.png
+32,1002,,Exclusive new member gift package,,,,Lv70+ gift packs,,,,1,<70;79>,{gold=300000;rmb=5000;12=5},1,108,,100,activity/exclusive_limit/box_zsdj.png
+33,1002,,Exclusive new member gift package,,,,Lv80+ gift packs,,,,1,<80;89>,{gold=5000;rmb=300000;12=5},1,109,,100,activity/exclusive_limit/box_zsdj.png
+34,1002,,Exclusive new member gift package,,,,Lv90+ gift packs,,,,1,<90;99>,{gold=10004},1,110,,100,activity/exclusive_limit/box_zsdj.png
+35,1002,,Exclusive new member gift package,,,,Lv100+ gift packs,,,,1,<100;103>,{13=1;12=5;11=3;gold=300000;rmb=5000},1,111,,100,activity/exclusive_limit/box_zsdj.png
+36,1002,,Exclusive new member gift package,,,,Max Level Gift Pack,,,,1,<104;104>,{13=3;12=5;11=1;gold=300000;rmb=5000},1,112,,100,activity/exclusive_limit/box_zsdj.png
+37,1002,,Exclusive new member gift package,,,,Bronze VIP Star,,,,2,<1;3>,{502=50;942=1;519=10;rmb=3280},1,,2000,100,activity/exclusive_limit/box_zsvip.png
+38,1002,,Exclusive new member gift package,,,,Silver VIP Star,,,,2,<4;6>,{502=50;942=1;519=10;rmb=3280},1,108,,100,activity/exclusive_limit/box_zsvip.png
+39,1002,,Exclusive new member gift package,,,,Gold VIP Star,,,,2,<7;9>,{502=50;942=1;519=10;rmb=3280},1,,4000,100,activity/exclusive_limit/box_zsvip.png
+40,1002,,Exclusive new member gift package,,,,Platinum VIP Star,,,,2,<10;12>,{502=50;942=1;519=10;rmb=3280},1,110,,100,activity/exclusive_limit/box_zsvip.png
+41,1002,,Exclusive new member gift package,,,,Diamond VIP Star,,,,2,<13;15>,{502=50;942=1;519=10;rmb=3280},1,111,,100,activity/exclusive_limit/box_zsvip.png
+42,1002,,Exclusive new member gift package,,,,King VIP Star,,,,2,<16;18>,{502=50;942=1;519=10;rmb=3280},1,112,,100,activity/exclusive_limit/box_zsvip.png
+43,1002,,Exclusive new member gift package,,,,Level 1 Legendary Hero,,,,3,<1;4>,{604=10;19=10;521=50;rmb=1280},1,,3000,100,activity/exclusive_limit/box_zsss.png
+44,1002,,Exclusive new member gift package,,,,Level 2 Legendary Hero,,,,3,<5;8>,{604=50;19=50;521=50;rmb=3280;452=100},1,107,,100,activity/exclusive_limit/box_zsss.png
+45,1002,,Exclusive new member gift package,,,,Level 3 Legendary Hero,,,,3,<9;12>,{604=100;19=100;521=50;rmb=4880;452=200},1,,6000,100,activity/exclusive_limit/box_zsss.png
+46,1002,,Exclusive new member gift package,,,,Level 4 Legendary Hero,,,,3,<13;15>,{604=100;19=100;521=50;rmb=6480;452=300},1,109,,100,activity/exclusive_limit/box_zsss.png
+47,1002,,Exclusive new member gift package,,,,Level 5 Legendary Hero,,,,3,<16;19>,{604=100;19=100;521=50;rmb=6480;452=300},1,110,,100,activity/exclusive_limit/box_zsss.png
+48,1002,,Exclusive new member gift package,,,,Level 6 Legendary Hero,,,,3,<20;30>,{604=100;19=100;521=50;rmb=6480;452=300},1,111,,100,activity/exclusive_limit/box_zsss.png

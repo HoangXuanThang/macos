@@ -1,0 +1,111 @@
+
+spine5_2_1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 0, 1248
+  size: 1568, 736
+  orig: 1568, 736
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 1194, 983
+  size: 85, 48
+  orig: 85, 48
+  offset: 0, 0
+  index: -1
+houpiaodai
+  rotate: true
+  xy: 1057, 671
+  size: 575, 135
+  orig: 575, 135
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: false
+  xy: 1420, 1168
+  size: 42, 78
+  orig: 42, 78
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: true
+  xy: 1570, 1380
+  size: 604, 318
+  orig: 604, 318
+  offset: 0, 0
+  index: -1
+qunzi1
+  rotate: false
+  xy: 0, 168
+  size: 385, 236
+  orig: 385, 236
+  offset: 0, 0
+  index: -1
+qunzi2
+  rotate: false
+  xy: 0, 406
+  size: 705, 102
+  orig: 705, 102
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 510
+  size: 1055, 736
+  orig: 1055, 736
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 0, 0
+  size: 194, 166
+  orig: 194, 166
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 707, 451
+  size: 57, 157
+  orig: 57, 157
+  offset: 0, 0
+  index: -1
+xiong1
+  rotate: false
+  xy: 387, 323
+  size: 86, 81
+  orig: 86, 81
+  offset: 0, 0
+  index: -1
+xiong2
+  rotate: false
+  xy: 1057, 586
+  size: 98, 83
+  orig: 98, 83
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: false
+  xy: 1194, 1033
+  size: 224, 213
+  orig: 224, 213
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: false
+  xy: 1570, 1291
+  size: 205, 87
+  orig: 205, 87
+  offset: 0, 0
+  index: -1
+zuogebo
+  rotate: true
+  xy: 1890, 1803
+  size: 181, 138
+  orig: 181, 138
+  offset: 0, 0
+  index: -1

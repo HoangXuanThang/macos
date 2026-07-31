@@ -1,0 +1,97 @@
+
+jiesuanjiemian.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+djhd/dj_1
+  rotate: false
+  xy: 394, 105
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+djhd/dj_2
+  rotate: false
+  xy: 394, 4
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+djhd/dj_3
+  rotate: false
+  xy: 495, 105
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+djhd/dj_4
+  rotate: false
+  xy: 495, 4
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+djhd/dj_5
+  rotate: false
+  xy: 596, 105
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+djhd/dj_6
+  rotate: false
+  xy: 596, 4
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+djhd/dj_s1
+  rotate: false
+  xy: 697, 123
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+djhd/dj_s2
+  rotate: false
+  xy: 697, 40
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+djhd/dj_s3
+  rotate: false
+  xy: 780, 123
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+djhd/dj_s4
+  rotate: false
+  xy: 780, 40
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+djhd/dj_s5
+  rotate: false
+  xy: 863, 123
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+djhd/dj_s6
+  rotate: false
+  xy: 863, 40
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+zdsl_slgy2
+  rotate: false
+  xy: 2, 2
+  size: 390, 202
+  orig: 390, 202
+  offset: 0, 0
+  index: -1

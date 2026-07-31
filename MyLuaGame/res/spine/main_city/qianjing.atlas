@@ -1,0 +1,62 @@
+
+qianjing.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+denglong01
+  rotate: false
+  xy: 2, 91
+  size: 271, 271
+  orig: 271, 271
+  offset: 0, 0
+  index: -1
+denglong02
+  rotate: false
+  xy: 805, 498
+  size: 183, 189
+  orig: 183, 189
+  offset: 0, 0
+  index: -1
+qianjing
+  rotate: false
+  xy: 2, 364
+  size: 801, 609
+  orig: 801, 609
+  offset: 0, 0
+  index: -1
+shitou
+  rotate: false
+  xy: 805, 689
+  size: 1026, 284
+  orig: 1026, 284
+  offset: 0, 0
+  index: -1
+shuye1
+  rotate: false
+  xy: 275, 273
+  size: 95, 89
+  orig: 95, 89
+  offset: 0, 0
+  index: -1
+shuye2
+  rotate: false
+  xy: 2, 2
+  size: 102, 87
+  orig: 102, 87
+  offset: 0, 0
+  index: -1
+shuye3
+  rotate: false
+  xy: 1833, 893
+  size: 157, 80
+  orig: 157, 80
+  offset: 0, 0
+  index: -1
+xuehua
+  rotate: false
+  xy: 805, 457
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1

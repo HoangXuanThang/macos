@@ -1,0 +1,188 @@
+
+effect_yikaluosi_2.png
+size: 1052, 534
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+texiao/atk/shouji_00
+  rotate: false
+  xy: 970, 159
+  size: 46, 31
+  orig: 220, 157
+  offset: 47, 57
+  index: -1
+texiao/atk/shouji_01
+  rotate: false
+  xy: 970, 192
+  size: 80, 76
+  orig: 220, 157
+  offset: 35, 34
+  index: -1
+texiao/atk/shouji_02
+  rotate: true
+  xy: 929, 367
+  size: 165, 117
+  orig: 220, 157
+  offset: 12, 6
+  index: -1
+texiao/atk/shouji_03
+  rotate: false
+  xy: 663, 7
+  size: 183, 144
+  orig: 220, 157
+  offset: 0, 0
+  index: -1
+texiao/atk/shouji_04
+  rotate: true
+  xy: 406, 340
+  size: 192, 132
+  orig: 220, 157
+  offset: 3, 5
+  index: -1
+texiao/atk/shouji_05
+  rotate: false
+  xy: 848, 19
+  size: 175, 135
+  orig: 220, 157
+  offset: 22, 3
+  index: -1
+texiao/atk/shouji_06
+  rotate: true
+  xy: 791, 351
+  size: 181, 136
+  orig: 220, 157
+  offset: 18, 3
+  index: -1
+texiao/atk/shouji_07
+  rotate: false
+  xy: 396, 2
+  size: 185, 136
+  orig: 220, 157
+  offset: 14, 3
+  index: -1
+texiao/atk/shouji_08
+  rotate: true
+  xy: 692, 159
+  size: 185, 137
+  orig: 220, 157
+  offset: 14, 3
+  index: -1
+texiao/atk/shouji_09
+  rotate: true
+  xy: 553, 153
+  size: 188, 137
+  orig: 220, 157
+  offset: 14, 2
+  index: -1
+texiao/atk/shouji_10
+  rotate: true
+  xy: 417, 148
+  size: 190, 134
+  orig: 220, 157
+  offset: 14, 6
+  index: -1
+texiao/atk/shouji_11
+  rotate: true
+  xy: 540, 343
+  size: 189, 135
+  orig: 220, 157
+  offset: 15, 5
+  index: -1
+texiao/atk/shouji_12
+  rotate: false
+  xy: 205, 2
+  size: 189, 112
+  orig: 220, 157
+  offset: 15, 27
+  index: -1
+texiao/atk/shouji_13
+  rotate: true
+  xy: 583, 4
+  size: 147, 78
+  orig: 220, 157
+  offset: 57, 59
+  index: -1
+texiao/skill/baodian_2_62
+  rotate: true
+  xy: 2, 8
+  size: 104, 82
+  orig: 235, 150
+  offset: 26, 38
+  index: -1
+texiao/skill/baodian_2_63
+  rotate: false
+  xy: 831, 156
+  size: 137, 112
+  orig: 235, 150
+  offset: 10, 17
+  index: -1
+texiao/skill/baodian_2_64
+  rotate: true
+  xy: 677, 346
+  size: 186, 112
+  orig: 235, 150
+  offset: 10, 17
+  index: -1
+texiao/skill/baodian_2_65
+  rotate: true
+  xy: 281, 337
+  size: 195, 123
+  orig: 235, 150
+  offset: 24, 9
+  index: -1
+texiao/skill/baodian_2_66
+  rotate: true
+  xy: 292, 140
+  size: 195, 123
+  orig: 235, 150
+  offset: 24, 9
+  index: -1
+texiao/skill/baodian_2_67
+  rotate: true
+  xy: 148, 333
+  size: 199, 131
+  orig: 235, 150
+  offset: 22, 6
+  index: -1
+texiao/skill/baodian_2_68
+  rotate: true
+  xy: 147, 116
+  size: 206, 143
+  orig: 235, 150
+  offset: 22, 3
+  index: -1
+texiao/skill/baodian_2_69
+  rotate: true
+  xy: 2, 114
+  size: 208, 143
+  orig: 235, 150
+  offset: 20, 3
+  index: -1
+texiao/skill/baodian_2_70
+  rotate: true
+  xy: 2, 324
+  size: 208, 144
+  orig: 235, 150
+  offset: 20, 1
+  index: -1
+texiao/skill/baodian_2_71
+  rotate: true
+  xy: 86, 12
+  size: 100, 117
+  orig: 235, 150
+  offset: 46, 15
+  index: -1
+texiao/skill/baodian_2_72
+  rotate: true
+  xy: 929, 270
+  size: 95, 117
+  orig: 235, 150
+  offset: 50, 15
+  index: -1
+texiao/skill/baodian_2_73
+  rotate: false
+  xy: 831, 282
+  size: 93, 67
+  orig: 235, 150
+  offset: 50, 49
+  index: -1

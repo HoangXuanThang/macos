@@ -1,0 +1,41 @@
+
+saodangchenggong.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hongguangdi
+  rotate: false
+  xy: 326, 205
+  size: 320, 241
+  orig: 320, 241
+  offset: 0, 0
+  index: -1
+saodangchenggong
+  rotate: false
+  xy: 2, 2
+  size: 380, 134
+  orig: 380, 134
+  offset: 0, 0
+  index: -1
+sdwc
+  rotate: true
+  xy: 648, 66
+  size: 380, 134
+  orig: 380, 134
+  offset: 0, 0
+  index: -1
+tiaozhanchenggong
+  rotate: true
+  xy: 784, 66
+  size: 380, 134
+  orig: 380, 134
+  offset: 0, 0
+  index: -1
+yuansanguang
+  rotate: false
+  xy: 2, 138
+  size: 322, 308
+  orig: 322, 308
+  offset: 0, 0
+  index: -1

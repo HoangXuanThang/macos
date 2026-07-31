@@ -1,0 +1,10 @@
+﻿VariableName,huodongID,type,trigger,params,resources,name,name_tw,name_en,name_vn,name_kr,desc,desc_tw,desc_en,desc_vn,desc_kr
+Defaults,1001,1,0,{},<>,"""""","""""","""""","""""","""""","""""","""""","""""","""""",""""""
+ID,活动版本号,随机事件（1转盘2厄运卡3+活动币4-活动币5飞跃格6小店99宝藏点）,触发机制（1经过触发 2停驻触发）,配置内容（转盘、厄运卡：{items=<<id;num;weight>;<...>>}这个格式中选一个；加减四叶草、飞跃格、商店：{num=相应的数or概率}；宝藏：(dist离几个格子；num随几个奖励）{dist=31; num=2; awards=<<id;num;weight>;<...>>},资源图,名字,名字tw,名字en,名字vn,名字kr,描述,描述tw,描述en,描述vn,描述kr
+1,,,2,{items=<<8116;1;80>;<22191;1;150>;<8111;1;110>;<6393;3;150>;<8114;1;140>;<8102;5;150>;<gold;20000;150>;<8112;1;150>>},<icon_bg2.png;icon_xyzp.png>,幸运转盘,幸運轉盤,,Vòng quay may mắn,,停在格子上时可随机获得一个小奖励,停在格子上時可隨機獲得一個小獎勵,,Ngẫu nhiên nhận được một phần thưởng nhỏ khi bạn đỗ xe trên lưới,
+2,,2,2,{items=<<8102;1;100>;<8102;2;200>;<8115;1;150>;<8102;4;200>;<8117;1;150>;<8113;1;150>;<8114;1;150>>},<icon_bg8.png;icon_eyk.png>,厄运卡,厄運卡,,Thẻ diệt vong,,停在格子上时会获得一个小惩罚,停在格子上時會獲得一個小懲罰,,Một hình phạt nhỏ cho việc dừng lại trên lưới,
+3,,3,2,{num=3},<icon_bg4.png;icon_hz.png>,探险者勋章+,探險者勳章+,,Huy chương nhà thám hiểm +,,停在格子上时将获得探险者勋章+3,停在格子上時將獲得探險者勳章+3,,Nhận Huy chương Explorer +3 khi đỗ xe trên lưới,
+4,,4,2,{num=1},<icon_bg1.png;icon_hz.png>,探险者勋章-,探險者勳章-,,Huy chương nhà thám hiểm-,,停在格子上时得扣除探险者勋章-1,停在格子上時得扣除探險者勳章-1,,Khi đậu trên lưới. Huy chương của Nhà thám hiểm sẽ bị trừ -1,
+5,,5,2,{num=3},<icon_bg5.png;icon_bg6.png;icon_bg7.png>,飞跃格,飛躍格,,Lưới nhảy,,停在格子上后还能再往前移动3格,停在格子上後還能再往前移動3格,,Sau khi dừng trên lưới. bạn có thể di chuyển tiếp 3 lưới,
+6,,6,1,{num=0.6},<icon_bg3.png>,小店,小店,,Cửa hàng nhỏ,,途径或停在格子上都能购买1次商品,途徑或停在格子上都能購買1次商品,,Vượt qua hoặc dừng lại trên lưới để mua 1 mặt hàng,
+7,,99,1,{dist=34;awards={libs=<10111;10112;10113;10114;10115>}},<icon_bg9.png>,宝箱,寶箱,,Rương kho báu,,途径或停在格子上都将获得超级大奖励！,途徑或停在格子上都將獲得超級大獎勵！,,Vượt qua hoặc dừng lại trên lưới sẽ nhận được phần thưởng siêu lớn!,

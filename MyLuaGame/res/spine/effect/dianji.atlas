@@ -1,0 +1,27 @@
+
+dianji.png
+size: 313, 198
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+lizi
+  rotate: false
+  xy: 212, 46
+  size: 49, 49
+  orig: 64, 64
+  offset: 8, 7
+  index: -1
+lizi2
+  rotate: false
+  xy: 212, 97
+  size: 99, 99
+  orig: 128, 128
+  offset: 15, 14
+  index: -1
+wl
+  rotate: true
+  xy: 2, 2
+  size: 194, 208
+  orig: 218, 218
+  offset: 12, 5
+  index: -1

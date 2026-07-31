@@ -1,0 +1,132 @@
+
+effect_mofashijiangshi_2.png
+size: 531, 414
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+FaZhen
+  rotate: false
+  xy: 311, 261
+  size: 147, 151
+  orig: 154, 154
+  offset: 4, 3
+  index: -1
+Fx_Glo027
+  rotate: false
+  xy: 2, 105
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+cmn_mask00
+  rotate: false
+  xy: 311, 129
+  size: 130, 130
+  orig: 154, 154
+  offset: 12, 12
+  index: -1
+fx/DropItemBoxOrdinary
+  rotate: false
+  xy: 460, 343
+  size: 69, 69
+  orig: 77, 77
+  offset: 3, 4
+  index: -1
+fx/bd_a0002
+  rotate: false
+  xy: 2, 31
+  size: 72, 72
+  orig: 77, 76
+  offset: 0, 3
+  index: -1
+fx/s_e
+  rotate: true
+  xy: 460, 272
+  size: 69, 68
+  orig: 77, 77
+  offset: 2, 5
+  index: -1
+fx/zha_0001
+  rotate: false
+  xy: 443, 137
+  size: 53, 43
+  orig: 67, 54
+  offset: 1, 1
+  index: -1
+glo_ty_25
+  rotate: false
+  xy: 311, 50
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+images/lig_003_t_01
+  rotate: true
+  xy: 390, 91
+  size: 36, 139
+  orig: 51, 154
+  offset: 9, 6
+  index: -1
+images/lig_003_t_02
+  rotate: true
+  xy: 390, 52
+  size: 37, 135
+  orig: 51, 154
+  offset: 10, 7
+  index: -1
+images/lig_003_t_03
+  rotate: true
+  xy: 390, 18
+  size: 32, 135
+  orig: 51, 154
+  offset: 13, 7
+  index: -1
+images/shandian_xz_009-#30734109_01
+  rotate: false
+  xy: 260, 33
+  size: 31, 70
+  orig: 31, 154
+  offset: 0, 0
+  index: -1
+images/shandian_xz_009-#30734109_02
+  rotate: true
+  xy: 76, 39
+  size: 31, 148
+  orig: 31, 154
+  offset: 0, 0
+  index: -1
+images/shandian_xz_009-#30734109_03
+  rotate: true
+  xy: 76, 72
+  size: 31, 154
+  orig: 31, 154
+  offset: 0, 0
+  index: -1
+images/shandian_xz_009-#30734109_04
+  rotate: true
+  xy: 76, 7
+  size: 30, 145
+  orig: 31, 154
+  offset: 0, 7
+  index: -1
+images/shandian_xz_009-#30734109_05
+  rotate: true
+  xy: 223, 2
+  size: 28, 134
+  orig: 31, 154
+  offset: 1, 15
+  index: -1
+light_tom_0018
+  rotate: false
+  xy: 443, 182
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+speed
+  rotate: false
+  xy: 232, 32
+  size: 26, 71
+  orig: 26, 71
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+loading_dog.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+move_001
+  rotate: true
+  xy: 78, 2
+  size: 103, 74
+  orig: 103, 74
+  offset: 0, 0
+  index: -1
+move_002
+  rotate: true
+  xy: 154, 2
+  size: 103, 74
+  orig: 103, 74
+  offset: 0, 0
+  index: -1
+move_003
+  rotate: true
+  xy: 230, 2
+  size: 103, 74
+  orig: 103, 74
+  offset: 0, 0
+  index: -1
+move_004
+  rotate: true
+  xy: 306, 2
+  size: 103, 74
+  orig: 103, 74
+  offset: 0, 0
+  index: -1
+move_005
+  rotate: true
+  xy: 382, 2
+  size: 103, 74
+  orig: 103, 74
+  offset: 0, 0
+  index: -1
+move_006
+  rotate: true
+  xy: 458, 2
+  size: 103, 74
+  orig: 103, 74
+  offset: 0, 0
+  index: -1
+move_007
+  rotate: true
+  xy: 534, 2
+  size: 103, 74
+  orig: 103, 74
+  offset: 0, 0
+  index: -1
+move_008
+  rotate: true
+  xy: 610, 2
+  size: 103, 74
+  orig: 103, 74
+  offset: 0, 0
+  index: -1
+move_009
+  rotate: true
+  xy: 686, 2
+  size: 103, 74
+  orig: 103, 74
+  offset: 0, 0
+  index: -1
+move_010
+  rotate: true
+  xy: 762, 2
+  size: 103, 74
+  orig: 103, 74
+  offset: 0, 0
+  index: -1
+move_011
+  rotate: true
+  xy: 838, 2
+  size: 103, 74
+  orig: 103, 74
+  offset: 0, 0
+  index: -1
+move_012
+  rotate: true
+  xy: 2, 2
+  size: 103, 74
+  orig: 103, 74
+  offset: 0, 0
+  index: -1

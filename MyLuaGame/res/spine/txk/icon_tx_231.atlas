@@ -1,0 +1,69 @@
+
+icon_tx_231.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hailang1
+  rotate: false
+  xy: 137, 208
+  size: 84, 37
+  orig: 84, 37
+  offset: 0, 0
+  index: -1
+hailang2
+  rotate: false
+  xy: 53, 90
+  size: 69, 27
+  orig: 69, 27
+  offset: 0, 0
+  index: -1
+hailang3
+  rotate: false
+  xy: 2, 2
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+hailang4
+  rotate: false
+  xy: 137, 165
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+hailang5
+  rotate: false
+  xy: 2, 44
+  size: 49, 73
+  orig: 49, 73
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 119
+  size: 133, 126
+  orig: 133, 126
+  offset: 0, 0
+  index: -1
+xingxing1
+  rotate: false
+  xy: 124, 108
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+xingxing2
+  rotate: false
+  xy: 223, 232
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+xingxing3
+  rotate: false
+  xy: 53, 76
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1

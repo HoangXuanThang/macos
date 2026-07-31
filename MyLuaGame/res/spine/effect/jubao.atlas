@@ -1,0 +1,27 @@
+
+jubao.png
+size: 364,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/xing1
+  rotate: false
+  xy: 238, 63
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+TX/zdsl_slgy2
+  rotate: true
+  xy: 1, 131
+  size: 16, 362
+  orig: 16, 362
+  offset: 0, 0
+  index: -1
+qian1
+  rotate: true
+  xy: 1, 1
+  size: 128, 235
+  orig: 128, 235
+  offset: 0, 0
+  index: -1

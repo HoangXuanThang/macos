@@ -1,0 +1,139 @@
+
+spine3_2_1.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 288
+  size: 1560, 720
+  orig: 1560, 720
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 2293, 480
+  size: 73, 49
+  orig: 73, 49
+  offset: 0, 0
+  index: -1
+houpiaodai
+  rotate: false
+  xy: 2040, 531
+  size: 687, 477
+  orig: 687, 477
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: false
+  xy: 275, 228
+  size: 77, 58
+  orig: 77, 58
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: true
+  xy: 2, 36
+  size: 52, 142
+  orig: 52, 142
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: false
+  xy: 2, 2
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+hua4
+  rotate: false
+  xy: 2040, 296
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+hua5
+  rotate: false
+  xy: 2183, 386
+  size: 73, 38
+  orig: 73, 38
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: true
+  xy: 146, 39
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1564, 293
+  size: 474, 715
+  orig: 474, 715
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 2729, 691
+  size: 45, 129
+  orig: 45, 129
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 2, 90
+  size: 158, 196
+  orig: 158, 196
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 2729, 822
+  size: 69, 186
+  orig: 69, 186
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: true
+  xy: 2040, 327
+  size: 56, 134
+  orig: 56, 134
+  offset: 0, 0
+  index: -1
+xiong01
+  rotate: true
+  xy: 162, 90
+  size: 84, 87
+  orig: 84, 87
+  offset: 0, 0
+  index: -1
+xiong02
+  rotate: false
+  xy: 2800, 917
+  size: 92, 91
+  orig: 92, 91
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: false
+  xy: 162, 176
+  size: 111, 110
+  orig: 111, 110
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: false
+  xy: 2040, 385
+  size: 141, 144
+  orig: 141, 144
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 2183, 426
+  size: 108, 103
+  orig: 108, 103
+  offset: 0, 0
+  index: -1

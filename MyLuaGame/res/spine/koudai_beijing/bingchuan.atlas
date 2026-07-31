@@ -1,0 +1,286 @@
+
+bingchuan.png
+size: 777,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BK1
+  rotate: false
+  xy: 614, 441
+  size: 135, 81
+  orig: 135, 81
+  offset: 0, 0
+  index: -1
+BK1_X1
+  rotate: false
+  xy: 440, 11
+  size: 85, 76
+  orig: 85, 76
+  offset: 0, 0
+  index: -1
+BK1_X2
+  rotate: false
+  xy: 527, 11
+  size: 85, 76
+  orig: 85, 76
+  offset: 0, 0
+  index: -1
+BK2
+  rotate: false
+  xy: 615, 330
+  size: 109, 74
+  orig: 109, 74
+  offset: 0, 0
+  index: -1
+BK2_X1
+  rotate: false
+  xy: 614, 75
+  size: 83, 71
+  orig: 83, 71
+  offset: 0, 0
+  index: -1
+BK2_X2
+  rotate: true
+  xy: 382, 5
+  size: 83, 56
+  orig: 83, 56
+  offset: 0, 0
+  index: -1
+BK3
+  rotate: false
+  xy: 639, 148
+  size: 91, 34
+  orig: 91, 34
+  offset: 0, 0
+  index: -1
+BK3_X1
+  rotate: true
+  xy: 605, 148
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+BK4
+  rotate: true
+  xy: 751, 454
+  size: 68, 19
+  orig: 68, 19
+  offset: 0, 0
+  index: -1
+BK4_X1
+  rotate: true
+  xy: 758, 77
+  size: 47, 15
+  orig: 47, 15
+  offset: 0, 0
+  index: -1
+DBK
+  rotate: false
+  xy: 276, 90
+  size: 173, 113
+  orig: 173, 113
+  offset: 0, 0
+  index: -1
+DM_F
+  rotate: false
+  xy: 303, 379
+  size: 309, 143
+  orig: 309, 143
+  offset: 0, 0
+  index: -1
+XD1
+  rotate: false
+  xy: 1, 50
+  size: 210, 62
+  orig: 210, 62
+  offset: 0, 0
+  index: -1
+XD2
+  rotate: false
+  xy: 303, 239
+  size: 314, 44
+  orig: 314, 44
+  offset: 0, 0
+  index: -1
+XD3
+  rotate: false
+  xy: 213, 33
+  size: 167, 21
+  orig: 167, 21
+  offset: 0, 0
+  index: -1
+XD4
+  rotate: false
+  xy: 303, 216
+  size: 334, 21
+  orig: 334, 21
+  offset: 0, 0
+  index: -1
+XD5
+  rotate: false
+  xy: 276, 205
+  size: 323, 9
+  orig: 323, 9
+  offset: 0, 0
+  index: -1
+XK1
+  rotate: false
+  xy: 639, 184
+  size: 102, 38
+  orig: 102, 38
+  offset: 0, 0
+  index: -1
+XK2
+  rotate: false
+  xy: 188, 1
+  size: 72, 30
+  orig: 72, 30
+  offset: 0, 0
+  index: -1
+XK3
+  rotate: false
+  xy: 213, 92
+  size: 58, 20
+  orig: 58, 20
+  offset: 0, 0
+  index: -1
+XK4
+  rotate: true
+  xy: 736, 35
+  size: 89, 20
+  orig: 89, 20
+  offset: 0, 0
+  index: -1
+XK5
+  rotate: false
+  xy: 691, 14
+  size: 67, 19
+  orig: 69, 19
+  offset: 2, 0
+  index: -1
+bingmian
+  rotate: false
+  xy: 303, 285
+  size: 310, 92
+  orig: 310, 92
+  offset: 0, 0
+  index: -1
+bj1
+  rotate: false
+  xy: 1, 114
+  size: 273, 106
+  orig: 273, 106
+  offset: 0, 0
+  index: -1
+bl1
+  rotate: false
+  xy: 1, 10
+  size: 185, 38
+  orig: 185, 38
+  offset: 0, 0
+  index: -1
+bl10
+  rotate: true
+  xy: 699, 55
+  size: 91, 35
+  orig: 91, 35
+  offset: 0, 0
+  index: -1
+bl11
+  rotate: true
+  xy: 749, 245
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+bl12
+  rotate: false
+  xy: 451, 89
+  size: 149, 54
+  orig: 149, 54
+  offset: 0, 0
+  index: -1
+bl13
+  rotate: false
+  xy: 213, 56
+  size: 167, 32
+  orig: 167, 32
+  offset: 0, 0
+  index: -1
+bl2
+  rotate: true
+  xy: 742, 302
+  size: 102, 34
+  orig: 102, 34
+  offset: 0, 0
+  index: -1
+bl3
+  rotate: false
+  xy: 615, 296
+  size: 125, 32
+  orig: 125, 32
+  offset: 0, 0
+  index: -1
+bl4
+  rotate: false
+  xy: 619, 262
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+bl5
+  rotate: false
+  xy: 614, 406
+  size: 145, 33
+  orig: 145, 33
+  offset: 0, 0
+  index: -1
+bl6
+  rotate: true
+  xy: 743, 126
+  size: 96, 33
+  orig: 96, 33
+  offset: 0, 0
+  index: -1
+bl7
+  rotate: false
+  xy: 262, 5
+  size: 109, 26
+  orig: 109, 26
+  offset: 0, 0
+  index: -1
+bl8
+  rotate: false
+  xy: 451, 145
+  size: 152, 58
+  orig: 152, 58
+  offset: 0, 0
+  index: -1
+bl9
+  rotate: false
+  xy: 639, 224
+  size: 105, 36
+  orig: 105, 36
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 1, 222
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+hei
+  rotate: true
+  xy: 1, 1
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+yan0_2
+  rotate: false
+  xy: 614, 2
+  size: 75, 71
+  orig: 75, 71
+  offset: 0, 0
+  index: -1

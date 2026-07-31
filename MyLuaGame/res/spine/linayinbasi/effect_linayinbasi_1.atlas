@@ -1,0 +1,125 @@
+
+effect_linayinbasi_1.png
+size: 1838, 945
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+attack/dibukuosan/kus_0000
+  rotate: true
+  xy: 1694, 244
+  size: 318, 142
+  orig: 450, 170
+  offset: 68, 9
+  index: -1
+attack/dibukuosan/kus_0002
+  rotate: true
+  xy: 662, 2
+  size: 438, 160
+  orig: 450, 170
+  offset: 11, 0
+  index: -1
+attack/dibukuosan/kus_0004
+  rotate: true
+  xy: 336, 6
+  size: 431, 161
+  orig: 450, 170
+  offset: 8, 1
+  index: -1
+attack/dibukuosan/kus_0006
+  rotate: true
+  xy: 499, 5
+  size: 435, 161
+  orig: 450, 170
+  offset: 2, 0
+  index: -1
+attack/dibukuosan/kus_0008
+  rotate: true
+  xy: 1250, 21
+  size: 441, 152
+  orig: 450, 170
+  offset: 1, 8
+  index: -1
+attack/dibukuosan/kus_0010
+  rotate: true
+  xy: 824, 9
+  size: 432, 146
+  orig: 450, 170
+  offset: 5, 4
+  index: -1
+attack/dibukuosan/kus_0012
+  rotate: true
+  xy: 972, 14
+  size: 427, 147
+  orig: 450, 170
+  offset: 4, 3
+  index: -1
+attack/dibukuosan/kus_0014
+  rotate: true
+  xy: 1404, 69
+  size: 393, 131
+  orig: 450, 170
+  offset: 4, 17
+  index: -1
+attack/dibukuosan/kus_0016
+  rotate: true
+  xy: 1121, 46
+  size: 395, 127
+  orig: 450, 170
+  offset: 4, 18
+  index: -1
+attack/shouji/shangbu01/shangbu 2/shb_0000
+  rotate: false
+  xy: 1560, 564
+  size: 224, 379
+  orig: 500, 550
+  offset: 142, 43
+  index: -1
+attack/shouji/shangbu01/shangbu 2/shb_0002
+  rotate: false
+  xy: 2, 15
+  size: 332, 422
+  orig: 500, 550
+  offset: 85, 47
+  index: -1
+attack/shouji/shangbu01/shangbu 2/shb_0004
+  rotate: false
+  xy: 1175, 464
+  size: 383, 479
+  orig: 500, 550
+  offset: 49, 26
+  index: -1
+attack/shouji/shangbu01/shangbu 2/shb_0006
+  rotate: false
+  xy: 2, 439
+  size: 415, 504
+  orig: 500, 550
+  offset: 38, 22
+  index: -1
+attack/shouji/shangbu01/shangbu 2/shb_0008
+  rotate: false
+  xy: 419, 442
+  size: 380, 501
+  orig: 500, 550
+  offset: 74, 22
+  index: -1
+attack/shouji/shangbu01/shangbu 2/shb_0010
+  rotate: false
+  xy: 801, 443
+  size: 372, 500
+  orig: 500, 550
+  offset: 75, 22
+  index: -1
+attack/shouji/shangbu01/shangbu 2/shb_0012
+  rotate: false
+  xy: 1537, 124
+  size: 155, 338
+  orig: 500, 550
+  offset: 182, 184
+  index: -1
+attack/shouji/shangbu01/shangbu 2/shb_0014
+  rotate: false
+  xy: 1560, 471
+  size: 93, 91
+  orig: 500, 550
+  offset: 229, 371
+  index: -1

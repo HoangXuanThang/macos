@@ -1,0 +1,2 @@
+python copy_config_to_release.py
+pause

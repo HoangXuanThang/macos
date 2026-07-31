@@ -1,0 +1,209 @@
+
+effect_bilusi_2.png
+size: 2011, 1104
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+images/0_00000
+  rotate: true
+  xy: 1532, 857
+  size: 245, 178
+  orig: 500, 500
+  offset: 112, 150
+  index: -1
+images/0_00001
+  rotate: true
+  xy: 1505, 275
+  size: 236, 201
+  orig: 500, 500
+  offset: 127, 144
+  index: -1
+images/0_00002
+  rotate: true
+  xy: 1646, 55
+  size: 218, 192
+  orig: 500, 500
+  offset: 139, 147
+  index: -1
+images/0_00004
+  rotate: true
+  xy: 1269, 4
+  size: 180, 153
+  orig: 500, 500
+  offset: 162, 159
+  index: -1
+images/0_00006
+  rotate: true
+  xy: 260, 8
+  size: 322, 259
+  orig: 500, 500
+  offset: 96, 128
+  index: -1
+images/0_00008
+  rotate: true
+  xy: 1298, 801
+  size: 301, 232
+  orig: 500, 500
+  offset: 102, 130
+  index: -1
+images/0_00010
+  rotate: false
+  xy: 1719, 876
+  size: 286, 226
+  orig: 500, 500
+  offset: 127, 135
+  index: -1
+images/0_00012
+  rotate: true
+  xy: 1033, 109
+  size: 306, 234
+  orig: 500, 500
+  offset: 95, 128
+  index: -1
+images/0_00014
+  rotate: false
+  xy: 1719, 404
+  size: 271, 256
+  orig: 500, 500
+  offset: 116, 129
+  index: -1
+images/0_00016
+  rotate: true
+  xy: 985, 417
+  size: 322, 233
+  orig: 500, 500
+  offset: 96, 126
+  index: -1
+images/0_00018
+  rotate: true
+  xy: 1269, 186
+  size: 298, 234
+  orig: 500, 500
+  offset: 102, 128
+  index: -1
+images/0_00020
+  rotate: false
+  xy: 1719, 662
+  size: 286, 212
+  orig: 500, 500
+  offset: 127, 143
+  index: -1
+images/0_00022
+  rotate: true
+  xy: 2, 2
+  size: 328, 256
+  orig: 500, 500
+  offset: 93, 135
+  index: -1
+images/0_00024
+  rotate: true
+  xy: 992, 793
+  size: 309, 304
+  orig: 500, 500
+  offset: 94, 88
+  index: -1
+images/0_00026
+  rotate: true
+  xy: 1220, 486
+  size: 305, 235
+  orig: 500, 500
+  offset: 121, 141
+  index: -1
+images/0_00028
+  rotate: true
+  xy: 741, 387
+  size: 352, 242
+  orig: 500, 500
+  offset: 74, 117
+  index: -1
+images/0_00030
+  rotate: true
+  xy: 1457, 513
+  size: 286, 260
+  orig: 500, 500
+  offset: 112, 128
+  index: -1
+images/0_00032
+  rotate: true
+  xy: 2, 709
+  size: 393, 231
+  orig: 500, 500
+  offset: 60, 128
+  index: -1
+images/0_00034
+  rotate: false
+  xy: 521, 2
+  size: 351, 362
+  orig: 500, 500
+  offset: 58, 61
+  index: -1
+images/0_00036
+  rotate: true
+  xy: 2, 332
+  size: 375, 341
+  orig: 500, 500
+  offset: 63, 93
+  index: -1
+images/0_00037
+  rotate: true
+  xy: 698, 741
+  size: 361, 292
+  orig: 500, 500
+  offset: 77, 106
+  index: -1
+images/0_00038
+  rotate: true
+  xy: 235, 735
+  size: 367, 254
+  orig: 500, 500
+  offset: 76, 131
+  index: -1
+images/0_00039
+  rotate: true
+  xy: 345, 366
+  size: 367, 219
+  orig: 500, 500
+  offset: 76, 131
+  index: -1
+images/0_00040
+  rotate: true
+  xy: 491, 735
+  size: 367, 205
+  orig: 500, 500
+  offset: 76, 149
+  index: -1
+images/0_00041
+  rotate: true
+  xy: 566, 366
+  size: 367, 173
+  orig: 500, 500
+  offset: 76, 149
+  index: -1
+images/0_00043
+  rotate: true
+  xy: 874, 39
+  size: 346, 157
+  orig: 500, 500
+  offset: 78, 162
+  index: -1
+images/0_00046
+  rotate: false
+  xy: 1424, 5
+  size: 220, 179
+  orig: 500, 500
+  offset: 148, 165
+  index: -1
+images/0_00048
+  rotate: true
+  xy: 1840, 204
+  size: 198, 169
+  orig: 500, 500
+  offset: 158, 168
+  index: -1
+images/0_00049
+  rotate: false
+  xy: 1840, 65
+  size: 168, 137
+  orig: 500, 500
+  offset: 169, 199
+  index: -1

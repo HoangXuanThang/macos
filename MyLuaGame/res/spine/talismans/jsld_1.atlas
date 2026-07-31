@@ -1,0 +1,132 @@
+
+jsld_1.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/guang/00000
+  rotate: false
+  xy: 2, 170
+  size: 224, 283
+  orig: 224, 283
+  offset: 0, 0
+  index: -1
+images/effect/guang/00002
+  rotate: false
+  xy: 228, 170
+  size: 224, 283
+  orig: 224, 283
+  offset: 0, 0
+  index: -1
+images/effect/guang/00004
+  rotate: false
+  xy: 454, 170
+  size: 224, 283
+  orig: 224, 283
+  offset: 0, 0
+  index: -1
+images/effect/guang/00006
+  rotate: false
+  xy: 680, 170
+  size: 224, 283
+  orig: 224, 283
+  offset: 0, 0
+  index: -1
+images/effect/guang/00008
+  rotate: false
+  xy: 906, 170
+  size: 224, 283
+  orig: 224, 283
+  offset: 0, 0
+  index: -1
+images/effect/guang/00010
+  rotate: false
+  xy: 1132, 170
+  size: 224, 283
+  orig: 224, 283
+  offset: 0, 0
+  index: -1
+images/effect/guang/00012
+  rotate: false
+  xy: 1358, 170
+  size: 224, 283
+  orig: 224, 283
+  offset: 0, 0
+  index: -1
+images/effect/guang/00014
+  rotate: false
+  xy: 1584, 170
+  size: 224, 283
+  orig: 224, 283
+  offset: 0, 0
+  index: -1
+images/effect/guang/00016
+  rotate: false
+  xy: 1810, 170
+  size: 224, 283
+  orig: 224, 283
+  offset: 0, 0
+  index: -1
+images/effect/lizi/00000
+  rotate: false
+  xy: 2, 2
+  size: 130, 166
+  orig: 130, 166
+  offset: 0, 0
+  index: -1
+images/effect/lizi/00002
+  rotate: false
+  xy: 134, 2
+  size: 130, 166
+  orig: 130, 166
+  offset: 0, 0
+  index: -1
+images/effect/lizi/00004
+  rotate: false
+  xy: 266, 2
+  size: 130, 166
+  orig: 130, 166
+  offset: 0, 0
+  index: -1
+images/effect/lizi/00006
+  rotate: false
+  xy: 398, 2
+  size: 130, 166
+  orig: 130, 166
+  offset: 0, 0
+  index: -1
+images/effect/lizi/00008
+  rotate: false
+  xy: 530, 2
+  size: 130, 166
+  orig: 130, 166
+  offset: 0, 0
+  index: -1
+images/effect/lizi/00010
+  rotate: false
+  xy: 662, 2
+  size: 130, 166
+  orig: 130, 166
+  offset: 0, 0
+  index: -1
+images/effect/lizi/00012
+  rotate: false
+  xy: 794, 2
+  size: 130, 166
+  orig: 130, 166
+  offset: 0, 0
+  index: -1
+images/effect/lizi/00014
+  rotate: false
+  xy: 926, 2
+  size: 130, 166
+  orig: 130, 166
+  offset: 0, 0
+  index: -1
+images/effect/lizi/00016
+  rotate: false
+  xy: 1058, 2
+  size: 130, 166
+  orig: 130, 166
+  offset: 0, 0
+  index: -1

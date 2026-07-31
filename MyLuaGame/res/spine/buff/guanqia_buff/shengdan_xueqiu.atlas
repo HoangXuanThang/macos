@@ -1,0 +1,90 @@
+
+shengdan_xueqiu.png
+size: 2016,241
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rock01
+  rotate: true
+  xy: 1709, 7
+  size: 44, 61
+  orig: 44, 61
+  offset: 0, 0
+  index: -1
+Rock03
+  rotate: true
+  xy: 1954, 35
+  size: 54, 61
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+Rock04
+  rotate: true
+  xy: 1897, 25
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+bingbao1_1
+  rotate: true
+  xy: 1533, 32
+  size: 208, 174
+  orig: 218, 177
+  offset: 8, 0
+  index: -1
+bingbao1_2
+  rotate: true
+  xy: 620, 10
+  size: 230, 187
+  orig: 231, 191
+  offset: 1, 3
+  index: -1
+bingbao1_3
+  rotate: true
+  xy: 809, 12
+  size: 228, 185
+  orig: 230, 196
+  offset: 0, 9
+  index: -1
+bingbao1_4
+  rotate: true
+  xy: 996, 29
+  size: 211, 182
+  orig: 222, 197
+  offset: 4, 14
+  index: -1
+bingbao1_5
+  rotate: true
+  xy: 1180, 27
+  size: 213, 179
+  orig: 225, 200
+  offset: 4, 15
+  index: -1
+bingbao1_6
+  rotate: true
+  xy: 1361, 27
+  size: 213, 170
+  orig: 228, 202
+  offset: 6, 16
+  index: -1
+shi5
+  rotate: false
+  xy: 1, 1
+  size: 617, 239
+  orig: 617, 239
+  offset: 0, 0
+  index: -1
+xuedui1
+  rotate: true
+  xy: 1897, 91
+  size: 149, 86
+  orig: 149, 86
+  offset: 0, 0
+  index: -1
+xuqiu1
+  rotate: false
+  xy: 1709, 53
+  size: 186, 187
+  orig: 186, 187
+  offset: 0, 0
+  index: -1

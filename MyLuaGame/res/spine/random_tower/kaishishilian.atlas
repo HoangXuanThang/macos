@@ -1,0 +1,118 @@
+
+kaishishilian.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj
+  rotate: false
+  xy: 2, 269
+  size: 1560, 720
+  orig: 1560, 720
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 1194, 55
+  size: 3, 4
+  orig: 175, 59
+  offset: 82, 24
+  index: -1
+dimen1
+  rotate: false
+  xy: 945, 20
+  size: 4, 4
+  orig: 237, 224
+  offset: 118, 126
+  index: -1
+g2
+  rotate: false
+  xy: 945, 20
+  size: 4, 4
+  orig: 243, 276
+  offset: 99, 153
+  index: -1
+g1
+  rotate: false
+  xy: 1194, 61
+  size: 260, 206
+  orig: 260, 206
+  offset: 0, 0
+  index: -1
+g3
+  rotate: false
+  xy: 1851, 533
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
+g4
+  rotate: false
+  xy: 1564, 290
+  size: 54, 49
+  orig: 54, 49
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 690, 16
+  size: 253, 251
+  orig: 253, 251
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 2, 2
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+landi
+  rotate: false
+  xy: 1564, 588
+  size: 285, 401
+  orig: 285, 419
+  offset: 0, 14
+  index: -1
+landi2
+  rotate: false
+  xy: 1564, 341
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 945, 26
+  size: 247, 241
+  orig: 247, 241
+  offset: 0, 0
+  index: -1
+men
+  rotate: false
+  xy: 1456, 53
+  size: 227, 214
+  orig: 227, 214
+  offset: 0, 0
+  index: -1
+meng
+  rotate: false
+  xy: 1811, 583
+  size: 3, 3
+  orig: 108, 151
+  offset: 57, 56
+  index: -1
+s2_wgy1
+  rotate: false
+  xy: 2, 12
+  size: 686, 255
+  orig: 686, 255
+  offset: 0, 0
+  index: -1
+s2_wsg11
+  rotate: true
+  xy: 1851, 711
+  size: 278, 155
+  orig: 278, 155
+  offset: 0, 0
+  index: -1

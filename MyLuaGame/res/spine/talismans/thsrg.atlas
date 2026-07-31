@@ -1,0 +1,48 @@
+
+thsrg.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di1
+  rotate: true
+  xy: 2, 83
+  size: 170, 374
+  orig: 170, 374
+  offset: 0, 0
+  index: -1
+gongshen00
+  rotate: true
+  xy: 378, 117
+  size: 136, 281
+  orig: 136, 281
+  offset: 0, 0
+  index: -1
+jianyu01
+  rotate: true
+  xy: 661, 161
+  size: 92, 209
+  orig: 92, 209
+  offset: 0, 0
+  index: -1
+jianyu02
+  rotate: true
+  xy: 2, 2
+  size: 79, 179
+  orig: 79, 179
+  offset: 0, 0
+  index: -1
+jianyu3
+  rotate: true
+  xy: 661, 61
+  size: 98, 197
+  orig: 98, 197
+  offset: 0, 0
+  index: -1
+jianyu4
+  rotate: true
+  xy: 183, 11
+  size: 70, 174
+  orig: 70, 174
+  offset: 0, 0
+  index: -1

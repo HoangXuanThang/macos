@@ -1,0 +1,97 @@
+
+effect_meipulu_2.png
+size: 693, 1021
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+attack/baokai/bak_0000
+  rotate: false
+  xy: 2, 2
+  size: 229, 175
+  orig: 350, 300
+  offset: 59, 42
+  index: -1
+attack/baokai/bak_0002
+  rotate: false
+  xy: 2, 496
+  size: 342, 208
+  orig: 350, 300
+  offset: 4, 5
+  index: -1
+attack/baokai/bak_0004
+  rotate: false
+  xy: 2, 706
+  size: 344, 215
+  orig: 350, 300
+  offset: 3, 5
+  index: -1
+attack/baokai/bak_0006
+  rotate: false
+  xy: 348, 652
+  size: 343, 216
+  orig: 350, 300
+  offset: 4, 4
+  index: -1
+attack/baokai/bak_0008
+  rotate: false
+  xy: 346, 450
+  size: 342, 200
+  orig: 350, 300
+  offset: 4, 4
+  index: -1
+attack/baokai/bak_0010
+  rotate: false
+  xy: 2, 330
+  size: 340, 164
+  orig: 350, 300
+  offset: 5, 6
+  index: -1
+attack/baokai/bak_0012
+  rotate: false
+  xy: 387, 870
+  size: 302, 149
+  orig: 350, 300
+  offset: 18, 20
+  index: -1
+attack/baokai/bak_0014
+  rotate: false
+  xy: 2, 179
+  size: 295, 149
+  orig: 350, 300
+  offset: 24, 13
+  index: -1
+attack/baokai/bak_0016
+  rotate: false
+  xy: 344, 307
+  size: 296, 141
+  orig: 350, 300
+  offset: 23, 21
+  index: -1
+attack/baokai/bak_0018
+  rotate: true
+  xy: 299, 12
+  size: 293, 149
+  orig: 350, 300
+  offset: 25, 15
+  index: -1
+attack/baokai/bak_0020
+  rotate: true
+  xy: 450, 40
+  size: 265, 114
+  orig: 350, 300
+  offset: 25, 42
+  index: -1
+attack/di02_0000
+  rotate: false
+  xy: 2, 923
+  size: 383, 96
+  orig: 400, 100
+  offset: 7, 1
+  index: -1
+attack/dun_0000
+  rotate: false
+  xy: 566, 148
+  size: 101, 157
+  orig: 115, 165
+  offset: 8, 3
+  index: -1

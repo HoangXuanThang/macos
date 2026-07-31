@@ -1,0 +1,118 @@
+
+buff_shenfeng.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill1/glow_03
+  rotate: true
+  xy: 2, 2
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+images/effect/skill1/niao_01
+  rotate: false
+  xy: 166, 47
+  size: 145, 206
+  orig: 145, 206
+  offset: 0, 0
+  index: -1
+images/effect/skill1/niao_02
+  rotate: true
+  xy: 466, 110
+  size: 143, 205
+  orig: 143, 205
+  offset: 0, 0
+  index: -1
+images/effect/skill1/niao_03
+  rotate: false
+  xy: 2, 32
+  size: 162, 221
+  orig: 162, 221
+  offset: 0, 0
+  index: -1
+images/effect/skill1/niao_04
+  rotate: true
+  xy: 1543, 166
+  size: 87, 135
+  orig: 87, 135
+  offset: 0, 0
+  index: -1
+images/effect/skill1/niao_1
+  rotate: false
+  xy: 313, 55
+  size: 151, 198
+  orig: 151, 198
+  offset: 0, 0
+  index: -1
+images/effect/skill1/uv02/uv_00001
+  rotate: true
+  xy: 673, 180
+  size: 73, 172
+  orig: 73, 172
+  offset: 0, 0
+  index: -1
+images/effect/skill1/uv02/uv_00003
+  rotate: true
+  xy: 847, 180
+  size: 73, 172
+  orig: 73, 172
+  offset: 0, 0
+  index: -1
+images/effect/skill1/uv02/uv_00005
+  rotate: true
+  xy: 1021, 180
+  size: 73, 172
+  orig: 73, 172
+  offset: 0, 0
+  index: -1
+images/effect/skill1/uv02/uv_00007
+  rotate: true
+  xy: 1195, 180
+  size: 73, 172
+  orig: 73, 172
+  offset: 0, 0
+  index: -1
+images/effect/skill1/uv02/uv_00009
+  rotate: true
+  xy: 1369, 180
+  size: 73, 172
+  orig: 73, 172
+  offset: 0, 0
+  index: -1
+images/effect/skill1/uv03/uv_00001
+  rotate: false
+  xy: 1680, 137
+  size: 119, 116
+  orig: 119, 116
+  offset: 0, 0
+  index: -1
+images/effect/skill1/uv03/uv_00003
+  rotate: false
+  xy: 1801, 137
+  size: 119, 116
+  orig: 119, 116
+  offset: 0, 0
+  index: -1
+images/effect/skill1/uv03/uv_00005
+  rotate: false
+  xy: 1922, 137
+  size: 119, 116
+  orig: 119, 116
+  offset: 0, 0
+  index: -1
+images/effect/skill1/uv03/uv_00007
+  rotate: false
+  xy: 673, 62
+  size: 119, 116
+  orig: 119, 116
+  offset: 0, 0
+  index: -1
+images/effect/skill1/uv03/uv_00009
+  rotate: false
+  xy: 794, 62
+  size: 119, 116
+  orig: 119, 116
+  offset: 0, 0
+  index: -1

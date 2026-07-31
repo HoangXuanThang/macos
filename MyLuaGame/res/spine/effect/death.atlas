@@ -1,0 +1,41 @@
+
+death.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_smoke_2_1
+  rotate: false
+  xy: 2, 13
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_smoke_2_3
+  rotate: false
+  xy: 68, 13
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_smoke_2_5
+  rotate: false
+  xy: 134, 13
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_smoke_2_6
+  rotate: false
+  xy: 200, 13
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1

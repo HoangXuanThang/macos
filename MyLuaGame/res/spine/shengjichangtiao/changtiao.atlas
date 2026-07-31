@@ -1,0 +1,48 @@
+
+changtiao.png
+size: 475,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TX/TX_S1_szgh_0052
+  rotate: false
+  xy: 2, 35
+  size: 154, 140
+  orig: 154, 140
+  offset: 0, 0
+  index: -1
+images/TX/TX_xt_g_0017
+  rotate: false
+  xy: 354, 70
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+images/TX/baichangkuang
+  rotate: false
+  xy: 113, 191
+  size: 312, 12
+  orig: 312, 12
+  offset: 0, 0
+  index: -1
+images/TX/sg1
+  rotate: true
+  xy: 158, 2
+  size: 173, 180
+  orig: 187, 187
+  offset: 6, 4
+  index: -1
+images/TX/zdsl_slgy2
+  rotate: true
+  xy: 2, 193
+  size: 10, 109
+  orig: 10, 109
+  offset: 0, 0
+  index: -1
+images/changtiao
+  rotate: false
+  xy: 2, 177
+  size: 350, 12
+  orig: 350, 12
+  offset: 0, 0
+  index: -1

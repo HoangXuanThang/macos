@@ -1,0 +1,160 @@
+
+kyojuro_rengoku_ui.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1812, 389
+  size: 117, 151
+  orig: 117, 151
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 1077, 567
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 184, 20
+  size: 85, 107
+  orig: 85, 107
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 1955, 566
+  size: 59, 97
+  orig: 59, 97
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 1451, 164
+  size: 92, 58
+  orig: 92, 58
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 576, 209
+  size: 92, 69
+  orig: 92, 69
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 1808, 855
+  size: 167, 227
+  orig: 167, 227
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 485, 137
+  size: 93, 89
+  orig: 93, 89
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 1143, 491
+  size: 310, 412
+  orig: 310, 412
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 1812, 508
+  size: 141, 155
+  orig: 141, 155
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 2, 2
+  size: 125, 180
+  orig: 125, 180
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 534, 280
+  size: 541, 365
+  orig: 541, 365
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 534, 647
+  size: 607, 375
+  orig: 607, 375
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 1451, 258
+  size: 231, 54
+  orig: 231, 54
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 293, 136
+  size: 190, 94
+  orig: 190, 94
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 1507, 414
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 129
+  size: 289, 101
+  orig: 289, 101
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1557, 400
+  size: 253, 401
+  orig: 253, 401
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 1077, 189
+  size: 300, 372
+  orig: 300, 372
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1812, 665
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: -1
+h1
+  rotate: false
+  xy: 2, 232
+  size: 530, 790
+  orig: 530, 790
+  offset: 0, 0
+  index: -1
+h2
+  rotate: false
+  xy: 1143, 803
+  size: 663, 219
+  orig: 663, 219
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+bossbaoxiang.png
+size: 150,106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caihongquan
+  rotate: false
+  xy: 1, 12
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+nglq
+  rotate: false
+  xy: 95, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+skill2_1_1
+  rotate: false
+  xy: 95, 51
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1

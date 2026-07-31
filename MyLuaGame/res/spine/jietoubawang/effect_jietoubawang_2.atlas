@@ -1,0 +1,69 @@
+
+effect_jietoubawang_2.png
+size: 1498, 157
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+TX_gy_00001
+  rotate: true
+  xy: 1423, 84
+  size: 71, 73
+  orig: 74, 76
+  offset: 1, 1
+  index: -1
+TX_hljf_00000
+  rotate: false
+  xy: 773, 14
+  size: 192, 141
+  orig: 206, 161
+  offset: 6, 11
+  index: -1
+TX_hljf_00002
+  rotate: false
+  xy: 581, 9
+  size: 190, 146
+  orig: 206, 161
+  offset: 8, 7
+  index: -1
+TX_hljf_00004
+  rotate: false
+  xy: 394, 5
+  size: 185, 150
+  orig: 206, 161
+  offset: 14, 2
+  index: -1
+TX_hljf_00006
+  rotate: false
+  xy: 2, 5
+  size: 195, 150
+  orig: 206, 161
+  offset: 6, 3
+  index: -1
+TX_hljf_00008
+  rotate: false
+  xy: 199, 11
+  size: 193, 144
+  orig: 206, 161
+  offset: 6, 7
+  index: -1
+TX_hljf_00010
+  rotate: false
+  xy: 967, 20
+  size: 189, 135
+  orig: 206, 161
+  offset: 9, 7
+  index: -1
+TX_lz2_00001
+  rotate: true
+  xy: 1312, 34
+  size: 121, 109
+  orig: 126, 116
+  offset: 3, 3
+  index: -1
+TX_sg_00001
+  rotate: false
+  xy: 1158, 2
+  size: 152, 153
+  orig: 155, 160
+  offset: 2, 4
+  index: -1

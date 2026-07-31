@@ -1,0 +1,11 @@
+﻿VariableName,type,rank,award
+Defaults,,,{}
+ID,类型（1=初赛 2=决赛）,排名,排名奖励
+1,1,1,{502=1;gold=500000;coin3=1000;rmb=100;coin10=500}
+2,1,2,{gold=400000;coin10=400;rmb=75;coin3=750}
+3,1,3,{gold=300000;coin10=300;rmb=50;coin3=500}
+4,1,4,{gold=300000;coin10=300;rmb=50;coin3=500}
+5,2,1,{502=3;gold=1000000;coin3=2000;rmb=200;coin10=1000}
+6,2,2,{502=2;gold=800000;coin3=1500;rmb=150;coin10=800}
+7,2,3,{502=1;gold=600000;coin3=1000;rmb=100;coin10=600}
+8,2,4,{502=1;gold=600000;coin3=1000;rmb=100;coin10=600}

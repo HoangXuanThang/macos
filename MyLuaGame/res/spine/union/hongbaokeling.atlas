@@ -1,0 +1,41 @@
+
+hongbaokeling.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/TX_xt_g_0017
+  rotate: false
+  xy: 209, 90
+  size: 159, 159
+  orig: 159, 159
+  offset: 0, 0
+  index: -1
+TX/flare_Fire
+  rotate: false
+  xy: 2, 44
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+beijingquan
+  rotate: false
+  xy: 370, 133
+  size: 115, 116
+  orig: 115, 116
+  offset: 0, 0
+  index: -1
+hongbao1
+  rotate: true
+  xy: 370, 38
+  size: 93, 106
+  orig: 94, 107
+  offset: 0, 0
+  index: -1
+hongbaoZi
+  rotate: false
+  xy: 2, 2
+  size: 73, 40
+  orig: 75, 40
+  offset: 1, 0
+  index: -1

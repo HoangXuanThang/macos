@@ -1,0 +1,244 @@
+
+fengxinshi.png
+size: 1197, 269
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+2/bozi
+  rotate: false
+  xy: 497, 3
+  size: 64, 47
+  orig: 64, 47
+  offset: 0, 0
+  index: -1
+2/fazhang
+  rotate: true
+  xy: 2, 120
+  size: 147, 325
+  orig: 147, 325
+  offset: 0, 0
+  index: -1
+2/jiaoL
+  rotate: true
+  xy: 751, 145
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+2/jiaoR
+  rotate: false
+  xy: 1137, 203
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+2/qun1
+  rotate: true
+  xy: 876, 5
+  size: 93, 88
+  orig: 93, 88
+  offset: 0, 0
+  index: -1
+2/qun2_2
+  rotate: true
+  xy: 751, 187
+  size: 80, 62
+  orig: 80, 62
+  offset: 0, 0
+  index: -1
+2/qun3
+  rotate: true
+  xy: 51, 2
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+2/shen
+  rotate: false
+  xy: 966, 13
+  size: 80, 85
+  orig: 80, 85
+  offset: 0, 0
+  index: -1
+2/shouL1
+  rotate: true
+  xy: 424, 5
+  size: 44, 71
+  orig: 44, 71
+  offset: 0, 0
+  index: -1
+2/shouL2
+  rotate: true
+  xy: 90, 7
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+2/shouL3
+  rotate: true
+  xy: 131, 3
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+2/shouR1
+  rotate: true
+  xy: 1137, 139
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+2/shouR2
+  rotate: false
+  xy: 2, 4
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+2/shouR3_1
+  rotate: false
+  xy: 652, 133
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+2/shouR3_2
+  rotate: true
+  xy: 717, 141
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+2/tou_1
+  rotate: false
+  xy: 817, 100
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+2/tou_2
+  rotate: true
+  xy: 329, 131
+  size: 136, 162
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+2/toufa
+  rotate: false
+  xy: 652, 165
+  size: 97, 102
+  orig: 97, 102
+  offset: 0, 0
+  index: -1
+2/toushi1
+  rotate: true
+  xy: 1127, 52
+  size: 64, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+2/toushi2
+  rotate: false
+  xy: 241, 4
+  size: 103, 45
+  orig: 103, 45
+  offset: 0, 0
+  index: -1
+7171000_01
+  rotate: true
+  xy: 167, 4
+  size: 31, 35
+  orig: 38, 38
+  offset: 4, 0
+  index: -1
+7171000_02
+  rotate: true
+  xy: 204, 4
+  size: 31, 35
+  orig: 38, 38
+  offset: 3, 3
+  index: -1
+DropItemBoxSenior
+  rotate: false
+  xy: 688, 135
+  size: 27, 28
+  orig: 38, 38
+  offset: 5, 5
+  index: -1
+fx/Common_Glint
+  rotate: false
+  xy: 1048, 39
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+fxpa_01
+  rotate: false
+  xy: 493, 133
+  size: 157, 134
+  orig: 163, 137
+  offset: 3, 1
+  index: -1
+fxpa_02_1
+  rotate: false
+  xy: 2, 37
+  size: 217, 81
+  orig: 218, 82
+  offset: 0, 0
+  index: -1
+fxpa_02_2
+  rotate: false
+  xy: 221, 51
+  size: 239, 67
+  orig: 240, 68
+  offset: 1, 1
+  index: -1
+fxpa_02_3
+  rotate: false
+  xy: 563, 7
+  size: 183, 60
+  orig: 184, 61
+  offset: 1, 1
+  index: -1
+fxpa_02_4
+  rotate: false
+  xy: 462, 69
+  size: 184, 60
+  orig: 185, 60
+  offset: 0, 0
+  index: -1
+fxpa_02_5
+  rotate: false
+  xy: 648, 69
+  size: 167, 62
+  orig: 168, 62
+  offset: 0, 0
+  index: -1
+fxpa_02_6
+  rotate: false
+  xy: 748, 9
+  size: 126, 58
+  orig: 126, 59
+  offset: 0, 0
+  index: -1
+hit/impact_base
+  rotate: false
+  xy: 986, 118
+  size: 149, 149
+  orig: 154, 154
+  offset: 3, 2
+  index: -1
+hit/sdfsdfsvvvv
+  rotate: true
+  xy: 346, 3
+  size: 46, 76
+  orig: 46, 76
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 462, 52
+  size: 56, 15
+  orig: 58, 17
+  offset: 1, 1
+  index: -1

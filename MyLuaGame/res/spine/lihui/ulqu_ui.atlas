@@ -1,0 +1,202 @@
+
+ulqu_ui.png
+size: 1969, 1551
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+YOUfaqian
+  rotate: true
+  xy: 1034, 51
+  size: 101, 142
+  orig: 106, 154
+  offset: 5, 0
+  index: -1
+body
+  rotate: false
+  xy: 1065, 387
+  size: 447, 590
+  orig: 447, 689
+  offset: 0, 0
+  index: -1
+jiaoya
+  rotate: true
+  xy: 2, 37
+  size: 221, 426
+  orig: 223, 426
+  offset: 1, 0
+  index: -1
+jijiao_you
+  rotate: true
+  xy: 1304, 13
+  size: 139, 58
+  orig: 139, 71
+  offset: 0, 13
+  index: -1
+jijiao_zuo
+  rotate: true
+  xy: 990, 844
+  size: 133, 73
+  orig: 133, 87
+  offset: 0, 9
+  index: -1
+lian
+  rotate: false
+  xy: 1816, 243
+  size: 121, 153
+  orig: 122, 153
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: true
+  xy: 1178, 2
+  size: 64, 124
+  orig: 64, 124
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 430, 55
+  size: 416, 203
+  orig: 416, 216
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 990, 979
+  size: 850, 570
+  orig: 863, 583
+  offset: 7, 7
+  index: -1
+youchibang
+  rotate: false
+  xy: 2, 260
+  size: 1061, 480
+  orig: 1061, 480
+  offset: 0, 0
+  index: -1
+youfahou
+  rotate: false
+  xy: 1887, 853
+  size: 80, 137
+  orig: 91, 144
+  offset: 10, 7
+  index: -1
+youshoubi
+  rotate: false
+  xy: 1514, 526
+  size: 292, 451
+  orig: 334, 462
+  offset: 42, 0
+  index: -1
+youtoufa1
+  rotate: false
+  xy: 1364, 38
+  size: 75, 118
+  orig: 84, 118
+  offset: 0, 0
+  index: -1
+youtoufa2
+  rotate: true
+  xy: 1816, 398
+  size: 185, 109
+  orig: 186, 112
+  offset: 0, 0
+  index: -1
+youtoufa3
+  rotate: false
+  xy: 1487, 13
+  size: 266, 221
+  orig: 266, 221
+  offset: 0, 0
+  index: -1
+youtoufa4
+  rotate: true
+  xy: 1514, 236
+  size: 288, 300
+  orig: 289, 300
+  offset: 1, 0
+  index: -1
+youtoufa5
+  rotate: false
+  xy: 1842, 1213
+  size: 116, 336
+  orig: 116, 336
+  offset: 0, 0
+  index: -1
+zuochibang
+  rotate: false
+  xy: 2, 742
+  size: 986, 807
+  orig: 986, 807
+  offset: 0, 0
+  index: -1
+zuofahou
+  rotate: true
+  xy: 848, 40
+  size: 54, 149
+  orig: 60, 174
+  offset: 0, 25
+  index: -1
+zuofaqian
+  rotate: false
+  xy: 1842, 992
+  size: 113, 219
+  orig: 122, 246
+  offset: 0, 27
+  index: -1
+zuoshoubi
+  rotate: false
+  xy: 1065, 154
+  size: 295, 231
+  orig: 295, 291
+  offset: 0, 0
+  index: -1
+zuotoufa1
+  rotate: true
+  xy: 1838, 69
+  size: 172, 83
+  orig: 172, 84
+  offset: 0, 0
+  index: -1
+zuotoufa2
+  rotate: false
+  xy: 1178, 68
+  size: 124, 84
+  orig: 124, 84
+  offset: 0, 0
+  index: -1
+zuotoufa3
+  rotate: false
+  xy: 1808, 778
+  size: 77, 199
+  orig: 78, 199
+  offset: 0, 0
+  index: -1
+zuotoufa4
+  rotate: false
+  xy: 1755, 13
+  size: 81, 221
+  orig: 81, 232
+  offset: 0, 11
+  index: -1
+zuotoufa5
+  rotate: false
+  xy: 1362, 158
+  size: 123, 227
+  orig: 124, 227
+  offset: 0, 0
+  index: -1
+zuotoufa6
+  rotate: false
+  xy: 1808, 585
+  size: 140, 191
+  orig: 142, 191
+  offset: 1, 0
+  index: -1
+zuotoufa7
+  rotate: false
+  xy: 848, 96
+  size: 184, 162
+  orig: 209, 204
+  offset: 25, 42
+  index: -1

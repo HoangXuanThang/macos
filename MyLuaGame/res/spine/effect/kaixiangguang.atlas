@@ -1,0 +1,27 @@
+
+kaixiangguang.png
+size: 239,145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TX/TX_xt_g_0017
+  rotate: false
+  xy: 2, 14
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+images/TX/mobile_effect_1682
+  rotate: false
+  xy: 133, 60
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images/TX/zdsl_slgy2
+  rotate: true
+  xy: 2, 2
+  size: 10, 235
+  orig: 10, 235
+  offset: 0, 0
+  index: -1

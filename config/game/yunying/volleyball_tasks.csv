@@ -1,0 +1,31 @@
+﻿VariableName,huodongID,type,targetType,targetArg,targetArg2,award,title,title_tw,title_en,title_vn,title_kr
+Defaults,0,1,1,0,0,{},"""""","""404""","""404""","""404""","""404"""
+ID,活动版本ID,任务分类 1 每日 2 累计,任务目标类型,任务目标参数(数量）,任务目标参数2（对应参数ID）,任务奖励,标题,标题,标题,标题,标题
+101,1000,,101,1,,{rmb=10;6394=5;951=3},每日获胜场数,每日獲勝場數,Daily wins,Chiến thắng hàng ngày,매일 우승 횟수
+102,1000,,101,3,,{6394=5;rmb=10;5000=10},每日获胜场数,每日獲勝場數,Daily wins,Chiến thắng hàng ngày,매일 우승 횟수
+103,1000,,102,10,,{930=10;6394=5;rmb=10},每日获得分数,每日獲得分數,Daily score,Điểm hàng ngày,매일 획득한 점수
+104,1000,,103,3,,{6394=5;901=10;rmb=10},每日参与游戏场数,每日參與遊戲場數,Number of games played daily,Số lượng người tham gia mỗi ngày,매일 참여 횟수
+201,1000,2,201,5,,{502=2;6394=5;gold=200000},玩家获胜场数,玩家獲勝場數,Player wins,Người chơi thắng,우승 횟수
+202,1000,2,201,10,,{521=2;6394=5;gold=200000},玩家获胜场数,玩家獲勝場數,Player wins,Người chơi thắng,우승 횟수
+203,1000,2,201,20,,{6394=10;rmb=50;gold=200000},玩家获胜场数,玩家獲勝場數,Player wins,Người chơi thắng,우승 횟수
+204,1000,2,202,1,11852,{6394=5;gold=200000;503=1},战胜冰鬼护,戰勝冰鬼護,Defeat Glalie,Đánh bại Glalie,얼음귀신 이기기
+205,1000,2,202,1,92,{520=1;6394=5;gold=200000},战胜皮卡丘,戰勝皮卡丘,Defeat Pikachu,Đánh bại Pikachu,피카츄 이기기
+206,1000,2,202,1,221,{6394=5;519=1;gold=200000},战胜可达鸭,戰勝可達鴨,Defeat Psyduck,Đánh bại Psyduck,고라파덕 이기기
+207,1000,2,202,1,2242,{6394=5;gold=200000;527=1},战胜路卡利欧,戰勝路卡利歐,Defeat Lucario,Đánh bại Lucario,루카리오 이기기
+208,1000,2,203,3,,{901=10;6394=5;gold=200000},手误打出界外,手誤打出界外,Out of bounds by mistake,Ra khỏi giới hạn do nhầm lẫn,실수로 경계선 밖으로 나감
+209,1000,2,203,6,,{6394=5;902=10;gold=200000},手误打出界外,手誤打出界外,Out of bounds by mistake,Ra khỏi giới hạn do nhầm lẫn,실수로 경계선 밖으로 나감
+210,1000,2,203,10,,{6394=10;rmb=50;gold=200000},手误打出界外,手誤打出界外,Out of bounds by mistake,Ra khỏi giới hạn do nhầm lẫn,실수로 경계선 밖으로 나감
+211,1000,2,204,1,92,{6394=5;gold=200000;503=1},使用皮卡丘获胜,使用皮卡丘獲勝,Win by using Pikachu,Chiến thắng bằng cách sử dụng Pikachu,피카츄로 승리
+212,1000,2,204,1,21,{520=1;6394=5;gold=200000},使用杰尼龟获胜,使用傑尼龜獲勝,Win by using Squirtle,Giành chiến thắng bằng cách sử dụng Squirtle,꼬부기로 승리
+213,1000,2,204,1,893,{6394=5;519=1;gold=200000},使用玛力露丽获胜,使用瑪力露麗獲勝,Win by using Azumarill,Giành chiến thắng bằng cách sử dụng Azumarill,마릴리로 승리
+214,1000,2,204,1,502,{6394=5;gold=200000;527=1},使用吉利蛋获胜,使用吉利蛋獲勝,Win by using Chansey,Giành chiến thắng bằng cách sử dụng Chansey,럭키로 승리
+215,1000,2,205,10,,{6394=5;gold=200000;5000=30},参与场数,參與場數,Participated games,Các trò chơi đã tham gia,참여 횟수
+216,1000,2,205,20,,{930=30;6394=5;gold=200000},参与场数,參與場數,Participated games,Các trò chơi đã tham gia,참여 횟수
+217,1000,2,205,40,,{6394=10;rmb=50;gold=200000},参与场数,參與場數,Participated games,Các trò chơi đã tham gia,참여 횟수
+218,1000,2,206,3,,{850=200;6394=5;gold=200000},使用技能减速敌人,使用技能減速敵人,Use skills to slow down enemies,Sử dụng các kỹ năng để làm chậm kẻ thù,스킬을 사용해 상대를 감속시키기
+219,1000,2,206,6,,{851=100;6394=5;gold=200000},使用技能减速敌人,使用技能減速敵人,Use skills to slow down enemies,Sử dụng các kỹ năng để làm chậm kẻ thù,스킬을 사용해 상대를 감속시키기
+220,1000,2,206,10,,{6394=10;rmb=50;gold=200000},使用技能减速敌人,使用技能減速敵人,Use skills to slow down enemies,Sử dụng các kỹ năng để làm chậm kẻ thù,스킬을 사용해 상대를 감속시키기
+221,1000,2,207,3,,{6394=5;451=100;gold=200000},使用技能战胜对手,使用技能戰勝對手,Use skills to defeat opponents,Sử dụng các kỹ năng để đánh bại đối thủ,스킬을 사용해 상대를 이기기
+222,1000,2,207,6,,{6394=5;gold=200000;452=50},使用技能战胜对手,使用技能戰勝對手,Use skills to defeat opponents,Sử dụng các kỹ năng để đánh bại đối thủ,스킬을 사용해 상대를 이기기
+223,1000,2,207,10,,{6394=10;rmb=50;gold=200000},使用技能战胜对手,使用技能戰勝對手,Use skills to defeat opponents,Sử dụng các kỹ năng để đánh bại đối thủ,스킬을 사용해 상대를 이기기
+224,1000,2,208,23,,{6394=15;rmb=100;gold=200000},完成所有累计任务,完成所有累計任務,Complete all cumulative tasks,Hoàn thành tất cả các nhiệm vụ tích lũy,모든 누적 미션 완료

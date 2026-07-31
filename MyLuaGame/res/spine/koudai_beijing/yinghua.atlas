@@ -1,0 +1,41 @@
+
+yinghua.png
+size: 76,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yh_1
+  rotate: true
+  xy: 41, 49
+  size: 39, 34
+  orig: 43, 36
+  offset: 2, 1
+  index: -1
+yh_3
+  rotate: true
+  xy: 41, 18
+  size: 29, 34
+  orig: 29, 36
+  offset: 0, 1
+  index: -1
+yh_duli1
+  rotate: false
+  xy: 1, 46
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+yh_duli2
+  rotate: false
+  xy: 1, 1
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+yh_q1
+  rotate: false
+  xy: 1, 90
+  size: 74, 60
+  orig: 83, 73
+  offset: 1, 7
+  index: -1

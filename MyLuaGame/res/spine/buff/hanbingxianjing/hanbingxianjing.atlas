@@ -1,0 +1,27 @@
+
+hanbingxianjing.png
+size: 172,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bingbao3_5
+  rotate: false
+  xy: 1, 170
+  size: 170, 130
+  orig: 170, 130
+  offset: 0, 0
+  index: -1
+images/bingci_0005
+  rotate: true
+  xy: 100, 39
+  size: 129, 69
+  orig: 129, 69
+  offset: 0, 0
+  index: -1
+images/bingzui
+  rotate: false
+  xy: 1, 1
+  size: 97, 167
+  orig: 97, 167
+  offset: 0, 0
+  index: -1

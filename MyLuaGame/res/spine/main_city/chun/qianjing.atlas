@@ -1,0 +1,160 @@
+
+qianjing.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+denglong01
+  rotate: false
+  xy: 1689, 747
+  size: 271, 271
+  orig: 271, 271
+  offset: 0, 0
+  index: -1
+denglong02
+  rotate: true
+  xy: 2, 2
+  size: 183, 189
+  orig: 183, 189
+  offset: 0, 0
+  index: -1
+hua
+  rotate: true
+  xy: 327, 122
+  size: 63, 136
+  orig: 63, 136
+  offset: 0, 0
+  index: -1
+huaban1
+  rotate: false
+  xy: 465, 131
+  size: 88, 54
+  orig: 88, 54
+  offset: 0, 0
+  index: -1
+huaban10
+  rotate: true
+  xy: 1962, 752
+  size: 102, 43
+  orig: 102, 43
+  offset: 0, 0
+  index: -1
+huaban2
+  rotate: true
+  xy: 1579, 683
+  size: 125, 89
+  orig: 125, 89
+  offset: 0, 0
+  index: -1
+huaban3
+  rotate: false
+  xy: 727, 285
+  size: 68, 122
+  orig: 68, 122
+  offset: 0, 0
+  index: -1
+huaban4
+  rotate: true
+  xy: 1579, 569
+  size: 112, 83
+  orig: 112, 83
+  offset: 0, 0
+  index: -1
+huaban5
+  rotate: false
+  xy: 193, 19
+  size: 107, 52
+  orig: 107, 52
+  offset: 0, 0
+  index: -1
+huaban6
+  rotate: false
+  xy: 1962, 856
+  size: 70, 162
+  orig: 70, 162
+  offset: 0, 0
+  index: -1
+huaban7
+  rotate: false
+  xy: 1443, 443
+  size: 88, 78
+  orig: 88, 78
+  offset: 0, 0
+  index: -1
+huaban8
+  rotate: false
+  xy: 581, 285
+  size: 144, 122
+  orig: 144, 122
+  offset: 0, 0
+  index: -1
+huaban9
+  rotate: false
+  xy: 581, 192
+  size: 110, 91
+  orig: 110, 91
+  offset: 0, 0
+  index: -1
+kaimen
+  rotate: false
+  xy: 805, 421
+  size: 380, 387
+  orig: 380, 387
+  offset: 0, 0
+  index: -1
+lianhua1
+  rotate: true
+  xy: 1187, 523
+  size: 285, 390
+  orig: 285, 390
+  offset: 0, 0
+  index: -1
+qianjing
+  rotate: false
+  xy: 2, 409
+  size: 801, 609
+  orig: 801, 609
+  offset: 0, 0
+  index: -1
+qianjinghua
+  rotate: false
+  xy: 805, 810
+  size: 882, 208
+  orig: 882, 208
+  offset: 0, 0
+  index: -1
+shitou
+  rotate: false
+  xy: 2, 187
+  size: 577, 220
+  orig: 577, 220
+  offset: 0, 0
+  index: -1
+shuye1
+  rotate: false
+  xy: 1346, 432
+  size: 95, 89
+  orig: 95, 89
+  offset: 0, 0
+  index: -1
+shuye2
+  rotate: false
+  xy: 693, 196
+  size: 102, 87
+  orig: 102, 87
+  offset: 0, 0
+  index: -1
+shuye3
+  rotate: false
+  xy: 1187, 441
+  size: 157, 80
+  orig: 157, 80
+  offset: 0, 0
+  index: -1
+zhedang
+  rotate: false
+  xy: 193, 73
+  size: 132, 112
+  orig: 132, 112
+  offset: 0, 0
+  index: -1

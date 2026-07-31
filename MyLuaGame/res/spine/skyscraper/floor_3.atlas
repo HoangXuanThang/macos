@@ -1,0 +1,48 @@
+
+floor_3.png
+size: 356,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuanghu
+  rotate: true
+  xy: 1, 1
+  size: 112, 125
+  orig: 112, 125
+  offset: 0, 0
+  index: -1
+d_wu
+  rotate: false
+  xy: 273, 34
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+hengliang
+  rotate: false
+  xy: 128, 98
+  size: 227, 15
+  orig: 227, 15
+  offset: 0, 0
+  index: -1
+wuding1
+  rotate: true
+  xy: 194, 12
+  size: 84, 77
+  orig: 84, 77
+  offset: 0, 0
+  index: -1
+wuding2
+  rotate: true
+  xy: 128, 4
+  size: 92, 64
+  orig: 92, 64
+  offset: 0, 0
+  index: -1
+wuguan
+  rotate: false
+  xy: 1, 115
+  size: 322, 153
+  orig: 322, 153
+  offset: 0, 0
+  index: -1

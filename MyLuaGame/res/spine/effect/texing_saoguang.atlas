@@ -1,0 +1,27 @@
+
+texing_saoguang.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g_ban
+  rotate: false
+  xy: 263, 2
+  size: 167, 96
+  orig: 167, 96
+  offset: 0, 0
+  index: -1
+g_jianb
+  rotate: false
+  xy: 2, 12
+  size: 259, 86
+  orig: 259, 86
+  offset: 0, 0
+  index: -1
+w_xx
+  rotate: false
+  xy: 432, 15
+  size: 82, 83
+  orig: 82, 83
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,501 @@
+
+jianba_lihui.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+dao
+  rotate: false
+  xy: 2, 1601
+  size: 1775, 431
+  orig: 1775, 431
+  offset: 0, 0
+  index: -1
+dao2
+  rotate: true
+  xy: 1965, 875
+  size: 164, 41
+  orig: 164, 41
+  offset: 0, 0
+  index: -1
+daoqiao
+  rotate: false
+  xy: 496, 114
+  size: 224, 87
+  orig: 224, 87
+  offset: 0, 0
+  index: -1
+jian 2
+  rotate: true
+  xy: 1793, 797
+  size: 242, 170
+  orig: 242, 170
+  offset: 0, 0
+  index: -1
+jiao 1
+  rotate: true
+  xy: 1793, 624
+  size: 171, 159
+  orig: 171, 159
+  offset: 0, 0
+  index: -1
+jiao 2
+  rotate: true
+  xy: 246, 58
+  size: 143, 248
+  orig: 143, 248
+  offset: 0, 0
+  index: -1
+jie
+  rotate: false
+  xy: 2, 8
+  size: 242, 193
+  orig: 242, 193
+  offset: 0, 0
+  index: -1
+kua
+  rotate: false
+  xy: 1383, 7
+  size: 510, 385
+  orig: 510, 385
+  offset: 0, 0
+  index: -1
+shengti
+  rotate: false
+  xy: 786, 202
+  size: 595, 591
+  orig: 595, 591
+  offset: 0, 0
+  index: -1
+shou 1
+  rotate: false
+  xy: 496, 2
+  size: 132, 110
+  orig: 132, 110
+  offset: 0, 0
+  index: -1
+shou 2
+  rotate: false
+  xy: 1793, 1041
+  size: 239, 236
+  orig: 239, 236
+  offset: 0, 0
+  index: -1
+shoubi 2
+  rotate: true
+  xy: 1779, 1654
+  size: 378, 237
+  orig: 378, 237
+  offset: 0, 0
+  index: -1
+shoubi 4
+  rotate: true
+  xy: 1793, 1279
+  size: 373, 241
+  orig: 373, 241
+  offset: 0, 0
+  index: -1
+tou_by
+  rotate: true
+  xy: 2018, 1960
+  size: 72, 19
+  orig: 72, 19
+  offset: 0, 0
+  index: -1
+tui 1
+  rotate: false
+  xy: 2, 203
+  size: 781, 459
+  orig: 781, 459
+  offset: 0, 0
+  index: -1
+tui 2
+  rotate: true
+  xy: 1383, 394
+  size: 593, 408
+  orig: 593, 408
+  offset: 0, 0
+  index: -1
+tui4
+  rotate: true
+  xy: 1369, 989
+  size: 610, 422
+  orig: 610, 422
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00000
+  rotate: false
+  xy: 1889, 482
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00001
+  rotate: false
+  xy: 1895, 340
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00002
+  rotate: false
+  xy: 1895, 198
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00003
+  rotate: false
+  xy: 1895, 56
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00004
+  rotate: false
+  xy: 722, 60
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00005
+  rotate: false
+  xy: 864, 60
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00006
+  rotate: false
+  xy: 1006, 60
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00007
+  rotate: false
+  xy: 1148, 60
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: true
+  xy: 1793, 413
+  size: 209, 94
+  orig: 209, 94
+  offset: 0, 0
+  index: -1
+yifu 1
+  rotate: false
+  xy: 786, 795
+  size: 581, 804
+  orig: 581, 804
+  offset: 0, 0
+  index: -1
+yifu 2
+  rotate: false
+  xy: 2, 664
+  size: 782, 935
+  orig: 782, 935
+  offset: 0, 0
+  index: -1
+
+jianba_lihui_2.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+jian
+  rotate: false
+  xy: 842, 442
+  size: 384, 328
+  orig: 384, 328
+  offset: 0, 0
+  index: -1
+shoubi 3
+  rotate: true
+  xy: 1664, 1499
+  size: 531, 354
+  orig: 531, 354
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 972
+  size: 436, 580
+  orig: 436, 580
+  offset: 0, 0
+  index: -1
+tui3
+  rotate: false
+  xy: 2, 1554
+  size: 560, 476
+  orig: 560, 476
+  offset: 0, 0
+  index: -1
+tx/NPC_1033_dd30
+  rotate: false
+  xy: 564, 1612
+  size: 548, 418
+  orig: 548, 418
+  offset: 0, 0
+  index: -1
+tx/NPC_1033_dd31
+  rotate: true
+  xy: 2, 422
+  size: 548, 418
+  orig: 548, 418
+  offset: 0, 0
+  index: -1
+tx/NPC_1033_dd32
+  rotate: false
+  xy: 1114, 1612
+  size: 548, 418
+  orig: 548, 418
+  offset: 0, 0
+  index: -1
+tx/NPC_1033_dd33
+  rotate: false
+  xy: 2, 2
+  size: 548, 418
+  orig: 548, 418
+  offset: 0, 0
+  index: -1
+tx/NPC_1033_dd34
+  rotate: true
+  xy: 422, 422
+  size: 548, 418
+  orig: 548, 418
+  offset: 0, 0
+  index: -1
+tx/NPC_1033_dd35
+  rotate: false
+  xy: 552, 2
+  size: 548, 418
+  orig: 548, 418
+  offset: 0, 0
+  index: -1
+tx/NPC_1033_dd36
+  rotate: true
+  xy: 440, 1004
+  size: 548, 418
+  orig: 548, 418
+  offset: 0, 0
+  index: -1
+tx/NPC_1033_dd37
+  rotate: false
+  xy: 860, 1192
+  size: 548, 418
+  orig: 548, 418
+  offset: 0, 0
+  index: -1
+tx/NPC_1033_dd38
+  rotate: false
+  xy: 860, 772
+  size: 548, 418
+  orig: 548, 418
+  offset: 0, 0
+  index: -1
+tx/NPC_1033_dd39
+  rotate: false
+  xy: 1410, 1079
+  size: 548, 418
+  orig: 548, 418
+  offset: 0, 0
+  index: -1
+tx/NPC_1033_dd40
+  rotate: false
+  xy: 1410, 659
+  size: 548, 418
+  orig: 548, 418
+  offset: 0, 0
+  index: -1
+tx/NPC_1033_dd41
+  rotate: false
+  xy: 1228, 239
+  size: 548, 418
+  orig: 548, 418
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00008
+  rotate: false
+  xy: 1778, 517
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00009
+  rotate: false
+  xy: 1778, 375
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00010
+  rotate: false
+  xy: 1778, 233
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00011
+  rotate: false
+  xy: 1102, 97
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00012
+  rotate: false
+  xy: 1244, 97
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00013
+  rotate: false
+  xy: 1386, 97
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00014
+  rotate: false
+  xy: 1528, 97
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00015
+  rotate: false
+  xy: 1670, 91
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00016
+  rotate: false
+  xy: 1812, 91
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+
+jianba_lihui_3.png
+size: 2048, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+jian 3
+  rotate: false
+  xy: 552, 144
+  size: 365, 356
+  orig: 365, 356
+  offset: 0, 0
+  index: -1
+shoubi 1
+  rotate: false
+  xy: 919, 224
+  size: 406, 276
+  orig: 406, 276
+  offset: 0, 0
+  index: -1
+tx/NPC_1033_dd42
+  rotate: false
+  xy: 2, 82
+  size: 548, 418
+  orig: 548, 418
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00017
+  rotate: false
+  xy: 1327, 360
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00018
+  rotate: false
+  xy: 1469, 360
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00019
+  rotate: false
+  xy: 1611, 360
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00020
+  rotate: false
+  xy: 1753, 360
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00021
+  rotate: false
+  xy: 1895, 360
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00022
+  rotate: false
+  xy: 1327, 218
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00023
+  rotate: false
+  xy: 1469, 218
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00024
+  rotate: false
+  xy: 1611, 218
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00025
+  rotate: false
+  xy: 1753, 218
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00026
+  rotate: false
+  xy: 1895, 218
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00027
+  rotate: false
+  xy: 919, 82
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00028
+  rotate: false
+  xy: 1061, 82
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+tx/hero_1006_relang_00029
+  rotate: false
+  xy: 552, 2
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1

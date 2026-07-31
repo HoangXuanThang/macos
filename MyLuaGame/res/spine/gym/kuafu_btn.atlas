@@ -1,0 +1,34 @@
+
+kuafu_btn.png
+size: 224,129
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 2
+  size: 64, 126
+  orig: 127, 126
+  offset: 63, 0
+  index: -1
+qq1
+  rotate: false
+  xy: 146, 51
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+qqq3
+  rotate: false
+  xy: 67, 50
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+qqq4
+  rotate: true
+  xy: 67, 1
+  size: 47, 92
+  orig: 91, 92
+  offset: 44, 0
+  index: -1

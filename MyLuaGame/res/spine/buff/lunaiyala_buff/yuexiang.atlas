@@ -1,0 +1,48 @@
+
+yuexiang.png
+size: 258,558
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj1
+  rotate: false
+  xy: 1, 380
+  size: 256, 177
+  orig: 256, 177
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 1, 122
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 131, 46
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+xingkong_x
+  rotate: true
+  xy: 131, 226
+  size: 152, 119
+  orig: 152, 119
+  offset: 0, 0
+  index: -1
+yueliang
+  rotate: false
+  xy: 131, 135
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+yueliang2
+  rotate: false
+  xy: 1, 1
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1

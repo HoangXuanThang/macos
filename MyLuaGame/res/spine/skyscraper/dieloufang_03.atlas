@@ -1,0 +1,20 @@
+
+dieloufang_03.png
+size: 482,379
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangyun
+  rotate: false
+  xy: 1, 1
+  size: 379, 377
+  orig: 379, 377
+  offset: 0, 0
+  index: -1
+ym
+  rotate: false
+  xy: 382, 110
+  size: 99, 268
+  orig: 99, 271
+  offset: 0, 3
+  index: -1

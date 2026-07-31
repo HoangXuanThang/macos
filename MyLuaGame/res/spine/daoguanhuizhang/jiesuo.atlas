@@ -1,0 +1,41 @@
+
+jiesuo.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangyun
+  rotate: false
+  xy: 283, 13
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+hy_q7
+  rotate: false
+  xy: 1, 1
+  size: 119, 116
+  orig: 119, 116
+  offset: 0, 0
+  index: -1
+qz
+  rotate: false
+  xy: 122, 41
+  size: 159, 76
+  orig: 159, 76
+  offset: 0, 0
+  index: -1
+suo1
+  rotate: false
+  xy: 122, 1
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+suo2
+  rotate: false
+  xy: 389, 62
+  size: 72, 55
+  orig: 72, 55
+  offset: 0, 0
+  index: -1

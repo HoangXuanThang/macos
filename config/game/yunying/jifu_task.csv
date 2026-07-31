@@ -1,0 +1,19 @@
+﻿VariableName,huodongID,boardID,taskType,taskParam,taskSpecialParam,desc,desc_tw,desc_en,desc_vn,desc_kr,award,goTo
+Defaults,0,0,0,9999,{},"""""","""""","""""","""""","""""",{},""""""
+ID,活动版本ID,号码牌ID,任务类型,任务参数,任务特殊参数,描述,描述,描述,描述_越南,描述_韩,奖励,跳转目标
+101,10011,1,29,600,,挑战普通关卡600次,挑戰普通關卡600次,Challenge Common Stage 600 times,Thử thách Giai đoạn chung 600 lần,일반 스테이지 500회 도전,{stamina=200;gold=200000},10000
+102,10011,2,35,50,,精灵突破50次,精靈突破50次,Ascend Ninja 50 times,Thăng hạng Ninja 50 lần,포켓몬 돌파 30회,{gold=200000;503=20},strengthen-advance
+103,10011,3,112,3,{3=7},以太乐园累计通过7层3次,乙太樂園累計通過7層3次,Clear 7F of Aether Paradise 3 times,Vượt tầng 7 của Aether Paradise 3 lần,에테르파라다이스 7층 3회 클리어,{519=20;gold=200000},randomTower
+104,10011,4,17,5,,累计登录5天,累計登錄5天,Login for 5 days,Đăng nhập trong 5 ngày,누적 5일 로그인,{520=10;gold=200000},
+105,10011,5,20,20000000,,累计消耗20000000金币,累計消耗20000000金幣,"Spent 20,000,000 Coins in total",Tổng cộng đã tiêu 20 triệu vàng,20000000 코인 누적 소모,{901=50;gold=200000},
+106,10011,6,50,30,,钻石抽卡次数达30次,鑽石抽卡次數達30次,Drawing with Diamonds 30 times,Rút vé bằng Nguyên Bảo 30 lần,다이아 뽑기 30회 달성,{850=100;gold=200000},drawCard-diamond
+107,10011,7,30,150,,挑战精英关卡次数150次,挑戰精英關卡次數150次,Challenge Elite Stage 150 times,Thử thách Giai đoạn khó 150 lần,정예 스테이지 150회 도전,{851=100;gold=200000},20000
+108,10011,8,86,25,{25=4},完成S级以上的派遣25次,完成S級以上的派遣25次,Complete Rank S or higher Dispatch 25 times,Hoàn thành Xếp hạng S trở lên điều phái 25 lần,S급 이상 파견 20회 완료,{gold=200000;5000=500},dispatchTask
+109,10011,9,36,200,,累计升级精灵200次,累計升級精靈200次,Upgrade Ninja 200 times,Nâng cấp Ninja 200 lần,포켓몬 레벨업 200회 누적,{930=50;gold=200000},strengthen-1
+110,10011,10,21,3000,,累计消费3000钻,累計消費3000鑽,"Spent 3,000 Diamonds in total",Tổng cộng đã tiêu 3.000 Nguyên Bảo,3000 다이아 누적 소모,{529=500;gold=200000},
+111,10011,11,26,20,,购买体力20次,購買體力20次,Purchase Stamina 20 times,Mua năng lượng 20 lần,체력 20회 구매,{902=30;gold=200000},gainStamina
+112,10011,12,18,60,,聚宝累计60次,聚寶累計60次,Join Fortune 60 times,Tham gia Fortune 60 lần,보물단지 누적 50회,{coin1=3000;gold=200000},gainGold
+113,10011,13,41,50,,竞技场累计战斗50次,競技場累計戰鬥50次,Fight in the Arena 50 times,Chiến đấu trong Đấu trường 50 lần,아레나 누적 50회 전투,{coin2=3000;gold=200000},arena
+114,10011,14,34,200,,技能升级200次,技能升級200次,Upgrade Skill 200 times,Nâng cấp kỹ năng 200 lần,기술 100회 레벨업,{gold=200000;coin3=3000},strengthen-5
+115,10011,15,55,40,,公会捐献40次,公會捐獻40次,Donate to Guild 40 times,Đóng góp cho Guild 40 lần,길드 기부 30회,{gold=200000;talent_point=10},union
+116,10011,16,37,20,,精灵升星20次,精靈升星20次,Star up Ninja 20 times,Nâng sao Ninja 20 lần,포켓몬 20회 승급,{19=30;gold=200000},strengthen-4

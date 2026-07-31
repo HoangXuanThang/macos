@@ -1,0 +1,83 @@
+
+effect_kakaluote_2.png
+size: 962, 543
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+images/chi_2_0000
+  rotate: false
+  xy: 727, 6
+  size: 88, 96
+  orig: 128, 128
+  offset: 6, 23
+  index: -1
+images/chi_2_0001
+  rotate: true
+  xy: 817, 12
+  size: 90, 72
+  orig: 128, 128
+  offset: 13, 31
+  index: -1
+images/chi_2_0002
+  rotate: false
+  xy: 891, 33
+  size: 69, 69
+  orig: 128, 128
+  offset: 27, 34
+  index: -1
+images/jianline
+  rotate: false
+  xy: 661, 29
+  size: 64, 512
+  orig: 64, 512
+  offset: 0, 0
+  index: -1
+images/kakaluote_09
+  rotate: false
+  xy: 2, 2
+  size: 396, 539
+  orig: 450, 582
+  offset: 35, 0
+  index: -1
+images/mikoto_s2_000
+  rotate: false
+  xy: 574, 37
+  size: 85, 504
+  orig: 85, 512
+  offset: 0, 4
+  index: -1
+images/mikoto_s2_001
+  rotate: false
+  xy: 400, 31
+  size: 85, 510
+  orig: 85, 512
+  offset: 0, 2
+  index: -1
+images/mikoto_s2_002
+  rotate: false
+  xy: 487, 31
+  size: 85, 510
+  orig: 85, 512
+  offset: 0, 1
+  index: -1
+images/sddf0001
+  rotate: true
+  xy: 727, 104
+  size: 143, 206
+  orig: 166, 247
+  offset: 12, 12
+  index: -1
+images/sddf0002
+  rotate: true
+  xy: 727, 396
+  size: 145, 215
+  orig: 166, 247
+  offset: 11, 12
+  index: -1
+images/sddf0003
+  rotate: true
+  xy: 727, 249
+  size: 145, 209
+  orig: 166, 247
+  offset: 10, 13
+  index: -1

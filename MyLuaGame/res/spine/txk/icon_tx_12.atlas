@@ -1,0 +1,111 @@
+
+icon_tx_12.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 908, 626
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 744, 366
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1210, 943
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 606, 211
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 606, 229
+  size: 136, 149
+  orig: 136, 149
+  offset: 0, 0
+  index: -1
+闪电BUFF/1
+  rotate: false
+  xy: 2, 682
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+闪电BUFF/2
+  rotate: false
+  xy: 2, 380
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+闪电BUFF/3
+  rotate: false
+  xy: 304, 682
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+闪电BUFF/4
+  rotate: false
+  xy: 2, 78
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+闪电BUFF/5
+  rotate: false
+  xy: 304, 380
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+闪电BUFF/6
+  rotate: false
+  xy: 606, 682
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+闪电BUFF/7
+  rotate: false
+  xy: 304, 78
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+闪电BUFF/8
+  rotate: false
+  xy: 606, 380
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+闪电BUFF/9
+  rotate: false
+  xy: 908, 682
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1

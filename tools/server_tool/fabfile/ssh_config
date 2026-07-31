@@ -1,0 +1,664 @@
+Host *
+	User root
+	RemoteForward 3690 192.168.1.125:3690
+	ForwardAgent yes
+
+Host tc-pokemon-cn*
+	IdentityFile ./ssh_key/key_kdjx_game
+
+Host heat02
+	HostName 192.168.1.125
+
+Host heat03
+	HostName 192.168.1.98
+
+Host heat04
+	HostName 192.168.1.96
+
+Host tc-pokemon-cn-mq
+	HostName 129.211.32.127
+	IdentityFile ./ssh_key/key_kdjx_nsq
+
+Host tc-pokemon-cn-login
+	HostName 212.64.58.151
+	IdentityFile ./ssh_key/key_kdjx_nsq
+
+Host tc-pokemon-cn-gm
+	HostName 172.81.227.66
+	IdentityFile ./ssh_key/key_kdjx_game
+
+Host tc-pokemon-cn-01
+	HostName 212.64.40.75
+
+Host tc-pokemon-cn-02
+	HostName 106.54.126.187
+
+Host tc-pokemon-cn-03
+	HostName 175.24.82.171
+
+Host tc-pokemon-cn-04
+	HostName 175.24.83.86
+
+Host tc-pokemon-cn-05
+	HostName 212.64.87.171
+
+Host tc-pokemon-cn-06
+	HostName 175.24.90.190
+
+Host tc-pokemon-cn-07
+	HostName 175.24.66.44
+
+Host tc-pokemon-cn-08
+	HostName 49.235.219.233
+
+Host tc-pokemon-cn-09
+	HostName 49.235.43.249
+
+Host tc-pokemon-cn-10
+	HostName 175.24.94.71
+
+Host tc-pokemon-cn-11
+	HostName 175.24.55.248
+
+Host tc-pokemon-cn-12
+	HostName 212.64.32.10
+
+Host tc-pokemon-cn-13
+	HostName 129.211.84.248
+
+Host tc-pokemon-cn-14
+	HostName 175.24.16.53
+
+Host tc-pokemon-cn-15
+	HostName 49.234.76.95
+
+Host tc-pokemon-cn-16
+	HostName 49.235.40.29
+
+Host tc-pokemon-cn-17
+	HostName 106.54.70.57
+
+Host tc-pokemon-cn-18
+	HostName 49.235.247.167
+
+Host tc-pokemon-cn-19
+	HostName 49.235.16.217
+
+Host tc-pokemon-cn-20
+	HostName 212.64.64.74
+
+Host tc-pokemon-cn-21
+	HostName 49.235.229.36
+
+Host tc-pokemon-cn-22
+	HostName 175.24.115.75
+
+Host tc-pokemon-cn-23
+	HostName 175.24.116.251
+
+Host tc-pokemon-cn-24
+	HostName 49.234.67.78
+
+Host tc-pokemon-cn-25
+	HostName 175.24.115.50
+
+Host tc-pokemon-cn-26
+	HostName 49.234.125.15
+
+Host tc-pokemon-cn-27
+	HostName 49.235.232.176
+
+Host tc-pokemon-cn-28
+	HostName 175.24.127.203
+
+Host tc-pokemon-cn-29
+	HostName 49.234.220.30
+
+Host tc-pokemon-cn-30
+	HostName 49.235.234.36
+
+Host tc-pokemon-cn-31
+	HostName 175.24.126.239
+
+Host tc-pokemon-cn-32
+	HostName 49.234.99.152
+
+Host tc-pokemon-cn-33
+	HostName 49.234.100.39
+
+Host tc-pokemon-cn-34
+	HostName 49.235.249.195
+
+Host tc-pokemon-cn-35
+	HostName 49.234.92.112
+
+Host tc-pokemon-cn-36
+	HostName 175.24.114.83
+
+Host tc-pokemon-cn-37
+	HostName 121.4.193.117
+
+Host tc-pokemon-cn-38
+	HostName 49.235.249.136
+
+Host tc-pokemon-cn-39
+	HostName 49.234.108.115
+
+Host tc-pokemon-cn-40
+	HostName 101.34.100.239
+
+Host tc-pokemon-cn-41
+	HostName 1.116.61.52
+
+Host tc-pokemon-cn_qd-01
+	HostName 49.235.248.105
+
+Host tc-pokemon-cn_qd-02
+	HostName 49.235.238.44
+
+Host tc-pokemon-cn_qd-03
+	HostName 106.54.69.20
+
+Host tc-pokemon-cn_qd-04
+	HostName 175.24.51.5
+
+Host tc-pokemon-cn_qd-05
+	HostName 49.234.90.53
+
+Host tc-pokemon-cn_qd-06
+	HostName 175.24.77.41
+
+Host tc-pokemon-cn_qd-07
+	HostName 175.24.83.162
+
+Host tc-pokemon-cn_qd-08
+	HostName 129.211.48.90
+
+Host tc-pokemon-cn_qd-09
+	HostName 49.235.20.229
+
+Host tc-pokemon-cn_qd-10
+	HostName 49.234.70.41
+
+Host tc-pokemon-cn_qd-11
+	HostName 49.234.230.143
+
+Host tc-pokemon-cn_qd-12
+	HostName 49.235.249.116
+
+Host tc-pokemon-cn_qd-13
+	HostName 49.234.219.64
+
+Host tc-pokemon-cn_qd-14
+	HostName 106.54.121.184
+
+Host tc-pokemon-cn_qd-15
+	HostName 49.234.229.205
+
+Host tc-pokemon-cn_qd-16
+	HostName 175.24.14.221
+
+Host tc-pokemon-cn_qd-17
+	HostName 49.235.255.131
+
+Host tc-pokemon-cn_qd-18
+	HostName 106.54.111.167
+
+Host tc-pokemon-cn_qd-19
+	HostName 172.81.216.207
+
+Host tc-pokemon-cn_qd-20
+	HostName 49.235.199.211
+
+Host tc-pokemon-cn_qd-21
+	HostName 106.54.90.178
+
+Host tc-pokemon-cn_qd-22
+	HostName 106.54.73.161
+
+Host tc-pokemon-cn_qd-23
+	HostName 212.64.35.184
+
+Host tc-pokemon-cn_qd-24
+	HostName 49.235.231.230
+
+Host tc-pokemon-cn_qd-25
+	HostName 106.54.124.52
+
+Host tc-pokemon-cn_qd-26
+	HostName 106.54.119.14
+
+Host tc-pokemon-cn_qd-27
+	HostName 49.235.4.151
+
+Host tc-pokemon-cn_qd-28
+	HostName 49.234.212.217
+
+Host tc-pokemon-cn_qd-29
+	HostName 49.234.100.177
+
+Host tc-pokemon-cn_qd-30
+	HostName 49.234.124.150
+
+Host tc-pokemon-cn_qd-31
+	HostName 49.235.221.2
+
+Host tc-pokemon-cn_qd-32
+	HostName 172.81.248.246
+
+Host tc-pokemon-cn_qd-33
+	HostName 106.54.91.94
+
+Host tc-pokemon-cn_qd-34
+	HostName 172.81.204.163
+
+Host tc-pokemon-cn_qd-35
+	HostName 49.235.23.191
+
+Host tc-pokemon-cn_qd-36
+	HostName 49.234.92.62
+
+Host tc-pokemon-cn_qd-37
+	HostName 49.235.24.152
+
+Host tc-pokemon-cn_qd-38
+	HostName 49.235.47.172
+
+Host tc-pokemon-cn_qd-39
+	HostName 129.211.93.121
+
+Host tc-pokemon-cn_qd-40
+	HostName 49.235.245.184
+
+Host tc-pokemon-cn_qd-41
+	HostName 49.235.196.126
+
+Host tc-pokemon-cn_qd-42
+	HostName 172.81.204.21
+
+Host tc-pokemon-cn_qd-43
+	HostName 49.234.75.92
+
+Host tc-pokemon-cn_qd-44
+	HostName 175.24.85.90
+
+Host tc-pokemon-cn_qd-45
+	HostName 212.64.87.81
+
+Host tc-pokemon-cn_qd-46
+	HostName 49.234.64.167
+
+Host tc-pokemon-cn_qd-47
+	HostName 172.81.243.184
+
+Host tc-pokemon-cn_qd-48
+	HostName 49.234.232.85
+
+Host tc-pokemon-cn_qd-49
+	HostName 129.211.78.189
+
+Host tc-pokemon-cn_qd-50
+	HostName 106.54.108.74
+
+Host tc-pokemon-cn_qd-51
+	HostName 49.234.84.43
+
+Host tc-pokemon-cn_qd-52
+	HostName 49.234.118.119
+
+Host tc-pokemon-cn_qd-53
+	HostName 106.54.87.23
+
+Host tc-pokemon-cn_qd-54
+	HostName 212.64.87.70
+
+Host tc-pokemon-cn_qd-55
+	HostName 49.235.216.247
+
+Host tc-pokemon-cn_qd-56
+	HostName 118.25.251.53
+
+Host tc-pokemon-cn_qd-57
+	HostName 106.54.113.44
+
+Host tc-pokemon-cn_qd-58
+	HostName 49.234.123.104
+
+Host tc-pokemon-cn_qd-59
+	HostName 49.235.52.206
+
+Host tc-pokemon-cn_qd-60
+	HostName 49.234.70.197
+
+Host tc-pokemon-cn_qd-61
+	HostName 106.54.133.68
+
+Host tc-pokemon-cn_qd-62
+	HostName 49.234.64.226
+
+Host tc-pokemon-cn_qd-63
+	HostName 49.235.248.137
+
+Host tc-pokemon-cn_qd-64
+	HostName 106.54.108.111
+
+Host tc-pokemon-cn_qd-65
+	HostName 49.234.66.99
+
+Host tc-pokemon-cn_qd-66
+	HostName 49.234.121.189
+
+Host tc-pokemon-cn_qd-67
+	HostName 175.24.116.76
+
+Host tc-pokemon-cn_qd-68
+	HostName 175.24.113.91
+
+Host tc-pokemon-cn_qd-69
+	HostName 175.24.115.196
+
+Host tc-pokemon-cn_qd-70
+	HostName 175.24.116.90
+
+Host tc-pokemon-cn_qd-71
+	HostName 175.24.117.156
+
+Host tc-pokemon-cn_qd-72
+	HostName 175.24.118.94
+
+Host tc-pokemon-cn_qd-73
+	HostName 175.24.116.116
+
+Host tc-pokemon-cn_qd-74
+	HostName 175.24.118.53
+
+Host tc-pokemon-cn_qd-75
+	HostName 49.234.74.102
+
+Host tc-pokemon-cn_qd-76
+	HostName 175.24.119.124
+
+Host tc-pokemon-cn_qd-77
+	HostName 175.24.115.221
+
+Host tc-pokemon-cn_qd-78
+	HostName 175.24.118.119
+
+Host tc-pokemon-cn_qd-79
+	HostName 49.234.228.152
+
+Host tc-pokemon-cn_qd-80
+	HostName 49.234.210.177
+
+Host tc-pokemon-cn_qd-81
+	HostName 49.234.115.168
+
+Host tc-pokemon-cn_qd-82
+	HostName 49.234.211.184
+
+Host tc-pokemon-cn_qd-83
+	HostName 49.234.71.129
+
+Host tc-pokemon-cn_qd-84
+	HostName 49.234.238.149
+
+Host tc-pokemon-cn_qd-85
+	HostName 49.234.73.141
+
+Host tc-pokemon-cn_qd-86
+	HostName 49.234.228.97
+
+Host tc-pokemon-cn_qd-87
+	HostName 49.234.210.96
+
+Host tc-pokemon-cn_qd-88
+	HostName 49.234.230.200
+
+Host tc-pokemon-cn_qd-89
+	HostName 49.234.78.240
+
+Host tc-pokemon-cn_qd-90
+	HostName 49.234.121.201
+
+Host tc-pokemon-cn_qd-91
+	HostName 49.234.93.210
+
+Host tc-pokemon-cn_qd-92
+	HostName 49.234.75.214
+
+Host tc-pokemon-cn_qd-93
+	HostName 49.234.79.166
+
+Host tc-pokemon-cn_qd-94
+	HostName 49.234.220.17
+
+Host tc-pokemon-cn_qd-95
+	HostName 49.234.212.103
+
+Host tc-pokemon-cn_qd-96
+	HostName 49.234.125.195
+
+Host tc-pokemon-cn_qd-97
+	HostName 49.234.97.234
+
+Host tc-pokemon-cn_qd-98
+	HostName 49.234.212.226
+
+Host tc-pokemon-cn_qd-99
+	HostName 175.24.114.143
+
+Host tc-pokemon-cn_qd-100
+	HostName 49.234.96.130
+
+Host tc-pokemon-cn_qd-101
+	HostName 49.235.253.238
+
+Host tc-pokemon-cn_qd-102
+	HostName 49.234.104.169
+
+Host tc-pokemon-cn_qd-103
+	HostName 49.235.233.236
+
+Host tc-pokemon-cn_qd-104
+	HostName 175.24.124.179
+
+Host tc-pokemon-cn_qd-105
+	HostName 121.4.214.139
+
+Host tc-pokemon-cn_qd-106
+	HostName 121.4.215.234
+
+Host tc-pokemon-cn_qd-107
+	HostName 121.4.195.45
+
+Host tc-pokemon-cn_qd-108
+	HostName 121.4.214.248
+
+Host tc-pokemon-cn_qd-109
+	HostName 121.4.214.62
+
+Host tc-pokemon-cn_qd-110
+	HostName 121.4.190.20
+
+Host tc-pokemon-cn_qd-111
+	HostName 121.4.217.113
+
+Host tc-pokemon-cn_qd-112
+	HostName 121.4.190.11
+
+Host tc-pokemon-cn_qd-113
+	HostName 121.4.221.214
+
+Host tc-pokemon-cn_qd-114
+	HostName 121.4.221.6
+
+Host tc-pokemon-cn_qd-115
+	HostName 121.4.238.251
+
+Host tc-pokemon-cn_qd-116
+	HostName 121.4.238.247
+
+Host tc-pokemon-cn_qd-117
+	HostName 121.4.238.112
+
+Host tc-pokemon-cn_qd-118
+	HostName 121.4.207.84
+
+Host tc-pokemon-cn_qd-119
+	HostName 121.4.238.158
+
+Host tc-pokemon-cn_qd-120
+	HostName 121.4.229.161
+
+Host tc-pokemon-cn_qd-121
+	HostName 121.4.237.44
+
+Host tc-pokemon-cn_qd-122
+	HostName 81.69.8.112
+
+Host tc-pokemon-tw-login
+	HostName 47.241.133.241
+
+Host tc-pokemon-tw-shenhe
+	HostName 47.251.35.235
+
+Host tc-pokemon-kr*
+	IdentityFile ./ssh_key/key_kdjx_game_kr
+
+Host tc-pokemon-kr-login
+	HostName 119.28.235.28
+	IdentityFile ./ssh_key/key_kdjx_nsq_kr
+
+Host tc-pokemon-kr-mq
+	HostName 119.28.152.119
+	IdentityFile ./ssh_key/key_kdjx_nsq_kr
+
+Host tc-pokemon-kr-01
+	HostName 119.28.154.64
+
+Host tc-pokemon-kr-02
+	HostName 119.28.162.227
+
+Host tc-pokemon-kr-03
+	HostName 150.109.82.236
+
+Host tc-pokemon-kr-04
+	HostName 119.28.156.154
+
+Host tc-pokemon-kr-05
+	HostName 119.28.233.132
+
+Host tc-pokemon-kr-06
+	HostName 150.109.84.105
+
+Host tc-pokemon-kr-07
+	HostName 150.109.84.106
+
+Host tc-pokemon-kr-08
+	HostName 119.28.235.222
+
+Host tc-pokemon-kr-09
+	HostName 119.28.160.206
+
+Host tc-pokemon-kr-10
+	HostName 119.28.234.85
+
+Host tc-pokemon-kr-11
+	HostName 119.28.160.30
+
+Host tc-pokemon-kr-12
+	HostName 119.28.162.14
+
+Host tc-pokemon-kr-13
+	HostName 150.109.236.178
+
+Host tc-pokemon-kr-14
+	HostName 150.109.235.106
+
+Host tc-pokemon-kr-15
+	HostName 119.28.160.162
+
+Host tc-pokemon-kr-16
+	HostName 150.109.238.223
+
+Host tc-pokemon-en*
+	IdentityFile ./ssh_key/key_kdjx_game_en
+
+Host tc-pokemon-en-login
+	HostName 94.74.92.71
+
+Host tc-pokemon-en-mq
+	HostName 119.8.189.234
+
+Host tc-pokemon-en-01
+	HostName 159.138.103.119
+
+Host tc-pokemon-en-02
+	HostName 119.8.189.205
+
+Host tc-pokemon-en-03
+	HostName 119.8.182.215
+
+Host tc-pokemon-en-04
+	HostName 119.8.161.72
+
+Host tc-pokemon-en-05
+	HostName 114.119.186.104
+
+Host tc-pokemon-en-06
+	HostName 114.119.174.127
+
+Host tc-pokemon-en-07
+	HostName 119.13.100.4
+
+Host xy-pokemon-*
+	IdentityFile ./ssh_key/key_kdjx_game_xy
+
+Host xy-pokemon-cn-login
+	HostName 124.71.138.126
+	IdentityFile ./ssh_key/tjgame_identity
+
+Host xy-pokemon-mq
+	HostName 123.60.50.71
+
+Host xy-pokemon-cn-01
+	HostName 123.60.17.169
+
+Host xy-pokemon-cn-02
+	HostName 123.60.63.189
+
+Host xy-pokemon-cn-03
+	HostName 123.60.59.131
+
+Host xy-pokemon-cn-04
+	HostName 124.71.136.231
+
+Host xy-pokemon-cn-05
+	HostName 123.60.36.148
+
+Host xy-pokemon-cn-06
+	HostName 124.70.184.150
+
+Host ks-pokemon-tw*
+	IdentityFile ./ssh_key/key_kdjx_game_tw
+
+Host ks-pokemon-tw-login
+	HostName 43.129.178.245
+
+Host ks-pokemon-tw-gm
+	HostName 43.129.178.28
+
+Host ks-pokemon-tw-mq
+	HostName 129.226.167.115
+
+Host ks-pokemon-tw-01
+	HostName 43.129.176.68
+
+Host ks-pokemon-tw-02
+	HostName 43.129.179.150
+
+Host ks-pokemon-tw-03
+	HostName 43.132.179.184
+
+Host ks-pokemon-tw-04
+	HostName 43.132.183.70

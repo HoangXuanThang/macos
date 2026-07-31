@@ -1,0 +1,97 @@
+
+wutai.png
+size: 905,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk2/qiu
+  rotate: false
+  xy: 739, 19
+  size: 90, 93
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+sk2/s1_juping
+  rotate: false
+  xy: 545, 114
+  size: 276, 149
+  orig: 276, 149
+  offset: 0, 0
+  index: -1
+sk2/skill2_1_0001
+  rotate: true
+  xy: 823, 183
+  size: 80, 81
+  orig: 84, 84
+  offset: 2, 3
+  index: -1
+sk2/skill2_6_1
+  rotate: false
+  xy: 479, 105
+  size: 64, 158
+  orig: 74, 160
+  offset: 8, 2
+  index: -1
+sk2/yingkuai
+  rotate: true
+  xy: 823, 118
+  size: 63, 44
+  orig: 63, 44
+  offset: 0, 0
+  index: -1
+tx/fangxing
+  rotate: false
+  xy: 869, 149
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tx/guyanx
+  rotate: true
+  xy: 831, 22
+  size: 93, 53
+  orig: 93, 57
+  offset: 0, 0
+  index: -1
+tx/sanjiao
+  rotate: false
+  xy: 869, 117
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+tx/skill2_2_1
+  rotate: false
+  xy: 604, 13
+  size: 98, 99
+  orig: 105, 105
+  offset: 4, 4
+  index: -1
+tx/skill2_4_1
+  rotate: true
+  xy: 257, 14
+  size: 249, 220
+  orig: 250, 222
+  offset: 1, 2
+  index: -1
+tx/wudiquan
+  rotate: false
+  xy: 1, 8
+  size: 254, 255
+  orig: 254, 255
+  offset: 0, 0
+  index: -1
+tx/yfz3
+  rotate: false
+  xy: 479, 1
+  size: 123, 102
+  orig: 123, 102
+  offset: 0, 0
+  index: -1
+tx/yinying
+  rotate: true
+  xy: 704, 15
+  size: 97, 33
+  orig: 97, 36
+  offset: 0, 1
+  index: -1

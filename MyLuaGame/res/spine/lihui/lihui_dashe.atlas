@@ -1,0 +1,132 @@
+
+lihui_dashe.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishi
+  rotate: false
+  xy: 2, 1206
+  size: 1049, 825
+  orig: 1049, 825
+  offset: 0, 0
+  index: -1
+houtoufa
+  rotate: true
+  xy: 1674, 1494
+  size: 65, 148
+  orig: 65, 148
+  offset: 0, 0
+  index: -1
+huoyan1
+  rotate: false
+  xy: 1674, 1561
+  size: 301, 470
+  orig: 301, 470
+  offset: 0, 0
+  index: -1
+huoyan2
+  rotate: true
+  xy: 1148, 746
+  size: 155, 387
+  orig: 155, 387
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: false
+  xy: 1977, 1949
+  size: 69, 82
+  orig: 69, 82
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 95
+  size: 746, 1109
+  orig: 746, 1109
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1443, 1095
+  size: 188, 194
+  orig: 188, 194
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 1148, 648
+  size: 51, 96
+  orig: 51, 96
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 997, 546
+  size: 56, 96
+  orig: 56, 96
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: false
+  xy: 1392, 1291
+  size: 236, 185
+  orig: 236, 185
+  offset: 0, 0
+  index: -1
+yougebo
+  rotate: false
+  xy: 1148, 903
+  size: 293, 318
+  orig: 293, 318
+  offset: 0, 0
+  index: -1
+zhuangshi1
+  rotate: false
+  xy: 997, 644
+  size: 149, 560
+  orig: 149, 560
+  offset: 0, 0
+  index: -1
+zhuangshi2
+  rotate: false
+  xy: 2, 2
+  size: 180, 91
+  orig: 180, 91
+  offset: 0, 0
+  index: -1
+zhuangshi3
+  rotate: false
+  xy: 1053, 1416
+  size: 327, 615
+  orig: 327, 615
+  offset: 0, 0
+  index: -1
+zhuangshi4
+  rotate: true
+  xy: 750, 525
+  size: 679, 245
+  orig: 679, 245
+  offset: 0, 0
+  index: -1
+zhuangshi5
+  rotate: true
+  xy: 750, 83
+  size: 440, 308
+  orig: 440, 308
+  offset: 0, 0
+  index: -1
+zhuangshi6
+  rotate: true
+  xy: 1053, 1223
+  size: 191, 337
+  orig: 191, 337
+  offset: 0, 0
+  index: -1
+zuogebo
+  rotate: false
+  xy: 1382, 1478
+  size: 290, 553
+  orig: 290, 553
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+peiyanghuhuan.png
+size: 502,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/TX_xt_g_0017
+  rotate: false
+  xy: 302, 92
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: -1
+TX/sg1
+  rotate: true
+  xy: 1, 1
+  size: 290, 299
+  orig: 312, 311
+  offset: 10, 7
+  index: -1

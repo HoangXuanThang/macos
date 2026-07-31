@@ -1,0 +1,33 @@
+﻿VariableName,key,text,text_vn,text_ma,text_en,text_th,text_ph,text_in,tab,resource
+Defaults,"""""","""""","""""","""""","""""","""""","""""","""""",<1>,""""""
+ID,关键字,绿字标记,绿字标记,绿字标记,绿字标记,绿字标记,绿字标记_韩,绿字标记_韩,页签显示;内容读 emojiTab,表情资源
+1,emo1,Yeah~,Yeah~,Yeah~,Yeah~,เย้~,Yeah~,Yeah~,,config/chatemoji/emoji_1.png
+2,emo2,Thank you,Cảm ơn,Terima kasih,Thank you,ขอบคุณ,Salamat,Terima kasih,,config/chatemoji/emoji_2.png
+3,emo3,Ok,Ok,Ok,Ok,โอเค,Ok,Oke,,config/chatemoji/emoji_3.png
+4,emo4,Got it,Hiểu rồi,Faham dah,Got it,เข้าใจแล้ว,Naiintindihan na,Mengerti,,config/chatemoji/emoji_4.png
+5,emo5,Check the punch / Throw a punch,Xem quyền (hoặc ra đòn quyền),Lihat tumbukan / Bagi tumbukan,Check the punch / Throw a punch,ดูหมัด / ปล่อยหมัด,Tingnan ang suntok / Suntok na,Lihat pukulan / Lontarkan pukulan,,config/chatemoji/emoji_5.png
+6,emo6,Speechless,Nghẹn lời,Terdiam,Speechless,พูดไม่ออก,Walang masabi,Bisu,,config/chatemoji/emoji_6.png
+7,emo7,Sorry…,Xin lỗi…,Maaf…,Sorry…,ขอโทษนะ…,Pasensya na…,Maaf ya…,,config/chatemoji/emoji_7.png
+8,emo8,Congrats,Chúc mừng,Tahniah,Congrats,ยินดีด้วย,Congrats,Selamat,,config/chatemoji/emoji_8.png
+9,emo9,Do I even have to say it,Còn phải nói sao,Perlu ke cakap lagi,Do I even have to say it,ต้องพูดด้วยเหรอ,Kailangan pa bang i-memorize yan,Masih perlu ditanya?,,config/chatemoji/emoji_9.png
+10,emo10,No way~!,Không thể nào~!,Tak mungkin~!,No way~!,เป็นไปไม่ได้~!,Imposible~!,Tidak mungkin~!,,config/chatemoji/emoji_10.png
+11,emo11,Shocked,Sốc,Terkedu,Shocked,ช็อก,Shookt,Kaget,,config/chatemoji/emoji_11.png
+12,emo12,So good~,Tốt quá đi~,Terbaik sangat~,So good~,ดีเกินไป~,Ang saya~,Bagus banget~,,config/chatemoji/emoji_12.png
+13,emo13,Happy,Vui vẻ,Gembira,Happy,สนุกสนาน,Masaya,Senang,,config/chatemoji/emoji_13.png
+14,emo14,Smile,Mỉm cười,Senyum,Smile,ยิ้ม,Ngiti,Senyum,,config/chatemoji/emoji_14.png
+15,emo15,Hahaha,Hahaha,Hahaha,Hahaha,ฮ่าๆๆ,Hahaha,Hahaha,,config/chatemoji/emoji_15.png
+16,emo16,Feeling sad,Tủi thân,Sedih,Feeling sad,เสียใจ,Nalulungkot,Sedih,<2>,config/chatemoji/emoji_16.png
+17,emo17,Awesome!!!,Đỉnh!!!,Padu!!!,Awesome!!!,สุดยอด!!!,Angas!!!,Keren!!!,<2>,config/chatemoji/emoji_18.png
+18,emo18,Thank you,Cảm ơn,Terima kasih,Thank you,ขอบคุณ,Salamat,Terima kasih,<2>,config/chatemoji/emoji_19.png
+19,emo19,Want it,Muốn,Mahukan,Want it,อยากได้,Gusto,Ingin,<2>,config/chatemoji/emoji_20.png
+20,emo20,Very good!,Rất ổn!,Bagus sangat!,Very good!,ดีมาก!,Ayos lang!,Sangat bagus!,<2>,config/chatemoji/emoji_21.png
+21,emo21,Delicious,Ngon,Sedap,Delicious,อร่อย,Masarap,Enak,<2>,config/chatemoji/emoji_22.png
+22,emo22,Cheer up,Cổ vũ,Sokong,Cheer up,ให้กำลังใจ,Suporta,Dukung,<2>,config/chatemoji/emoji_23.png
+23,emo23,I'm hungry,Đói rồi,Lapar dah,I'm hungry,หิวแล้ว,Nagugutom na ako,Lapar nih,<2>,config/chatemoji/emoji_24.png
+24,emo24,Like it,Thích,Suka,Like it,ชอบ,Gusto ko,Suka,<2>,config/chatemoji/emoji_25.png
+25,emo25,Let me see,Để tôi xem nào,Biar saya tengok dulu,Let me see,ขอดูก่อนนะ,Tingnan ko nga,Biar saya lihat dulu,<2>,config/chatemoji/emoji_26.png
+26,emo26,Send heart,Thả tim,Hantar hati,Send heart,ส่งหัวใจ,Pusuan,Kirim hati,<2>,config/chatemoji/emoji_27.png
+27,emo27,Kneel down,Quỳ xuống,Berlutut,Kneel down,คุกเข่า,Lumuhod,Berlutut,<2>,config/chatemoji/emoji_28.png
+28,emo28,Cold,Lạnh nhạt,Dingin,Cold,เฉยชา,Walang pakialam,Dingin,<2>,config/chatemoji/emoji_29.png
+29,emo29,No words,Cạn lời,Tak tahu nak cakap apa,No words,พูดไม่ออกเลย,Walang masabi,Bingung mau ngomong apa,<2>,config/chatemoji/emoji_30.png
+30,emo30,Send me 50,Chuyển tôi 50 (vnd),Hantar saya RM0.50,Send me 50,โอนให้ฉัน 50,Pasa mo 50,Kirim saya 50,<2>,config/chatemoji/emoji_31.png

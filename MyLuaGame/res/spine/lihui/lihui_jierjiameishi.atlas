@@ -1,0 +1,160 @@
+
+lihui_jierjiameishi.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg/dian01
+  rotate: false
+  xy: 2, 2
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+bg/shui01
+  rotate: false
+  xy: 1885, 767
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+bg/shui02
+  rotate: false
+  xy: 626, 209
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+bg/shui03
+  rotate: false
+  xy: 700, 209
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+bg/shui04
+  rotate: false
+  xy: 774, 209
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+bg/shui05
+  rotate: false
+  xy: 848, 209
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+bg/shui06
+  rotate: false
+  xy: 922, 209
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+bg/shui07
+  rotate: false
+  xy: 1885, 693
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+bg/shui08
+  rotate: false
+  xy: 1959, 767
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+bg/yuan
+  rotate: false
+  xy: 512, 41
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 1555, 676
+  size: 116, 39
+  orig: 116, 39
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 173
+  size: 622, 836
+  orig: 622, 836
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 626, 379
+  size: 575, 237
+  orig: 575, 237
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1203, 384
+  size: 215, 254
+  orig: 215, 254
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 1885, 841
+  size: 168, 116
+  orig: 168, 116
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 1023, 285
+  size: 92, 148
+  orig: 92, 148
+  offset: 0, 0
+  index: -1
+wuqi1
+  rotate: false
+  xy: 626, 283
+  size: 395, 94
+  orig: 395, 94
+  offset: 0, 0
+  index: -1
+wuqi2
+  rotate: false
+  xy: 1085, 640
+  size: 468, 369
+  orig: 468, 369
+  offset: 0, 0
+  index: -1
+wuqi3
+  rotate: false
+  xy: 2, 26
+  size: 508, 145
+  orig: 508, 145
+  offset: 0, 0
+  index: -1
+wuqi4
+  rotate: false
+  xy: 626, 618
+  size: 457, 391
+  orig: 457, 391
+  offset: 0, 0
+  index: -1
+youkuijia
+  rotate: false
+  xy: 1555, 717
+  size: 328, 292
+  orig: 328, 292
+  offset: 0, 0
+  index: -1
+zuokuijia
+  rotate: false
+  xy: 1420, 371
+  size: 188, 267
+  orig: 188, 267
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+fushen.png
+size: 698,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: true
+  xy: 1, 9
+  size: 194, 206
+  orig: 194, 223
+  offset: 0, 0
+  index: -1
+guangmu
+  rotate: true
+  xy: 377, 119
+  size: 84, 210
+  orig: 84, 210
+  offset: 0, 0
+  index: -1
+guangyun2_1
+  rotate: false
+  xy: 589, 95
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+shouji_001
+  rotate: true
+  xy: 489, 68
+  size: 49, 82
+  orig: 54, 108
+  offset: 1, 0
+  index: -1
+shouji_002
+  rotate: false
+  xy: 377, 29
+  size: 54, 88
+  orig: 54, 108
+  offset: 0, 10
+  index: -1
+shouji_003
+  rotate: false
+  xy: 433, 36
+  size: 54, 81
+  orig: 54, 108
+  offset: 0, 23
+  index: -1
+shouji_004
+  rotate: false
+  xy: 573, 21
+  size: 53, 72
+  orig: 54, 108
+  offset: 1, 35
+  index: -1
+shouji_005
+  rotate: false
+  xy: 489, 4
+  size: 53, 62
+  orig: 54, 108
+  offset: 1, 46
+  index: -1
+shouji_006
+  rotate: false
+  xy: 628, 44
+  size: 54, 49
+  orig: 54, 108
+  offset: 0, 59
+  index: -1
+shouji_007
+  rotate: false
+  xy: 628, 1
+  size: 51, 41
+  orig: 54, 108
+  offset: 1, 67
+  index: -1
+tou
+  rotate: true
+  xy: 209, 6
+  size: 197, 166
+  orig: 197, 166
+  offset: 0, 0
+  index: -1
+yj1
+  rotate: true
+  xy: 377, 1
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+yj2
+  rotate: false
+  xy: 393, 9
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1

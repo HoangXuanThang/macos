@@ -1,0 +1,83 @@
+
+hongbao.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/TX_xt_g_0017
+  rotate: false
+  xy: 1073, 2
+  size: 159, 159
+  orig: 159, 159
+  offset: 0, 0
+  index: -1
+TX/flare_Fire
+  rotate: false
+  xy: 1306, 197
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+TX/sg1
+  rotate: false
+  xy: 1073, 163
+  size: 231, 239
+  orig: 231, 239
+  offset: 0, 0
+  index: -1
+TX/xing1
+  rotate: false
+  xy: 1925, 349
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+TX/zdsl_slgy2
+  rotate: true
+  xy: 1513, 209
+  size: 13, 290
+  orig: 13, 290
+  offset: 0, 0
+  index: -1
+baiqiu
+  rotate: false
+  xy: 1234, 39
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+hongbaogai
+  rotate: false
+  xy: 1513, 224
+  size: 204, 178
+  orig: 204, 178
+  offset: 0, 0
+  index: -1
+hongbaoshen
+  rotate: true
+  xy: 2, 6
+  size: 396, 535
+  orig: 408, 536
+  offset: 12, 0
+  index: -1
+huangbaogai
+  rotate: false
+  xy: 1719, 224
+  size: 204, 178
+  orig: 204, 178
+  offset: 0, 0
+  index: -1
+huangbaoshen
+  rotate: true
+  xy: 539, 9
+  size: 393, 532
+  orig: 408, 536
+  offset: 12, 2
+  index: -1
+qiu
+  rotate: false
+  xy: 1358, 73
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1

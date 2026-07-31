@@ -1,0 +1,146 @@
+
+huoshan_mega.png
+size: 1994,618
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dilie
+  rotate: true
+  xy: 566, 66
+  size: 251, 79
+  orig: 251, 79
+  offset: 0, 0
+  index: -1
+dimian
+  rotate: false
+  xy: 1141, 321
+  size: 500, 136
+  orig: 500, 136
+  offset: 0, 0
+  index: -1
+dishi2
+  rotate: false
+  xy: 647, 6
+  size: 191, 83
+  orig: 191, 83
+  offset: 0, 0
+  index: -1
+dishi4
+  rotate: false
+  xy: 1851, 177
+  size: 127, 80
+  orig: 127, 80
+  offset: 0, 0
+  index: -1
+dishi5
+  rotate: false
+  xy: 1851, 259
+  size: 126, 174
+  orig: 126, 174
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 1515, 62
+  size: 128, 257
+  orig: 128, 257
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 566, 1
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+huoshan
+  rotate: false
+  xy: 1, 319
+  size: 645, 298
+  orig: 645, 298
+  offset: 0, 0
+  index: -1
+huoxin
+  rotate: false
+  xy: 903, 48
+  size: 207, 167
+  orig: 207, 167
+  offset: 0, 0
+  index: -1
+shitou02
+  rotate: false
+  xy: 1671, 435
+  size: 322, 182
+  orig: 322, 182
+  offset: 0, 0
+  index: -1
+shitou03
+  rotate: false
+  xy: 648, 389
+  size: 491, 228
+  orig: 491, 228
+  offset: 0, 0
+  index: -1
+shitou06
+  rotate: false
+  xy: 1, 9
+  size: 563, 308
+  orig: 563, 308
+  offset: 0, 0
+  index: -1
+shitou10
+  rotate: false
+  xy: 648, 217
+  size: 466, 170
+  orig: 470, 170
+  offset: 0, 0
+  index: -1
+tx/dasfd
+  rotate: false
+  xy: 1116, 32
+  size: 397, 287
+  orig: 397, 287
+  offset: 0, 0
+  index: -1
+tx/psh6
+  rotate: false
+  xy: 1645, 235
+  size: 204, 198
+  orig: 204, 198
+  offset: 0, 0
+  index: -1
+tx/ssx
+  rotate: false
+  xy: 566, 17
+  size: 70, 47
+  orig: 70, 47
+  offset: 0, 0
+  index: -1
+tx/tie2
+  rotate: true
+  xy: 1848, 44
+  size: 131, 90
+  orig: 131, 90
+  offset: 0, 0
+  index: -1
+tx/water_08_00003
+  rotate: true
+  xy: 647, 91
+  size: 124, 254
+  orig: 124, 254
+  offset: 0, 0
+  index: -1
+yanjiang_wenli
+  rotate: false
+  xy: 1141, 459
+  size: 528, 158
+  orig: 528, 158
+  offset: 0, 0
+  index: -1
+yun_w1
+  rotate: false
+  xy: 1645, 42
+  size: 201, 191
+  orig: 201, 191
+  offset: 0, 0
+  index: -1

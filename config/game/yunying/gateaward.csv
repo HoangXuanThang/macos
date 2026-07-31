@@ -1,0 +1,7 @@
+﻿VariableName,huodongID,gateID,des_cn,desc_vn,desc_tw,desc,desc_kr,award
+Defaults,0,1,"""""","""""","""""","""""","""""",{}
+ID,活动版本ID,通关关卡ID,描述,描述,描述,描述,描述_韩,奖励
+1,9001,10009,通关第一章困难关卡,Vượt cấp độ ưu tú Chương 1,通關第一章精英關卡,Clear Elite level Chapter 1,제 1 장 하드 스테이지 클리어,{rmb=100;gold=100000}
+2,9001,10212,通关第三章困难关卡,Vượt cấp độ ưu tú Chương 3,通關第三章精英關卡,Clear Elite level Chapter 3,제 3 장 하드 스테이지 클리어,{rmb=100;gold=100000}
+3,9001,10412,通关第五章困难关卡,Vượt cấp độ ưu tú Chương 5,通關第五章精英關卡,Clear Elite level Chapter 5,제 5 장 하드 스테이지 클리어,{rmb=100;gold=100000}
+4,9001,10612,通关第七章困难关卡,Vượt cấp độ ưu tú Chương 7,通關第七章精英關卡,Clear Chapter 7 of Elite Level,제 7 장 하드 스테이지 클리어,{rmb=100;gold=100000}

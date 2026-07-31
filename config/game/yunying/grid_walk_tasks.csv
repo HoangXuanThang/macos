@@ -1,0 +1,31 @@
+﻿VariableName,huodongID,taskType,taskParam,taskSpecialParam,desc,desc_en,desc_th,award,goTo,title
+Defaults,1001,0,9999,{},"""""","""""","""""",{},"""""",""""""
+ID,活动版本ID,任务类型,任务参数,任务特殊参数,描述,描述,描述_越南,奖励,跳转目标,title
+1,,17,1,,今日登陆,,Đăng nhập ngay hôm nay,{8112=3},,
+2,,55,5,,公会捐献5次,,Đã quyên góp Guild 5 lần,{8112=1},union,
+3,,41,5,,竞技场累计战斗5次,,5 trận chiến trong đấu trường,{8112=1},arena,
+4,,86,1,{1=4},完成S级以上的派遣1次,,Hoàn thành 1 công văn xếp hạng S trở lên,{8112=1},dispatchTask,
+5,,30,15,,挑战精英关卡次数15次,,Thách thức cấp độ ưu tú 15 lần,{8112=1},20000,
+6,,26,2,,购买体力2次,,Mua sức chịu đựng 2 lần,{8112=1},gainStamina,
+7,,21,200,,累计消费200钻,,Tích lũy tiêu thụ 200 Nguyên Bảo,{8112=2},,
+10,,,1,,累计触发获得宝箱1次,,Tích lũy kích hoạt để nhận được rương kho báu 1 lần,{5000=50;27001=5;6393=15;gold=300000},,
+11,,,2,,累计触发获得宝箱2次,,Tích lũy kích hoạt để nhận được rương kho báu 2 lần,{930=50;gold=300000;27001=5;6393=15},,
+12,,,4,,累计触发获得宝箱4次,,Tích lũy kích hoạt để nhận được rương kho báu 4 lần,{gold=300000;27001=5;6393=15;16=15},,
+13,,,7,,累计触发获得宝箱7次,,Tích lũy kích hoạt để nhận được rương kho báu 7 lần,{850=100;gold=300000;27001=5;6393=15},,
+14,,,10,,累计触发获得宝箱10次,,Tích lũy kích hoạt để nhận được rương kho báu 10 lần,{gold=300000;27001=5;6393=15;902=25},,
+15,,,13,,累计触发获得宝箱13次,,Tích lũy kích hoạt để nhận được rương kho báu 13 lần,{5000=50;27001=5;6393=15;gold=300000},,
+16,,,16,,累计触发获得宝箱16次,,Tích lũy kích hoạt để nhận được rương kho báu 16 lần,{930=50;gold=300000;27001=5;6393=15},,
+17,,,19,,累计触发获得宝箱19次,,Tích lũy kích hoạt để nhận được rương kho báu 19 lần,{gold=300000;27001=5;6393=15;16=15},,
+18,,,22,,累计触发获得宝箱22次,,Tích lũy kích hoạt để nhận được rương kho báu 22 lần,{850=50;gold=300000;27001=5;6393=15},,
+19,,,25,,累计触发获得宝箱25次,,Tích lũy kích hoạt để nhận được rương kho báu 25 lần,{gold=300000;27001=5;6393=15;902=25},,
+100,1201,17,1,,Logged in today,Logged in today,เข้าสู่ระบบวันนี้,{105=1},,Login
+103,1201,86,1,{1=4},Completed 1 S-rank or higher dispatch,Completed 1 S-rank or higher dispatch,ผ่านภารกิจระดับ S ขึ้นไป 1 ครั้ง,{105=1},dispatchTask,Mission Dispatch
+104,1201,30,15,,Played 15 difficult levels,Played 15 difficult levels,เล่น 15 เลเวลความยาก,{105=1},20000,Difficulty Levels
+105,1201,26,2,,Purchased stamina 2 times,Purchased stamina 2 times,ซื้อ Stamina 2 ครั้ง,{105=1},gainStamina,Purchase Stamina
+110,1201,21,600,,Consumed 600 diamonds,Consumed 600 diamonds,ใช้เพชร 600 เม็ด,{105=1},,Spend Diamonds
+111,1201,22,600,,Recharged 600 diamonds,Recharged 600 diamonds,เติมเพชร 600 เม็ด,{105=5},,Recharge Diamonds
+200,1201,,5,,5 laps cumulative,5 laps cumulative,เล่นสะสม 5 รอบ,{8888=1},,
+201,1201,,10,,10 laps cumulative,10 laps cumulative,เล่นสะสม 10 รอบ,{6050=3},,
+202,1201,,15,,15 laps cumulative,15 laps cumulative,เล่นสะสม 15 รอบ,{2153=1},,
+203,1201,,20,,20 laps cumulative,20 laps cumulative,เล่นสะสม 20 รอบ,{9056=3},,
+204,1201,,25,,25 laps cumulative,25 laps cumulative,เล่นสะสม 25 รอบ,{8804=1},,

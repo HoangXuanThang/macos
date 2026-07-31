@@ -1,0 +1,111 @@
+
+iruka00_ui.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+yiluka_bao
+  rotate: false
+  xy: 189, 10
+  size: 76, 132
+  orig: 76, 132
+  offset: 0, 0
+  index: -1
+yiluka_biyan
+  rotate: false
+  xy: 893, 310
+  size: 81, 21
+  orig: 82, 21
+  offset: 1, 0
+  index: -1
+yiluka_shenti
+  rotate: false
+  xy: 0, 142
+  size: 258, 364
+  orig: 258, 365
+  offset: 0, 1
+  index: -1
+yiluka_tou
+  rotate: true
+  xy: 0, 2
+  size: 140, 189
+  orig: 140, 190
+  offset: 0, 0
+  index: -1
+yiluka_toufa
+  rotate: false
+  xy: 265, 57
+  size: 149, 94
+  orig: 149, 94
+  offset: 0, 0
+  index: -1
+yiluka_toufa_1
+  rotate: true
+  xy: 607, 154
+  size: 60, 79
+  orig: 60, 80
+  offset: 0, 1
+  index: -1
+yiluka_toufa_2
+  rotate: true
+  xy: 701, 216
+  size: 68, 130
+  orig: 68, 130
+  offset: 0, 0
+  index: -1
+yiluka_toufa_3
+  rotate: false
+  xy: 265, 0
+  size: 83, 57
+  orig: 83, 57
+  offset: 0, 0
+  index: -1
+yiluka_youjiao
+  rotate: false
+  xy: 258, 151
+  size: 200, 355
+  orig: 200, 355
+  offset: 0, 0
+  index: -1
+yiluka_youshangbi
+  rotate: false
+  xy: 797, 302
+  size: 96, 204
+  orig: 96, 204
+  offset: 0, 0
+  index: -1
+yiluka_youshou
+  rotate: false
+  xy: 607, 214
+  size: 94, 292
+  orig: 94, 295
+  offset: 0, 3
+  index: -1
+yiluka_youshouzhi
+  rotate: false
+  xy: 974, 480
+  size: 43, 26
+  orig: 49, 26
+  offset: 6, 0
+  index: -1
+yiluka_zuojiao
+  rotate: false
+  xy: 458, 170
+  size: 149, 336
+  orig: 149, 336
+  offset: 0, 0
+  index: -1
+yiluka_zuoshangbi
+  rotate: false
+  xy: 893, 331
+  size: 81, 175
+  orig: 81, 175
+  offset: 0, 0
+  index: -1
+yiluka_zuoshou
+  rotate: false
+  xy: 701, 284
+  size: 96, 222
+  orig: 96, 223
+  offset: 0, 1
+  index: -1

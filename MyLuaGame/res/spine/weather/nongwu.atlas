@@ -1,0 +1,41 @@
+
+nongwu.png
+size: 950,171
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/2chen
+  rotate: true
+  xy: 858, 29
+  size: 141, 91
+  orig: 141, 91
+  offset: 0, 0
+  index: -1
+images/TX_yan_0040
+  rotate: false
+  xy: 1, 11
+  size: 486, 159
+  orig: 486, 159
+  offset: 0, 0
+  index: -1
+images/hei
+  rotate: false
+  xy: 1, 1
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+images/sg0074
+  rotate: false
+  xy: 489, 2
+  size: 178, 168
+  orig: 178, 168
+  offset: 0, 0
+  index: -1
+images/shuihua_0011
+  rotate: false
+  xy: 669, 31
+  size: 187, 139
+  orig: 257, 155
+  offset: 70, 1
+  index: -1

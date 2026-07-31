@@ -1,0 +1,97 @@
+
+gai00_ui.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+11019101_lihui2_01_bozi
+  rotate: false
+  xy: 705, 289
+  size: 77, 80
+  orig: 77, 80
+  offset: 0, 0
+  index: -1
+11019101_lihui2_01_quantou
+  rotate: false
+  xy: 567, 285
+  size: 138, 84
+  orig: 138, 84
+  offset: 0, 0
+  index: -1
+11019101_lihui2_01_shenti
+  rotate: false
+  xy: 210, 287
+  size: 357, 225
+  orig: 357, 225
+  offset: 0, 0
+  index: -1
+11019101_lihui2_01_shouzhang
+  rotate: false
+  xy: 84, 13
+  size: 113, 111
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+11019101_lihui2_01_tou
+  rotate: false
+  xy: 828, 310
+  size: 161, 202
+  orig: 161, 202
+  offset: 0, 0
+  index: -1
+11019101_lihui2_01_youtui
+  rotate: false
+  xy: 210, 154
+  size: 345, 133
+  orig: 347, 133
+  offset: 0, 0
+  index: -1
+11019101_lihui2_01_youyan
+  rotate: false
+  xy: 782, 350
+  size: 19, 19
+  orig: 21, 23
+  offset: 2, 4
+  index: -1
+11019101_lihui2_01_zuohujian
+  rotate: true
+  xy: 0, 0
+  size: 124, 84
+  orig: 124, 84
+  offset: 0, 0
+  index: -1
+11019101_lihui2_01_zuoshou
+  rotate: false
+  xy: 567, 369
+  size: 261, 143
+  orig: 261, 144
+  offset: 0, 1
+  index: -1
+11019101_lihui2_01_zuotui
+  rotate: false
+  xy: 0, 124
+  size: 210, 388
+  orig: 210, 442
+  offset: 0, 52
+  index: -1
+11019101_lihui2_01_zuoyan
+  rotate: false
+  xy: 989, 495
+  size: 25, 17
+  orig: 31, 22
+  offset: 4, 4
+  index: -1
+11019101_lihui2_youbiyan
+  rotate: false
+  xy: 241, 140
+  size: 22, 14
+  orig: 24, 16
+  offset: 2, 0
+  index: -1
+11019101_lihui2_zuobiyan
+  rotate: false
+  xy: 210, 137
+  size: 31, 17
+  orig: 36, 17
+  offset: 3, 0
+  index: -1

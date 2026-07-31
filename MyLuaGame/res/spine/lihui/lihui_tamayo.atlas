@@ -1,0 +1,363 @@
+
+lihui_tamayo.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1190, 582
+  size: 57, 90
+  orig: 58, 90
+  offset: 1, 0
+  index: -1
+10
+  rotate: true
+  xy: 514, 32
+  size: 81, 82
+  orig: 81, 82
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 514, 115
+  size: 175, 360
+  orig: 179, 360
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 776, 305
+  size: 174, 257
+  orig: 174, 262
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 3798, 1195
+  size: 176, 180
+  orig: 177, 180
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 3798, 1063
+  size: 130, 171
+  orig: 130, 171
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 3871, 1736
+  size: 203, 304
+  orig: 203, 304
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 2, 71
+  size: 208, 510
+  orig: 208, 510
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 238, 2
+  size: 71, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1104, 572
+  size: 84, 67
+  orig: 85, 67
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 2, 13
+  size: 56, 234
+  orig: 56, 234
+  offset: 0, 0
+  index: -1
+skin/zhushi_di_00
+  rotate: false
+  xy: 385, 625
+  size: 389, 326
+  orig: 403, 402
+  offset: 11, 76
+  index: -1
+skin/zhushi_di_01
+  rotate: false
+  xy: 952, 237
+  size: 389, 325
+  orig: 403, 402
+  offset: 11, 77
+  index: -1
+skin/zhushi_di_02
+  rotate: false
+  xy: 1150, 1366
+  size: 389, 324
+  orig: 403, 402
+  offset: 12, 78
+  index: -1
+skin/zhushi_di_03
+  rotate: true
+  xy: 1343, 250
+  size: 389, 321
+  orig: 403, 402
+  offset: 12, 80
+  index: -1
+skin/zhushi_di_04
+  rotate: false
+  xy: 1890, 1020
+  size: 388, 321
+  orig: 403, 402
+  offset: 13, 80
+  index: -1
+skin/zhushi_di_05
+  rotate: false
+  xy: 3407, 725
+  size: 388, 321
+  orig: 403, 402
+  offset: 13, 80
+  index: -1
+skin/zhushi_di_06
+  rotate: true
+  xy: 1666, 264
+  size: 389, 324
+  orig: 403, 402
+  offset: 13, 78
+  index: -1
+skin/zhushi_di_07
+  rotate: true
+  xy: 776, 564
+  size: 391, 326
+  orig: 403, 402
+  offset: 11, 76
+  index: -1
+skin/zhushi_di_08
+  rotate: false
+  xy: 2293, 1379
+  size: 392, 328
+  orig: 403, 402
+  offset: 10, 74
+  index: -1
+skin/zhushi_di_09
+  rotate: false
+  xy: 2688, 1710
+  size: 393, 330
+  orig: 403, 402
+  offset: 10, 72
+  index: -1
+skin/zhushi_di_10
+  rotate: false
+  xy: 3083, 1709
+  size: 392, 331
+  orig: 403, 402
+  offset: 10, 71
+  index: -1
+skin/zhushi_di_11
+  rotate: false
+  xy: 2293, 1709
+  size: 393, 331
+  orig: 403, 402
+  offset: 9, 71
+  index: -1
+skin/zhushi_di_12
+  rotate: false
+  xy: 3477, 1709
+  size: 392, 331
+  orig: 403, 402
+  offset: 9, 71
+  index: -1
+skin/zhushi_di_13
+  rotate: false
+  xy: 383, 292
+  size: 391, 331
+  orig: 403, 402
+  offset: 9, 71
+  index: -1
+skin/zhushi_di_14
+  rotate: false
+  xy: 2688, 1377
+  size: 391, 331
+  orig: 403, 402
+  offset: 9, 71
+  index: -1
+skin/zhushi_di_15
+  rotate: false
+  xy: 3081, 1377
+  size: 391, 330
+  orig: 403, 402
+  offset: 9, 72
+  index: -1
+skin/zhushi_di_16
+  rotate: false
+  xy: 3474, 1377
+  size: 391, 330
+  orig: 403, 402
+  offset: 9, 72
+  index: -1
+skin/zhushi_di_17
+  rotate: false
+  xy: 1451, 655
+  size: 389, 329
+  orig: 403, 402
+  offset: 10, 73
+  index: -1
+skin/zhushi_di_18
+  rotate: false
+  xy: 1461, 986
+  size: 390, 328
+  orig: 403, 402
+  offset: 10, 74
+  index: -1
+skin/zhushi_di_19
+  rotate: false
+  xy: 3407, 1048
+  size: 389, 327
+  orig: 403, 402
+  offset: 11, 75
+  index: -1
+skin/zhushi_ding_00
+  rotate: false
+  xy: 2, 281
+  size: 379, 348
+  orig: 403, 402
+  offset: 23, 17
+  index: -1
+skin/zhushi_ding_01
+  rotate: false
+  xy: 1532, 1693
+  size: 379, 347
+  orig: 403, 402
+  offset: 23, 17
+  index: -1
+skin/zhushi_ding_02
+  rotate: true
+  xy: 735, 957
+  size: 377, 346
+  orig: 403, 402
+  offset: 23, 17
+  index: -1
+skin/zhushi_ding_03
+  rotate: false
+  xy: 1083, 1019
+  size: 376, 345
+  orig: 403, 402
+  offset: 23, 17
+  index: -1
+skin/zhushi_ding_04
+  rotate: true
+  xy: 1104, 641
+  size: 376, 345
+  orig: 403, 402
+  offset: 23, 16
+  index: -1
+skin/zhushi_ding_05
+  rotate: false
+  xy: 2656, 1030
+  size: 374, 345
+  orig: 403, 402
+  offset: 23, 16
+  index: -1
+skin/zhushi_ding_06
+  rotate: false
+  xy: 3032, 1029
+  size: 373, 346
+  orig: 403, 402
+  offset: 23, 16
+  index: -1
+skin/zhushi_ding_07
+  rotate: false
+  xy: 2280, 1031
+  size: 374, 346
+  orig: 403, 402
+  offset: 22, 16
+  index: -1
+skin/zhushi_ding_08
+  rotate: true
+  xy: 1541, 1316
+  size: 375, 347
+  orig: 403, 402
+  offset: 22, 16
+  index: -1
+skin/zhushi_ding_09
+  rotate: false
+  xy: 1890, 1343
+  size: 376, 347
+  orig: 403, 402
+  offset: 22, 16
+  index: -1
+skin/zhushi_ding_10
+  rotate: false
+  xy: 1913, 1692
+  size: 378, 348
+  orig: 403, 402
+  offset: 22, 16
+  index: -1
+skin/zhushi_ding_11
+  rotate: false
+  xy: 1150, 1692
+  size: 380, 348
+  orig: 403, 402
+  offset: 21, 16
+  index: -1
+skin/zhushi_ding_12
+  rotate: false
+  xy: 768, 1690
+  size: 380, 350
+  orig: 403, 402
+  offset: 22, 15
+  index: -1
+skin/zhushi_ding_13
+  rotate: false
+  xy: 2, 1335
+  size: 381, 351
+  orig: 403, 402
+  offset: 21, 15
+  index: -1
+skin/zhushi_ding_14
+  rotate: false
+  xy: 385, 1689
+  size: 381, 351
+  orig: 403, 402
+  offset: 22, 15
+  index: -1
+skin/zhushi_ding_15
+  rotate: false
+  xy: 2, 1688
+  size: 381, 352
+  orig: 403, 402
+  offset: 22, 15
+  index: -1
+skin/zhushi_ding_16
+  rotate: false
+  xy: 385, 1336
+  size: 380, 351
+  orig: 403, 402
+  offset: 23, 16
+  index: -1
+skin/zhushi_ding_17
+  rotate: false
+  xy: 2, 982
+  size: 381, 351
+  orig: 403, 402
+  offset: 22, 16
+  index: -1
+skin/zhushi_ding_18
+  rotate: false
+  xy: 2, 631
+  size: 381, 349
+  orig: 403, 402
+  offset: 22, 17
+  index: -1
+skin/zhushi_ding_19
+  rotate: true
+  xy: 385, 953
+  size: 381, 348
+  orig: 403, 402
+  offset: 22, 17
+  index: -1

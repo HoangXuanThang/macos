@@ -1,0 +1,118 @@
+
+denglu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 1124
+  size: 1560, 720
+  orig: 1560, 720
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 1954, 1812
+  size: 89, 32
+  orig: 89, 32
+  offset: 0, 0
+  index: -1
+chutu/h_lizi_00000
+  rotate: false
+  xy: 1564, 1138
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+gebo
+  rotate: false
+  xy: 2, 179
+  size: 202, 178
+  orig: 202, 178
+  offset: 0, 0
+  index: -1
+houtoufa
+  rotate: false
+  xy: 1564, 1369
+  size: 240, 475
+  orig: 240, 475
+  offset: 0, 0
+  index: -1
+houtoufa2
+  rotate: false
+  xy: 1564, 1148
+  size: 145, 219
+  orig: 145, 219
+  offset: 0, 0
+  index: -1
+houzheedang
+  rotate: false
+  xy: 2, 2
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: false
+  xy: 1806, 1651
+  size: 59, 88
+  orig: 59, 88
+  offset: 0, 0
+  index: -1
+liuhai02
+  rotate: false
+  xy: 789, 971
+  size: 39, 151
+  orig: 39, 151
+  offset: 0, 0
+  index: -1
+qunzi1
+  rotate: true
+  xy: 1711, 1241
+  size: 126, 62
+  orig: 126, 62
+  offset: 0, 0
+  index: -1
+qunzi2
+  rotate: false
+  xy: 578, 955
+  size: 209, 167
+  orig: 209, 167
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 359
+  size: 574, 763
+  orig: 574, 763
+  offset: 0, 0
+  index: -1
+shu
+  rotate: false
+  xy: 2, 66
+  size: 119, 111
+  orig: 119, 111
+  offset: 0, 0
+  index: -1
+toufa01
+  rotate: false
+  xy: 206, 189
+  size: 56, 168
+  orig: 56, 168
+  offset: 0, 0
+  index: -1
+toufa03
+  rotate: false
+  xy: 578, 798
+  size: 68, 155
+  orig: 68, 155
+  offset: 0, 0
+  index: -1
+xiong01
+  rotate: false
+  xy: 1806, 1741
+  size: 146, 103
+  orig: 146, 103
+  offset: 0, 0
+  index: -1

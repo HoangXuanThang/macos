@@ -1,0 +1,258 @@
+
+uieffect_shengji.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Noise_Ober_00
+  rotate: false
+  xy: 3672, 1801
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/Noise_Ober_01
+  rotate: false
+  xy: 3672, 1671
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/Noise_Ober_02
+  rotate: false
+  xy: 3802, 1801
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/Noise_Ober_03
+  rotate: false
+  xy: 3672, 1541
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/Noise_Ober_04
+  rotate: false
+  xy: 3802, 1671
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/partical_bg_0000
+  rotate: false
+  xy: 2174, 387
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/partical_bg_0002
+  rotate: false
+  xy: 2536, 1030
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/partical_bg_0004
+  rotate: false
+  xy: 2898, 1673
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/partical_bg_0006
+  rotate: false
+  xy: 2174, 129
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/partical_bg_0008
+  rotate: false
+  xy: 2536, 772
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/partical_bg_0010
+  rotate: false
+  xy: 2898, 1415
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/partical_bg_0012
+  rotate: false
+  xy: 3156, 1673
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/partical_bg_0014
+  rotate: false
+  xy: 3156, 1415
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/partical_bg_0016
+  rotate: false
+  xy: 3414, 1673
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/smoke_1012 #0005120
+  rotate: false
+  xy: 3414, 1415
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/xian_cir_0000
+  rotate: false
+  xy: 2, 1288
+  size: 360, 641
+  orig: 360, 641
+  offset: 0, 0
+  index: -1
+images/xian_cir_0001
+  rotate: false
+  xy: 2, 645
+  size: 360, 641
+  orig: 360, 641
+  offset: 0, 0
+  index: -1
+images/xian_cir_0002
+  rotate: false
+  xy: 364, 1288
+  size: 360, 641
+  orig: 360, 641
+  offset: 0, 0
+  index: -1
+images/xian_cir_0003
+  rotate: false
+  xy: 2, 2
+  size: 360, 641
+  orig: 360, 641
+  offset: 0, 0
+  index: -1
+images/xian_cir_0004
+  rotate: false
+  xy: 364, 645
+  size: 360, 641
+  orig: 360, 641
+  offset: 0, 0
+  index: -1
+images/xian_cir_0005
+  rotate: false
+  xy: 726, 1288
+  size: 360, 641
+  orig: 360, 641
+  offset: 0, 0
+  index: -1
+images/xian_cir_0006
+  rotate: false
+  xy: 364, 2
+  size: 360, 641
+  orig: 360, 641
+  offset: 0, 0
+  index: -1
+images/xian_cir_0007
+  rotate: false
+  xy: 726, 645
+  size: 360, 641
+  orig: 360, 641
+  offset: 0, 0
+  index: -1
+images/xian_cir_0008
+  rotate: false
+  xy: 1088, 1288
+  size: 360, 641
+  orig: 360, 641
+  offset: 0, 0
+  index: -1
+images/xian_cir_0009
+  rotate: false
+  xy: 726, 2
+  size: 360, 641
+  orig: 360, 641
+  offset: 0, 0
+  index: -1
+images/xian_cir_0010
+  rotate: false
+  xy: 1088, 645
+  size: 360, 641
+  orig: 360, 641
+  offset: 0, 0
+  index: -1
+images/xian_cir_0011
+  rotate: false
+  xy: 1450, 1288
+  size: 360, 641
+  orig: 360, 641
+  offset: 0, 0
+  index: -1
+images/xian_cir_0012
+  rotate: false
+  xy: 1088, 2
+  size: 360, 641
+  orig: 360, 641
+  offset: 0, 0
+  index: -1
+images/xian_cir_0013
+  rotate: false
+  xy: 1450, 645
+  size: 360, 641
+  orig: 360, 641
+  offset: 0, 0
+  index: -1
+images/xian_cir_0014
+  rotate: false
+  xy: 1812, 1288
+  size: 360, 641
+  orig: 360, 641
+  offset: 0, 0
+  index: -1
+images/xian_cir_0015
+  rotate: false
+  xy: 1450, 2
+  size: 360, 641
+  orig: 360, 641
+  offset: 0, 0
+  index: -1
+images/xian_cir_0016
+  rotate: false
+  xy: 1812, 645
+  size: 360, 641
+  orig: 360, 641
+  offset: 0, 0
+  index: -1
+images/xian_cir_0017
+  rotate: false
+  xy: 2174, 1288
+  size: 360, 641
+  orig: 360, 641
+  offset: 0, 0
+  index: -1
+images/xian_cir_0018
+  rotate: false
+  xy: 1812, 2
+  size: 360, 641
+  orig: 360, 641
+  offset: 0, 0
+  index: -1
+images/xian_cir_0019
+  rotate: false
+  xy: 2174, 645
+  size: 360, 641
+  orig: 360, 641
+  offset: 0, 0
+  index: -1
+images/xian_cir_0020
+  rotate: false
+  xy: 2536, 1288
+  size: 360, 641
+  orig: 360, 641
+  offset: 0, 0
+  index: -1

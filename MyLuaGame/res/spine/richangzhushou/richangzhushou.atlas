@@ -1,0 +1,83 @@
+
+richangzhushou.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qb_body
+  rotate: false
+  xy: 2, 10
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+qb_eyel_1
+  rotate: false
+  xy: 181, 123
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+qb_eyer_2
+  rotate: false
+  xy: 120, 84
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+qb_hand1
+  rotate: false
+  xy: 165, 113
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+qb_line
+  rotate: true
+  xy: 57, 4
+  size: 4, 31
+  orig: 4, 31
+  offset: 0, 0
+  index: -1
+qb_mouth
+  rotate: false
+  xy: 165, 103
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+qb_mouth2
+  rotate: false
+  xy: 143, 71
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+qb_shenzi
+  rotate: true
+  xy: 2, 2
+  size: 6, 53
+  orig: 6, 53
+  offset: 0, 0
+  index: -1
+qb_yezi
+  rotate: false
+  xy: 120, 19
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+qb_yin
+  rotate: false
+  xy: 120, 36
+  size: 21, 46
+  orig: 21, 46
+  offset: 0, 0
+  index: -1
+qb_zhouwen
+  rotate: false
+  xy: 90, 2
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1

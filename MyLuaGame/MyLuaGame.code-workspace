@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "src"
+		},
+		{
+			"path": "dev"
+		},
+		{
+			"path": ".vscode"
+		},
+		{
+			"path": "cocos"
+		},
+		{
+			"path": "updater"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,132 @@
+
+effect_beiludandi_1.png
+size: 1145, 514
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+sanjiao_0000
+  rotate: false
+  xy: 2, 2
+  size: 574, 510
+  orig: 1280, 720
+  offset: 359, 125
+  index: -1
+yinchang/quan/quan_0026
+  rotate: false
+  xy: 1108, 483
+  size: 29, 29
+  orig: 264, 243
+  offset: 122, 102
+  index: -1
+yinchang/quan/quan_0028
+  rotate: false
+  xy: 761, 142
+  size: 40, 41
+  orig: 264, 243
+  offset: 116, 96
+  index: -1
+yinchang/quan/quan_0030
+  rotate: false
+  xy: 1048, 12
+  size: 51, 51
+  orig: 264, 243
+  offset: 111, 91
+  index: -1
+yinchang/quan/quan_0032
+  rotate: false
+  xy: 984, 2
+  size: 62, 61
+  orig: 264, 243
+  offset: 105, 86
+  index: -1
+yinchang/quan/quan_0034
+  rotate: true
+  xy: 1068, 76
+  size: 72, 71
+  orig: 264, 243
+  offset: 100, 81
+  index: -1
+yinchang/quan/quan_0036
+  rotate: false
+  xy: 984, 65
+  size: 82, 83
+  orig: 264, 243
+  offset: 95, 75
+  index: -1
+yinchang/quan/quan_0038
+  rotate: false
+  xy: 1041, 150
+  size: 93, 92
+  orig: 264, 243
+  offset: 90, 71
+  index: -1
+yinchang/quan/quan_0040
+  rotate: true
+  xy: 1041, 244
+  size: 103, 102
+  orig: 264, 243
+  offset: 85, 66
+  index: -1
+yinchang/quan/quan_0042
+  rotate: false
+  xy: 926, 225
+  size: 113, 113
+  orig: 264, 243
+  offset: 80, 61
+  index: -1
+yinchang/quan/quan_0044
+  rotate: true
+  xy: 714, 12
+  size: 125, 123
+  orig: 264, 243
+  offset: 74, 56
+  index: -1
+yinchang/quan/quan_0046
+  rotate: false
+  xy: 578, 4
+  size: 134, 133
+  orig: 264, 243
+  offset: 69, 51
+  index: -1
+yinchang/quan/quan_0048
+  rotate: true
+  xy: 839, 39
+  size: 144, 143
+  orig: 264, 243
+  offset: 64, 46
+  index: -1
+yinchang/quan/quan_0050
+  rotate: false
+  xy: 770, 185
+  size: 154, 153
+  orig: 264, 243
+  offset: 59, 42
+  index: -1
+yinchang/quan/quan_0052
+  rotate: false
+  xy: 944, 349
+  size: 162, 163
+  orig: 264, 243
+  offset: 55, 36
+  index: -1
+yinchang/quan/quan_0054
+  rotate: false
+  xy: 770, 340
+  size: 172, 172
+  orig: 264, 243
+  offset: 50, 32
+  index: -1
+yinchang/quan/quan_0056
+  rotate: false
+  xy: 578, 139
+  size: 181, 181
+  orig: 264, 243
+  offset: 46, 28
+  index: -1
+yinchang/quan/quan_0058
+  rotate: false
+  xy: 578, 322
+  size: 190, 190
+  orig: 264, 243
+  offset: 41, 24
+  index: -1

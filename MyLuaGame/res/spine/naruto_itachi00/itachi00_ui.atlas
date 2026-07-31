@@ -1,0 +1,160 @@
+
+itachi00_ui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+biyan
+  rotate: false
+  xy: 529, 534
+  size: 82, 16
+  orig: 83, 16
+  offset: 1, 0
+  index: -1
+houtoufa
+  rotate: false
+  xy: 674, 679
+  size: 113, 216
+  orig: 113, 216
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 44
+  size: 255, 332
+  orig: 255, 332
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 0, 0
+  size: 180, 44
+  orig: 180, 44
+  offset: 0, 0
+  index: -1
+shouzi1
+  rotate: false
+  xy: 787, 684
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+shouzi2
+  rotate: true
+  xy: 902, 900
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+shouzi3
+  rotate: false
+  xy: 985, 956
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+shouzi4
+  rotate: true
+  xy: 180, 29
+  size: 15, 57
+  orig: 15, 57
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 361, 396
+  size: 135, 176
+  orig: 135, 178
+  offset: 0, 2
+  index: -1
+toufa1
+  rotate: false
+  xy: 674, 568
+  size: 49, 111
+  orig: 49, 112
+  offset: 0, 0
+  index: -1
+toufa1-1
+  rotate: false
+  xy: 723, 568
+  size: 23, 111
+  orig: 23, 111
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 819, 751
+  size: 26, 144
+  orig: 26, 144
+  offset: 0, 0
+  index: -1
+toufa2-1
+  rotate: false
+  xy: 845, 772
+  size: 21, 123
+  orig: 21, 124
+  offset: 0, 0
+  index: -1
+toufa2_2
+  rotate: true
+  xy: 361, 378
+  size: 18, 106
+  orig: 18, 108
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: true
+  xy: 902, 992
+  size: 29, 122
+  orig: 29, 122
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: false
+  xy: 787, 727
+  size: 32, 168
+  orig: 32, 168
+  offset: 0, 0
+  index: -1
+wuguan
+  rotate: false
+  xy: 902, 920
+  size: 83, 72
+  orig: 83, 72
+  offset: 0, 0
+  index: -1
+xiuzi
+  rotate: false
+  xy: 361, 531
+  size: 168, 490
+  orig: 168, 490
+  offset: 0, 0
+  index: -1
+yiling
+  rotate: false
+  xy: 674, 895
+  size: 228, 126
+  orig: 228, 126
+  offset: 0, 0
+  index: -1
+youyifu
+  rotate: false
+  xy: 0, 376
+  size: 264, 645
+  orig: 264, 645
+  offset: 0, 0
+  index: -1
+zuoxiu
+  rotate: false
+  xy: 529, 550
+  size: 145, 471
+  orig: 145, 472
+  offset: 0, 0
+  index: -1
+zuoyifu
+  rotate: false
+  xy: 264, 378
+  size: 97, 643
+  orig: 97, 643
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+lihui_chuyinweilai.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianzi1
+  rotate: false
+  xy: 2, 2
+  size: 485, 1020
+  orig: 485, 1020
+  offset: 0, 0
+  index: -1
+bianzi2
+  rotate: true
+  xy: 489, 101
+  size: 469, 980
+  orig: 469, 980
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 489, 38
+  size: 144, 61
+  orig: 144, 61
+  offset: 0, 0
+  index: -1
+houqun1
+  rotate: true
+  xy: 1687, 495
+  size: 152, 215
+  orig: 152, 215
+  offset: 0, 0
+  index: -1
+houqun2
+  rotate: false
+  xy: 1471, 142
+  size: 134, 187
+  orig: 134, 187
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: false
+  xy: 1904, 532
+  size: 70, 115
+  orig: 70, 115
+  offset: 0, 0
+  index: -1
+qunziyou
+  rotate: false
+  xy: 1691, 649
+  size: 286, 207
+  orig: 286, 207
+  offset: 0, 0
+  index: -1
+qunzizuo
+  rotate: false
+  xy: 1471, 331
+  size: 178, 186
+  orig: 178, 186
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 489, 572
+  size: 450, 1021
+  orig: 450, 1021
+  offset: 0, 0
+  index: -1
+xiong1
+  rotate: false
+  xy: 1651, 344
+  size: 141, 149
+  orig: 141, 149
+  offset: 0, 0
+  index: -1
+xiong2
+  rotate: false
+  xy: 1512, 519
+  size: 173, 165
+  orig: 173, 165
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: true
+  xy: 1691, 858
+  size: 164, 348
+  orig: 164, 348
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: false
+  xy: 1512, 686
+  size: 177, 336
+  orig: 177, 336
+  offset: 0, 0
+  index: -1

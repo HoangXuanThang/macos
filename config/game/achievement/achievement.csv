@@ -1,0 +1,10 @@
+﻿VariableName,name,name_vn,name_tw,name_en,name_th,name_in,name_ph,name_ma,icon
+Defaults,"""""","""""","""""","""""","""""","""""","""""","""""",""""""
+成就分类,成就分类名称,name_vn,成就分类名称,name_en,name_th,name_in,name_ph,name_ma,成就分类图标
+1,Character Development,Phát triển nhân vật,,Character Development,การพัฒนาตัวละคร,Perkembangan Karakter,Pag-unlad ng Tauhan,Pembangunan Watak,city/task/achievement/icon_rucz.png
+2,Hero Collection,Thu thập anh hùng,,Hero Collection,การรวบรวมฮีโร่,Koleksi Pahlawan,Pangangalap ng Bayani,Pengumpulan Wira,city/task/achievement/icon_jlsj.png
+3,Hero Nurturing,Nuôi dưỡng anh hùng,,Hero Nurturing,การเลี้ยงดูฮีโร่,Pemeliharaan Pahlawan,Pag-aaruga ng Bayani,Pemeliharaan Wira,city/task/achievement/icon_jlpy.png
+4,Dungeon Activity,Hoạt động phụ bản,,Dungeon Activity,กิจกรรมดันเจี้ยน,Kegiatan Dungeon,Aktibidad ng Dungeon,aktiviti Penjara,city/task/achievement/icon_fbhd.png
+5,Competitive Challenge,Thử thách cạnh tranh,,Competitive Challenge,ความท้าทายการแข่งขัน,Tantangan Kompetitif,Pagsubok na Paligsahan,Cabaran Kompetitif,city/task/achievement/icon_jjtz.png
+6,Social Interaction,Giao lưu xã hội,,Social Interaction,ปฏิสัมพันธ์ทางสังคม,Interaksi Sosial,Sosyal na Pakikipag-ugnayan,Interaksi Sosial,city/task/achievement/icon_sj.png
+7,Hidden Achievement,Thành tựu ẩn,,Hidden Achievement,ความสำเร็จที่ซ่อนอยู่,Pencapaian Tersembunyi,Nakatagong Tagumpay,Pencapaian Tersembunyi,

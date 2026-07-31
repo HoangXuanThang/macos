@@ -1,0 +1,9 @@
+﻿VariableName,name,name_tw,name_en,name_vn,name_kr,rechargeID,type,level,exp,discountValue,logo,res,desc,desc_tw,desc_en,desc_vn,desc_kr,icon
+Defaults,,,,,,,,0,0,0,,,"""""","""""","""""","""""","""""",""""""
+ID,名称,名称,名称,名称_越南,名称_韩,充值ID,1购买通行证，2购买通行证经验,等级增量,经验增量,折扣数额(具体折扣),商品角标（0:折扣 1:热 2:限 3:新）,经验值资源,富文本显示,富文本显示,富文本显示,富文本显示,富文本显示,图标资源路径
+1,Standard Pass,,,Thẻ Phiêu lưu,,108,1,,,,,activity/passport/tips/kaitong.png,#L00100000##LOC0xFFFCED##LOS2##C0x72c1a1##F50#Activate#L00100000##LOC0xFFFCED##LOS2##C0x57472e##F44#Advanced Pass \nGet massive#L00100000##LOC0xFFFCED##LOS2##C0xf76b45##F50#experience \n#L00100000##LOC0xFFFCED##LOS2##C0x57472e##F44#Upgrade your pass level faster,,,#L00100000##LOC0xFFFCED##LOS2##C0x72c1a1##F50#Kích hoạt #L00100000##LOC0xFFFCED##LOS2##C0x5b545b##F44# Thẻ Phiêu Lưu \nMở khóa#L00100000##LOC0xFFFCED##LOS2##C0xf76b45##F50# Giới hạn #L00100000##LOC0xFFFCED##LOS2##C0x5b545b##F44#Nhiệm vụ,,activity/passport/icon_better.png
+2,Premium Pass,,,Thẻ Bậc thầy,,109,1,200,,2,1,activity/passport/tips/maoxian.png,#L00100000##LOC0xFFFCED##LOS2##C0x72c1a1##F50#Activate#L00100000##LOC0xFFFCED##LOS2##C0x57472e##F44#Premium Pass \nSuper Value Pass#L00100000##LOC0xFFFCED##LOS2##C0xf76b45##F50#Big Gift Pack \n#L00100000##LOC0xFFFCED##LOS2##C0x57472e##F44#Buy and get#L00100000##LOC0xFFFCED##LOS2##C0xea5ec1##F44#50#L00100000##LOC0xFFFCED##LOS2##C0x57472e##F44#grade,,,#L00100000##LOC0xFFFCED##LOS2##C0x72c1a1##F50#Kích hoạt#L00100000##LOC0xFFFCED##LOS2##C0x5b545b##F44# Thẻ Bậc Thầy \n#L00100000##LOC0xFFFCED##LOS2##C0x5b545b##F44#Tăng lên #L00100000##LOC0xFFFCED##LOS2##C0xea5ec1##F44#50#L00100000##LOC0xFFFCED##LOS2##C0x5b545b##F44# Cấp Thông Hành,,activity/passport/icon_lv.png
+3,3000 EXP,,,3000 EXP,,102,2,,3000,,,,,,,,,
+4,6000 EXP,,,6000 EXP,,103,2,,6000,,,,,,,,,
+5,10000 EXP,,,10000 EXP,,104,2,,10000,,,,,,,,,
+6,20000 EXP,,,20000 EXP,,106,2,,20000,,,,,,,,,

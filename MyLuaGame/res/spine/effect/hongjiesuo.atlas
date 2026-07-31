@@ -1,0 +1,48 @@
+
+hongjiesuo.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/flare_Fire
+  rotate: false
+  xy: 235, 36
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+TX/sg1
+  rotate: false
+  xy: 2, 2
+  size: 231, 239
+  orig: 231, 239
+  offset: 0, 0
+  index: -1
+btn_lock
+  rotate: false
+  xy: 442, 88
+  size: 52, 65
+  orig: 58, 69
+  offset: 3, 3
+  index: -1
+btn_unlock
+  rotate: false
+  xy: 442, 155
+  size: 78, 86
+  orig: 78, 86
+  offset: 0, 0
+  index: -1
+suoba
+  rotate: false
+  xy: 522, 192
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+suoshen
+  rotate: false
+  xy: 442, 49
+  size: 52, 37
+  orig: 58, 40
+  offset: 3, 3
+  index: -1

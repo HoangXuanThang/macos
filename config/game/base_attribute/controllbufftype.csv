@@ -1,0 +1,12 @@
+﻿VariableName,controllBuffType,_beizhu,_buffGroup,unlock
+Defaults,,,,TRUE
+ID,buff类型,备注,buff组,是否开启
+1,stun,,,
+2,sleepy,,,
+3,confusion,,,
+4,silence,,,
+5,sneer,,,
+6,freeze,,,
+7,leave,,,FALSE
+8,changeImage,,,FALSE
+9,kongju,,,

@@ -1,0 +1,110 @@
+
+effect_yaerbeide_1.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+guilongjuan_46
+  rotate: false
+  xy: 2, 1156
+  size: 499, 575
+  orig: 499, 575
+  offset: 0, 0
+  index: -1
+guilongjuan_48
+  rotate: false
+  xy: 2, 579
+  size: 499, 575
+  orig: 499, 575
+  offset: 0, 0
+  index: -1
+guilongjuan_50
+  rotate: false
+  xy: 503, 1156
+  size: 499, 575
+  orig: 499, 575
+  offset: 0, 0
+  index: -1
+guilongjuan_54
+  rotate: false
+  xy: 2, 2
+  size: 499, 575
+  orig: 499, 575
+  offset: 0, 0
+  index: -1
+guilongjuan_58
+  rotate: false
+  xy: 503, 579
+  size: 499, 575
+  orig: 499, 575
+  offset: 0, 0
+  index: -1
+guilongjuan_62
+  rotate: false
+  xy: 1004, 1156
+  size: 499, 575
+  orig: 499, 575
+  offset: 0, 0
+  index: -1
+guilongjuan_66
+  rotate: false
+  xy: 503, 2
+  size: 499, 575
+  orig: 499, 575
+  offset: 0, 0
+  index: -1
+guilongjuan_70
+  rotate: false
+  xy: 1004, 579
+  size: 499, 575
+  orig: 499, 575
+  offset: 0, 0
+  index: -1
+guilongjuan_74
+  rotate: false
+  xy: 1505, 1156
+  size: 499, 575
+  orig: 499, 575
+  offset: 0, 0
+  index: -1
+guilongjuan_78
+  rotate: false
+  xy: 1004, 2
+  size: 499, 575
+  orig: 499, 575
+  offset: 0, 0
+  index: -1
+guilongjuan_82
+  rotate: false
+  xy: 1505, 579
+  size: 499, 575
+  orig: 499, 575
+  offset: 0, 0
+  index: -1
+guilongjuan_86
+  rotate: false
+  xy: 1505, 2
+  size: 499, 575
+  orig: 499, 575
+  offset: 0, 0
+  index: -1
+
+effect_yaerbeide_1_2.png
+size: 2048, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+guilongjuan_90
+  rotate: true
+  xy: 2, 2
+  size: 499, 575
+  orig: 499, 575
+  offset: 0, 0
+  index: -1
+guilongjuan_94
+  rotate: true
+  xy: 579, 2
+  size: 499, 575
+  orig: 499, 575
+  offset: 0, 0
+  index: -1

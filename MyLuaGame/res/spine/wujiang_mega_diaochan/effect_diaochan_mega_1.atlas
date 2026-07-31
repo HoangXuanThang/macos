@@ -1,0 +1,230 @@
+
+effect_diaochan_mega_1.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/skill0/xbd/bhcd/bhcd_00001
+  rotate: true
+  xy: 1705, 167
+  size: 87, 137
+  orig: 87, 137
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/bhcd/bhcd_00002
+  rotate: true
+  xy: 1844, 167
+  size: 87, 137
+  orig: 87, 137
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/bhcd/bhcd_00003
+  rotate: true
+  xy: 1705, 78
+  size: 87, 137
+  orig: 87, 137
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/c1/c1_00027
+  rotate: false
+  xy: 519, 110
+  size: 146, 144
+  orig: 146, 144
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/c1/c1_00028
+  rotate: false
+  xy: 667, 110
+  size: 146, 144
+  orig: 146, 144
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/c1/c1_00029
+  rotate: false
+  xy: 815, 110
+  size: 146, 144
+  orig: 146, 144
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/c1/c1_00030
+  rotate: false
+  xy: 963, 110
+  size: 146, 144
+  orig: 146, 144
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/c2/c2_00001
+  rotate: false
+  xy: 1237, 135
+  size: 115, 119
+  orig: 115, 119
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/c2/c2_00002
+  rotate: false
+  xy: 1354, 135
+  size: 115, 119
+  orig: 115, 119
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/c2/c2_00003
+  rotate: false
+  xy: 1471, 135
+  size: 115, 119
+  orig: 115, 119
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/c2/c2_00004
+  rotate: false
+  xy: 1588, 135
+  size: 115, 119
+  orig: 115, 119
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/cd1_00000
+  rotate: true
+  xy: 362, 2
+  size: 95, 93
+  orig: 95, 93
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/czd_00028
+  rotate: true
+  xy: 457, 15
+  size: 82, 77
+  orig: 82, 77
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/czx/czx_00028
+  rotate: false
+  xy: 2, 4
+  size: 112, 64
+  orig: 112, 64
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/czx/czx_00029
+  rotate: false
+  xy: 116, 4
+  size: 112, 64
+  orig: 112, 64
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/czx/czx_00030
+  rotate: false
+  xy: 230, 27
+  size: 112, 64
+  orig: 112, 64
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/czx/czx_00032
+  rotate: false
+  xy: 536, 44
+  size: 112, 64
+  orig: 112, 64
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/czx/czx_00034
+  rotate: false
+  xy: 650, 44
+  size: 112, 64
+  orig: 112, 64
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/czx/czx_00036
+  rotate: false
+  xy: 764, 44
+  size: 112, 64
+  orig: 112, 64
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/gg1_00018
+  rotate: false
+  xy: 362, 99
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/huanq_00030
+  rotate: false
+  xy: 203, 93
+  size: 157, 161
+  orig: 157, 161
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/yb_00035
+  rotate: false
+  xy: 2, 70
+  size: 199, 184
+  orig: 199, 184
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/yw/yw_00001
+  rotate: true
+  xy: 1983, 190
+  size: 64, 43
+  orig: 64, 43
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/yw/yw_00003
+  rotate: false
+  xy: 878, 65
+  size: 64, 43
+  orig: 64, 43
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/yw/yw_00005
+  rotate: false
+  xy: 944, 65
+  size: 64, 43
+  orig: 64, 43
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/yw/yw_00007
+  rotate: false
+  xy: 1010, 65
+  size: 64, 43
+  orig: 64, 43
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/yw/yw_00009
+  rotate: false
+  xy: 878, 20
+  size: 64, 43
+  orig: 64, 43
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/yw/yw_00011
+  rotate: false
+  xy: 944, 20
+  size: 64, 43
+  orig: 64, 43
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/yw/yw_00013
+  rotate: false
+  xy: 1010, 20
+  size: 64, 43
+  orig: 64, 43
+  offset: 0, 0
+  index: -1
+chutu/skill0/xbd/zxc_00002
+  rotate: false
+  xy: 1111, 117
+  size: 124, 137
+  orig: 124, 137
+  offset: 0, 0
+  index: -1
+chutu/skill3/caihong/caihong_00008
+  rotate: true
+  xy: 1844, 92
+  size: 73, 121
+  orig: 73, 121
+  offset: 0, 0
+  index: -1
+chutu/skill3/glow_00000
+  rotate: false
+  xy: 1076, 78
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

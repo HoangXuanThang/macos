@@ -1,0 +1,23 @@
+{
+	"build_systems":
+	[
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)"
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "cocos"
+		},
+		{
+			"path": "src"
+		},
+		{
+			"path": "updater"
+		},
+		{
+			"path": "dev"
+		}
+	]
+}

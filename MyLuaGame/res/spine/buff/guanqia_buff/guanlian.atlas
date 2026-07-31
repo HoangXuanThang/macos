@@ -1,0 +1,13 @@
+
+guanlian.png
+size: 201,199
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/mm_dq
+  rotate: false
+  xy: 1, 1
+  size: 199, 197
+  orig: 199, 197
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+spine3_1_1.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 273
+  size: 1560, 720
+  orig: 1560, 720
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 2606, 594
+  size: 96, 46
+  orig: 96, 46
+  offset: 0, 0
+  index: -1
+gebo
+  rotate: true
+  xy: 2324, 432
+  size: 208, 280
+  orig: 208, 280
+  offset: 0, 0
+  index: -1
+liuhai1
+  rotate: false
+  xy: 261, 133
+  size: 48, 138
+  orig: 48, 138
+  offset: 0, 0
+  index: -1
+liuhai2
+  rotate: false
+  xy: 1712, 322
+  size: 48, 79
+  orig: 48, 79
+  offset: 0, 0
+  index: -1
+liuhai3
+  rotate: true
+  xy: 2711, 646
+  size: 45, 152
+  orig: 45, 152
+  offset: 0, 0
+  index: -1
+qunzi1
+  rotate: false
+  xy: 2324, 642
+  size: 385, 351
+  orig: 385, 351
+  offset: 0, 0
+  index: -1
+qunzi2
+  rotate: false
+  xy: 2711, 693
+  size: 379, 300
+  orig: 379, 300
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1564, 403
+  size: 758, 590
+  orig: 758, 590
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 2
+  size: 257, 269
+  orig: 257, 269
+  offset: 0, 0
+  index: -1
+xiong1
+  rotate: true
+  xy: 1564, 287
+  size: 114, 146
+  orig: 114, 146
+  offset: 0, 0
+  index: -1
+xiong2
+  rotate: false
+  xy: 3092, 854
+  size: 117, 139
+  orig: 117, 139
+  offset: 0, 0
+  index: -1

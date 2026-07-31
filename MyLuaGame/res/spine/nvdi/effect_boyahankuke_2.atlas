@@ -1,0 +1,125 @@
+
+effect_boyahankuke_2.png
+size: 2048, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+aixing (1)
+  rotate: false
+  xy: 1058, 347
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+aixing (3)
+  rotate: false
+  xy: 2, 2
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+baodian_0001_0
+  rotate: false
+  xy: 2, 669
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+baodian_0001_1
+  rotate: false
+  xy: 2, 317
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+baodian_0001_2
+  rotate: false
+  xy: 354, 669
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+baodian_0001_3
+  rotate: false
+  xy: 354, 317
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+baodian_0001_4
+  rotate: false
+  xy: 706, 669
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+baodian_0001_5
+  rotate: false
+  xy: 706, 317
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+baodian_0001_6
+  rotate: false
+  xy: 1058, 669
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+hero_1005_huan07
+  rotate: false
+  xy: 1646, 851
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+hero_1005_huan08
+  rotate: false
+  xy: 474, 147
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+hero_1005_huan09
+  rotate: false
+  xy: 1816, 851
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+zd
+  rotate: false
+  xy: 1294, 572
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+zz_0
+  rotate: false
+  xy: 2, 56
+  size: 234, 259
+  orig: 234, 259
+  offset: 0, 0
+  index: -1
+zz_1
+  rotate: false
+  xy: 1058, 408
+  size: 234, 259
+  orig: 234, 259
+  offset: 0, 0
+  index: -1
+zz_2
+  rotate: false
+  xy: 1410, 760
+  size: 234, 259
+  orig: 234, 259
+  offset: 0, 0
+  index: -1
+zz_3
+  rotate: false
+  xy: 238, 56
+  size: 234, 259
+  orig: 234, 259
+  offset: 0, 0
+  index: -1

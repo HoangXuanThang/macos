@@ -1,0 +1,195 @@
+
+shikamaru01_ui.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+erduo
+  rotate: false
+  xy: 368, 15
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+heiyiling
+  rotate: false
+  xy: 564, 93
+  size: 53, 53
+  orig: 54, 54
+  offset: 0, 1
+  index: -1
+kuwu_2
+  rotate: false
+  xy: 0, 6
+  size: 178, 28
+  orig: 179, 28
+  offset: 1, 0
+  index: -1
+lingzi_1
+  rotate: false
+  xy: 437, 78
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+lingzi_3
+  rotate: false
+  xy: 799, 283
+  size: 37, 22
+  orig: 39, 22
+  offset: 2, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 182
+  size: 276, 330
+  orig: 276, 330
+  offset: 0, 0
+  index: -1
+tou_2
+  rotate: true
+  xy: 0, 34
+  size: 148, 189
+  orig: 148, 189
+  offset: 0, 0
+  index: -1
+tou_3
+  rotate: false
+  xy: 501, 102
+  size: 63, 44
+  orig: 69, 47
+  offset: 0, 3
+  index: -1
+tou_4
+  rotate: true
+  xy: 839, 303
+  size: 67, 71
+  orig: 72, 71
+  offset: 4, 0
+  index: -1
+toufa_1-1
+  rotate: false
+  xy: 295, 66
+  size: 102, 72
+  orig: 102, 72
+  offset: 0, 0
+  index: -1
+toufa_2-1
+  rotate: false
+  xy: 397, 71
+  size: 40, 67
+  orig: 40, 67
+  offset: 0, 0
+  index: -1
+toufa_3-1
+  rotate: false
+  xy: 295, 138
+  size: 120, 58
+  orig: 120, 58
+  offset: 0, 0
+  index: -1
+yanjing_1
+  rotate: true
+  xy: 988, 451
+  size: 61, 24
+  orig: 67, 28
+  offset: 1, 4
+  index: -1
+yilingjian
+  rotate: false
+  xy: 842, 370
+  size: 146, 142
+  orig: 146, 142
+  offset: 0, 0
+  index: -1
+youshoubi_1_1
+  rotate: false
+  xy: 632, 192
+  size: 112, 80
+  orig: 112, 80
+  offset: 0, 0
+  index: -1
+youshoubi_1_2
+  rotate: false
+  xy: 495, 146
+  size: 107, 49
+  orig: 107, 50
+  offset: 0, 1
+  index: -1
+youshoubi_1_3
+  rotate: true
+  xy: 295, 14
+  size: 52, 73
+  orig: 52, 75
+  offset: 0, 0
+  index: -1
+youshoubi_1_5
+  rotate: true
+  xy: 799, 305
+  size: 87, 40
+  orig: 88, 40
+  offset: 1, 0
+  index: -1
+youshoubi_1_6
+  rotate: false
+  xy: 415, 142
+  size: 80, 54
+  orig: 80, 54
+  offset: 0, 0
+  index: -1
+youshoubi_1_7
+  rotate: false
+  xy: 368, 0
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+youshoudabi_1
+  rotate: true
+  xy: 189, 39
+  size: 143, 106
+  orig: 143, 106
+  offset: 0, 0
+  index: -1
+youtui_1
+  rotate: true
+  xy: 495, 272
+  size: 120, 304
+  orig: 120, 304
+  offset: 0, 0
+  index: -1
+zuoshoubi_1-1
+  rotate: true
+  xy: 495, 392
+  size: 120, 347
+  orig: 120, 347
+  offset: 0, 0
+  index: -1
+zuoshoubi_1-2
+  rotate: false
+  xy: 910, 312
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+zuoshoubi_1-3
+  rotate: false
+  xy: 744, 189
+  size: 56, 83
+  orig: 56, 83
+  offset: 0, 0
+  index: -1
+zuotui_1-1
+  rotate: false
+  xy: 276, 196
+  size: 219, 316
+  orig: 219, 316
+  offset: 0, 0
+  index: -1
+zuotui_1-2
+  rotate: true
+  xy: 495, 195
+  size: 77, 137
+  orig: 77, 137
+  offset: 0, 0
+  index: -1

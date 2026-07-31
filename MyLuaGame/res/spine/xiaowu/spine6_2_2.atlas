@@ -1,0 +1,139 @@
+
+spine6_2_2.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 287
+  size: 1560, 720
+  orig: 1560, 720
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 3057, 405
+  size: 92, 38
+  orig: 92, 38
+  offset: 0, 0
+  index: -1
+houtoufa1
+  rotate: false
+  xy: 2679, 499
+  size: 431, 291
+  orig: 431, 291
+  offset: 0, 0
+  index: -1
+houtoufa2
+  rotate: false
+  xy: 3688, 756
+  size: 274, 251
+  orig: 274, 251
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: false
+  xy: 3112, 567
+  size: 41, 83
+  orig: 41, 83
+  offset: 0, 0
+  index: -1
+qian1
+  rotate: false
+  xy: 1135, 148
+  size: 269, 137
+  orig: 269, 137
+  offset: 0, 0
+  index: -1
+qian2
+  rotate: false
+  xy: 2679, 357
+  size: 376, 140
+  orig: 376, 140
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1564, 287
+  size: 1113, 720
+  orig: 1113, 720
+  offset: 0, 0
+  index: -1
+shoubi01
+  rotate: false
+  xy: 1406, 150
+  size: 160, 135
+  orig: 160, 135
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 3112, 652
+  size: 88, 138
+  orig: 88, 138
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 2, 2
+  size: 90, 140
+  orig: 90, 140
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: true
+  xy: 2679, 307
+  size: 48, 126
+  orig: 48, 126
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: false
+  xy: 3964, 863
+  size: 69, 144
+  orig: 69, 144
+  offset: 0, 0
+  index: -1
+xiaqunzi1
+  rotate: false
+  xy: 2679, 792
+  size: 529, 215
+  orig: 529, 215
+  offset: 0, 0
+  index: -1
+xiaqunzi2
+  rotate: false
+  xy: 3210, 828
+  size: 476, 179
+  orig: 476, 179
+  offset: 0, 0
+  index: -1
+xiong01
+  rotate: false
+  xy: 144, 14
+  size: 81, 78
+  orig: 81, 78
+  offset: 0, 0
+  index: -1
+xiong02
+  rotate: false
+  xy: 1568, 202
+  size: 81, 83
+  orig: 81, 83
+  offset: 0, 0
+  index: -1
+zhuanghsi
+  rotate: false
+  xy: 596, 125
+  size: 537, 160
+  orig: 537, 160
+  offset: 0, 0
+  index: -1
+zhuangshi
+  rotate: false
+  xy: 2, 94
+  size: 592, 191
+  orig: 592, 191
+  offset: 0, 0
+  index: -1

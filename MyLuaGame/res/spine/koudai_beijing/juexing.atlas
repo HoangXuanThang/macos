@@ -1,0 +1,90 @@
+
+juexing.png
+size: 1960,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk2/baiquan
+  rotate: false
+  xy: 541, 52
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+sk2/bingzhui5
+  rotate: false
+  xy: 1630, 8
+  size: 308, 462
+  orig: 308, 462
+  offset: 0, 0
+  index: -1
+sk2/binzhu
+  rotate: false
+  xy: 1, 39
+  size: 39, 181
+  orig: 39, 181
+  offset: 0, 0
+  index: -1
+sk2/cjz
+  rotate: true
+  xy: 42, 42
+  size: 178, 497
+  orig: 178, 499
+  offset: 0, 2
+  index: -1
+sk2/cjz2
+  rotate: true
+  xy: 711, 145
+  size: 75, 67
+  orig: 75, 67
+  offset: 0, 0
+  index: -1
+sk2/guangyun
+  rotate: false
+  xy: 1054, 448
+  size: 574, 574
+  orig: 574, 574
+  offset: 0, 0
+  index: -1
+sk2/jxmh
+  rotate: true
+  xy: 765, 409
+  size: 613, 287
+  orig: 613, 287
+  offset: 0, 0
+  index: -1
+sk2/niuqu
+  rotate: true
+  xy: 1029, 58
+  size: 349, 533
+  orig: 349, 533
+  offset: 0, 0
+  index: -1
+sk2/shuiwent
+  rotate: true
+  xy: 1630, 472
+  size: 550, 329
+  orig: 550, 329
+  offset: 0, 0
+  index: -1
+sk2/xingyun4
+  rotate: true
+  xy: 780, 12
+  size: 395, 247
+  orig: 395, 247
+  offset: 0, 0
+  index: -1
+sk2/yan0_2
+  rotate: true
+  xy: 1, 222
+  size: 800, 762
+  orig: 800, 762
+  offset: 0, 0
+  index: -1
+sk2/zhuzi
+  rotate: true
+  xy: 541, 1
+  size: 49, 118
+  orig: 49, 118
+  offset: 0, 0
+  index: -1

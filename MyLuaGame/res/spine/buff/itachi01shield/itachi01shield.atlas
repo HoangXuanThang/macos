@@ -1,0 +1,160 @@
+
+itachi01shield.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circleFire_0000
+  rotate: false
+  xy: 0, 744
+  size: 461, 246
+  orig: 461, 246
+  offset: 0, 0
+  index: -1
+circleFire_0002
+  rotate: false
+  xy: 0, 496
+  size: 461, 246
+  orig: 461, 246
+  offset: 0, 0
+  index: -1
+circleFire_0004
+  rotate: false
+  xy: 463, 744
+  size: 461, 246
+  orig: 461, 246
+  offset: 0, 0
+  index: -1
+circleFire_0006
+  rotate: false
+  xy: 0, 248
+  size: 461, 246
+  orig: 461, 246
+  offset: 0, 0
+  index: -1
+circleFire_0008
+  rotate: false
+  xy: 463, 496
+  size: 461, 246
+  orig: 461, 246
+  offset: 0, 0
+  index: -1
+circleFire_0010
+  rotate: false
+  xy: 926, 744
+  size: 461, 246
+  orig: 461, 246
+  offset: 0, 0
+  index: -1
+circleFire_0012
+  rotate: false
+  xy: 0, 0
+  size: 461, 246
+  orig: 461, 246
+  offset: 0, 0
+  index: -1
+circleFire_0014
+  rotate: false
+  xy: 463, 248
+  size: 461, 246
+  orig: 461, 246
+  offset: 0, 0
+  index: -1
+itachi01_shield_b_0008
+  rotate: false
+  xy: 1389, 788
+  size: 163, 202
+  orig: 163, 202
+  offset: 0, 0
+  index: -1
+itachi01_shield_b_0009
+  rotate: false
+  xy: 463, 44
+  size: 163, 202
+  orig: 163, 202
+  offset: 0, 0
+  index: -1
+itachi01_shield_b_0010
+  rotate: false
+  xy: 926, 336
+  size: 163, 202
+  orig: 163, 202
+  offset: 0, 0
+  index: -1
+itachi01_shield_b_0012
+  rotate: false
+  xy: 1091, 540
+  size: 163, 202
+  orig: 163, 202
+  offset: 0, 0
+  index: -1
+itachi01_shield_b_0013
+  rotate: false
+  xy: 1554, 788
+  size: 163, 202
+  orig: 163, 202
+  offset: 0, 0
+  index: -1
+itachi01_shield_b_0014
+  rotate: false
+  xy: 628, 44
+  size: 163, 202
+  orig: 163, 202
+  offset: 0, 0
+  index: -1
+itachi01_shield_b_0015
+  rotate: false
+  xy: 1091, 336
+  size: 163, 202
+  orig: 163, 202
+  offset: 0, 0
+  index: -1
+itachi01_shield_f_0008
+  rotate: false
+  xy: 1719, 788
+  size: 163, 202
+  orig: 163, 202
+  offset: 0, 0
+  index: -1
+itachi01_shield_f_0009
+  rotate: false
+  xy: 1256, 540
+  size: 163, 202
+  orig: 163, 202
+  offset: 0, 0
+  index: -1
+itachi01_shield_f_0010
+  rotate: false
+  xy: 1256, 336
+  size: 163, 202
+  orig: 163, 202
+  offset: 0, 0
+  index: -1
+itachi01_shield_f_0012
+  rotate: false
+  xy: 793, 44
+  size: 163, 202
+  orig: 163, 202
+  offset: 0, 0
+  index: -1
+itachi01_shield_f_0013
+  rotate: false
+  xy: 1421, 584
+  size: 163, 202
+  orig: 163, 202
+  offset: 0, 0
+  index: -1
+itachi01_shield_f_0014
+  rotate: false
+  xy: 1421, 380
+  size: 163, 202
+  orig: 163, 202
+  offset: 0, 0
+  index: -1
+itachi01_shield_f_0015
+  rotate: false
+  xy: 926, 540
+  size: 163, 202
+  orig: 163, 202
+  offset: 0, 0
+  index: -1

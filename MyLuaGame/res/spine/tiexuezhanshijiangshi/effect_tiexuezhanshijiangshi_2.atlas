@@ -1,0 +1,83 @@
+
+effect_tiexuezhanshijiangshi_2.png
+size: 1156, 1043
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+0000
+  rotate: false
+  xy: 878, 102
+  size: 274, 134
+  orig: 576, 576
+  offset: 171, 191
+  index: -1
+0001
+  rotate: true
+  xy: 910, 238
+  size: 411, 244
+  orig: 576, 576
+  offset: 83, 150
+  index: -1
+0002
+  rotate: false
+  xy: 473, 529
+  size: 435, 251
+  orig: 576, 576
+  offset: 84, 150
+  index: -1
+0003
+  rotate: false
+  xy: 2, 256
+  size: 454, 262
+  orig: 576, 576
+  offset: 73, 145
+  index: -1
+0004
+  rotate: false
+  xy: 2, 2
+  size: 447, 252
+  orig: 576, 576
+  offset: 62, 158
+  index: -1
+0005
+  rotate: false
+  xy: 2, 520
+  size: 460, 259
+  orig: 576, 576
+  offset: 56, 158
+  index: -1
+0006
+  rotate: false
+  xy: 2, 781
+  size: 469, 260
+  orig: 576, 576
+  offset: 54, 161
+  index: -1
+0007
+  rotate: false
+  xy: 473, 782
+  size: 459, 259
+  orig: 576, 576
+  offset: 69, 163
+  index: -1
+0008
+  rotate: false
+  xy: 458, 31
+  size: 418, 249
+  orig: 576, 576
+  offset: 58, 164
+  index: -1
+0009
+  rotate: false
+  xy: 464, 282
+  size: 422, 245
+  orig: 576, 576
+  offset: 54, 163
+  index: -1
+0010
+  rotate: true
+  xy: 934, 651
+  size: 390, 172
+  orig: 576, 576
+  offset: 85, 164
+  index: -1

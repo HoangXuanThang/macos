@@ -1,0 +1,69 @@
+
+sudu_bj_guang.png
+size: 662,278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baizhi_sdx
+  rotate: true
+  xy: 279, 1
+  size: 24, 198
+  orig: 24, 198
+  offset: 0, 0
+  index: -1
+cj_suduxian
+  rotate: false
+  xy: 279, 214
+  size: 340, 63
+  orig: 340, 63
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 521, 129
+  size: 89, 83
+  orig: 89, 83
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 1, 1
+  size: 276, 276
+  orig: 276, 276
+  offset: 0, 0
+  index: -1
+hei
+  rotate: true
+  xy: 455, 38
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+heibai_bianfneg
+  rotate: true
+  xy: 455, 47
+  size: 76, 203
+  orig: 76, 203
+  offset: 0, 0
+  index: -1
+moshui4
+  rotate: false
+  xy: 279, 152
+  size: 240, 60
+  orig: 240, 60
+  offset: 0, 0
+  index: -1
+ms6
+  rotate: true
+  xy: 621, 125
+  size: 152, 40
+  orig: 152, 40
+  offset: 0, 0
+  index: -1
+penliu_1
+  rotate: true
+  xy: 279, 27
+  size: 96, 174
+  orig: 96, 174
+  offset: 0, 0
+  index: -1

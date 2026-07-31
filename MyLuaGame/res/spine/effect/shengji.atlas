@@ -1,0 +1,41 @@
+
+shengji.png
+size: 1001,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TX_S1_szgh_0052
+  rotate: false
+  xy: 365, 1
+  size: 256, 234
+  orig: 256, 234
+  offset: 0, 0
+  index: -1
+images/TX_xt_g_0017
+  rotate: false
+  xy: 623, 36
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: -1
+images/baiguang
+  rotate: false
+  xy: 824, 57
+  size: 176, 178
+  orig: 176, 178
+  offset: 0, 0
+  index: -1
+images/dimian
+  rotate: true
+  xy: 1, 56
+  size: 179, 362
+  orig: 179, 362
+  offset: 0, 0
+  index: -1
+images/guangze
+  rotate: true
+  xy: 1, 10
+  size: 44, 178
+  orig: 44, 178
+  offset: 0, 0
+  index: -1

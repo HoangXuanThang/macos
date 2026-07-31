@@ -1,0 +1,125 @@
+
+ctdj_1.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/liuguang/1_00000
+  rotate: true
+  xy: 2, 163
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00002
+  rotate: true
+  xy: 2, 97
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00004
+  rotate: true
+  xy: 260, 163
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00006
+  rotate: true
+  xy: 2, 31
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00008
+  rotate: true
+  xy: 260, 97
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00010
+  rotate: true
+  xy: 518, 163
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00012
+  rotate: true
+  xy: 260, 31
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00014
+  rotate: true
+  xy: 518, 97
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00016
+  rotate: true
+  xy: 776, 163
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00018
+  rotate: true
+  xy: 518, 31
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00020
+  rotate: true
+  xy: 776, 97
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00022
+  rotate: true
+  xy: 1034, 163
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00024
+  rotate: true
+  xy: 776, 31
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00026
+  rotate: true
+  xy: 1034, 97
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00028
+  rotate: true
+  xy: 1292, 163
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/lizi
+  rotate: false
+  xy: 1292, 133
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+effect/xing
+  rotate: false
+  xy: 1034, 2
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1

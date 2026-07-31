@@ -1,0 +1,111 @@
+
+gonghuimeiri.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+che1
+  rotate: false
+  xy: 2, 266
+  size: 396, 285
+  orig: 424, 310
+  offset: 16, 17
+  index: -1
+g_gaizi
+  rotate: false
+  xy: 1142, 1395
+  size: 386, 289
+  orig: 386, 290
+  offset: 0, 0
+  index: -1
+gaizi
+  rotate: false
+  xy: 412, 645
+  size: 411, 194
+  orig: 411, 195
+  offset: 0, 1
+  index: -1
+gaizi_touying
+  rotate: true
+  xy: 1142, 989
+  size: 404, 118
+  orig: 404, 118
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 2, 841
+  size: 1138, 1130
+  orig: 1138, 1130
+  offset: 0, 0
+  index: -1
+jie
+  rotate: false
+  xy: 2, 114
+  size: 261, 150
+  orig: 269, 167
+  offset: 4, 0
+  index: -1
+jie_touying
+  rotate: false
+  xy: 825, 693
+  size: 261, 146
+  orig: 269, 167
+  offset: 4, 4
+  index: -1
+libao1
+  rotate: false
+  xy: 1142, 925
+  size: 88, 62
+  orig: 92, 95
+  offset: 2, 16
+  index: -1
+lizi
+  rotate: false
+  xy: 2, 2
+  size: 172, 110
+  orig: 172, 110
+  offset: 0, 0
+  index: -1
+louguang
+  rotate: false
+  xy: 412, 613
+  size: 340, 30
+  orig: 340, 30
+  offset: 0, 0
+  index: -1
+pd11
+  rotate: false
+  xy: 1907, 1741
+  size: 67, 230
+  orig: 67, 230
+  offset: 0, 0
+  index: -1
+xiangdi
+  rotate: false
+  xy: 1549, 1736
+  size: 356, 235
+  orig: 356, 235
+  offset: 0, 0
+  index: -1
+xiangzi
+  rotate: false
+  xy: 1142, 1686
+  size: 405, 285
+  orig: 408, 286
+  offset: 1, 1
+  index: -1
+xiangzi2
+  rotate: false
+  xy: 2, 553
+  size: 408, 286
+  orig: 408, 286
+  offset: 0, 0
+  index: -1
+yaoguang
+  rotate: false
+  xy: 1262, 1212
+  size: 198, 181
+  orig: 198, 181
+  offset: 0, 0
+  index: -1

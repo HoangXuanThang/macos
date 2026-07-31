@@ -1,0 +1,90 @@
+
+mabi.png
+size: 671,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/energy_l2
+  rotate: true
+  xy: 251, 128
+  size: 111, 104
+  orig: 111, 104
+  offset: 0, 0
+  index: -1
+images/energy_l3
+  rotate: true
+  xy: 251, 15
+  size: 111, 104
+  orig: 111, 104
+  offset: 0, 0
+  index: -1
+images/energy_l4
+  rotate: true
+  xy: 357, 128
+  size: 111, 104
+  orig: 111, 104
+  offset: 0, 0
+  index: -1
+images/energy_l5
+  rotate: true
+  xy: 357, 15
+  size: 111, 104
+  orig: 111, 104
+  offset: 0, 0
+  index: -1
+images/energy_l6
+  rotate: false
+  xy: 463, 135
+  size: 111, 104
+  orig: 111, 104
+  offset: 0, 0
+  index: -1
+images/leiming_0001
+  rotate: true
+  xy: 628, 45
+  size: 77, 42
+  orig: 150, 100
+  offset: 56, 51
+  index: -1
+images/leiming_0002
+  rotate: true
+  xy: 576, 124
+  size: 115, 78
+  orig: 150, 100
+  offset: 26, 22
+  index: -1
+images/leiming_0003
+  rotate: true
+  xy: 556, 12
+  size: 58, 70
+  orig: 150, 100
+  offset: 33, 26
+  index: -1
+images/leiming_0004
+  rotate: false
+  xy: 463, 63
+  size: 73, 70
+  orig: 150, 100
+  offset: 12, 19
+  index: -1
+images/leiming_0005
+  rotate: false
+  xy: 463, 7
+  size: 91, 54
+  orig: 150, 100
+  offset: 12, 15
+  index: -1
+images/leiming_0006
+  rotate: false
+  xy: 538, 72
+  size: 88, 50
+  orig: 150, 100
+  offset: 15, 14
+  index: -1
+images/lizi6_4
+  rotate: true
+  xy: 1, 1
+  size: 238, 248
+  orig: 238, 248
+  offset: 0, 0
+  index: -1

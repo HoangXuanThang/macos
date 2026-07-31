@@ -1,0 +1,69 @@
+
+hero_yuangugenggui_buff.png
+size: 967,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/chilun
+  rotate: true
+  xy: 773, 209
+  size: 183, 193
+  orig: 184, 194
+  offset: 0, 1
+  index: -1
+TX/guanghuan1
+  rotate: false
+  xy: 380, 144
+  size: 152, 248
+  orig: 152, 248
+  offset: 0, 0
+  index: -1
+TX/guanghuan2
+  rotate: false
+  xy: 773, 39
+  size: 174, 168
+  orig: 174, 168
+  offset: 0, 0
+  index: -1
+TX/guangyun
+  rotate: true
+  xy: 1, 13
+  size: 379, 377
+  orig: 379, 377
+  offset: 0, 0
+  index: -1
+TX/huo4
+  rotate: false
+  xy: 534, 146
+  size: 237, 246
+  orig: 237, 246
+  offset: 0, 0
+  index: -1
+TX/kulou
+  rotate: false
+  xy: 413, 61
+  size: 70, 81
+  orig: 70, 81
+  offset: 0, 0
+  index: -1
+TX/xuli1_qian_3
+  rotate: false
+  xy: 413, 1
+  size: 150, 58
+  orig: 150, 60
+  offset: 0, 0
+  index: -1
+TX/xuli1_qian_4
+  rotate: false
+  xy: 485, 96
+  size: 148, 46
+  orig: 149, 47
+  offset: 0, 0
+  index: -1
+TX/xuli1_qian_5
+  rotate: true
+  xy: 380, 6
+  size: 136, 31
+  orig: 136, 31
+  offset: 0, 0
+  index: -1

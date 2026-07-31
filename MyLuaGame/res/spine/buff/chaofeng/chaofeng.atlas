@@ -1,0 +1,20 @@
+
+chaofeng.png
+size: 373,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/dupi
+  rotate: true
+  xy: 1, 19
+  size: 150, 197
+  orig: 150, 197
+  offset: 0, 0
+  index: -1
+effect/s1_qcx
+  rotate: false
+  xy: 200, 1
+  size: 172, 168
+  orig: 172, 168
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+jineng.png
+size: 438,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TX_S1_szgh_0052
+  rotate: false
+  xy: 1, 1
+  size: 256, 234
+  orig: 256, 234
+  offset: 0, 0
+  index: -1
+images/guangze
+  rotate: true
+  xy: 259, 37
+  size: 44, 178
+  orig: 44, 178
+  offset: 0, 0
+  index: -1
+images/yuanhuiguang
+  rotate: false
+  xy: 259, 83
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1

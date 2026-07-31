@@ -1,0 +1,174 @@
+
+effect_wuyaowang_2.png
+size: 1994, 773
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+gho_sqr_000
+  rotate: false
+  xy: 1041, 4
+  size: 29, 39
+  orig: 64, 64
+  offset: 17, 15
+  index: -1
+gho_sqr_002
+  rotate: true
+  xy: 992, 10
+  size: 33, 47
+  orig: 64, 64
+  offset: 15, 9
+  index: -1
+gho_sqr_004
+  rotate: true
+  xy: 939, 7
+  size: 36, 51
+  orig: 64, 64
+  offset: 13, 7
+  index: -1
+gho_sqr_005
+  rotate: true
+  xy: 884, 6
+  size: 37, 53
+  orig: 64, 64
+  offset: 12, 5
+  index: -1
+gho_sqr_007
+  rotate: true
+  xy: 768, 3
+  size: 40, 58
+  orig: 64, 64
+  offset: 10, 3
+  index: -1
+gho_sqr_008
+  rotate: true
+  xy: 706, 2
+  size: 41, 60
+  orig: 64, 64
+  offset: 9, 2
+  index: -1
+gho_sqr_010
+  rotate: true
+  xy: 828, 6
+  size: 37, 54
+  orig: 64, 64
+  offset: 8, 7
+  index: -1
+gho_sqr_011
+  rotate: true
+  xy: 710, 405
+  size: 32, 23
+  orig: 64, 64
+  offset: 9, 33
+  index: -1
+gho_sqr_012
+  rotate: false
+  xy: 358, 3
+  size: 14, 16
+  orig: 64, 64
+  offset: 15, 39
+  index: -1
+ljf/wind__01
+  rotate: true
+  xy: 706, 45
+  size: 356, 348
+  orig: 440, 400
+  offset: 35, 13
+  index: -1
+ljf/wind__02
+  rotate: true
+  xy: 2, 392
+  size: 379, 363
+  orig: 440, 400
+  offset: 38, 13
+  index: -1
+ljf/wind__03
+  rotate: false
+  xy: 358, 21
+  size: 346, 369
+  orig: 440, 400
+  offset: 67, 14
+  index: -1
+ljf/wind__04
+  rotate: true
+  xy: 710, 439
+  size: 332, 369
+  orig: 440, 400
+  offset: 71, 14
+  index: -1
+ljf/wind__05
+  rotate: false
+  xy: 367, 403
+  size: 341, 368
+  orig: 440, 400
+  offset: 48, 14
+  index: -1
+ljf/wind__06
+  rotate: true
+  xy: 1081, 439
+  size: 332, 344
+  orig: 440, 400
+  offset: 57, 14
+  index: -1
+ljf/wind__07
+  rotate: true
+  xy: 1056, 81
+  size: 356, 340
+  orig: 440, 400
+  offset: 35, 13
+  index: -1
+ljf/wind__08
+  rotate: true
+  xy: 2, 11
+  size: 379, 354
+  orig: 440, 400
+  offset: 38, 13
+  index: -1
+ljf/wind__09
+  rotate: true
+  xy: 1398, 92
+  size: 345, 343
+  orig: 440, 400
+  offset: 68, 25
+  index: -1
+ljf/wind__10
+  rotate: false
+  xy: 1427, 448
+  size: 264, 323
+  orig: 440, 400
+  offset: 82, 29
+  index: -1
+ljf/wind__11
+  rotate: true
+  xy: 1693, 531
+  size: 240, 280
+  orig: 440, 400
+  offset: 81, 43
+  index: -1
+ring_magic_1
+  rotate: false
+  xy: 1743, 280
+  size: 249, 249
+  orig: 256, 256
+  offset: 3, 0
+  index: -1
+tx/ghost_1
+  rotate: true
+  xy: 1072, 7
+  size: 72, 160
+  orig: 72, 160
+  offset: 0, 0
+  index: -1
+tx/ghost_3
+  rotate: true
+  xy: 1398, 5
+  size: 85, 139
+  orig: 85, 141
+  offset: 0, 1
+  index: -1
+tx/holo_1
+  rotate: false
+  xy: 1743, 56
+  size: 232, 222
+  orig: 256, 256
+  offset: 13, 19
+  index: -1

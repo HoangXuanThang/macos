@@ -1,0 +1,20 @@
+
+shuiliuhuanrao1.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/lizi
+  rotate: false
+  xy: 208, 29
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+images/shuiquan
+  rotate: false
+  xy: 2, 2
+  size: 204, 55
+  orig: 204, 55
+  offset: 0, 0
+  index: -1

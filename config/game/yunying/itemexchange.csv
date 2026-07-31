@@ -1,0 +1,1088 @@
+﻿VariableName,huodongID,costMap,items,exchangeTimes,limit,desc,desc_vn,desc_en,desc_th
+Defaults,0,{},{},0,{},"""""","""""","""""",""""""
+ID,活动版本ID,消耗道具,兑换道具,兑换限制次数0无限,兑换限制(1-vip;2-等级;3-图鉴;4-头像;5-皮肤),描述,描述,描述,描述
+1,10001,{rmb=11;gold=100},{gold=1},10,,Sự kiện thử nghiệm,Sự kiện thử nghiệm,Test Event,Sự kiện thử nghiệm
+2,10001,{rmb=13;gold=100},{gold=1},5,,Sự kiện thử nghiệm,Sự kiện thử nghiệm,Test Event,Sự kiện thử nghiệm
+3,10001,{rmb=13;gold=100},{gold=1},4,,Sự kiện thử nghiệm,Sự kiện thử nghiệm,Test Event,Sự kiện thử nghiệm
+4,10001,{rmb=15;gold=100},{gold=1},4,,Sự kiện thử nghiệm,Sự kiện thử nghiệm,Test Event,Sự kiện thử nghiệm
+5,10001,{rmb=16;gold=100},{gold=1},4,,Sự kiện thử nghiệm,Sự kiện thử nghiệm,Test Event,Sự kiện thử nghiệm
+6,10001,{rmb=18;gold=100},{gold=1},4,,Sự kiện thử nghiệm,Sự kiện thử nghiệm,Test Event,Sự kiện thử nghiệm
+7,10001,{gold=109},{gold=1},4,,Sự kiện thử nghiệm,Sự kiện thử nghiệm,Test Event,Sự kiện thử nghiệm
+8,10001,{gold=111},{gold=1},4,,Sự kiện thử nghiệm,Sự kiện thử nghiệm,Test Event,Sự kiện thử nghiệm
+11,10002,{rmb=11;gold=100},{gold=1},10,,Sự kiện thử nghiệm,Sự kiện thử nghiệm,Test Event,Sự kiện thử nghiệm
+12,10002,{rmb=13;gold=100},{gold=1},5,,Sự kiện thử nghiệm,Sự kiện thử nghiệm,Test Event,Sự kiện thử nghiệm
+13,10002,{rmb=13;gold=100},{gold=1},4,,Sự kiện thử nghiệm,Sự kiện thử nghiệm,Test Event,Sự kiện thử nghiệm
+14,10002,{rmb=15;gold=100},{gold=1},4,,Sự kiện thử nghiệm,Sự kiện thử nghiệm,Test Event,Sự kiện thử nghiệm
+15,10002,{rmb=16;gold=100},{gold=1},4,,Sự kiện thử nghiệm,Sự kiện thử nghiệm,Test Event,Sự kiện thử nghiệm
+16,10002,{rmb=18;gold=100},{gold=1},4,,Sự kiện thử nghiệm,Sự kiện thử nghiệm,Test Event,Sự kiện thử nghiệm
+17,10002,{gold=109},{gold=1},4,,Sự kiện thử nghiệm,Sự kiện thử nghiệm,Test Event,Sự kiện thử nghiệm
+18,10002,{gold=111},{gold=1},4,,Sự kiện thử nghiệm,Sự kiện thử nghiệm,Test Event,Sự kiện thử nghiệm
+101,1001,{6321=1},{2300=1},1,{4=900},Hình đại diện dành riêng cho Giáng sinh,Hình đại diện dành riêng cho Giáng sinh,404,Hình đại diện dành riêng cho Giáng sinh
+102,1001,{6321=10},{2008=1},1,,Hộp tiêu đề dành riêng cho Giáng sinh,Hộp tiêu đề dành riêng cho Giáng sinh,404,Hộp tiêu đề dành riêng cho Giáng sinh
+103,1001,{6321=10},{2400=1},1,,tiêu đề giáng sinh,tiêu đề giáng sinh,404,tiêu đề giáng sinh
+104,1001,{6321=10},{talent_point=2},3,,Điểm thiên phú * 2,Điểm thiên phú * 2,404,Điểm thiên phú * 2
+105,1001,{6321=1},{515=1},5,,Bình thuốc Stamina (Trung bình) * 1,Bình thuốc Stamina (Trung bình) * 1,404,Bình thuốc Stamina (Trung bình) * 1
+106,1001,{6321=1},{502=1},8,,Mảnh sao chung * 1,Mảnh sao chung * 1,404,Mảnh sao chung * 1
+107,1001,{6321=1},{501=1},3,,Đánh thức hợp kim * 1,Đánh thức hợp kim * 1,404,Đánh thức hợp kim * 1
+108,1001,{6321=1},{rmb=388},1,,Kim cương * 388,Kim cương * 388,404,Kim cương * 388
+109,1001,{6321=1},{519=10},1,,Rút thăm * 10,Rút thăm * 10,404,Rút thăm * 10
+110,1001,{6321=1},{503=10},1,,Chìa khóa phụ kiện * 5,Chìa khóa phụ kiện * 5,404,Chìa khóa phụ kiện * 5
+111,1001,{6321=1},{520=5},1,,Thẻ Explorer * 5,Thẻ Explorer * 5,404,Thẻ Explorer * 5
+112,1001,{6321=1},{gold=100000},30,,Tiền Vàng * 10w,Tiền Vàng * 10w,404,Tiền Vàng * 10w
+113,1001,{6321=1},{930=8},30,,Hộp pha lê * 5,Hộp pha lê * 5,404,Hộp pha lê * 5
+114,1001,{6321=10},{2102=2},30,,Cải tiến Blue Carry * 2,Cải tiến Blue Carry * 2,404,Cải tiến Blue Carry * 2
+115,1001,{6321=10},{5000=8},30,,Thuốc năng lượng * 5,Thuốc năng lượng * 5,404,Thuốc năng lượng * 5
+116,1001,{6321=100},{902=1},30,,Món quà yêu thích màu tím * 1,Món quà yêu thích màu tím * 1,404,Món quà yêu thích màu tím * 1
+117,1001,{6321=1},{850=20},30,,Đá tiềm năng xanh * 30,Đá tiềm năng xanh * 30,404,Đá tiềm năng xanh * 30
+118,1001,{6321=1000},{8000=1},1,{5=101},Cryogonal Bóng Noel,Cryogonal Bóng Noel,Cryogonal·Christmas Shadow,Cryogonal Bóng Noel
+119,1001,{6321=1000},{8008=1},1,{5=105},Scizor Máy bay chiến đấu đường phố,Scizor Máy bay chiến đấu đường phố,Street Fighter Scizor,Scizor Máy bay chiến đấu đường phố
+120,1001,{6321=500},{card={id=11}},1,{3=11},Charmander,Charmander,Charmander,Charmander
+1001,10101,{rmb=100},{20391=3},2,,Gastly,Gastly,Gastly,Gastly
+1002,10101,{rmb=100},{20491=3},2,,Rhyhorn,Rhyhorn,Rhyhorn,Rhyhorn
+1003,10101,{rmb=100},{20571=3},2,,Scyther,Scyther,Scyther,Scyther
+1004,10101,{rmb=100},{20631=3},2,,Gyarados,Gyarados,Gyarados,Gyarados
+1005,10101,{rmb=100},{20721=3},2,,Articuno,Articuno,Articuno,Articuno
+1006,10101,{rmb=100},{20771=3},2,,Mew,Mew,Mew,Mew
+1007,10101,{rmb=100},{21081=3},2,,Sneasel,Sneasel,Sneasel,Sneasel
+1008,10101,{rmb=100},{21221=3},2,,Raikou,Raikou,Raikou,Raikou
+1009,10101,{rmb=100},{21251=3},2,,Larvitar,Larvitar,Larvitar,Larvitar
+1010,10101,{rmb=100},{21421=3},2,,Slakoth,Slakoth,Slakoth,Slakoth
+1011,10101,{rmb=100},{21841=3},2,,Absol,Absol,Absol,Absol
+1012,10101,{rmb=100},{23021=3},2,,Cryogonal,Cryogonal,Cryogonal,Cryogonal
+1013,10101,{rmb=100},{23301=3},2,,Froakie,Froakie,Froakie,Froakie
+1014,10101,{rmb=100},{23351=3},2,,Flabébé,Flabébé,Flabébé,Flabébé
+1015,10101,{rmb=100},{21891=3},2,,Bagon,Bagon,,Bagon
+1016,10101,{rmb=100},{22241=3},2,,Riolu,Riolu,,Riolu
+1017,10101,{rmb=100},{21931=3},2,,Mảnh Regice,Mảnh Regice,,Mảnh Regice
+1018,10101,{rmb=100},{21911=3},2,,Mảnh Regirock,Mảnh Regirock,,Mảnh Regirock
+1021,10102,{rmb=100},{20261=3},2,,Mảnh Abra,Mảnh Abra,Abra Frag,Mảnh Abra
+1022,10102,{rmb=100},{20401=3},2,,Mảnh Onix,Mảnh Onix,404,Mảnh Onix
+1023,10102,{rmb=100},{21231=3},2,,Mảnh Entei,Mảnh Entei,Entei Frag,Mảnh Entei
+1024,10102,{rmb=100},{20241=3},2,,Mảnh Growlithe,Mảnh Growlithe,Growlithe Frag,Mảnh Growlithe
+1025,10102,{rmb=100},{20741=3},2,,Mảnh Moltres,Mảnh Moltres,Moltres Frag,Mảnh Moltres
+1026,10102,{rmb=100},{20601=3},2,,Mảnh Magby,Mảnh Magby,Magby Frag,Mảnh Magby
+1027,10102,{rmb=100},{20491=3},2,,Mảnh Rhyhorn,Mảnh Rhyhorn,Rhyhorn Frag,Mảnh Rhyhorn
+1028,10102,{rmb=100},{21501=3},2,,Mảnh Aron,Mảnh Aron,Aron Frag,Mảnh Aron
+1029,10102,{rmb=100},{23411=3},2,,Mảnh Honedge,Mảnh Honedge,Honedge Frag,Mảnh Honedge
+1030,10102,{rmb=100},{20331=3},2,,Mảnh Magnemite,Mảnh Magnemite,Magnemite Frag,Mảnh Magnemite
+1031,10102,{rmb=100},{20591=3},2,,Mảnh Elekid,Mảnh Elekid,Elekid Frag,Mảnh Elekid
+1032,10102,{rmb=100},{20881=3},2,,Mảnh Mareep,Mảnh Mareep,Mareep Frag,Mảnh Mareep
+1033,10102,{rmb=100},{20731=3},2,,Mảnh Zapdos,Mảnh Zapdos,Zapdos Frag,Mảnh Zapdos
+1034,10102,{rmb=100},{21221=3},2,,Mảnh Raikou,Mảnh Raikou,Raikou Frag,Mảnh Raikou
+1035,10102,{rmb=100},{20711=3},2,,Mảnh Snorlax,Mảnh Snorlax,,Mảnh Snorlax
+1036,10102,{rmb=100},{21311=3},2,,Mảnh Mudkip,Mảnh Mudkip,,Mảnh Mudkip
+1037,10102,{rmb=100},{23661=3},2,,Mảnh Rowlet,Mảnh Rowlet,,Mảnh Rowlet
+1038,10102,{rmb=100},{22231=3},2,,Mảnh Gible,Mảnh Gible,,Mảnh Gible
+1501,10501,{200=1},{6060=100},1,,翡翠護符,翡翠護符,200,翡翠護符
+1502,10501,{201=1},{6060=100},1,,精緻護符,精緻護符,201,精緻護符
+1503,10501,{202=1},{6060=100},1,,通訊護符,通訊護符,202,通訊護符
+1504,10501,{203=1},{6060=100},1,,酒紅護符,酒紅護符,203,酒紅護符
+1505,10501,{204=1},{6060=100},1,,六芒星護符,六芒星護符,204,六芒星護符
+1506,10501,{205=1},{6060=100},1,,閃耀護符,閃耀護符,205,閃耀護符
+1509,10501,{rmb=388},{6060=50},2,,Kim cương*388 đổi tinh chất năng lượng bùa hộ mệnh*50,Kim cương*388 đổi tinh chất năng lượng bùa hộ mệnh*50,404,Kim cương*388 đổi tinh chất năng lượng bùa hộ mệnh*50
+1510,10501,{rmb=188;6060=150},{200=1},1,,翡翠護符,翡翠護符,200,翡翠護符
+1511,10501,{rmb=188;6060=150},{201=1},1,,精緻護符,精緻護符,201,精緻護符
+1512,10501,{rmb=188;6060=150},{202=1},1,,通訊護符,通訊護符,202,通訊護符
+1513,10501,{rmb=188;6060=150},{203=1},1,,酒紅護符,酒紅護符,203,酒紅護符
+1514,10501,{rmb=188;6060=150},{204=1},1,,六芒星護符,六芒星護符,204,六芒星護符
+1515,10501,{rmb=188;6060=150},{205=1},1,,閃耀護符,閃耀護符,205,閃耀護符
+1521,10502,{210=1},{6061=100},1,,翡翠耳環,翡翠耳環,210,翡翠耳環
+1522,10502,{211=1},{6061=100},1,,真質耳環,真質耳環,211,真質耳環
+1523,10502,{212=1},{6061=100},1,,星月耳環,星月耳環,212,星月耳環
+1524,10502,{213=1},{6061=100},1,,胭脂耳環,胭脂耳環,213,胭脂耳環
+1525,10502,{214=1},{6061=100},1,,海洋耳環,海洋耳環,214,海洋耳環
+1526,10502,{215=1},{6061=100},1,,名貴耳環,名貴耳環,215,名貴耳環
+1527,10502,{rmb=388},{6061=50},2,,Kim cương*388 Earrings Energy Energy*50,Kim cương*388 Earrings Energy Energy*50,404,Kim cương*388 Earrings Energy Energy*50
+1528,10502,{6061=150;rmb=188},{210=1},1,,翡翠耳環,翡翠耳環,210,翡翠耳環
+1529,10502,{6061=150;rmb=188},{211=1},1,,真質耳環,真質耳環,211,真質耳環
+1530,10502,{6061=150;rmb=188},{212=1},1,,星月耳環,星月耳環,212,星月耳環
+1531,10502,{6061=150;rmb=188},{213=1},1,,胭脂耳環,胭脂耳環,213,胭脂耳環
+1532,10502,{6061=150;rmb=188},{214=1},1,,海洋耳環,海洋耳環,214,海洋耳環
+1533,10502,{6061=150;rmb=188},{215=1},1,,名貴耳環,名貴耳環,215,名貴耳環
+1540,10503,{220=1},{6062=100},1,,四葉草戒指,四葉草戒指,220,四葉草戒指
+1541,10503,{221=1},{6062=100},1,,精緻梏戒,精緻梏戒,221,精緻梏戒
+1542,10503,{222=1},{6062=100},1,,星月光戒,星月光戒,222,星月光戒
+1543,10503,{223=1},{6062=100},1,,胭脂戒指,胭脂戒指,223,胭脂戒指
+1544,10503,{224=1},{6062=100},1,,海洋鑽戒,海洋鑽戒,224,海洋鑽戒
+1545,10503,{225=1},{6062=100},1,,璀璨秘戒,璀璨秘戒,225,璀璨秘戒
+1546,10503,{rmb=388},{6062=50},2,,Kim cương*388 Tinh chất năng lượng vòng đổi*50,Kim cương*388 Tinh chất năng lượng vòng đổi*50,404,Kim cương*388 Tinh chất năng lượng vòng đổi*50
+1547,10503,{6062=150;rmb=188},{220=1},1,,四葉草戒指,四葉草戒指,220,四葉草戒指
+1548,10503,{6062=150;rmb=188},{221=1},1,,精緻梏戒,精緻梏戒,221,精緻梏戒
+1549,10503,{6062=150;rmb=188},{222=1},1,,星月光戒,星月光戒,222,星月光戒
+1550,10503,{6062=150;rmb=188},{223=1},1,,胭脂戒指,胭脂戒指,223,胭脂戒指
+1551,10503,{6062=150;rmb=188},{224=1},1,,海洋鑽戒,海洋鑽戒,224,海洋鑽戒
+1552,10503,{6062=150;rmb=188},{225=1},1,,璀璨秘戒,璀璨秘戒,225,璀璨秘戒
+1560,10504,{230=1},{6063=100},1,,四葉草項鍊,四葉草項鍊,230,四葉草項鍊
+1561,10504,{231=1},{6063=100},1,,精緻項鍊,精緻項鍊,231,精緻項鍊
+1562,10504,{232=1},{6063=100},1,,神秘骨質項鍊,神秘骨質項鍊,232,神秘骨質項鍊
+1563,10504,{233=1},{6063=100},1,,紅日絲項鍊,紅日絲項鍊,233,紅日絲項鍊
+1564,10504,{234=1},{6063=100},1,,海洋心項鍊,海洋心項鍊,234,海洋心項鍊
+1565,10504,{235=1},{6063=100},1,,璀璨星項鍊,璀璨星項鍊,235,璀璨星項鍊
+1566,10504,{rmb=388},{6063=50},2,,Kim cương*388 đổi Tinh chất năng lượng vòng cổ *50,Kim cương*388 đổi Tinh chất năng lượng vòng cổ *50,404,Kim cương*388 đổi Tinh chất năng lượng vòng cổ *50
+1567,10504,{6063=150;rmb=188},{230=1},1,,四葉草項鍊,四葉草項鍊,230,四葉草項鍊
+1568,10504,{6063=150;rmb=188},{231=1},1,,精緻項鍊,精緻項鍊,231,精緻項鍊
+1569,10504,{6063=150;rmb=188},{232=1},1,,神秘骨質項鍊,神秘骨質項鍊,232,神秘骨質項鍊
+1570,10504,{6063=150;rmb=188},{233=1},1,,紅日絲項鍊,紅日絲項鍊,233,紅日絲項鍊
+1571,10504,{6063=150;rmb=188},{234=1},1,,海洋心項鍊,海洋心項鍊,234,海洋心項鍊
+1572,10504,{6063=150;rmb=188},{235=1},1,,璀璨星項鍊,璀璨星項鍊,235,璀璨星項鍊
+2001,10201,{6301=15;6302=45},{6050=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+,,,,,,,,,
+,,,,,,,,,
+2004,10201,{6301=30;6302=75},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+2005,10201,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+2006,10201,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+2007,10201,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+2008,10201,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+2009,10201,{6301=3;6302=3},{22191=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi các mảnh Druby*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi các mảnh Druby*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi các mảnh Druby*3
+2010,10201,{6301=3;6302=3},{22091=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi các mảnh Ca cao -Dorola*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi các mảnh Ca cao -Dorola*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi các mảnh Ca cao -Dorola*3
+2011,10201,{6302=6},{22161=5},50,,Phiếu mua sắm màu tím*6 Sàn giao dịch Yandi*5,Phiếu mua sắm màu tím*6 Sàn giao dịch Yandi*5,,Phiếu mua sắm màu tím*6 Sàn giao dịch Yandi*5
+2012,10201,{6302=6},{22181=5},50,,Voucher mua sắm màu tím*6 mảnh của banjelas*5,Voucher mua sắm màu tím*6 mảnh của banjelas*5,,Voucher mua sắm màu tím*6 mảnh của banjelas*5
+2013,10201,{6301=5},{21131=3},50,,Voucher mua sắm màu xanh*5 đổi các mảnh cá sấu nhỏ Saw Saw*3,Voucher mua sắm màu xanh*5 đổi các mảnh cá sấu nhỏ Saw Saw*3,,Voucher mua sắm màu xanh*5 đổi các mảnh cá sấu nhỏ Saw Saw*3
+2014,10201,{6301=5},{21141=3},50,,Voucher mua sắm màu xanh*5 đổi hương thơm quái vật tuyết*3,Voucher mua sắm màu xanh*5 đổi hương thơm quái vật tuyết*3,,Voucher mua sắm màu xanh*5 đổi hương thơm quái vật tuyết*3
+2015,10201,{6301=5},{21151=3},50,,Voucher mua sắm màu xanh*5 Sự chuộc lại xử lý nghề thủ công*3,Voucher mua sắm màu xanh*5 Sự chuộc lại xử lý nghề thủ công*3,,Voucher mua sắm màu xanh*5 Sự chuộc lại xử lý nghề thủ công*3
+2016,10201,{6301=5},{21161=3},50,,Voucher mua sắm màu xanh*5 mảnh puff đổi*3,Voucher mua sắm màu xanh*5 mảnh puff đổi*3,,Voucher mua sắm màu xanh*5 mảnh puff đổi*3
+2017,10201,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+2018,10201,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+2019,10201,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+2020,10201,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+2021,10201,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+2022,10201,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+2023,10201,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+2030,10202,{6312=3;6313=3},{2300=1},1,,Bánh bao*3 Đèn lồng*3 Đổi Avatars độc quyền Giáng sinh,Bánh bao*3 Đèn lồng*3 Đổi Avatars độc quyền Giáng sinh,404,Bánh bao*3 Đèn lồng*3 Đổi Avatars độc quyền Giáng sinh
+2031,10202,{6312=10;6313=10},{2008=1},1,,Bánh bao*10 đèn lồng*10 Hộp tiêu đề độc quyền Giáng sinh,Bánh bao*10 đèn lồng*10 Hộp tiêu đề độc quyền Giáng sinh,404,Bánh bao*10 đèn lồng*10 Hộp tiêu đề độc quyền Giáng sinh
+2032,10202,{6312=20;6313=20},{2400=1},1,,Bánh bao * 20 đèn lồng * 20 đổi thưởng danh hiệu Giáng sinh,Bánh bao * 20 đèn lồng * 20 đổi thưởng danh hiệu Giáng sinh,404,Bánh bao * 20 đèn lồng * 20 đổi thưởng danh hiệu Giáng sinh
+2033,10202,{6312=2;6313=2},{talent_point=2},3,,Bánh bao*2 Đèn lồng*2 Điểm đổi điểm thiên phú*2,Bánh bao*2 Đèn lồng*2 Điểm đổi điểm thiên phú*2,404,Bánh bao*2 Đèn lồng*2 Điểm đổi điểm thiên phú*2
+2034,10202,{6312=2;6313=2},{515=1},5,,Bánh bao*2 Đèn lồng*2 Đổi thuốc vật lý (giữa)*1,Bánh bao*2 Đèn lồng*2 Đổi thuốc vật lý (giữa)*1,404,Bánh bao*2 Đèn lồng*2 Đổi thuốc vật lý (giữa)*1
+2035,10202,{6312=2;6313=2},{502=1},8,,Bánh bao * 2 lồng đèn * 2 đổi mảnh ghép chung * 1,Bánh bao * 2 lồng đèn * 2 đổi mảnh ghép chung * 1,404,Bánh bao * 2 lồng đèn * 2 đổi mảnh ghép chung * 1
+2036,10202,{6312=3;6313=3},{501=1},3,,Bánh bao*3 Đèn lồng*3 đổi Awakened Alloy*1,Bánh bao*3 Đèn lồng*3 đổi Awakened Alloy*1,404,Bánh bao*3 Đèn lồng*3 đổi Awakened Alloy*1
+2037,10202,{6312=5;6313=5},{rmb=388},1,,Bánh bao*5 Đèn lồng*5 Kim cương đổi*388,Bánh bao*5 Đèn lồng*5 Kim cương đổi*388,404,Bánh bao*5 Đèn lồng*5 Kim cương đổi*388
+2038,10202,{6312=30;6313=30},{519=10},1,,Bánh bao*30 Đèn lồng*30 đổi phiếu giảm giá *10,Bánh bao*30 Đèn lồng*30 đổi phiếu giảm giá *10,404,Bánh bao*30 Đèn lồng*30 đổi phiếu giảm giá *10
+2039,10202,{6312=10;6313=10},{503=10},1,,Bánh bao*10 đèn lồng*10 đổi Khóa trang sức *5,Bánh bao*10 đèn lồng*10 đổi Khóa trang sức *5,404,Bánh bao*10 đèn lồng*10 đổi Khóa trang sức *5
+2040,10202,{6312=10;6313=10},{520=5},1,,Bánh bao*10 đèn lồng*10 đổi rút Thẻ phiêu lưu*5,Bánh bao*10 đèn lồng*10 đổi rút Thẻ phiêu lưu*5,404,Bánh bao*10 đèn lồng*10 đổi rút Thẻ phiêu lưu*5
+2041,10202,{6312=1},{gold=100000},30,,Bánh bao*1 đổi đồng tiền Vàng *10k,Bánh bao*1 đổi đồng tiền Vàng *10k,404,Bánh bao*1 đổi đồng tiền Vàng *10k
+2042,10202,{6312=1},{930=8},30,,Bánh bao*1 đổi Hộp pha lê *5,Bánh bao*1 đổi Hộp pha lê *5,404,Bánh bao*1 đổi Hộp pha lê *5
+2043,10202,{6312=1},{2102=2},30,,Bánh bao*1 đổi màu xanh mang củng cố*2,Bánh bao*1 đổi màu xanh mang củng cố*2,404,Bánh bao*1 đổi màu xanh mang củng cố*2
+2044,10202,{6313=1},{5000=8},30,,Đèn lồng*1 đổi lọ thể lực *5,Đèn lồng*1 đổi lọ thể lực *5,404,Đèn lồng*1 đổi lọ thể lực *5
+2045,10202,{6313=1},{902=1},30,,Đèn lồng*1 Quà tặng thuận lợi màu tím*1,Đèn lồng*1 Quà tặng thuận lợi màu tím*1,404,Đèn lồng*1 Quà tặng thuận lợi màu tím*1
+2046,10202,{6313=1},{850=20},30,,Đèn lồng*1 đổi Đá tiềm năng màu xanh*30,Đèn lồng*1 đổi Đá tiềm năng màu xanh*30,404,Đèn lồng*1 đổi Đá tiềm năng màu xanh*30
+2050,10203,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,404,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+2051,10203,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,404,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+2052,10203,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,404,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+2053,10203,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,404,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+2054,10203,{6302=6},{20491=5},50,,Voucher mua sắm màu tím*6 đổi các đoạn kỳ lân*5,Voucher mua sắm màu tím*6 đổi các đoạn kỳ lân*5,404,Voucher mua sắm màu tím*6 đổi các đoạn kỳ lân*5
+2055,10203,{6302=6},{21071=5},50,,Voucher mua sắm màu tím*6 đổi mảnh Hlacos *5,Voucher mua sắm màu tím*6 đổi mảnh Hlacos *5,404,Voucher mua sắm màu tím*6 đổi mảnh Hlacos *5
+2056,10203,{6301=3;6302=3},{20571=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép của Flying Mantis*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép của Flying Mantis*3,404,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép của Flying Mantis*3
+2057,10203,{6301=3;6302=3},{20261=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 Sàn giao dịch Casey*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 Sàn giao dịch Casey*3,404,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 Sàn giao dịch Casey*3
+2058,10203,{6301=5},{23011=3},50,,Voucher mua sắm màu xanh*5 mảnh ghép gấu hắt hơi*3,Voucher mua sắm màu xanh*5 mảnh ghép gấu hắt hơi*3,404,Voucher mua sắm màu xanh*5 mảnh ghép gấu hắt hơi*3
+2059,10203,{6301=5},{23501=3},50,,Voucher mua sắm màu xanh*5 đổi nước hoa rồng tuyết băng*3,Voucher mua sắm màu xanh*5 đổi nước hoa rồng tuyết băng*3,404,Voucher mua sắm màu xanh*5 đổi nước hoa rồng tuyết băng*3
+2060,10203,{6301=5},{20461=3},50,,Voucher mua sắm màu xanh*5 đổi những mảnh trẻ em không sợ hãi*3,Voucher mua sắm màu xanh*5 đổi những mảnh trẻ em không sợ hãi*3,404,Voucher mua sắm màu xanh*5 đổi những mảnh trẻ em không sợ hãi*3
+2061,10203,{6301=5},{23291=3},50,,Voucher mua sắm màu xanh*5 mảnh cáo của Fire Fox*3,Voucher mua sắm màu xanh*5 mảnh cáo của Fire Fox*3,404,Voucher mua sắm màu xanh*5 mảnh cáo của Fire Fox*3
+2062,10203,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,404,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+2063,10203,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,404,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+2064,10203,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,404,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+2065,10203,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,404,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+2066,10203,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,404,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+2067,10203,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,404,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+2068,10203,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,404,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+2069,10203,{6301=30;6302=75},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,404,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+2070,10203,{6301=15;6302=45},{6050=1},2,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+2080,10204,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,404,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+2081,10204,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,404,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+2082,10204,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,404,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+2083,10204,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,404,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+2084,10204,{6302=6},{21421=5},50,,Voucher mua sắm màu tím*6 đổi các mảnh rái cá lười biếng*5,Voucher mua sắm màu tím*6 đổi các mảnh rái cá lười biếng*5,404,Voucher mua sắm màu tím*6 đổi các mảnh rái cá lười biếng*5
+2085,10204,{6302=6},{20741=5},50,,Phiếu mua sắm màu tím * 6 đổi mảnh chim lửa * 5,Phiếu mua sắm màu tím * 6 đổi mảnh chim lửa * 5,404,Phiếu mua sắm màu tím * 6 đổi mảnh chim lửa * 5
+2086,10204,{6301=3;6302=3},{20601=3},50,,Phiếu mua hàng màu xanh lam * 3 phiếu mua hàng màu tím * 3 đổi mảnh mỏ vịt * 3,Phiếu mua hàng màu xanh lam * 3 phiếu mua hàng màu tím * 3 đổi mảnh mỏ vịt * 3,404,Phiếu mua hàng màu xanh lam * 3 phiếu mua hàng màu tím * 3 đổi mảnh mỏ vịt * 3
+2087,10204,{6301=3;6302=3},{21841=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi cho các mảnh của Ambo*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi cho các mảnh của Ambo*3,404,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi cho các mảnh của Ambo*3
+2088,10204,{6301=5},{23281=3},50,,Voucher mua sắm màu xanh*5 đổi mảnh Hali Li*3,Voucher mua sắm màu xanh*5 đổi mảnh Hali Li*3,404,Voucher mua sắm màu xanh*5 đổi mảnh Hali Li*3
+2089,10204,{6301=5},{22011=3},50,,Voucher mua sắm màu xanh*5 đổi hệ cỏ cho đến các mảnh rùa*3,Voucher mua sắm màu xanh*5 đổi hệ cỏ cho đến các mảnh rùa*3,404,Voucher mua sắm màu xanh*5 đổi hệ cỏ cho đến các mảnh rùa*3
+2090,10204,{6301=5},{22871=3},50,,Phiếu mua hàng màu xanh lam * 5 đổi mảnh băng nhỏ  * 3,Phiếu mua hàng màu xanh lam * 5 đổi mảnh băng nhỏ  * 3,404,Phiếu mua hàng màu xanh lam * 5 đổi mảnh băng nhỏ  * 3
+2091,10204,{6301=5},{20481=3},50,,Voucher mua sắm màu xanh*5 đổi mảnh bom gas *3,Voucher mua sắm màu xanh*5 đổi mảnh bom gas *3,404,Voucher mua sắm màu xanh*5 đổi mảnh bom gas *3
+2092,10204,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,404,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+2093,10204,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,404,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+2094,10204,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,404,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+2095,10204,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,404,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+2096,10204,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,404,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+2097,10204,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,404,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+2098,10204,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,404,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+2099,10204,{6301=30;6302=75},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,404,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+2100,10204,{6301=15;6302=45},{6050=1},2,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+2111,10205,{6322=30},{922=1},1,,S -Class Elf Ball*1,S -Class Elf Ball*1,404,S -Class Elf Ball*1
+2112,10205,{6322=15},{921=1},5,,A -level Elf Ball*1,A -level Elf Ball*1,404,A -level Elf Ball*1
+2113,10205,{6322=2},{602=1},10,,Vòng cổ bạc*1,Vòng cổ bạc*1,404,Vòng cổ bạc*1
+2114,10205,{6322=3},{2103=2},10,,Tăng cường màu tím*1,Tăng cường màu tím*1,404,Tăng cường màu tím*1
+2115,10205,{6322=3},{519=1},5,,Phiếu giảm giá thẻ*1,Phiếu giảm giá thẻ*1,404,Phiếu giảm giá thẻ*1
+2116,10205,{6322=1},{503=1},5,,Phiếu giảm giá rút trang sức*1,Phiếu giảm giá rút trang sức*1,404,Phiếu giảm giá rút trang sức*1
+2117,10205,{6322=2},{520=1},5,,Coupon rút thẻ cho nhà thám hiểm*1,Coupon rút thẻ cho nhà thám hiểm*1,404,Coupon rút thẻ cho nhà thám hiểm*1
+2118,10205,{6322=3},{502=1},2,,Các đoạn toàn cầu*1,Các đoạn toàn cầu*1,404,Các đoạn toàn cầu*1
+2119,10205,{6322=5},{501=1},3,,Đồ trang sức Lift Proposa*1,Đồ trang sức Lift Proposa*1,404,Đồ trang sức Lift Proposa*1
+2120,10205,{6322=1},{850=20},20,,Đá tiềm năng màu xanh*20,Đá tiềm năng màu xanh*20,404,Đá tiềm năng màu xanh*20
+2121,10205,{6322=1},{gold=50000},30,,Đồng xu Vàng*5W,Đồng xu Vàng*5W,404,Đồng xu Vàng*5W
+2122,10205,{6322=1},{5000=5},30,,Hộp pha lê * 5,Hộp pha lê * 5,404,Hộp pha lê * 5
+2123,10205,{6322=1},{930=5},30,,Thuốc năng lượng * 5,Thuốc năng lượng * 5,404,Thuốc năng lượng * 5
+2150,10206,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,404,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+2151,10206,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,404,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+2152,10206,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,404,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+2153,10206,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,404,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+2154,10206,{6302=6},{20721=5},50,,Voucher mua sắm màu tím*6 Sàn giao dịch Frozen Bird Fragment*5,Voucher mua sắm màu tím*6 Sàn giao dịch Frozen Bird Fragment*5,404,Voucher mua sắm màu tím*6 Sàn giao dịch Frozen Bird Fragment*5
+2155,10206,{6302=6},{23021=5},50,,Voucher mua sắm màu tím*6 đổi các mảnh tuyết hình học hình học*5,Voucher mua sắm màu tím*6 đổi các mảnh tuyết hình học hình học*5,404,Voucher mua sắm màu tím*6 đổi các mảnh tuyết hình học hình học*5
+2156,10206,{6301=3;6302=3},{20391=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh hệ bóng ma *3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh hệ bóng ma *3,404,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh hệ bóng ma *3
+2157,10206,{6301=3;6302=3},{21811=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép tuần tra đêm*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép tuần tra đêm*3,404,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép tuần tra đêm*3
+2158,10206,{6301=5},{21851=3},50,,Voucher mua sắm màu xanh*5 Sự cứu chuộc các mảnh tuyết của Snow Boy*3,Voucher mua sắm màu xanh*5 Sự cứu chuộc các mảnh tuyết của Snow Boy*3,404,Voucher mua sắm màu xanh*5 Sự cứu chuộc các mảnh tuyết của Snow Boy*3
+2159,10206,{6301=5},{22591=3},50,,Voucher mua sắm màu xanh*5 đổi các mảnh của Shim Balls*3,Voucher mua sắm màu xanh*5 đổi các mảnh của Shim Balls*3,404,Voucher mua sắm màu xanh*5 đổi các mảnh của Shim Balls*3
+2160,10206,{6301=5},{20471=3},50,,Voucher mua sắm màu xanh*5 đổi lưỡi lớn liếm mảnh*3,Voucher mua sắm màu xanh*5 đổi lưỡi lớn liếm mảnh*3,404,Voucher mua sắm màu xanh*5 đổi lưỡi lớn liếm mảnh*3
+2161,10206,{6301=5},{20051=3},50,,Voucher mua sắm màu xanh*5 đổi hương thơm chim Skinbi*3,Voucher mua sắm màu xanh*5 đổi hương thơm chim Skinbi*3,404,Voucher mua sắm màu xanh*5 đổi hương thơm chim Skinbi*3
+2162,10206,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,404,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+2163,10206,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,404,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+2164,10206,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,404,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+2165,10206,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,404,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+2166,10206,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,404,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+2167,10206,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,404,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+2168,10206,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,404,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+2169,10206,{6301=30;6302=75},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,404,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+2170,10206,{6301=15;6302=45},{6050=1},2,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+2180,10207,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,404,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+2181,10207,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,404,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+2182,10207,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,404,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+2183,10207,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,404,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+2184,10207,{6302=6},{23001=5},50,,Voucher mua sắm màu tím*6 Exchange Double Axe Battle Dragon Fragment*5,Voucher mua sắm màu tím*6 Exchange Double Axe Battle Dragon Fragment*5,404,Voucher mua sắm màu tím*6 Exchange Double Axe Battle Dragon Fragment*5
+2185,10207,{6302=6},{20571=5},50,,Voucher mua sắm màu tím*6 Sàn giao dịch Gây kìm khổng lồ MANTIS*5,Voucher mua sắm màu tím*6 Sàn giao dịch Gây kìm khổng lồ MANTIS*5,404,Voucher mua sắm màu tím*6 Sàn giao dịch Gây kìm khổng lồ MANTIS*5
+2186,10207,{6301=3;6302=3},{20401=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh ghép thép lớn*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh ghép thép lớn*3,404,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh ghép thép lớn*3
+2187,10207,{6301=3;6302=3},{21811=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép tuần tra đêm*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép tuần tra đêm*3,404,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép tuần tra đêm*3
+2188,10207,{6301=5},{20781=3},50,,Voucher mua sắm màu xanh*5 đổi hoa cúc để lại các mảnh*3,Voucher mua sắm màu xanh*5 đổi hoa cúc để lại các mảnh*3,404,Voucher mua sắm màu xanh*5 đổi hoa cúc để lại các mảnh*3
+2189,10207,{6301=5},{23431=3},50,,Voucher mua sắm màu xanh*5 đổi Fat Sweet Nini Fragment*3,Voucher mua sắm màu xanh*5 đổi Fat Sweet Nini Fragment*3,404,Voucher mua sắm màu xanh*5 đổi Fat Sweet Nini Fragment*3
+2190,10207,{6301=5},{20271=3},50,,Voucher mua sắm màu xanh*5 đổi nước hoa lạ*3,Voucher mua sắm màu xanh*5 đổi nước hoa lạ*3,404,Voucher mua sắm màu xanh*5 đổi nước hoa lạ*3
+2191,10207,{6301=5},{20461=3},50,,Voucher mua sắm màu xanh*5 đổi những mảnh trẻ em không sợ hãi*3,Voucher mua sắm màu xanh*5 đổi những mảnh trẻ em không sợ hãi*3,404,Voucher mua sắm màu xanh*5 đổi những mảnh trẻ em không sợ hãi*3
+2192,10207,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,404,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+2193,10207,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,404,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+2194,10207,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,404,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+2195,10207,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,404,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+2196,10207,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,404,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+2197,10207,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,404,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+2198,10207,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,404,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+2199,10207,{6301=20;6302=60},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,404,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+2200,10207,{6301=15;6302=45},{6059=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1
+2201,10207,{6301=10;6302=40},{6050=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+2211,10208,{6341=20},{6344=1},1,,Bước vào hộp quà màu xanh lá cây*1,Bước vào hộp quà màu xanh lá cây*1,404,Bước vào hộp quà màu xanh lá cây*1
+2212,10208,{6341=20},{2001=1},1,,Hộp avatar*1,Hộp avatar*1,404,Hộp avatar*1
+2213,10208,{6341=2},{6343=1},100,,Hộp cao liễu*1,Hộp cao liễu*1,404,Hộp cao liễu*1
+2221,10209,{6071=20},{2152=1},4,,Mang theo tím chung*1,Mang theo tím chung*1,404,Mang theo tím chung*1
+2222,10209,{6071=60},{945=1},2,,Người mang màu tím để chọn*1,Người mang màu tím để chọn*1,404,Người mang màu tím để chọn*1
+2223,10209,{6071=120},{2153=1},3,,Màu cam với phổ biến * 1,Màu cam với phổ biến * 1,404,Màu cam với phổ biến * 1
+2224,10209,{6071=240},{30407=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2225,10209,{6071=240},{30402=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2231,10210,{6346=20},{2012=1},1,,Năm một khung hình đại diện*1,Năm một khung hình đại diện*1,404,Năm một khung hình đại diện*1
+2232,10210,{6346=20},{2403=1},1,,Năm 1 tiêu đề*1,Năm 1 tiêu đề*1,404,Năm 1 tiêu đề*1
+2233,10210,{6346=5},{521=1},3,,God Beast Universal Fragrance*1,God Beast Universal Fragrance*1,404,God Beast Universal Fragrance*1
+2234,10210,{6346=3},{602=1},10,,Vòng cổ bạc*1,Vòng cổ bạc*1,404,Vòng cổ bạc*1
+2235,10210,{6346=3},{2103=2},10,,Tăng cường màu tím*1,Tăng cường màu tím*1,404,Tăng cường màu tím*1
+2236,10210,{6346=3},{851=8},20,,Đá tiềm năng màu tím*8,Đá tiềm năng màu tím*8,404,Đá tiềm năng màu tím*8
+2237,10210,{6346=2},{850=20},20,,Đá tiềm năng màu xanh*20,Đá tiềm năng màu xanh*20,404,Đá tiềm năng màu xanh*20
+2238,10210,{6346=2},{5000=5},30,,Hộp pha lê * 5,Hộp pha lê * 5,404,Hộp pha lê * 5
+2239,10210,{6346=2},{930=5},30,,Thuốc năng lượng * 5,Thuốc năng lượng * 5,404,Thuốc năng lượng * 5
+2240,10210,{6346=2},{gold=50000},30,,Đồng xu Vàng*5W,Đồng xu Vàng*5W,404,Đồng xu Vàng*5W
+2250,10211,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,404,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+2251,10211,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,404,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+2252,10211,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,404,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+2253,10211,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,404,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+2254,10211,{6302=6},{20731=5},50,,Voucher mua sắm màu tím*6 đổi Lightning Bird Fragrance*5,Voucher mua sắm màu tím*6 đổi Lightning Bird Fragrance*5,404,Voucher mua sắm màu tím*6 đổi Lightning Bird Fragrance*5
+2255,10211,{6302=6},{23411=5},50,,Voucher mua sắm màu tím*6 đoạn Single SCABBARD*5,Voucher mua sắm màu tím*6 đoạn Single SCABBARD*5,404,Voucher mua sắm màu tím*6 đoạn Single SCABBARD*5
+2256,10211,{6301=3;6302=3},{20391=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh hệ bóng ma *3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh hệ bóng ma *3,404,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh hệ bóng ma *3
+2257,10211,{6301=3;6302=3},{23591=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi âm thanh Wave Dragon Fragment*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi âm thanh Wave Dragon Fragment*3,404,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi âm thanh Wave Dragon Fragment*3
+2258,10211,{6301=5},{22611=3},50,,Voucher mua sắm màu xanh*5 mảnh chuột vít đổi*3,Voucher mua sắm màu xanh*5 mảnh chuột vít đổi*3,404,Voucher mua sắm màu xanh*5 mảnh chuột vít đổi*3
+2259,10211,{6301=5},{22841=3},50,,Voucher mua sắm màu xanh*5 đổi nước hoa Gogde Baby*3,Voucher mua sắm màu xanh*5 đổi nước hoa Gogde Baby*3,404,Voucher mua sắm màu xanh*5 đổi nước hoa Gogde Baby*3
+2260,10211,{6301=5},{22961=3},50,,Voucher mua sắm màu xanh*5 mảnh thiết bị đổi*3,Voucher mua sắm màu xanh*5 mảnh thiết bị đổi*3,404,Voucher mua sắm màu xanh*5 mảnh thiết bị đổi*3
+2261,10211,{6301=5},{21851=3},50,,Voucher mua sắm màu xanh*5 Sự cứu chuộc các mảnh tuyết của Snow Boy*3,Voucher mua sắm màu xanh*5 Sự cứu chuộc các mảnh tuyết của Snow Boy*3,404,Voucher mua sắm màu xanh*5 Sự cứu chuộc các mảnh tuyết của Snow Boy*3
+2262,10211,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,404,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+2263,10211,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,404,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+2264,10211,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,404,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+2265,10211,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,404,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+2266,10211,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,404,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+2267,10211,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,404,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+2268,10211,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,404,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+2269,10211,{6301=20;6302=60},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,404,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+2270,10211,{6301=15;6302=45},{6059=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1
+2271,10211,{6301=10;6302=40},{6050=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+2281,10212,{6071=20},{2152=1},4,,Mang theo tím chung*1,Mang theo tím chung*1,404,Mang theo tím chung*1
+2282,10212,{6071=60},{945=1},2,,Người mang màu tím để chọn*1,Người mang màu tím để chọn*1,404,Người mang màu tím để chọn*1
+2283,10212,{6071=120},{2153=1},3,,Màu cam với phổ biến * 1,Màu cam với phổ biến * 1,404,Màu cam với phổ biến * 1
+2284,10212,{6071=240},{30403=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2285,10212,{6071=240},{30408=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2290,10213,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,404,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+2291,10213,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,404,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+2292,10213,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,404,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+2293,10213,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,404,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+2294,10213,{6302=6},{20491=5},50,,Phiếu mua sắm màu tím*6 đổi kỳ lân*5,Phiếu mua sắm màu tím*6 đổi kỳ lân*5,404,Phiếu mua sắm màu tím*6 đổi kỳ lân*5
+2295,10213,{6302=6},{21221=5},50,,Voucher mua sắm màu tím*6 mảnh của tia sáng,Voucher mua sắm màu tím*6 mảnh của tia sáng,404,Voucher mua sắm màu tím*6 mảnh của tia sáng
+2296,10213,{6301=3;6302=3},{22991=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh tinh thần dưới ánh nến*3 3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh tinh thần dưới ánh nến*3 3,404,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh tinh thần dưới ánh nến*3 3
+2297,10213,{6301=3;6302=3},{23141=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3,404,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3
+2298,10213,{6301=5},{20011=3},50,,Voucher mua sắm màu xanh*5 đổi Little Fire Dragon Fragrance*3,Voucher mua sắm màu xanh*5 đổi Little Fire Dragon Fragrance*3,404,Voucher mua sắm màu xanh*5 đổi Little Fire Dragon Fragrance*3
+2299,10213,{6301=5},{23291=3},50,,Voucher mua sắm màu xanh*5 mảnh cáo của Fire Fox*3,Voucher mua sắm màu xanh*5 mảnh cáo của Fire Fox*3,404,Voucher mua sắm màu xanh*5 mảnh cáo của Fire Fox*3
+2300,10213,{6301=5},{21441=3},50,,Voucher mua sắm màu xanh*5 Đạo sư Exchange NIU Fragment*3,Voucher mua sắm màu xanh*5 Đạo sư Exchange NIU Fragment*3,404,Voucher mua sắm màu xanh*5 Đạo sư Exchange NIU Fragment*3
+2301,10213,{6301=5},{20551=3},50,,Voucher mua sắm màu xanh*5 đổi Ngôi sao Ngôi sao*3,Voucher mua sắm màu xanh*5 đổi Ngôi sao Ngôi sao*3,404,Voucher mua sắm màu xanh*5 đổi Ngôi sao Ngôi sao*3
+2302,10213,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,404,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+2303,10213,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,404,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+2304,10213,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,404,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+2305,10213,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,404,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+2306,10213,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,404,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+2307,10213,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,404,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+2308,10213,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,404,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+2309,10213,{6301=20;6302=60},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,404,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+2310,10213,{6301=15;6302=45},{6059=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1
+2311,10213,{6301=10;6302=40},{6050=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+2331,10215,{6349=10},{2014=1},1,,61 hộp avatar*1,61 hộp avatar*1,,61 hộp avatar*1
+2332,10215,{6349=20},{6351=1},1,,61 hộp quà*1,61 hộp quà*1,,61 hộp quà*1
+2333,10215,{6349=2},{850=20},20,,Đá tiềm năng màu xanh*20,Đá tiềm năng màu xanh*20,,Đá tiềm năng màu xanh*20
+2334,10215,{6349=2},{5000=5},20,,Hộp pha lê * 5,Hộp pha lê * 5,,Hộp pha lê * 5
+2335,10215,{6349=2},{930=5},20,,Thuốc năng lượng * 5,Thuốc năng lượng * 5,,Thuốc năng lượng * 5
+2336,10215,{6349=2},{gold=50000},100,,Đồng xu Vàng*5W,Đồng xu Vàng*5W,,Đồng xu Vàng*5W
+2351,10216,{6071=20},{2152=1},4,,Mang theo tím chung*1,Mang theo tím chung*1,404,Mang theo tím chung*1
+2352,10216,{6071=60},{945=1},2,,Người mang màu tím để chọn*1,Người mang màu tím để chọn*1,404,Người mang màu tím để chọn*1
+2353,10216,{6071=120},{2153=1},3,,Màu cam với phổ biến * 1,Màu cam với phổ biến * 1,404,Màu cam với phổ biến * 1
+2354,10216,{6071=240},{30404=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2355,10216,{6071=240},{30406=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2360,10217,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,404,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+2361,10217,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,404,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+2362,10217,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,404,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+2363,10217,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,404,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+2364,10217,{6302=6},{21931=5},50,,Phiếu mua sắm màu tím*6 đổi Regiskiro*5,Phiếu mua sắm màu tím*6 đổi Regiskiro*5,雷吉斯奇鲁 s-T1 21931,Phiếu mua sắm màu tím*6 đổi Regiskiro*5
+2365,10217,{6302=6},{20331=5},50,,Voucher mua sắm màu tím*6 mảnh của tia sáng,Voucher mua sắm màu tím*6 mảnh của tia sáng,小磁怪 s-T2 20331,Voucher mua sắm màu tím*6 mảnh của tia sáng
+2366,10217,{6301=3;6302=3},{21291=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh tinh thần dưới ánh nến*3 3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh tinh thần dưới ánh nến*3 3,木守宫 s-T3 21291,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh tinh thần dưới ánh nến*3 3
+2367,10217,{6301=3;6302=3},{20591=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3,电击怪 s-T3 20591,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3
+2368,10217,{6301=5},{22071=3},50,,Voucher mua sắm màu xanh*5 đổi Little Fire Dragon Fragrance*3,Voucher mua sắm màu xanh*5 đổi Little Fire Dragon Fragrance*3,小猫怪 A 22071,Voucher mua sắm màu xanh*5 đổi Little Fire Dragon Fragrance*3
+2369,10217,{6301=5},{22271=3},50,,Voucher mua sắm màu xanh*5 mảnh cáo của Fire Fox*3,Voucher mua sắm màu xanh*5 mảnh cáo của Fire Fox*3,不良蛙 A 22271,Voucher mua sắm màu xanh*5 mảnh cáo của Fire Fox*3
+2370,10217,{6301=5},{22681=3},50,,Voucher mua sắm màu xanh*5 Đạo sư Exchange NIU Fragment*3,Voucher mua sắm màu xanh*5 Đạo sư Exchange NIU Fragment*3,百足蜈蚣 A 22681,Voucher mua sắm màu xanh*5 Đạo sư Exchange NIU Fragment*3
+2371,10217,{6301=5},{20691=3},50,,Voucher mua sắm màu xanh*5 đổi Ngôi sao Ngôi sao*3,Voucher mua sắm màu xanh*5 đổi Ngôi sao Ngôi sao*3,化石盔 A 20691,Voucher mua sắm màu xanh*5 đổi Ngôi sao Ngôi sao*3
+2372,10217,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,404,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+2373,10217,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,404,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+2374,10217,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,404,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+2375,10217,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,404,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+2376,10217,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,404,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+2377,10217,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,404,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+2378,10217,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,404,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+2379,10217,{6301=20;6302=60},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,404,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+2380,10217,{6301=15;6302=45},{6059=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1
+2381,10217,{6301=10;6302=40},{6050=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+2391,10218,{6071=20},{2152=1},4,,Mang theo tím chung*1,Mang theo tím chung*1,404,Mang theo tím chung*1
+2392,10218,{6071=60},{945=1},2,,Người mang màu tím để chọn*1,Người mang màu tím để chọn*1,404,Người mang màu tím để chọn*1
+2393,10218,{6071=120},{2153=1},3,,Màu cam với phổ biến * 1,Màu cam với phổ biến * 1,404,Màu cam với phổ biến * 1
+2394,10218,{6071=240},{6231=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2395,10218,{6071=240},{6232=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2400,10219,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,404,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+2401,10219,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,404,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+2402,10219,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,404,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+2403,10219,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,404,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+2404,10219,{6302=6},{21911=5},50,,Phiếu mua sắm màu tím*6 đổi Regiskiro*5,Phiếu mua sắm màu tím*6 đổi Regiskiro*5,雷吉洛克S-T121911,Phiếu mua sắm màu tím*6 đổi Regiskiro*5
+2405,10219,{6302=6},{20711=5},50,,Voucher mua sắm màu tím*6 mảnh của tia sáng,Voucher mua sắm màu tím*6 mảnh của tia sáng,小卡比兽S-T220711,Voucher mua sắm màu tím*6 mảnh của tia sáng
+2406,10219,{6301=3;6302=3},{23541=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh tinh thần dưới ánh nến*3 3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh tinh thần dưới ánh nến*3 3,黏黏宝S-T223541,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh tinh thần dưới ánh nến*3 3
+2407,10219,{6301=3;6302=3},{20881=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3,咩利羊S-T420881,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3
+2408,10219,{6301=5},{23341=3},50,,Voucher mua sắm màu xanh*5 đổi Little Fire Dragon Fragrance*3,Voucher mua sắm màu xanh*5 đổi Little Fire Dragon Fragrance*3,小狮狮A23341,Voucher mua sắm màu xanh*5 đổi Little Fire Dragon Fragrance*3
+2409,10219,{6301=5},{20151=3},50,,Voucher mua sắm màu xanh*5 mảnh cáo của Fire Fox*3,Voucher mua sắm màu xanh*5 mảnh cáo của Fire Fox*3,宝宝丁A20151,Voucher mua sắm màu xanh*5 mảnh cáo của Fire Fox*3
+2410,10219,{6301=5},{21861=3},50,,Voucher mua sắm màu xanh*5 Đạo sư Exchange NIU Fragment*3,Voucher mua sắm màu xanh*5 Đạo sư Exchange NIU Fragment*3,海豹球A21861,Voucher mua sắm màu xanh*5 Đạo sư Exchange NIU Fragment*3
+2411,10219,{6301=5},{22891=3},50,,Voucher mua sắm màu xanh*5 đổi Ngôi sao Ngôi sao*3,Voucher mua sắm màu xanh*5 đổi Ngôi sao Ngôi sao*3,电飞鼠A22891,Voucher mua sắm màu xanh*5 đổi Ngôi sao Ngôi sao*3
+2412,10219,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,404,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+2413,10219,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,404,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+2414,10219,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,404,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+2415,10219,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,404,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+2416,10219,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,404,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+2417,10219,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,404,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+2418,10219,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,404,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+2419,10219,{6301=20;6302=60},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,404,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+2420,10219,{6301=15;6302=45},{6059=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1
+2421,10219,{6301=10;6302=40},{6050=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+2430,10220,{6071=20},{2152=1},4,,Mang theo tím chung*1,Mang theo tím chung*1,404,Mang theo tím chung*1
+2431,10220,{6071=60},{945=1},2,,Người mang màu tím để chọn*1,Người mang màu tím để chọn*1,404,Người mang màu tím để chọn*1
+2432,10220,{6071=120},{2153=1},3,,Màu cam với phổ biến * 1,Màu cam với phổ biến * 1,404,Màu cam với phổ biến * 1
+2433,10220,{6071=240},{6233=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2434,10220,{6071=240},{6234=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2440,10221,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,404,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+2441,10221,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,404,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+2442,10221,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,404,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+2443,10221,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,404,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+2444,10221,{6302=6},{23661=5},50,,Phiếu mua sắm màu tím*6 đổi Regiskiro*5,Phiếu mua sắm màu tím*6 đổi Regiskiro*5,木木枭,Phiếu mua sắm màu tím*6 đổi Regiskiro*5
+2445,10221,{6302=6},{20631=5},50,,Voucher mua sắm màu tím*6 mảnh của tia sáng,Voucher mua sắm màu tím*6 mảnh của tia sáng,暴鲤龙,Voucher mua sắm màu tím*6 mảnh của tia sáng
+2446,10221,{6301=3;6302=3},{20241=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh tinh thần dưới ánh nến*3 3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh tinh thần dưới ánh nến*3 3,卡蒂狗,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh tinh thần dưới ánh nến*3 3
+2447,10221,{6301=3;6302=3},{21171=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3,戴鲁比,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3
+2448,10221,{6301=5},{20091=3},50,,Voucher mua sắm màu xanh*5 đổi Little Fire Dragon Fragrance*3,Voucher mua sắm màu xanh*5 đổi Little Fire Dragon Fragrance*3,皮丘,Voucher mua sắm màu xanh*5 đổi Little Fire Dragon Fragrance*3
+2449,10221,{6301=5},{20001=3},50,,Voucher mua sắm màu xanh*5 mảnh cáo của Fire Fox*3,Voucher mua sắm màu xanh*5 mảnh cáo của Fire Fox*3,妙蛙种子,Voucher mua sắm màu xanh*5 mảnh cáo của Fire Fox*3
+2450,10221,{6301=5},{20011=3},50,,Voucher mua sắm màu xanh*5 Đạo sư Exchange NIU Fragment*3,Voucher mua sắm màu xanh*5 Đạo sư Exchange NIU Fragment*3,小火龙,Voucher mua sắm màu xanh*5 Đạo sư Exchange NIU Fragment*3
+2451,10221,{6301=5},{20021=3},50,,Voucher mua sắm màu xanh*5 đổi Ngôi sao Ngôi sao*3,Voucher mua sắm màu xanh*5 đổi Ngôi sao Ngôi sao*3,杰尼龟,Voucher mua sắm màu xanh*5 đổi Ngôi sao Ngôi sao*3
+2452,10221,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,404,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+2453,10221,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,404,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+2454,10221,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,404,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+2455,10221,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,404,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+2456,10221,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,404,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+2457,10221,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,404,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+2458,10221,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,404,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+2459,10221,{6301=20;6302=60},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,404,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+2460,10221,{6301=15;6302=45},{6059=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1
+2461,10221,{6301=10;6302=40},{6050=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+2470,10222,{6071=20},{2152=1},4,,Mang theo tím chung*1,Mang theo tím chung*1,404,Mang theo tím chung*1
+2471,10222,{6071=60},{945=1},2,,Người mang màu tím để chọn*1,Người mang màu tím để chọn*1,404,Người mang màu tím để chọn*1
+2472,10222,{6071=120},{2153=1},3,,Màu cam với phổ biến * 1,Màu cam với phổ biến * 1,404,Màu cam với phổ biến * 1
+2473,10222,{6071=240},{6235=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2474,10222,{6071=240},{6236=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2480,10223,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,404,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+2481,10223,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,404,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+2482,10223,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,404,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+2483,10223,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,404,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+2484,10223,{6302=6},{23591=5},50,,Phiếu mua sắm màu tím*6 đổi Regiskiro*5,Phiếu mua sắm màu tím*6 đổi Regiskiro*5,嗡蝠 S-T1 23591,Phiếu mua sắm màu tím*6 đổi Regiskiro*5
+2485,10223,{6302=6},{21921=5},50,,Voucher mua sắm màu tím*6 mảnh của tia sáng,Voucher mua sắm màu tím*6 mảnh của tia sáng,雷吉艾斯 S-T1 21921,Voucher mua sắm màu tím*6 mảnh của tia sáng
+2486,10223,{6301=3;6302=3},{21081=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh tinh thần dưới ánh nến*3 3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh tinh thần dưới ánh nến*3 3,狃拉 S-T1 21081,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh tinh thần dưới ánh nến*3 3
+2487,10223,{6301=3;6302=3},{21291=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3,木守宫 S-T2 21291,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3
+2488,10223,{6301=5},{21801=3},50,,Voucher mua sắm màu xanh*5 đổi Little Fire Dragon Fragrance*3,Voucher mua sắm màu xanh*5 đổi Little Fire Dragon Fragrance*3,怨影娃娃 A 21801,Voucher mua sắm màu xanh*5 đổi Little Fire Dragon Fragrance*3
+2489,10223,{6301=5},{20221=3},50,,Voucher mua sắm màu xanh*5 mảnh cáo của Fire Fox*3,Voucher mua sắm màu xanh*5 mảnh cáo của Fire Fox*3,可达鸭 A 20221,Voucher mua sắm màu xanh*5 mảnh cáo của Fire Fox*3
+2490,10223,{6301=5},{20341=3},50,,Voucher mua sắm màu xanh*5 Đạo sư Exchange NIU Fragment*3,Voucher mua sắm màu xanh*5 Đạo sư Exchange NIU Fragment*3,大葱鸭 A 20341,Voucher mua sắm màu xanh*5 Đạo sư Exchange NIU Fragment*3
+2491,10223,{6301=5},{20791=3},50,,Voucher mua sắm màu xanh*5 đổi Ngôi sao Ngôi sao*3,Voucher mua sắm màu xanh*5 đổi Ngôi sao Ngôi sao*3,火球鼠 A 20791,Voucher mua sắm màu xanh*5 đổi Ngôi sao Ngôi sao*3
+2492,10223,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,404,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+2493,10223,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,404,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+2494,10223,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,404,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+2495,10223,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,404,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+2496,10223,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,404,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+2497,10223,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,404,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+2498,10223,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,404,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+2499,10223,{6301=20;6302=60},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,404,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+2500,10223,{6301=15;6302=45},{6059=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1
+2501,10223,{6301=10;6302=40},{6050=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+2513,10224,{6368=2;6370=2;6371=2;6369=2},{2600=1},1,,New Avatar - 1  ,New Avatar - 1  ,New Avatar - 1  ,New Avatar - 1  
+2514,10224,{6370=2;6371=2},{500=1},10,,Ichiraku Noodles,Universal Fragment,Universal Fragment,Universal Fragment
+2515,10224,{6368=2;6370=2;6371=2;6369=2},{501=2},20,, Jewelry Star Stone,High-Level Universal Fragment,High-Level Universal Fragment,High-Level Universal Fragment
+2517,10224,{6368=6;6370=6;6371=6;6369=6},{502=2},20,,Universal Fragment,Jewelry Star Stone,Jewelry Star Stone,Jewelry Star Stone
+2518,10224,{6368=8;6370=8;6371=8;6369=8},{521=2},10,,High-Level Universal Fragment,Ichiraku Noodles,Ichiraku Noodles,Ichiraku Noodles
+2519,10224,{6368=10;6370=10;6371=10;6369=10},{6059=1},5,,Awakened Jewelry Selection Box  ,Awakened Jewelry Selection Box  ,Awakened Jewelry Selection Box  ,Awakened Jewelry Selection Box  
+2520,10224,{6368=6;6370=6;6371=6;6369=6},{2152=1},3,,Đá phổ biến màu tím,Đá phổ biến màu tím,,Đá phổ biến màu tím
+2521,10224,{6368=3;6370=3;6371=3;6369=3},{rmb=1999},5,,Blue Universal Stone  ,Blue Universal Stone  ,Blue Universal Stone  ,Blue Universal Stone  
+2522,10224,{6369=4;6368=4},{974=1},2,,Random Red Battle Rune Box  ,Random Red Battle Rune Box  ,Random Red Battle Rune Box  ,Random Red Battle Rune Box  
+2523,10224,{6370=3;6371=3},{7305=1},2,,Random Red Manual Box  ,Random Red Manual Box  ,Random Red Manual Box  ,Random Red Manual Box  
+2524,10224,{6370=2;6368=2},{19=5},10,,Refined Currency,Refined Currency,Refined Currency,Refined Currency
+2525,10224,{6371=2;6369=2},{talent_point=2},5,,Điểm thiên phú,Điểm thiên phú,Điểm thiên phú,Điểm thiên phú
+2526,10224,{6368=1},{gold=500000},10,,Gold,Gold,Gold,Gold
+2527,10224,{6369=1},{850=10},50,,Heavenly Talent Stone - Sapphire  ,Heavenly Talent Stone - Sapphire  ,Heavenly Talent Stone - Sapphire  ,Heavenly Talent Stone - Sapphire  
+2528,10224,{6370=1},{451=10},50,,Common Potential Stones,Common Potential Stones,Common Potential Stones,Common Potential Stones
+2529,10224,{6371=1},{2103=2},100,,Advanced Soul Stone  ,Advanced Soul Stone  ,Advanced Soul Stone  ,Advanced Soul Stone  
+2531,10225,{6071=20},{2152=1},4,,Mang theo tím chung*1,Mang theo tím chung*1,404,Mang theo tím chung*1
+2532,10225,{6071=60} ,{945=1},2,,Người mang màu tím để chọn*1,Người mang màu tím để chọn*1,404,Người mang màu tím để chọn*1
+2533,10225,{6071=120},{2153=1},3,,Màu cam với phổ biến * 1,Màu cam với phổ biến * 1,404,Màu cam với phổ biến * 1
+2534,10225,{6071=240},{6237=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2535,10225,{6071=240},{6238=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2540,10226,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,404,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+2541,10226,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,404,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+2542,10226,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,404,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+2543,10226,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,404,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+2544,10226,{6302=6},{21241=5},50,,Phiếu mua sắm màu tím*6 đổi Regiskiro*5,Phiếu mua sắm màu tím*6 đổi Regiskiro*5,,Phiếu mua sắm màu tím*6 đổi Regiskiro*5
+2545,10226,{6302=6},{22991=5},50,,Voucher mua sắm màu tím*6 mảnh của tia sáng,Voucher mua sắm màu tím*6 mảnh của tia sáng,,Voucher mua sắm màu tím*6 mảnh của tia sáng
+2546,10226,{6302=6},{22401=5},50,,Voucher mua sắm màu tím*6 mảnh của tia sáng,Voucher mua sắm màu tím*6 mảnh của tia sáng,,Voucher mua sắm màu tím*6 mảnh của tia sáng
+2547,10226,{6301=3;6302=3},{20711=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh tinh thần dưới ánh nến*3 3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh tinh thần dưới ánh nến*3 3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh tinh thần dưới ánh nến*3 3
+2548,10226,{6301=3;6302=3},{23351=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3
+2549,10226,{6301=3;6302=3},{22031=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3
+2550,10226,{6301=5},{23501=3},50,,Voucher mua sắm màu xanh*5 đổi Little Fire Dragon Fragrance*3,Voucher mua sắm màu xanh*5 đổi Little Fire Dragon Fragrance*3,,Voucher mua sắm màu xanh*5 đổi Little Fire Dragon Fragrance*3
+2551,10226,{6301=5},{22841=3},50,,Voucher mua sắm màu xanh*5 mảnh cáo của Fire Fox*3,Voucher mua sắm màu xanh*5 mảnh cáo của Fire Fox*3,,Voucher mua sắm màu xanh*5 mảnh cáo của Fire Fox*3
+2552,10226,{6301=5},{21851=3},50,,Voucher mua sắm màu xanh*5 Đạo sư Exchange NIU Fragment*3,Voucher mua sắm màu xanh*5 Đạo sư Exchange NIU Fragment*3,,Voucher mua sắm màu xanh*5 Đạo sư Exchange NIU Fragment*3
+2553,10226,{6301=5},{23511=3},50,,Voucher mua sắm màu xanh*5 đổi Ngôi sao Ngôi sao*3,Voucher mua sắm màu xanh*5 đổi Ngôi sao Ngôi sao*3,,Voucher mua sắm màu xanh*5 đổi Ngôi sao Ngôi sao*3
+2554,10226,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,404,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+2555,10226,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,404,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+2556,10226,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,404,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+2557,10226,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,404,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+2558,10226,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,404,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+2559,10226,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,404,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+2560,10226,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,404,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+2561,10226,{6301=20;6302=60},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,404,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+2562,10226,{6301=15;6302=45},{6059=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1
+2563,10226,{6301=10;6302=40},{6050=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+2570,10227,{6071=20},{2152=1},4,,Mang theo tím chung*1,Mang theo tím chung*1,404,Mang theo tím chung*1
+2571,10227,{6071=60},{945=1},2,,Người mang màu tím để chọn*1,Người mang màu tím để chọn*1,404,Người mang màu tím để chọn*1
+2572,10227,{6071=120},{2153=1},3,,Màu cam với phổ biến * 1,Màu cam với phổ biến * 1,404,Màu cam với phổ biến * 1
+2573,10227,{6071=240},{6239=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2574,10227,{6071=240},{6240=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2580,10228,{6381=6},{2318=1},1,,Halloween*1,Halloween*1,,Halloween*1
+2581,10228,{6381=12},{2019=1},1,,Khung hình đại diện Halloween*1,Khung hình đại diện Halloween*1,,Khung hình đại diện Halloween*1
+2582,10228,{6381=15},{2408=1},1,,Halloween*1,Halloween*1,,Halloween*1
+2584,10228,{6381=5},{6383=1},1,,Gói quà tặng đồng tiền Vàng Halloween*1,Gói quà tặng đồng tiền Vàng Halloween*1,,Gói quà tặng đồng tiền Vàng Halloween*1
+2585,10228,{6381=5},{6384=1},1,,Hộp quà Nguyên Bảo Halloween*1,Hộp quà Nguyên Bảo Halloween*1,,Hộp quà Nguyên Bảo Halloween*1
+2586,10228,{6381=2},{521=1},3,,God Beast Universal Fragrance*1,God Beast Universal Fragrance*1,,God Beast Universal Fragrance*1
+2587,10228,{6381=3},{501=1},1,,Trang sức Shengxing Proposa,Trang sức Shengxing Proposa,,Trang sức Shengxing Proposa
+2588,10228,{6381=1},{602=1},10,,Vòng cổ bạc*1,Vòng cổ bạc*1,,Vòng cổ bạc*1
+2589,10228,{6381=1},{2103=1},10,,Tăng cường màu tím*1,Tăng cường màu tím*1,,Tăng cường màu tím*1
+2590,10228,{6381=1},{851=10},10,,Đá tiềm năng màu tím*10,Đá tiềm năng màu tím*10,,Đá tiềm năng màu tím*10
+2591,10228,{6381=1},{850=20},10,,Đá tiềm năng màu xanh*20,Đá tiềm năng màu xanh*20,,Đá tiềm năng màu xanh*20
+2592,10228,{6381=1},{5000=5},10,,Hộp pha lê * 5,Hộp pha lê * 5,,Hộp pha lê * 5
+2593,10228,{6381=1},{930=5},10,,Thuốc năng lượng * 5,Thuốc năng lượng * 5,,Thuốc năng lượng * 5
+2594,10228,{6381=1},{gold=50000},10,,Đồng xu Vàng*5W,Đồng xu Vàng*5W,,Đồng xu Vàng*5W
+2600,10229,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,404,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+2601,10229,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,404,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+2602,10229,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,404,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+2603,10229,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,404,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+2604,10229,{6302=6},{20161=5},50,,Phiếu mua sắm màu tím*6 đổi Regiskiro*5,Phiếu mua sắm màu tím*6 đổi Regiskiro*5,,Phiếu mua sắm màu tím*6 đổi Regiskiro*5
+2605,10229,{6302=6},{21931=5},50,,Voucher mua sắm màu tím*6 mảnh của tia sáng,Voucher mua sắm màu tím*6 mảnh của tia sáng,,Voucher mua sắm màu tím*6 mảnh của tia sáng
+2606,10229,{6302=6},{22471=5},50,,Voucher mua sắm màu tím*6 mảnh của tia sáng,Voucher mua sắm màu tím*6 mảnh của tia sáng,,Voucher mua sắm màu tím*6 mảnh của tia sáng
+2607,10229,{6301=3;6302=3},{20401=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh tinh thần dưới ánh nến*3 3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh tinh thần dưới ánh nến*3 3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 đổi mảnh tinh thần dưới ánh nến*3 3
+2608,10229,{6301=3;6302=3},{21841=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3
+2609,10229,{6301=3;6302=3},{23001=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3 mảnh ghép rồng đơn*3
+2610,10229,{6301=5},{22921=3},50,,Voucher mua sắm màu xanh*5 đổi Little Fire Dragon Fragrance*3,Voucher mua sắm màu xanh*5 đổi Little Fire Dragon Fragrance*3,,Voucher mua sắm màu xanh*5 đổi Little Fire Dragon Fragrance*3
+2611,10229,{6301=5},{22922=3},50,,Voucher mua sắm màu xanh*5 mảnh cáo của Fire Fox*3,Voucher mua sắm màu xanh*5 mảnh cáo của Fire Fox*3,,Voucher mua sắm màu xanh*5 mảnh cáo của Fire Fox*3
+2612,10229,{6301=5},{20281=3},50,,Voucher mua sắm màu xanh*5 Đạo sư Exchange NIU Fragment*3,Voucher mua sắm màu xanh*5 Đạo sư Exchange NIU Fragment*3,,Voucher mua sắm màu xanh*5 Đạo sư Exchange NIU Fragment*3
+2613,10229,{6301=5},{21611=3},50,,Voucher mua sắm màu xanh*5 đổi Ngôi sao Ngôi sao*3,Voucher mua sắm màu xanh*5 đổi Ngôi sao Ngôi sao*3,,Voucher mua sắm màu xanh*5 đổi Ngôi sao Ngôi sao*3
+2614,10229,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,404,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+2615,10229,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,404,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+2616,10229,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,404,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+2617,10229,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,404,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+2618,10229,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,404,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+2619,10229,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,404,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+2620,10229,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,404,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+2621,10229,{6301=20;6302=60},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,404,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+2622,10229,{6301=15;6302=45},{6059=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1
+2623,10229,{6301=10;6302=40},{6050=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+2630,10230,{6071=20},{2152=1},4,,Mang theo tím chung*1,Mang theo tím chung*1,404,Mang theo tím chung*1
+2631,10230,{6071=60},{945=1},2,,Người mang màu tím để chọn*1,Người mang màu tím để chọn*1,404,Người mang màu tím để chọn*1
+2632,10230,{6071=120},{2153=1},3,,Màu cam với phổ biến * 1,Màu cam với phổ biến * 1,404,Màu cam với phổ biến * 1
+2633,10230,{6071=240},{6241=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2634,10230,{6071=240},{6242=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2640,10231,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,404,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+2641,10231,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,404,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+2642,10231,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,404,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+2643,10231,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,404,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+2644,10231,{6302=6},{22821=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+2645,10231,{6302=6},{20731=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+2646,10231,{6302=6},{23151=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+2647,10231,{6301=3;6302=3},{20261=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+2648,10231,{6301=3;6302=3},{23411=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+2649,10231,{6301=3;6302=3},{21311=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+2650,10231,{6301=5},{20131=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2651,10231,{6301=5},{20301=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2652,10231,{6301=5},{22481=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2653,10231,{6301=5},{23471=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2654,10231,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,404,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+2655,10231,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,404,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+2656,10231,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,404,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+2657,10231,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,404,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+2658,10231,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,404,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+2659,10231,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,404,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+2660,10231,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,404,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+2661,10231,{6301=20;6302=60},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,404,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+2662,10231,{6301=15;6302=45},{6059=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1
+2663,10231,{6301=10;6302=40},{6050=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+2670,10232,{6071=20},{2152=1},4,,Mang theo tím chung*1,Mang theo tím chung*1,404,Mang theo tím chung*1
+2671,10232,{6071=60},{945=1},2,,Người mang màu tím để chọn*1,Người mang màu tím để chọn*1,404,Người mang màu tím để chọn*1
+2672,10232,{6071=120},{2153=1},3,,Màu cam với phổ biến * 1,Màu cam với phổ biến * 1,404,Màu cam với phổ biến * 1
+2673,10232,{6071=240},{6243=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2674,10232,{6071=240},{6244=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2680,10233,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,404,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+2681,10233,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,404,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+2682,10233,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,404,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+2683,10233,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,404,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+2684,10233,{6302=6},{20741=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+2685,10233,{6302=6},{21911=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+2686,10233,{6302=6},{20641=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+2687,10233,{6301=3;6302=3},{21391=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+2688,10233,{6301=3;6302=3},{20241=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+2689,10233,{6301=3;6302=3},{21421=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+2690,10233,{6301=5},{20271=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2691,10233,{6301=5},{20371=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2692,10233,{6301=5},{22071=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2693,10233,{6301=5},{23281=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2694,10233,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,404,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+2695,10233,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,404,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+2696,10233,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,404,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+2697,10233,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,404,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+2698,10233,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,404,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+2699,10233,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,404,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+2700,10233,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,404,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+2701,10233,{6301=20;6302=60},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,404,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+2702,10233,{6301=15;6302=45},{6059=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1
+2703,10233,{6301=10;6302=40},{6050=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+2710,10234,{6071=20},{2152=1},4,,Mang theo tím chung*1,Mang theo tím chung*1,404,Mang theo tím chung*1
+2711,10234,{6071=60},{945=1},2,,Người mang màu tím để chọn*1,Người mang màu tím để chọn*1,404,Người mang màu tím để chọn*1
+2712,10234,{6071=120},{2153=1},3,,Màu cam với phổ biến * 1,Màu cam với phổ biến * 1,404,Màu cam với phổ biến * 1
+2713,10234,{6071=240},{6245=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2714,10234,{6071=240},{6246=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2720,10235,{6071=20},{2152=1},4,,Mang theo tím chung*1,Mang theo tím chung*1,404,Mang theo tím chung*1
+2721,10235,{6071=60},{945=1},2,,Người mang màu tím để chọn*1,Người mang màu tím để chọn*1,404,Người mang màu tím để chọn*1
+2722,10235,{6071=120},{2153=1},3,,Màu cam với phổ biến * 1,Màu cam với phổ biến * 1,404,Màu cam với phổ biến * 1
+2723,10235,{6071=240},{6247=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2724,10235,{6071=240},{6248=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2730,10236,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,404,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+2731,10236,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,404,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+2732,10236,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,404,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+2733,10236,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,404,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+2734,10236,{6302=6},{21221=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+2735,10236,{6302=6},{23771=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+2736,10236,{6302=6},{20631=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+2737,10236,{6301=3;6302=3},{20881=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+2738,10236,{6301=3;6302=3},{22031=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+2739,10236,{6301=3;6302=3},{21071=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+2740,10236,{6301=5},{22891=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2741,10236,{6301=5},{23431=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2742,10236,{6301=5},{20091=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2743,10236,{6301=5},{20551=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2744,10236,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,404,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+2745,10236,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,404,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+2746,10236,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,404,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+2747,10236,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,404,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+2748,10236,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,404,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+2749,10236,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,404,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+2750,10236,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,404,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+2751,10236,{6301=20;6302=60},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,404,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+2752,10236,{6301=15;6302=45},{6059=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1
+2753,10236,{6301=10;6302=40},{6050=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+2760,10237,{6337=20;rmb=1888;6336=20},{8010=1},1,,làn Skin,làn Skin,,làn Skin
+2761,10237,{6337=3;6336=3},{2321=1},1,,Sữa lớn có thể · 2021,Sữa lớn có thể · 2021,,Sữa lớn có thể · 2021
+2762,10237,{6337=5;6336=5},{2022=1},1,,Đèn lồng Avatar,Đèn lồng Avatar,,Đèn lồng Avatar
+2763,10237,{6337=10;6336=10},{2411=1},1,,Đầy,Đầy,,Đầy
+2764,10237,{6337=6;6336=6},{922=1},1,,S -Class Elf Ball*1,S -Class Elf Ball*1,,S -Class Elf Ball*1
+2765,10237,{6337=1;6336=1},{6338=2},5,,Lễ hội đèn lồng*2,Lễ hội đèn lồng*2,,Lễ hội đèn lồng*2
+2766,10237,{6337=2;6336=2},{talent_point=2},3,,Điểm thiên phú * 2,Điểm thiên phú * 2,,Điểm thiên phú * 2
+2767,10237,{6337=1;6336=1},{502=1},5,,Các đoạn toàn cầu*1,Các đoạn toàn cầu*1,,Các đoạn toàn cầu*1
+2768,10237,{6337=3;6336=3},{501=1},3,,Đồ trang sức Lift Proposa*1,Đồ trang sức Lift Proposa*1,,Đồ trang sức Lift Proposa*1
+2769,10237,{6337=2;6336=2},{519=1},5,,Phiếu giảm giá thẻ*1,Phiếu giảm giá thẻ*1,,Phiếu giảm giá thẻ*1
+2770,10237,{6337=1;6336=1},{503=2},5,,Phiếu giảm giá vẽ trang sức*2,Phiếu giảm giá vẽ trang sức*2,,Phiếu giảm giá vẽ trang sức*2
+2771,10237,{6337=1;6336=1},{520=1},5,,Coupon rút thẻ cho nhà thám hiểm*1,Coupon rút thẻ cho nhà thám hiểm*1,,Coupon rút thẻ cho nhà thám hiểm*1
+2772,10237,{6336=1},{gold=50000},30,,Đồng xu Vàng*5W,Đồng xu Vàng*5W,,Đồng xu Vàng*5W
+2773,10237,{6336=1},{5000=5},30,,Hộp pha lê * 5,Hộp pha lê * 5,,Hộp pha lê * 5
+2774,10237,{6336=1},{2102=1},30,,Màu xanh mạnh*1,Màu xanh mạnh*1,,Màu xanh mạnh*1
+2775,10237,{6337=1},{930=5},30,,Thuốc năng lượng * 5,Thuốc năng lượng * 5,,Thuốc năng lượng * 5
+2776,10237,{6337=1},{902=1},30,,Hộp quà ủng hộ nâng cao*1,Hộp quà ủng hộ nâng cao*1,,Hộp quà ủng hộ nâng cao*1
+2777,10237,{6337=1},{850=20},30,,Đá tiềm năng màu xanh*20,Đá tiềm năng màu xanh*20,,Đá tiềm năng màu xanh*20
+2780,10238,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,404,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+2781,10238,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,404,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+2782,10238,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,404,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+2783,10238,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,404,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+2784,10238,{6302=6},{20721=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+2785,10238,{6302=6},{23841=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+2786,10238,{6302=6},{21921=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+2787,10238,{6301=3;6302=3},{20601=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+2788,10238,{6301=3;6302=3},{23141=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+2789,10238,{6301=3;6302=3},{21391=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+2790,10238,{6301=5},{22681=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2791,10238,{6301=5},{22871=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2792,10238,{6301=5},{23011=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2793,10238,{6301=5},{22301=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2794,10238,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,404,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+2795,10238,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,404,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+2796,10238,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,404,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+2797,10238,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,404,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+2798,10238,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,404,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+2799,10238,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,404,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+2800,10238,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,404,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+2801,10238,{6301=20;6302=60},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,404,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+2802,10238,{6301=15;6302=45},{6059=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1
+2803,10238,{6301=10;6302=40},{6050=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+2810,10239,{6071=20},{2152=1},4,,Mang theo tím chung*1,Mang theo tím chung*1,404,Mang theo tím chung*1
+2811,10239,{6071=60},{945=1},2,,Người mang màu tím để chọn*1,Người mang màu tím để chọn*1,404,Người mang màu tím để chọn*1
+2812,10239,{6071=120},{2153=1},3,,Màu cam với phổ biến * 1,Màu cam với phổ biến * 1,404,Màu cam với phổ biến * 1
+2813,10239,{6071=240},{6249=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2814,10239,{6071=240},{6250=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2820,10240,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,404,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+2821,10240,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,404,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+2822,10240,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,404,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+2823,10240,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,404,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+2824,10240,{6302=6},{21891=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+2825,10240,{6302=6},{21031=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+2826,10240,{6302=6},{21231=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+2827,10240,{6301=3;6302=3},{21311=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+2828,10240,{6301=3;6302=3},{21811=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+2829,10240,{6301=3;6302=3},{21081=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+2830,10240,{6301=5},{22011=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2831,10240,{6301=5},{23471=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2832,10240,{6301=5},{20341=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2833,10240,{6301=5},{21861=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2834,10240,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,404,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+2835,10240,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,404,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+2836,10240,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,404,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+2837,10240,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,404,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+2838,10240,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,404,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+2839,10240,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,404,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+2840,10240,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,404,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+2841,10240,{6301=20;6302=60},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,404,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+2842,10240,{6301=15;6302=45},{6059=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1
+2843,10240,{6301=10;6302=40},{6050=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+2850,10241,{6071=20},{2152=1},4,,Mang theo tím chung*1,Mang theo tím chung*1,404,Mang theo tím chung*1
+2851,10241,{6071=60},{945=1},2,,Người mang màu tím để chọn*1,Người mang màu tím để chọn*1,404,Người mang màu tím để chọn*1
+2852,10241,{6071=120},{2153=1},4,,Màu cam với phổ biến * 1,Màu cam với phổ biến * 1,404,Màu cam với phổ biến * 1
+2853,10241,{6071=240},{6900=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2854,10241,{6071=240},{6901=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2860,10242,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,404,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+2861,10242,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,404,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+2862,10242,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,404,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+2863,10242,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,404,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+2864,10242,{6302=6},{21241=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+2865,10242,{6302=6},{24131=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+2866,10242,{6302=6},{21901=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+2867,10242,{6301=3;6302=3},{22721=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+2868,10242,{6301=3;6302=3},{23351=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+2869,10242,{6301=3;6302=3},{21501=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+2870,10242,{6301=5},{22271=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2871,10242,{6301=5},{22611=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2872,10242,{6301=5},{22631=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2873,10242,{6301=5},{23341=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2874,10242,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,404,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+2875,10242,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,404,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+2876,10242,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,404,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+2877,10242,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,404,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+2878,10242,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,404,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+2879,10242,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,404,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+2880,10242,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,404,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+2881,10242,{6301=20;6302=60},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,404,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+2882,10242,{6301=15;6302=45},{6059=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1
+2883,10242,{6301=10;6302=40},{6050=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+2890,10243,{6071=20},{2152=1},4,,Mang theo tím chung*1,Mang theo tím chung*1,404,Mang theo tím chung*1
+2891,10243,{6071=60},{945=1},2,,Người mang màu tím để chọn*1,Người mang màu tím để chọn*1,404,Người mang màu tím để chọn*1
+2892,10243,{6071=120},{2153=1},4,,Màu cam với phổ biến * 1,Màu cam với phổ biến * 1,404,Màu cam với phổ biến * 1
+2893,10243,{6071=240},{6902=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2894,10243,{6071=240},{6903=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2900,10244,{6349=10},{2028=1},1,,61 hộp avatar*1,61 hộp avatar*1,,61 hộp avatar*1
+2901,10244,{6349=20},{6351=1},1,,61 hộp quà*1,61 hộp quà*1,,61 hộp quà*1
+2902,10244,{6349=20},{2417=1},1,,61 tiêu đề*1,61 tiêu đề*1,,61 tiêu đề*1
+2903,10244,{6349=8},{2326=1},1,,61 avatar*1,61 avatar*1,,61 avatar*1
+2904,10244,{6349=3},{2305=1},1,,61 Avatar kỳ lạ*1,61 Avatar kỳ lạ*1,,61 Avatar kỳ lạ*1
+2905,10244,{6349=3},{2310=1},1,,61 Avatar kỳ lạ*1,61 Avatar kỳ lạ*1,,61 Avatar kỳ lạ*1
+2906,10244,{6349=3},{2312=1},1,,61 Avatar kỳ lạ*1,61 Avatar kỳ lạ*1,,61 Avatar kỳ lạ*1
+2907,10244,{6349=2},{850=20},20,,Đá tiềm năng màu xanh*20,Đá tiềm năng màu xanh*20,,Đá tiềm năng màu xanh*20
+2908,10244,{6349=2},{5000=5},20,,Hộp pha lê * 5,Hộp pha lê * 5,,Hộp pha lê * 5
+2909,10244,{6349=2},{930=5},20,,Thuốc năng lượng * 5,Thuốc năng lượng * 5,,Thuốc năng lượng * 5
+2910,10244,{6349=2},{gold=50000},20,,Đồng xu Vàng*5W,Đồng xu Vàng*5W,,Đồng xu Vàng*5W
+2920,10245,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,404,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+2921,10245,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,404,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+2922,10245,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,404,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+2923,10245,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,404,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+2924,10245,{6302=6},{20861=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+2925,10245,{6302=6},{23661=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+2926,10245,{6302=6},{21931=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+2927,10245,{6301=3;6302=3},{23021=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+2928,10245,{6301=3;6302=3},{20591=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+2929,10245,{6301=3;6302=3},{21251=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+2930,10245,{6301=5},{20221=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2931,10245,{6301=5},{20481=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2932,10245,{6301=5},{22591=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2933,10245,{6301=5},{22961=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2934,10245,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,404,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+2935,10245,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,404,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+2936,10245,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,404,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+2937,10245,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,404,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+2938,10245,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,404,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+2939,10245,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,404,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+2940,10245,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,404,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+2941,10245,{6301=20;6302=60},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,404,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+2942,10245,{6301=15;6302=45},{6059=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1
+2943,10245,{6301=10;6302=40},{6050=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+2950,10246,{6071=20},{2152=1},4,,Mang theo tím chung*1,Mang theo tím chung*1,404,Mang theo tím chung*1
+2951,10246,{6071=60},{945=1},2,,Người mang màu tím để chọn*1,Người mang màu tím để chọn*1,404,Người mang màu tím để chọn*1
+2952,10246,{6071=120},{2153=1},4,,Màu cam với phổ biến * 1,Màu cam với phổ biến * 1,404,Màu cam với phổ biến * 1
+2953,10246,{6071=240},{6904=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2954,10246,{6071=240},{6905=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2960,10247,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,404,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+2961,10247,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,404,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+2962,10247,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,404,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+2963,10247,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,404,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+2964,10247,{6302=6},{23251=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+2965,10247,{6302=6},{20331=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+2966,10247,{6302=6},{20571=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+2967,10247,{6301=3;6302=3},{22031=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+2968,10247,{6301=3;6302=3},{20491=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+2969,10247,{6301=3;6302=3},{20701=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+2970,10247,{6301=5},{21801=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2971,10247,{6301=5},{20051=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2972,10247,{6301=5},{21441=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2973,10247,{6301=5},{20781=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+2974,10247,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,404,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+2975,10247,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,404,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+2976,10247,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,404,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+2977,10247,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,404,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+2978,10247,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,404,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+2979,10247,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,404,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+2980,10247,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,404,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+2981,10247,{6301=20;6302=60},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,404,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+2982,10247,{6301=15;6302=45},{6059=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1
+2983,10247,{6301=10;6302=40},{6050=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+2990,10248,{6071=20},{2152=1},4,,Mang theo tím chung*1,Mang theo tím chung*1,404,Mang theo tím chung*1
+2991,10248,{6071=60},{945=1},2,,Người mang màu tím để chọn*1,Người mang màu tím để chọn*1,404,Người mang màu tím để chọn*1
+2992,10248,{6071=120},{2153=1},4,,Màu cam với phổ biến * 1,Màu cam với phổ biến * 1,404,Màu cam với phổ biến * 1
+2993,10248,{6071=240},{6906=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+2994,10248,{6071=240},{6907=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+3000,10249,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,404,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+3001,10249,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,404,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+3002,10249,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,404,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+3003,10249,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,404,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+3004,10249,{6302=6},{23161=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+3005,10249,{6302=6},{22821=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+3006,10249,{6302=6},{20641=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+3007,10249,{6301=3;6302=3},{23001=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+3008,10249,{6301=3;6302=3},{23411=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+3009,10249,{6301=3;6302=3},{23541=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+3010,10249,{6301=5},{23511=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+3011,10249,{6301=5},{22481=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+3012,10249,{6301=5},{20791=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+3013,10249,{6301=5},{20801=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+3014,10249,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,404,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+3015,10249,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,404,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+3016,10249,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,404,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+3017,10249,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,404,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+3018,10249,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,404,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+3019,10249,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,404,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+3020,10249,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,404,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+3021,10249,{6301=20;6302=60},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,404,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+3022,10249,{6301=15;6302=45},{6059=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1
+3023,10249,{6301=10;6302=40},{6050=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+3030,10250,{6071=20},{2152=1},4,,Mang theo tím chung*1,Mang theo tím chung*1,404,Mang theo tím chung*1
+3031,10250,{6071=60},{945=1},2,,Người mang màu tím để chọn*1,Người mang màu tím để chọn*1,404,Người mang màu tím để chọn*1
+3032,10250,{6071=120},{2153=1},4,,Màu cam với phổ biến * 1,Màu cam với phổ biến * 1,404,Màu cam với phổ biến * 1
+3033,10250,{6071=240},{6908=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+3034,10250,{6071=240},{6909=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+3040,10251,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,404,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+3041,10251,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,404,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+3042,10251,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,404,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+3043,10251,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,404,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+3044,10251,{6302=6},{23171=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+3045,10251,{6302=6},{21391=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+3046,10251,{6302=6},{23661=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+3047,10251,{6301=3;6302=3},{21291=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+3048,10251,{6301=3;6302=3},{21071=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+3049,10251,{6301=3;6302=3},{23841=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+3050,10251,{6301=5},{20691=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+3051,10251,{6301=5},{23501=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+3052,10251,{6301=5},{20301=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+3053,10251,{6301=5},{20461=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+3054,10251,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,404,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+3055,10251,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,404,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+3056,10251,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,404,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+3057,10251,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,404,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+3058,10251,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,404,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+3059,10251,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,404,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+3060,10251,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,404,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+3061,10251,{6301=20;6302=60},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,404,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+3062,10251,{6301=15;6302=45},{6059=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1
+3063,10251,{6301=10;6302=40},{6050=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+3070,10252,{6071=20},{2152=1},4,,Mang theo tím chung*1,Mang theo tím chung*1,404,Mang theo tím chung*1
+3071,10252,{6071=60},{945=1},2,,Người mang màu tím để chọn*1,Người mang màu tím để chọn*1,404,Người mang màu tím để chọn*1
+3072,10252,{6071=120},{2153=1},4,,Màu cam với phổ biến * 1,Màu cam với phổ biến * 1,404,Màu cam với phổ biến * 1
+3073,10252,{6071=240},{6910=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+3074,10252,{6071=240},{6911=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+3080,10253,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,404,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+3081,10253,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,404,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+3082,10253,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,404,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+3083,10253,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,404,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+3084,10253,{6302=6},{23181=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+3085,10253,{6302=6},{23151=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+3086,10253,{6302=6},{22401=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+3087,10253,{6301=3;6302=3},{21501=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+3088,10253,{6301=3;6302=3},{21421=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+3089,10253,{6301=3;6302=3},{20401=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+3090,10253,{6301=5},{20281=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+3091,10253,{6301=5},{20371=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+3092,10253,{6301=5},{20471=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+3093,10253,{6301=5},{21611=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+3094,10253,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,404,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+3095,10253,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,404,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+3096,10253,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,404,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+3097,10253,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,404,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+3098,10253,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,404,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+3099,10253,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,404,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+3100,10253,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,404,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+3101,10253,{6301=20;6302=60},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,404,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+3102,10253,{6301=15;6302=45},{6059=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1
+3103,10253,{6301=10;6302=40},{6050=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+3110,10254,{6369=1;6368=1},{2032=1},1,,Khung hình đại diện ngày quốc khánh,Khung hình đại diện ngày quốc khánh,,Khung hình đại diện ngày quốc khánh
+3111,10254,{6368=1;6370=1;6371=1;6369=1},{2422=1},1,,Tiêu đề Ngày Quốc khánh,Tiêu đề Ngày Quốc khánh,,Tiêu đề Ngày Quốc khánh
+3112,10254,{6370=1;6371=1},{2331=1},1,,Avatar ngày quốc khánh,Avatar ngày quốc khánh,,Avatar ngày quốc khánh
+3113,10254,{6368=8;6370=8;6371=8;6369=8},{8014=1},1,,Trượt ván đường phố · Lucario,Trượt ván đường phố · Lucario,,Trượt ván đường phố · Lucario
+3114,10254,{6368=3;6370=3;6371=3;6369=3},{2247=1},1,,Mã thông báo của Lili,Mã thông báo của Lili,,Mã thông báo của Lili
+3115,10254,{6368=3;6370=3;6371=3;6369=3},{925=1},1,,S elf lựa chọn rương kho báu,S elf lựa chọn rương kho báu,,S elf lựa chọn rương kho báu
+3116,10254,{6368=5;6370=5;6371=5;6369=5},{6059=1},1,,Hộp lựa chọn thức tỉnh trang sức,Hộp lựa chọn thức tỉnh trang sức,,Hộp lựa chọn thức tỉnh trang sức
+3117,10254,{6368=3;6370=3;6371=3;6369=3},{6050=1},1,,Awakening Hộp ngẫu nhiên,Awakening Hộp ngẫu nhiên,,Awakening Hộp ngẫu nhiên
+3118,10254,{6368=1;6370=1;6371=1;6369=1},{rmb=888},1,,Nguyên Bảo,Nguyên Bảo,,Nguyên Bảo
+3119,10254,{6369=1;6368=1},{973=1},2,,Hộp kho báu đá Rune Rune ngẫu nhiên,Hộp kho báu đá Rune Rune ngẫu nhiên,,Hộp kho báu đá Rune Rune ngẫu nhiên
+3120,10254,{6370=1;6371=1},{501=1},3,,Trang sức Shengxing Proposa,Trang sức Shengxing Proposa,,Trang sức Shengxing Proposa
+3121,10254,{6370=1;6368=1},{962=1},3,,Hộp kho báu của nhà thám hiểm màu tím,Hộp kho báu của nhà thám hiểm màu tím,,Hộp kho báu của nhà thám hiểm màu tím
+3122,10254,{6371=1;6369=1},{talent_point=2},3,,Điểm thiên phú,Điểm thiên phú,,Điểm thiên phú
+3123,10254,{6371=1;6368=1},{7304=1},2,,Hộp kho báu Chip Orange ngẫu nhiên,Hộp kho báu Chip Orange ngẫu nhiên,,Hộp kho báu Chip Orange ngẫu nhiên
+3124,10254,{6368=1},{gold=200000},40,,Vàng,Vàng,,Vàng
+3125,10254,{6369=1},{930=15},40,,Hộp vật liệu đột phá,Hộp vật liệu đột phá,,Hộp vật liệu đột phá
+3126,10254,{6370=1},{5000=15},40,,Củng cố,Củng cố,,Củng cố
+3127,10254,{6371=1},{2103=2},40,,Tăng cường Purg,Tăng cường Purg,,Tăng cường Purg
+3130,10255,{6071=20},{2152=1},4,,Mang theo tím chung*1,Mang theo tím chung*1,404,Mang theo tím chung*1
+3131,10255,{6071=60},{945=1},2,,Người mang màu tím để chọn*1,Người mang màu tím để chọn*1,404,Người mang màu tím để chọn*1
+3132,10255,{6071=120},{2153=1},4,,Màu cam với phổ biến * 1,Màu cam với phổ biến * 1,404,Màu cam với phổ biến * 1
+3133,10255,{6071=240},{6912=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+3134,10255,{6071=240},{6913=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+3135,10255,{6071=240},{6105=1},1,,Mang màu cam*1,Mang màu cam*1,404,Mang màu cam*1
+3140,10256,{6301=2},{502=1},2,,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1,404,Voucher mua sắm màu xanh*2 đổi các mảnh phổ biến thông thường*1
+3141,10256,{6302=4},{502=2},3,,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2,404,Voucher mua sắm màu tím*4 đổi các mảnh phổ biến thông thường*2
+3142,10256,{6301=2},{talent_point=1},2,,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1,404,Voucher mua sắm màu xanh*2 điểm đổi điểm thiên phú*1
+3143,10256,{6302=4},{talent_point=2},3,,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2,404,Phiếu mua sắm màu tím*4 điểm đổi điểm thiên phú*2
+3144,10256,{6302=6},{20381=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+3145,10256,{6302=6},{23771=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+3146,10256,{6302=6},{22471=5},50,,Phiếu mua sắm màu tím*6,Phiếu mua sắm màu tím*6,,Phiếu mua sắm màu tím*6
+3147,10256,{6301=3;6302=3},{20591=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+3148,10256,{6301=3;6302=3},{21911=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+3149,10256,{6301=3;6302=3},{20881=3},50,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3,,Voucher mua sắm màu xanh*3 Voucher mua sắm màu tím*3
+3150,10256,{6301=5},{20021=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+3151,10256,{6301=5},{20131=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+3152,10256,{6301=5},{20151=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+3153,10256,{6301=5},{20551=3},50,,Voucher mua sắm màu xanh*5,Voucher mua sắm màu xanh*5,,Voucher mua sắm màu xanh*5
+3154,10256,{6301=2},{19=1},5,,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1,404,Voucher mua sắm màu xanh*2 đổi viên nang ma thuật*1
+3155,10256,{6302=2},{19=2},5,,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2,404,Phiếu mua sắm màu tím*2 đổi viên nang ma thuật*2
+3156,10256,{6301=8;6302=8},{503=10},1,,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10,404,Voucher mua sắm màu xanh*8 Voucher mua sắm màu tím*8 đổi chìa khóa vàng*10
+3157,10256,{6301=6},{2103=3},5,,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3,404,Voucher mua sắm màu xanh*6 đổi màu tím mang lại tăng cường*3
+3158,10256,{6301=6},{5000=30},5,,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30,404,Voucher mua sắm màu xanh*6 đổi năng lượng dược phẩm*30
+3159,10256,{6301=2},{gold=100000},10,,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000,404,Voucher mua sắm màu xanh*2 đổi đồng xu Vàng*100000
+3160,10256,{6301=2;6302=5},{501=1},3,,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1,404,Voucher mua sắm màu xanh*2 Voucher mua sắm màu tím*5 đổi phụ kiện cơ bản*1
+3161,10256,{6301=20;6302=60},{942=1},2,,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1,404,Voucher mua sắm màu xanh*30 Voucher mua sắm màu tím*75 đổi màu tím mang theo hộp quà tặng*1
+3162,10256,{6301=15;6302=45},{6059=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp lựa chọn Awakening trang sức đổi*1 1
+3163,10256,{6301=10;6302=40},{6050=1},1,,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1,404,Voucher mua sắm màu xanh*15 Voucher mua sắm màu tím*45 Hộp ngẫu nhiên Awacheny Jewelry Awakening*1
+3170,10257,{6321=1},{951=1},50,,Phân đoạn T thức tỉnh Z trung gian,Phân đoạn T thức tỉnh Z trung gian,,Phân đoạn T thức tỉnh Z trung gian
+3171,10257,{6321=4},{502=4},20,,Tăng giá Z nâng cao,Tăng giá Z nâng cao,,Tăng giá Z nâng cao
+3172,10257,{6321=3},{501=1},5,,Trang sức Shengxing Proposa,Trang sức Shengxing Proposa,,Trang sức Shengxing Proposa
+3173,10257,{6321=5},{521=2},5,,God Beast Universal những mảnh,God Beast Universal những mảnh,,God Beast Universal những mảnh
+3174,10257,{6321=400},{6120=1},1,,Bốn vật phẩm mang màu cam lâu đời nhất,Bốn vật phẩm mang màu cam lâu đời nhất,,Bốn vật phẩm mang màu cam lâu đời nhất
+3175,10257,{6321=1},{121=1},10,,Hạt nhân,Hạt nhân,,Hạt nhân
+3176,10257,{6321=5},{20263=4},20,{3=263},Mảnh Orochi,Mảnh Orochi,,Mảnh Orochi
+3177,10257,{6321=5},{20393=4},20,{3=393},Mảnh Hades,Mảnh Hades,,Mảnh Hades
+3178,10257,{6321=5},{20572=4},20,{3=572},Mảnh Akame,Mảnh Akame,,Mảnh Akame
+3179,10257,{6321=5},{20701=4},20,{3=701},Mảnh Levi Ackerman,Mảnh Levi Ackerman,,Mảnh Levi Ackerman
+3180,10257,{6321=1},{gold=300000},20,,Vàng,Vàng,,Vàng
+3181,10257,{6321=1},{870=10},20,,Túi quà tặng vật liệu đột phá cổ đại,Túi quà tặng vật liệu đột phá cổ đại,,Túi quà tặng vật liệu đột phá cổ đại
+3182,10257,{6321=5},{21503=4},20,{3=1503},Mảnh Maple,Mảnh Maple,,Mảnh Maple
+3183,10257,{6321=5},{20771=4},20,{3=771},Mảnh Madoka,Mảnh Madoka,,Mảnh Madoka
+3184,10257,{6321=5},{21961=4},20,{3=1961},Mảnh Aqua,Mảnh Aqua,,Mảnh Aqua
+3190,10258,{6381=6},{2332=1},1,,Halloween*1,Halloween*1,,Halloween*1
+3191,10258,{6381=12},{2034=1},1,,Khung hình đại diện Halloween*1,Khung hình đại diện Halloween*1,,Khung hình đại diện Halloween*1
+3192,10258,{6381=15},{2423=1},1,,Halloween*1,Halloween*1,,Halloween*1
+3193,10258,{6381=20},{2248=1},1,,Halloween*1,Halloween*1,,Halloween*1
+3194,10258,{6381=8;rmb=1680},{8020=1},1,,Halloween*1,Halloween*1,,Halloween*1
+3195,10258,{6381=5},{6383=1},1,,Gói quà tặng đồng tiền Vàng Halloween*1,Gói quà tặng đồng tiền Vàng Halloween*1,,Gói quà tặng đồng tiền Vàng Halloween*1
+3196,10258,{6381=5},{6384=1},1,,Hộp quà Nguyên Bảo Halloween*1,Hộp quà Nguyên Bảo Halloween*1,,Hộp quà Nguyên Bảo Halloween*1
+3197,10258,{6381=2},{521=1},3,,God Beast Universal Fragrance*1,God Beast Universal Fragrance*1,,God Beast Universal Fragrance*1
+3198,10258,{6381=3},{501=1},1,,Trang sức Shengxing Proposa,Trang sức Shengxing Proposa,,Trang sức Shengxing Proposa
+3199,10258,{6381=1},{602=1},10,,Vòng cổ bạc*1,Vòng cổ bạc*1,,Vòng cổ bạc*1
+3200,10258,{6381=1},{2103=1},10,,Tăng cường màu tím*1,Tăng cường màu tím*1,,Tăng cường màu tím*1
+3201,10258,{6381=1},{851=10},10,,Đá tiềm năng màu tím*10,Đá tiềm năng màu tím*10,,Đá tiềm năng màu tím*10
+3202,10258,{6381=1},{850=20},10,,Đá tiềm năng màu xanh*20,Đá tiềm năng màu xanh*20,,Đá tiềm năng màu xanh*20
+3203,10258,{6381=1},{5000=5},10,,Hộp pha lê * 5,Hộp pha lê * 5,,Hộp pha lê * 5
+3204,10258,{6381=1},{930=5},10,,Thuốc năng lượng * 5,Thuốc năng lượng * 5,,Thuốc năng lượng * 5
+3205,10258,{6381=1},{gold=50000},10,,Đồng xu Vàng*5W,Đồng xu Vàng*5W,,Đồng xu Vàng*5W
+,,,,,,,,,
+4001,16868,{9669=15},{card={id=2361}},9999,,Bankai Kenpachi,Bankai Kenpachi,Bankai Kenpachi,Bankai Kenpachi
+4002,16868,{9669=15},{card={id=2381}},9999,,Albedo,Albedo,Albedo,Albedo
+4003,16868,{9669=15},{card={id=2431}},9999,,Boa Hancock,Boa Hancock,Boa Hancock,Boa Hancock
+4004,16868,{9669=15},{card={id=1951}},9999,,Angemon,Angemon,Angemon,Angemon
+4005,16868,{9669=15},{card={id=771}},9999,,Madoka,Madoka,Madoka,Madoka
+4006,16868,{9669=15},{card={id=2233}},9999,,Vegeta,Vegeta,Vegeta,Vegeta
+4007,16868,{9669=15},{card={id=1313}},9999,,Artoria Pendragon,Artoria Pendragon,Artoria Pendragon,Artoria Pendragon
+4008,16868,{9669=15},{card={id=3353}},9999,,Tsunade,Tsunade,Tsunade,Tsunade
+4009,16868,{9669=15},{card={id=263}},9999,,Orochi,Orochi,Orochi,Orochi
+4010,16868,{9669=15},{card={id=1893}},9999,,Ikaros,Ikaros,Ikaros,Ikaros
+4011,16868,{9669=15},{card={id=7001}},9999,,Ultraman Tiga,Ultraman Tiga,Ultraman Tiga,Ultraman Tiga
+4012,16868,{9669=15},{card={id=721}},9999,,Rin Tohsaka,Rin Tohsaka,Rin Tohsaka,Rin Tohsaka
+4013,16868,{9669=15},{card={id=1503}},9999,,Maple,Maple,Maple,Maple
+4014,16868,{9669=15},{card={id=3211}},9999,,Jiraiya,Jiraiya,Jiraiya,Jiraiya
+4015,16868,{9669=15},{card={id=1173}},9999,,Hiei,Hiei,Hiei,Hiei
+4016,16868,{9669=15},{card={id=1241}},9999,,Hatsune Miku,Hatsune Miku,Hatsune Miku,Hatsune Miku
+4017,16868,{9669=15},{card={id=1941}},9999,,Angewomon,Angewomon,Angewomon,Angewomon
+4018,16868,{9669=15},{card={id=3171}},9999,,Kakarot,Kakarot,Kakarot,Kakarot
+4019,16868,{9669=15},{card={id=1231}},9999,,Kurosaki Ichigo,Kurosaki Ichigo,Kurosaki Ichigo,Kurosaki Ichigo
+4020,16868,{9669=15},{card={id=2401}},9999,,Tsukino Usagi,Tsukino Usagi,Tsukino Usagi,Tsukino Usagi
+4021,16868,{9669=15},{card={id=3303}},9999,,Asuna,Asuna,Asuna,Asuna
+4022,16868,{9669=15},{card={id=572}},9999,,Akame,Akame,Akame,Akame
+4023,16868,{9669=15},{card={id=2391}},9999,,Demon Slayer Daki,Demon Slayer Daki,Demon Slayer Daki,Demon Slayer Daki
+4024,16868,{9669=15},{card={id=3673}},9999,,Beerus,Beerus,Beerus,Beerus
+4025,16868,{9669=15},{card={id=3143}},9999,,Kirisame Marisa,Kirisame Marisa,Kirisame Marisa,Kirisame Marisa
+4026,16868,{9669=15},{card={id=1423}},9999,,Saitama,Saitama,Saitama,Saitama
+4027,16868,{9669=15},{card={id=3221}},9999,,Uchiha Itachi,Uchiha Itachi,Uchiha Itachi,Uchiha Itachi
+4028,16868,{9669=15},{card={id=1961}},9999,,Aqua,Aqua,Aqua,Aqua
+4029,16868,{9669=15},{card={id=393}},9999,,Hades,Hades,Hades,Hades
+4030,16868,{9669=15},{card={id=2351}},9999,,Master Roshi,Master Roshi,Master Roshi,Master Roshi
+4031,16868,{9669=15},{card={id=701}},9999,,Levi Ackerman,Levi Ackerman,Levi Ackerman,Levi Ackerman
+4032,16868,{9669=15},{card={id=3021}},9999,,Lich King,Lich King,Lich King,Lich King
+,,,,,,,,,
+4501,16869,{9670=25},{card={id=4161}},9999,,Namikaze Minato,Namikaze Minato,Namikaze Minato,Namikaze Minato
+4502,16869,{9670=25},{card={id=8002}},9999,,Tokito Muichiro,Tokito Muichiro,Tokito Muichiro,Tokito Muichiro
+4503,16869,{9670=25},{card={id=8003}},9999,,Kocho Shinobu,Kocho Shinobu,Kocho Shinobu,Kocho Shinobu
+4504,16869,{9670=25},{card={id=8007}},9999,,Akaza,Akaza,Akaza,Akaza
+4505,16869,{9670=25},{card={id=7011}},9999,,Arale,Arale,Arale,Arale
+4506,16869,{9670=25},{card={id=8901}},9999,,Ichigo Tensei,Ichigo Tensei,Ichigo Tensei,Ichigo Tensei
+4507,16869,{9670=25},{card={id=8902}},9999,,Luffy Nika,Luffy Nika,Luffy Nika,Luffy Nika
+,,,,,,,,,
+4601,16870,{9671=15},{card={id=8010}},9999,,Ulquiorra Cifer,Ulquiorra Cifer,Ulquiorra Cifer,Ulquiorra Cifer
+4602,16870,{9671=15},{card={id=8005}},9999,,Kyojuro Rengoku,Kyojuro Rengoku,Kyojuro Rengoku,Kyojuro Rengoku
+4603,16870,{9671=15},{card={id=8004}},9999,,Tsuyuri Kanao,Tsuyuri Kanao,Tsuyuri Kanao,Tsuyuri Kanao
+4604,16870,{9671=15},{card={id=8101}},9999,,Jiren,Jiren,Jiren,Jiren
+4605,16870,{9671=15},{card={id=8008}},9999,,Tamayo,Tamayo,Tamayo,Tamayo
+4606,16870,{9671=15},{card={id=8009}},9999,,Dracule Mihawk,Dracule Mihawk,Dracule Mihawk,Dracule Mihawk
+,,,,,,,,,
+5022,20002,{94=200},{card={id=3601}},5,,Reimu Hakurei,Reimu Hakurei,Reimu Hakurei,Reimu Hakurei
+5023,20002,{94=100},{30415=1},1,,Senbonzakura,Senbonzakura  ,Senbonzakura  ,เซนบงซากุระ  
+5024,20002,{94=1},{501=2},50,,Jewelry Star Stone,Jewelry Star Stone,Jewelry Star Stone,หินดาวเครื่องประดับ
+5025,20002,{94=5},{521=5},20,,High-Level Universal Fragment,High-Level Universal Fragment,High-Level Universal Fragment,ชิ้นส่วนอเนกประสงค์ขั้นสูง
+5026,20002,{94=5},{gold=5000000},20,,Gold,Gold,Gold,Gold
+5027,20002,{94=20},{9056=1},2,,Red Relic Selection Chest  ,Red Relic Selection Chest  ,Red Relic Selection Chest  ,หีบเลือกของโบราณแดง  
+5028,20002,{94=30},{card={id=9003}},1,,Shadow Clone SS,Shadow Clone SS,Shadow Clone SS,ร่างเงาจำลอง SS
+5029,20002,{94=80},{9054=1},1,,SS Hero Selection Pack II  ,SS Hero Selection Pack II  ,SS Hero Selection Pack II  ,แพ็กเลือกฮีโร่ SS II  
+5030,20002,{94=10},{16=10},10,,Large Rice Ball,Large Rice Ball,Large Rice Ball,ข้าวปั้นขนาดใหญ่
+5031,20002,{94=10},{6101=2},2,,One-Tail Shukaku Chest  ,One-Tail Shukaku Chest  ,One-Tail Shukaku Chest  ,หีบสัตว์หางหนึ่ง Shukaku  
+5032,20002,{94=10},{6102=2},2,,Two-Tail – Meerkat Treasure Box  ,Two-Tail – Meerkat Treasure Box  ,Two-Tail – Meerkat Treasure Box  ,สองหาง – หีบสมบัติเมียร์แคต  
+5033,20002,{94=10},{6113=2},2,,Sanbi Isobu Treasure Chest  ,Sanbi Isobu Treasure Chest  ,Sanbi Isobu Treasure Chest  ,หีบสมบัติ Sanbi Isobu  
+5034,20002,{94=10},{6114=2},2,,Gedo Statue Chest  ,Gedo Statue Chest  ,Gedo Statue Chest  ,หีบรูปปั้นนอกวิถี  
+5035,20002,{94=10},{6115=2},2,,Yamata no Orochi Chest  ,Yamata no Orochi Chest  ,Yamata no Orochi Chest  ,หีบ Yamata no Orochi  
+5036,20002,{94=10},{6050=5},10,,Random Accessory Awakening Box  ,Random Accessory Awakening Box  ,Random Accessory Awakening Box  ,กล่องสุ่มปลุกเครื่องประดับ  
+5037,20002,{94=20},{6059=5},10,,Awakened Jewelry Selection Box  ,Awakened Jewelry Selection Box  ,Awakened Jewelry Selection Box  ,กล่องเลือกเครื่องประดับปลุกพลัง  
+5038,20002,{94=15},{111=3000},1,,Crystal Seal,Crystal Seal,Crystal Seal,ผลึกตราประทับ
+5039,20002,{94=20},{2153=1},3,,Gold Universal Stone  ,Gold Universal Stone  ,Gold Universal Stone  ,หินอเนกประสงค์สีทอง  
+5040,20002,{94=15},{112=2000},1,,Jadeite Breakthrough Seal,Jadeite Breakthrough Seal,Jadeite Breakthrough Seal,หยกเจาะผ่านตราประทับ
+5041,20002,{94=10},{500=10},10,,Ichiraku Noodles,,,บะหมี่ Ichiraku
+,,,,,,,,,
+,,,,,,,,,
+5101,20006,{104=300},{6118=1},5,,Kurama Shard Chest,Kurama Shard Chest,Kurama Shard Chest,Kurama Shard Chest
+5102,20006,{104=50},{6117=1},160,,Nine-Tails – Demon Fox Fragment Treasure Chest  ,Nine-Tails – Demon Fox Fragment Treasure Chest  ,Nine-Tails – Demon Fox Fragment Treasure Chest  ,หีบสมบัติเศษจิ้งจอกเก้าหาง  
+5103,20006,{104=1},{4000=200},300,,Summon Scroll  ,Summon Scroll  ,Summon Scroll  ,ม้วนคัมภีร์อัญเชิญ  
+5104,20006,{104=2},{gold=5000000},20,,Gold,Gold,Gold,Gold
+5105,20006,{104=100},{8804=1},1,,Random Gold Super Equipment Chest  ,Random Gold Super Equipment Chest  ,Random Gold Super Equipment Chest  ,หีบสุ่มอุปกรณ์ทองขั้นสูง  
+5106,20006,{104=150},{6105=1},1,,Gold Transcendent Equipment Chest  ,Gold Transcendent Equipment Chest  ,Gold Transcendent Equipment Chest  ,หีบอุปกรณ์เหนือธรรมชาติทอง  
+5107,20006,{104=50},{8888=1},1,,Random SS Hero Gift Pack  ,Random SS Hero Gift Pack  ,Random SS Hero Gift Pack  ,แพ็กของขวัญฮีโร่ SS สุ่ม  
+5108,20006,{104=50},{6101=1},5,,Shukaku Shard Chest,Shukaku Shard Chest,Shukaku Shard Chest,Shukaku Shard Chest
+5109,20006,{104=50},{6102=1},5,,Matatabi Shard Chest,Matatabi Shard Chest,Matatabi Shard Chest,Matatabi Shard Chest
+5110,20006,{104=50},{6113=1},5,,Sanbi Isobu Shard Chest,Sanbi Isobu Shard Chest,Sanbi Isobu Shard Chest,Sanbi Isobu Shard Chest
+5111,20006,{104=50},{6114=1},5,,Jubu Shard Chest,Jubu Shard Chest,Jubu Shard Chest,Jubu Shard Chest
+5112,20006,{104=50},{6115=1},5,,Yamata no Orochi Shard Chest,Yamata no Orochi Shard Chest,Yamata no Orochi Shard Chest,Yamata no Orochi Shard Chest
+5113,20006,{104=15},{6050=1},5,,Random Accessory Awakening Box  ,Random Accessory Awakening Box  ,Random Accessory Awakening Box  ,กล่องสุ่มปลุกเครื่องประดับ  
+5114,20006,{104=30},{6059=1},2,,Awakened Jewelry Selection Box  ,Awakened Jewelry Selection Box  ,Awakened Jewelry Selection Box  ,กล่องเลือกเครื่องประดับปลุกพลัง  
+5115,20006,{104=50},{994=1},1,,Custom Red Battle Rune Chest  ,Custom Red Battle Rune Chest  ,Custom Red Battle Rune Chest  ,หีบเลือกอักษรรบ - สีแดง  
+5116,20006,{104=50},{7325=1},1,,Selectable Red Manual Chest  ,Selectable Red Manual Chest  ,Selectable Red Manual Chest  ,หีบเลือกคัมภีร์สีแดง  
+,,,,,,,,,
+5117,30001,{106=100},{8804=1},1,,Random Gold Super Equipment Chest  ,Random Gold Super Equipment Chest  ,Random Gold Super Equipment Chest  ,หีบสุ่มอุปกรณ์ทองขั้นสูง  
+5118,30001,{106=150},{6105=1},1,,Gold Transcendent Equipment Chest  ,Gold Transcendent Equipment Chest  ,Gold Transcendent Equipment Chest  ,หีบอุปกรณ์เหนือธรรมชาติทอง  
+5119,30001,{106=50},{8888=1},1,,Random SS Hero Gift Pack  ,Random SS Hero Gift Pack  ,Random SS Hero Gift Pack  ,แพ็กของขวัญฮีโร่ SS สุ่ม  
+5120,30001,{106=30},{9053=1},1,,SS Hero Selection Pack I  ,Gói Quà Chọn Anh Hùng SS Ⅰ,SS Hero Selection Pack I  ,แพ็กเลือกฮีโร่ SS I  
+5121,30001,{106=50},{9054=1},1,,SS Hero Selection Pack II  ,SS Hero Selection Pack II  ,SS Hero Selection Pack II  ,แพ็กเลือกฮีโร่ SS II  
+5122,30001,{106=100},{9055=1},1,,SS Hero Selection Pack III  ,Gói Quà Chọn Anh Hùng SS III,SS Hero Selection Pack III  ,แพ็กเลือกฮีโร่ SS III  
+5123,30001,{106=50},{6101=1},1,,Shukaku Shard Chest,Shukaku Shard Chest,Shukaku Shard Chest,Shukaku Shard Chest
+5124,30001,{106=50},{6102=1},1,,Matatabi Shard Chest,Matatabi Shard Chest,Matatabi Shard Chest,Matatabi Shard Chest
+5125,30001,{106=15},{6050=1},5,,Random Accessory Awakening Box  ,Random Accessory Awakening Box  ,Random Accessory Awakening Box  ,กล่องสุ่มปลุกเครื่องประดับ  
+5126,30001,{106=30},{6059=1},2,,Awakened Jewelry Selection Box  ,Awakened Jewelry Selection Box  ,Awakened Jewelry Selection Box  ,กล่องเลือกเครื่องประดับปลุกพลัง  
+5127,30001,{106=50},{994=1},1,,Custom Red Battle Rune Chest  ,Custom Red Battle Rune Chest  ,Custom Red Battle Rune Chest  ,หีบเลือกอักษรรบ - สีแดง  
+5128,30001,{106=50},{7325=1},1,,Selectable Red Manual Chest  ,Selectable Red Manual Chest  ,Selectable Red Manual Chest  ,หีบเลือกคัมภีร์สีแดง  
+5129,30001,{106=1},{501=1},50,,Jewelry Star Stone,Đá Sao Trang Sức,Jewelry Star Stone,หินดาวเครื่องประดับ
+5130,30001,{106=2},{521=3},100,,High-Level Universal Fragment,Mảnh Vạn Năng Cao Cấp,High-Level Universal Fragment,ชิ้นส่วนอเนกประสงค์ขั้นสูง
+5131,30001,{106=2},{gold=5000000},20,,Gold,Gold,Gold,Gold
+5132,30001,{106=1},{930=20},300,,Breakthrough Material Gift Bag  ,Túi quà đột phá vật liệu,Breakthrough Material Gift Bag  ,ถุงของขวัวัสดุทะลวง  
+5133,30001,{106=50},{2153=1},2,,Gold Universal Stone  ,Đá vạn năng vàng,Gold Universal Stone  ,หินอเนกประสงค์สีทอง  
+,,,,,,,,,
+5201,60002,{114=5},{gold=5000000},20,,Gold,Gold,Gold,Gold
+5202,60002,{114=20},{2103=40},50,,Advanced Soul Stone  ,Đá hồn cao cấp,Advanced Soul Stone  ,หินวิญญาณขั้นสูง
+5203,60002,{114=3},{521=2},100,,High-Level Universal Fragment,Mảnh Vạn Năng Cao Cấp,High-Level Universal Fragment,ชิ้นส่วนอเนกประสงค์ขั้นสูง
+5204,60002,{114=8},{499=2},50,,Super Rare Universal Fragment,Mảnh vạn năng siêu cấp,Super Rare Universal Fragment,ชิ้นส่วนอเนกประสงค์ขั้นสูง
+5205,60002,{114=90},{8888=1},1,,Random SS Hero Gift Pack  ,Gói quà ngẫu nhiên SS Anh Hùng,Random SS Hero Gift Pack  ,แพ็กของขวัญฮีโร่ SS สุ่ม  
+5206,60002,{114=25},{6050=1},5,,Random Accessory Awakening Box  ,Hộp ngẫu nhiên thức tỉnh trang sức,Random Accessory Awakening Box  ,กล่องสุ่มปลุกเครื่องประดับ  
+5207,60002,{114=40},{6059=1},2,,Awakened Jewelry Selection Box  ,Hộp Chọn Trang Sức Thức Tỉnh,Awakened Jewelry Selection Box  ,กล่องเลือกเครื่องประดับปลุกพลัง  
+5208,60002,{114=90},{994=1},1,,Custom Red Battle Rune Chest  ,Rương Tự Chọn Chiến Văn Đỏ,Custom Red Battle Rune Chest  ,หีบเลือกอักษรรบ - สีแดง  
+5209,60002,{114=90},{7325=1},1,,Selectable Red Manual Chest  ,Rương Bí Kíp Đỏ Tự Chọn,Selectable Red Manual Chest  ,หีบเลือกคัมภีร์สีแดง  
+,,,,,,,,,
+5210,60004,{116=3},{501=1},50,,Jewelry Star Stone,Đá Sao Trang Sức,Jewelry Star Stone,หินดาวเครื่องประดับ
+5211,60004,{116=3},{4000=200},300,,Advanced Soul Stone  ,Đá hồn cao cấp,Advanced Soul Stone  ,หินวิญญาณขั้นสูง
+5212,60004,{116=3},{521=2},100,,High-Level Universal Fragment,Mảnh Vạn Năng Cao Cấp,High-Level Universal Fragment,ชิ้นส่วนอเนกประสงค์ขั้นสูง
+5213,60004,{116=8},{499=2},50,,Super Rare Universal Fragment,Mảnh vạn năng siêu cấp,Super Rare Universal Fragment,ชิ้นส่วนอเนกประสงค์ขั้นสูง
+5214,60004,{116=60},{8888=1},1,,Random SS Hero Gift Pack  ,Gói quà ngẫu nhiên SS Anh Hùng,Random SS Hero Gift Pack  ,แพ็กของขวัญฮีโร่ SS สุ่ม  
+5215,60004,{116=25},{6050=1},5,,Random Accessory Awakening Box  ,Hộp ngẫu nhiên thức tỉnh trang sức,Random Accessory Awakening Box  ,กล่องสุ่มปลุกเครื่องประดับ  
+5216,60004,{116=30},{6059=1},2,,Awakened Jewelry Selection Box  ,Awakened Jewelry Selection Box  ,Awakened Jewelry Selection Box  ,กล่องเลือกเครื่องประดับปลุกพลัง  
+5217,60004,{116=100},{8804=1},1,,Random Gold Super Equipment Chest  ,Random Gold Super Equipment Chest  ,Random Gold Super Equipment Chest  ,หีบสุ่มอุปกรณ์ทองขั้นสูง  
+5218,60004,{116=150},{6105=1},1,,Gold Transcendent Equipment Chest  ,Gold Transcendent Equipment Chest  ,Gold Transcendent Equipment Chest  ,หีบอุปกรณ์เหนือธรรมชาติทอง  
+5219,60004,{116=90},{994=1},1,,Custom Red Battle Rune Chest  ,Rương Tự Chọn Chiến Văn Đỏ,Custom Red Battle Rune Chest  ,หีบเลือกอักษรรบ - สีแดง  
+5220,60004,{116=90},{7325=1},1,,Selectable Red Manual Chest  ,Rương Bí Kíp Đỏ Tự Chọn,Selectable Red Manual Chest  ,หีบเลือกคัมภีร์สีแดง  

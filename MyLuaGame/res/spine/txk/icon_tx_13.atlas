@@ -1,0 +1,97 @@
+
+icon_tx_13.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5114/effect_5114_01
+  rotate: false
+  xy: 2, 565
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+5114/effect_5114_02
+  rotate: false
+  xy: 2, 163
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+5114/effect_5114_03
+  rotate: false
+  xy: 404, 565
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+5114/effect_5114_04
+  rotate: false
+  xy: 404, 163
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+5114/effect_5114_05
+  rotate: false
+  xy: 806, 565
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+5114/effect_5114_06
+  rotate: false
+  xy: 806, 163
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+5114/effect_5114_07
+  rotate: false
+  xy: 1208, 565
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+5114/effect_5114_08
+  rotate: false
+  xy: 1208, 163
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: false
+  xy: 2, 2
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 1610, 918
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: false
+  xy: 144, 135
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+hua4
+  rotate: false
+  xy: 1610, 897
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 33
+  size: 140, 128
+  orig: 140, 128
+  offset: 0, 0
+  index: -1

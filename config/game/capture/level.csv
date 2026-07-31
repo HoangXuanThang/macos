@@ -1,0 +1,19 @@
+﻿VariableName,name_cn,name_tw,name,name_vn,name_en,name_th,name_in,name_ph,name_ma,needExp,rateUp,weight1,weight2,weight3
+Defaults,"""""","""""","""""","""""","""""","""""","""""","""""","""""",0,1,0,0,0
+等级,捕捉等级名称,捕捉等级名称,捕捉等级名称,name_vn,name_en,name_th,name_in,name_ph,name_ma,升级经验,获得成功率加成（乘法）,普通球权值1,高级球权值,大师球权值
+1,,,Người Thu Phục Tập Sự,Tamer Apprentice,Tamer Apprentice,ผู้ฝึกจับมือใหม่,Penjajah Pemula,Bagong Tagapagpabihis,Pendekar Pemula,200,,,0.06,0.2
+2,,,Người Thu Phục Nhập Môn,Tamer Novice,Tamer Novice,ผู้ฝึกจับมือขั้นต้น,Penjajah Pemula Lanjutan,Nagsisimulang Tagapagpabihis,Pendekar Pemula,500,1.03,,0.06,0.2
+3,,,Người Thu Phục Sơ Cấp,Tamer Beginner,Tamer Beginner,ผู้ฝึกจับมือเบื้องต้น,Penjajah Pemula Tingkat Awal,Baguhan na Tagapagpabihis,Pendekar Awal,800,1.06,,0.06,0.2
+4,,,Người Thu Phục Tân Binh,Tamer Rookie,Tamer Rookie,ผู้ฝึกจับมือใหม่,Penjajah Baru,Bagong Tagapagpabihis,Pendekar Baru,1200,1.09,,0.06,0.2
+5,,,Người Thu Phục Trung Cấp,Tamer Intermediate,Tamer Intermediate,ผู้ฝึกจับมือระดับกลาง,Penjajah Menengah,Tagapagpabihis na Intermediate,Pendekar Pertengahan,1800,1.12,,0.06,0.2
+6,,,Người Thu Phục Thành Thạo,Tamer Proficient,Tamer Proficient,ผู้ฝึกจับมือชำนาญ,Penjajah Mahir,Tagapagpabihis Mahusay,Pendekar Mahir,2500,1.15,,0.06,0.2
+7,,,Người Thu Phục Cao Cấp,Tamer Advanced,Tamer Advanced,ผู้ฝึกจับมือขั้นสูง,Penjajah Tingkat Lanjut,Tagapagpabihis Advanced,Pendekar Tinggi,4000,1.18,,0.06,0.2
+8,,,Người Thu Phục Toàn Năng,Tamer Versatile,Tamer Versatile,ผู้ฝึกจับมืออเนกประสงค์,Penjajah Serba Bisa,Tagapagpabihis Versatile,Pendekar Serba Boleh,6000,1.21,,0.06,0.2
+9,,,Người Thu Phục Đặc Cấp,Tamer Special,Tamer Special,ผู้ฝึกจับมือพิเศษ,Penjajah Khusus,Tagapagpabihis Espesyal,Pendekar Khas,8000,1.24,,0.06,0.2
+10,,,Cao Thủ Thu Phục,Taming Master,Taming Master,จอมจับมือ,Master Penjinak,Master Tagapagpabihis,Master Penjinak,10000,1.27,,0.06,0.2
+11,,,Chuyên Gia Thu Phục,Taming Expert,Taming Expert,ผู้เชี่ยวชาญจับมือ,Ahli Penjinak,Eksperto sa Tagapagpabihis,Pakar Penjinak,12000,1.3,,0.06,0.2
+12,,,Tông Sư Thu Phục,Taming Grandmaster,Taming Grandmaster,ปรมาจารย์จับมือ,Grandmaster Penjinak,Grandmaster ng Tagapagpabihis,Grandmaster Penjinak,14000,1.33,,0.06,0.2
+13,,,Đại Sư Thu Phục,Taming Sage,Taming Sage,ปรมาจารย์สูงสุดจับมือ,Pakar Penjinak,Taga-gabay ng Tagapagpabihis,Pakar Tertinggi Penjinak,16000,1.36,,0.06,0.2
+14,,,Người Thu Phục Huyền Thoại I,Legendary Tamer I,Legendary Tamer I,นักจับมือในตำนาน I,Penjajah Legendaris I,Alamat na Tagapagpabihis I,Pendekar Legenda I,18000,1.39,,0.06,0.2
+15,,,Người Thu Phục Huyền Thoại II,Legendary Tamer II,Legendary Tamer II,นักจับมือในตำนาน II,Penjajah Legendaris II,Alamat na Tagapagpabihis II,Pendekar Legenda II,20000,1.42,,0.06,0.2
+16,,,Người Thu Phục Huyền Thoại III,Legendary Tamer III,Legendary Tamer III,นักจับมือในตำนาน III,Penjajah Legendaris III,Alamat na Tagapagpabihis III,Pendekar Legenda III,99999999,1.45,,0.06,0.2

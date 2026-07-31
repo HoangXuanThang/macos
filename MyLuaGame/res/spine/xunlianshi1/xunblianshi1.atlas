@@ -1,0 +1,62 @@
+
+xunblianshi1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/flare_Fire
+  rotate: false
+  xy: 192, 82
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+TX/sg1
+  rotate: false
+  xy: 2, 55
+  size: 188, 193
+  orig: 188, 193
+  offset: 0, 0
+  index: -1
+TX/xing1
+  rotate: false
+  xy: 360, 135
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+btn_lock
+  rotate: true
+  xy: 110, 6
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+btn_unlock
+  rotate: false
+  xy: 360, 180
+  size: 62, 68
+  orig: 64, 70
+  offset: 0, 2
+  index: -1
+jinjie
+  rotate: false
+  xy: 2, 2
+  size: 106, 51
+  orig: 109, 51
+  offset: 2, 0
+  index: -1
+suoba
+  rotate: false
+  xy: 424, 208
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+suoshen
+  rotate: true
+  xy: 360, 86
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+icon_tx_1173.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuang
+  rotate: false
+  xy: 2, 64
+  size: 144, 137
+  orig: 144, 137
+  offset: 0, 0
+  index: -1
+yumao1
+  rotate: false
+  xy: 148, 84
+  size: 31, 60
+  orig: 31, 60
+  offset: 0, 0
+  index: -1
+yumao2
+  rotate: false
+  xy: 148, 146
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+yumao3
+  rotate: false
+  xy: 2, 2
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+yumao4
+  rotate: false
+  xy: 39, 8
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1

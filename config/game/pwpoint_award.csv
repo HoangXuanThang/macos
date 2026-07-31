@@ -1,0 +1,13 @@
+﻿VariableName,needPoint,award
+Defaults,,{}
+ID,需要积分,排位奖励
+1,20,{502=1;coin1=100;gold=30000}
+2,18,{11=15;coin1=80;gold=24000}
+3,16,{11=15;coin1=60;gold=21000}
+4,14,{502=1;coin1=60;gold=18000}
+5,12,{11=15;coin1=60;gold=15000}
+6,10,{gold=30000;coin1=100;talent_point=1}
+7,8,{11=15;coin1=80;gold=24000}
+8,6,{11=15;coin1=60;gold=21000}
+9,4,{11=15;coin1=60;gold=18000}
+10,2,{11=15;coin1=60;gold=15000}

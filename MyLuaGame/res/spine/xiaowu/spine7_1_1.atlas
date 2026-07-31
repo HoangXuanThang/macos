@@ -1,0 +1,132 @@
+
+spine7_1_1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 0, 1323
+  size: 1560, 720
+  orig: 1560, 720
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 549, 123
+  size: 93, 35
+  orig: 93, 35
+  offset: 0, 0
+  index: -1
+chiabng2
+  rotate: false
+  xy: 1562, 1625
+  size: 461, 418
+  orig: 461, 418
+  offset: 0, 0
+  index: -1
+chibang1
+  rotate: false
+  xy: 0, 115
+  size: 547, 525
+  orig: 547, 525
+  offset: 0, 0
+  index: -1
+chibang3
+  rotate: true
+  xy: 721, 735
+  size: 314, 459
+  orig: 314, 459
+  offset: 0, 0
+  index: -1
+chibang4
+  rotate: true
+  xy: 1562, 1318
+  size: 305, 406
+  orig: 305, 406
+  offset: 0, 0
+  index: -1
+liuhai1
+  rotate: true
+  xy: 0, 0
+  size: 43, 82
+  orig: 43, 82
+  offset: 0, 0
+  index: -1
+liuhai2
+  rotate: true
+  xy: 0, 45
+  size: 68, 215
+  orig: 68, 215
+  offset: 0, 0
+  index: -1
+liuhai3
+  rotate: false
+  xy: 1970, 1455
+  size: 45, 168
+  orig: 45, 168
+  offset: 0, 0
+  index: -1
+piaodai1
+  rotate: true
+  xy: 721, 663
+  size: 70, 142
+  orig: 70, 142
+  offset: 0, 0
+  index: -1
+piaodai2
+  rotate: false
+  xy: 2025, 1922
+  size: 21, 121
+  orig: 21, 121
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 642
+  size: 719, 679
+  orig: 719, 679
+  offset: 0, 0
+  index: -1
+xiong1
+  rotate: false
+  xy: 1289, 1124
+  size: 66, 75
+  orig: 66, 75
+  offset: 0, 0
+  index: -1
+xiong2
+  rotate: true
+  xy: 1490, 1248
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+youmao
+  rotate: true
+  xy: 549, 160
+  size: 480, 215
+  orig: 480, 215
+  offset: 0, 0
+  index: -1
+yumao
+  rotate: false
+  xy: 1289, 1201
+  size: 199, 120
+  orig: 199, 120
+  offset: 0, 0
+  index: -1
+zuomao
+  rotate: false
+  xy: 721, 1051
+  size: 566, 270
+  orig: 566, 270
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 1182, 845
+  size: 70, 204
+  orig: 70, 204
+  offset: 0, 0
+  index: -1

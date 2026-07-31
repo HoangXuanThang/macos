@@ -1,0 +1,41 @@
+
+kfjjc_dizuo.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dizuo_01
+  rotate: false
+  xy: 2, 144
+  size: 300, 94
+  orig: 300, 94
+  offset: 0, 0
+  index: -1
+dizuo_02
+  rotate: false
+  xy: 2, 48
+  size: 300, 94
+  orig: 300, 94
+  offset: 0, 0
+  index: -1
+guangquan
+  rotate: false
+  xy: 2, 2
+  size: 189, 44
+  orig: 189, 44
+  offset: 0, 0
+  index: -1
+guangquan2
+  rotate: false
+  xy: 304, 19
+  size: 189, 44
+  orig: 189, 44
+  offset: 0, 0
+  index: -1
+lgz1
+  rotate: false
+  xy: 304, 65
+  size: 186, 173
+  orig: 186, 173
+  offset: 0, 0
+  index: -1

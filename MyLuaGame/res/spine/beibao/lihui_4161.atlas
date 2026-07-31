@@ -1,0 +1,83 @@
+
+lihui_4161.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WAP_03
+  rotate: false
+  xy: 1006, 445
+  size: 116, 114
+  orig: 116, 114
+  offset: 0, 0
+  index: -1
+WAP_04
+  rotate: false
+  xy: 1731, 627
+  size: 224, 66
+  orig: 224, 66
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: true
+  xy: 240, 76
+  size: 76, 169
+  orig: 76, 169
+  offset: 0, 0
+  index: -1
+liuhai2
+  rotate: true
+  xy: 1731, 568
+  size: 57, 142
+  orig: 57, 142
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 1255, 501
+  size: 474, 466
+  orig: 474, 466
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 154
+  size: 556, 813
+  orig: 556, 813
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 560, 561
+  size: 693, 406
+  orig: 693, 406
+  offset: 0, 0
+  index: -1
+yiling
+  rotate: false
+  xy: 902, 279
+  size: 102, 280
+  orig: 102, 280
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 2, 2
+  size: 236, 150
+  orig: 236, 150
+  offset: 0, 0
+  index: -1
+zuogebo
+  rotate: false
+  xy: 1731, 695
+  size: 311, 272
+  orig: 311, 272
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 560, 190
+  size: 340, 369
+  orig: 340, 369
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+flooor_6.png
+size: 412,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chaguan
+  rotate: false
+  xy: 1, 45
+  size: 292, 158
+  orig: 292, 158
+  offset: 0, 0
+  index: -1
+chuanghu
+  rotate: false
+  xy: 295, 95
+  size: 116, 108
+  orig: 116, 108
+  offset: 0, 0
+  index: -1
+denglong
+  rotate: true
+  xy: 295, 1
+  size: 48, 71
+  orig: 48, 71
+  offset: 0, 0
+  index: -1
+hengliang
+  rotate: false
+  xy: 1, 29
+  size: 275, 14
+  orig: 275, 14
+  offset: 0, 0
+  index: -1
+wuding
+  rotate: false
+  xy: 295, 51
+  size: 87, 42
+  orig: 87, 42
+  offset: 0, 0
+  index: -1

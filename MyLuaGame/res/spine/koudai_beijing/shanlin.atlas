@@ -1,0 +1,244 @@
+
+shanlin.png
+size: 1427,332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Q_lin1
+  rotate: false
+  xy: 722, 12
+  size: 347, 64
+  orig: 347, 64
+  offset: 0, 0
+  index: -1
+images/Q_shan1
+  rotate: false
+  xy: 498, 78
+  size: 374, 47
+  orig: 374, 47
+  offset: 0, 0
+  index: -1
+images/Q_shan2
+  rotate: true
+  xy: 411, 77
+  size: 254, 50
+  orig: 254, 50
+  offset: 0, 0
+  index: -1
+images/Q_shan3
+  rotate: true
+  xy: 1232, 154
+  size: 177, 37
+  orig: 177, 37
+  offset: 0, 0
+  index: -1
+images/Y_lin1
+  rotate: false
+  xy: 1271, 296
+  size: 155, 35
+  orig: 155, 35
+  offset: 0, 0
+  index: -1
+images/Y_shan1
+  rotate: false
+  xy: 1271, 177
+  size: 151, 34
+  orig: 151, 34
+  offset: 0, 0
+  index: -1
+images/Y_shan2
+  rotate: false
+  xy: 1271, 262
+  size: 155, 32
+  orig: 155, 32
+  offset: 0, 0
+  index: -1
+images/Y_shan3
+  rotate: false
+  xy: 1, 2
+  size: 176, 27
+  orig: 176, 27
+  offset: 0, 0
+  index: -1
+images/Z_lin1
+  rotate: true
+  xy: 664, 127
+  size: 204, 68
+  orig: 204, 68
+  offset: 0, 0
+  index: -1
+images/Z_lin2
+  rotate: true
+  xy: 734, 134
+  size: 197, 59
+  orig: 197, 59
+  offset: 0, 0
+  index: -1
+images/Z_shan1
+  rotate: true
+  xy: 463, 98
+  size: 233, 33
+  orig: 233, 33
+  offset: 0, 0
+  index: -1
+images/Z_shan2
+  rotate: false
+  xy: 1271, 213
+  size: 152, 47
+  orig: 152, 47
+  offset: 0, 0
+  index: -1
+images/Z_shan3
+  rotate: true
+  xy: 1188, 151
+  size: 180, 42
+  orig: 180, 42
+  offset: 0, 0
+  index: -1
+images/bj1
+  rotate: true
+  xy: 303, 58
+  size: 273, 106
+  orig: 273, 106
+  offset: 0, 0
+  index: -1
+images/gaoshan
+  rotate: true
+  xy: 498, 127
+  size: 204, 164
+  orig: 205, 164
+  offset: 1, 0
+  index: -1
+images/gaoshan2
+  rotate: false
+  xy: 1006, 151
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+images/gaoshan3
+  rotate: true
+  xy: 985, 88
+  size: 54, 120
+  orig: 54, 120
+  offset: 0, 0
+  index: -1
+images/gaoshan3_g1
+  rotate: false
+  xy: 1386, 130
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+images/gaoshan3_g2
+  rotate: false
+  xy: 1271, 1
+  size: 37, 83
+  orig: 38, 88
+  offset: 0, 1
+  index: -1
+images/gaoshan3_g3
+  rotate: true
+  xy: 303, 32
+  size: 24, 65
+  orig: 24, 68
+  offset: 0, 3
+  index: -1
+images/gaoshan3_xue1
+  rotate: true
+  xy: 929, 87
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+images/gaoshan3_xue2
+  rotate: true
+  xy: 370, 39
+  size: 17, 66
+  orig: 17, 70
+  offset: 0, 4
+  index: -1
+images/gaoshan_g1
+  rotate: true
+  xy: 795, 141
+  size: 190, 92
+  orig: 205, 92
+  offset: 11, 0
+  index: -1
+images/gaoshan_g2
+  rotate: true
+  xy: 889, 144
+  size: 187, 115
+  orig: 205, 115
+  offset: 13, 0
+  index: -1
+images/gaoshan_g3
+  rotate: true
+  xy: 1271, 86
+  size: 89, 113
+  orig: 98, 121
+  offset: 4, 5
+  index: -1
+images/gaoshan_g4
+  rotate: true
+  xy: 874, 83
+  size: 56, 53
+  orig: 57, 55
+  offset: 1, 2
+  index: -1
+images/guangyun
+  rotate: false
+  xy: 1, 31
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+images/hei
+  rotate: false
+  xy: 370, 32
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+images/shu1
+  rotate: true
+  xy: 607, 3
+  size: 73, 113
+  orig: 73, 113
+  offset: 0, 0
+  index: -1
+images/shu2
+  rotate: true
+  xy: 438, 31
+  size: 44, 105
+  orig: 44, 105
+  offset: 0, 0
+  index: -1
+images/shu3
+  rotate: false
+  xy: 1071, 3
+  size: 46, 83
+  orig: 46, 83
+  offset: 0, 0
+  index: -1
+images/suilie_000
+  rotate: true
+  xy: 545, 2
+  size: 74, 60
+  orig: 74, 61
+  offset: 0, 0
+  index: -1
+images/xiaoshan
+  rotate: false
+  xy: 179, 4
+  size: 259, 25
+  orig: 259, 25
+  offset: 0, 0
+  index: -1
+images/yan0_2
+  rotate: false
+  xy: 1119, 6
+  size: 150, 143
+  orig: 150, 143
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+huangtu.png
+size: 337,549
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj1
+  rotate: true
+  xy: 126, 275
+  size: 273, 106
+  orig: 273, 106
+  offset: 0, 0
+  index: -1
+dimina
+  rotate: true
+  xy: 1, 57
+  size: 491, 123
+  orig: 491, 123
+  offset: 0, 0
+  index: -1
+shikuai7
+  rotate: false
+  xy: 1, 1
+  size: 75, 54
+  orig: 75, 54
+  offset: 0, 0
+  index: -1
+shikuai8
+  rotate: true
+  xy: 126, 136
+  size: 137, 96
+  orig: 137, 96
+  offset: 0, 0
+  index: -1
+shikuai_1
+  rotate: false
+  xy: 126, 18
+  size: 122, 116
+  orig: 122, 116
+  offset: 0, 0
+  index: -1
+shikuai_2
+  rotate: true
+  xy: 234, 226
+  size: 114, 93
+  orig: 114, 93
+  offset: 0, 0
+  index: -1
+shikuai_3
+  rotate: false
+  xy: 234, 474
+  size: 102, 74
+  orig: 102, 74
+  offset: 0, 0
+  index: -1
+shikuai_4
+  rotate: true
+  xy: 234, 342
+  size: 130, 82
+  orig: 130, 82
+  offset: 0, 0
+  index: -1
+shikuai_5
+  rotate: false
+  xy: 224, 161
+  size: 97, 63
+  orig: 97, 63
+  offset: 0, 0
+  index: -1
+shikuai_6
+  rotate: true
+  xy: 250, 38
+  size: 121, 59
+  orig: 121, 59
+  offset: 0, 0
+  index: -1

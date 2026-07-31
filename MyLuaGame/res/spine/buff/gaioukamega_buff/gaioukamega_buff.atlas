@@ -1,0 +1,97 @@
+
+gaioukamega_buff.png
+size: 1780,708
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangyun
+  rotate: true
+  xy: 704, 192
+  size: 214, 429
+  orig: 214, 429
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 1075, 175
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+tx/dqpp
+  rotate: true
+  xy: 1135, 57
+  size: 349, 327
+  orig: 351, 329
+  offset: 0, 0
+  index: -1
+tx/feng
+  rotate: false
+  xy: 704, 408
+  size: 764, 299
+  orig: 764, 299
+  offset: 0, 0
+  index: -1
+tx/huab6
+  rotate: true
+  xy: 545, 68
+  size: 122, 354
+  orig: 130, 369
+  offset: 3, 4
+  index: -1
+tx/luoshui5_004
+  rotate: true
+  xy: 1, 1
+  size: 262, 542
+  orig: 262, 542
+  offset: 0, 0
+  index: -1
+tx/shui_01
+  rotate: true
+  xy: 1470, 28
+  size: 679, 309
+  orig: 679, 309
+  offset: 0, 0
+  index: -1
+tx/shui_03
+  rotate: false
+  xy: 1, 265
+  size: 701, 442
+  orig: 701, 442
+  offset: 0, 0
+  index: -1
+tx/sl1
+  rotate: false
+  xy: 901, 87
+  size: 85, 103
+  orig: 85, 103
+  offset: 0, 0
+  index: -1
+tx/sl2
+  rotate: true
+  xy: 545, 220
+  size: 43, 104
+  orig: 43, 104
+  offset: 0, 0
+  index: -1
+tx/sl3
+  rotate: false
+  xy: 988, 87
+  size: 85, 103
+  orig: 85, 103
+  offset: 0, 0
+  index: -1
+tx/sl4
+  rotate: true
+  xy: 545, 23
+  size: 43, 104
+  orig: 43, 104
+  offset: 0, 0
+  index: -1
+tx/st2
+  rotate: false
+  xy: 901, 8
+  size: 83, 77
+  orig: 83, 77
+  offset: 0, 0
+  index: -1

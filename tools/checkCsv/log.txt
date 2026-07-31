@@ -1,0 +1,5 @@
+E:\Pokemon\Scarlet\tools\checkCsv
+------------------
+0
+------------------
+.\?.lua;E:\Pokemon\Scarlet\tools\checkCsv\lua\?.lua;E:\Pokemon\Scarlet\tools\checkCsv\lua\?\init.lua;E:\Pokemon\Scarlet\tools\checkCsv\?.lua;E:\Pokemon\Scarlet\tools\checkCsv\?\init.lua;../../client/game01_new/src/?.lua

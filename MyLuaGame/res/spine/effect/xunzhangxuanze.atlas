@@ -1,0 +1,41 @@
+
+xunzhangxuanze.png
+size: 370,197
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai
+  rotate: true
+  xy: 200, 12
+  size: 184, 60
+  orig: 184, 60
+  offset: 0, 0
+  index: -1
+guangxian3
+  rotate: false
+  xy: 262, 1
+  size: 90, 86
+  orig: 90, 86
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 262, 89
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+hei
+  rotate: true
+  xy: 354, 63
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 1, 4
+  size: 197, 192
+  orig: 197, 192
+  offset: 0, 0
+  index: -1

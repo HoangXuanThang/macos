@@ -1,0 +1,125 @@
+
+wutai4.png
+size: 1135,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dengguang_A
+  rotate: true
+  xy: 421, 134
+  size: 76, 197
+  orig: 76, 197
+  offset: 0, 0
+  index: -1
+dengguang_B
+  rotate: false
+  xy: 691, 11
+  size: 62, 200
+  orig: 62, 200
+  offset: 0, 0
+  index: -1
+dengguang_C
+  rotate: true
+  xy: 755, 146
+  size: 32, 189
+  orig: 32, 189
+  offset: 0, 0
+  index: -1
+dengguang_X
+  rotate: false
+  xy: 620, 142
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+kuangjia
+  rotate: true
+  xy: 1, 121
+  size: 401, 83
+  orig: 401, 83
+  offset: 0, 0
+  index: -1
+wujiaoxing2
+  rotate: true
+  xy: 1, 7
+  size: 112, 101
+  orig: 112, 101
+  offset: 0, 0
+  index: -1
+wujjiaoxing1
+  rotate: true
+  xy: 738, 282
+  size: 240, 218
+  orig: 240, 218
+  offset: 0, 0
+  index: -1
+wutai_beijing_di
+  rotate: true
+  xy: 86, 134
+  size: 388, 333
+  orig: 388, 333
+  offset: 0, 0
+  index: -1
+wutai_da_pingmu
+  rotate: true
+  xy: 580, 213
+  size: 309, 156
+  orig: 309, 156
+  offset: 0, 0
+  index: -1
+wutai_da_pingmu_zhedang
+  rotate: true
+  xy: 421, 212
+  size: 310, 157
+  orig: 310, 157
+  offset: 0, 0
+  index: -1
+wutai_dimian
+  rotate: false
+  xy: 104, 1
+  size: 536, 131
+  orig: 536, 131
+  offset: 0, 0
+  index: -1
+wutai_jinglingqiu
+  rotate: false
+  xy: 755, 23
+  size: 84, 119
+  orig: 84, 119
+  offset: 0, 0
+  index: -1
+wutai_jinglingqiu_faguang
+  rotate: true
+  xy: 841, 33
+  size: 109, 144
+  orig: 109, 144
+  offset: 0, 0
+  index: -1
+wutai_paideng
+  rotate: true
+  xy: 642, 92
+  size: 48, 10
+  orig: 48, 10
+  offset: 0, 0
+  index: -1
+wutai_y_caisekuangjia
+  rotate: false
+  xy: 958, 334
+  size: 176, 188
+  orig: 176, 188
+  offset: 0, 0
+  index: -1
+wutai_z_caisekuangjia
+  rotate: false
+  xy: 958, 144
+  size: 176, 188
+  orig: 176, 188
+  offset: 0, 0
+  index: -1
+wutai_z_pinmu
+  rotate: false
+  xy: 755, 180
+  size: 198, 100
+  orig: 198, 100
+  offset: 0, 0
+  index: -1

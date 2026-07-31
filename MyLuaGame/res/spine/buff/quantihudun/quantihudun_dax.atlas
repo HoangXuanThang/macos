@@ -1,0 +1,118 @@
+
+quantihudun_dax.png
+size: 2033,966
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/TX_A_x1
+  rotate: false
+  xy: 1059, 39
+  size: 330, 306
+  orig: 330, 306
+  offset: 0, 0
+  index: -1
+TX/bingchen2_3
+  rotate: false
+  xy: 1577, 317
+  size: 454, 320
+  orig: 492, 360
+  offset: 38, 17
+  index: -1
+TX/shouji9_1
+  rotate: false
+  xy: 1, 11
+  size: 438, 269
+  orig: 438, 269
+  offset: 0, 0
+  index: -1
+TX/shouji9_2
+  rotate: false
+  xy: 1059, 347
+  size: 516, 308
+  orig: 516, 308
+  offset: 0, 0
+  index: -1
+TX/shouji9_3
+  rotate: false
+  xy: 1059, 657
+  size: 525, 308
+  orig: 525, 308
+  offset: 0, 0
+  index: -1
+TX/shouji9_4
+  rotate: false
+  xy: 1391, 16
+  size: 533, 299
+  orig: 533, 299
+  offset: 0, 0
+  index: -1
+TX/suipian4_1
+  rotate: false
+  xy: 543, 35
+  size: 89, 105
+  orig: 126, 126
+  offset: 19, 5
+  index: -1
+TX/suipian4_2
+  rotate: false
+  xy: 875, 156
+  size: 98, 124
+  orig: 126, 126
+  offset: 11, 0
+  index: -1
+TX/suipian4_3
+  rotate: false
+  xy: 441, 15
+  size: 100, 125
+  orig: 126, 126
+  offset: 9, 1
+  index: -1
+TX/suipian4_4
+  rotate: false
+  xy: 1926, 101
+  size: 99, 118
+  orig: 126, 126
+  offset: 10, 8
+  index: -1
+TX/suipian4_5
+  rotate: true
+  xy: 1926, 221
+  size: 94, 106
+  orig: 126, 126
+  offset: 14, 20
+  index: -1
+TX/suipian4_6
+  rotate: false
+  xy: 634, 46
+  size: 90, 94
+  orig: 126, 126
+  offset: 16, 28
+  index: -1
+TX/z_baoshi
+  rotate: true
+  xy: 441, 142
+  size: 138, 432
+  orig: 138, 432
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 1, 1
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+hz
+  rotate: false
+  xy: 1586, 639
+  size: 385, 326
+  orig: 385, 326
+  offset: 0, 0
+  index: -1
+lan_gq
+  rotate: true
+  xy: 1, 282
+  size: 683, 1056
+  orig: 683, 1056
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,114 @@
+2023-06-05 01:04:47.993000
+Namespace(git_version=None, language='cn', manual=False, patch='26', shenhe=False, skipsrc=False, svn_version='197', trial=False)
+JENKINS_RUN: False
+TRUNK_PATH: E:/cnkdjx/Client
+CONFIG_PATH: E:/cnkdjx/Client/config/game
+GIT_REPO_PATH: E:/cnkdjx/Client/MyLuaGame
+*** 对 svn 和 git 目录执行 revert and update ***
+cd enter E:\cnkdjx\Client\tools\tjpack -> patch_pack
+cd exit E:\cnkdjx\Client\tools\tjpack <- patch_pack
+cd enter E:\cnkdjx\Client\tools\tjpack -> E:/cnkdjx/Client
+cd exit E:\cnkdjx\Client\tools\tjpack <- E:/cnkdjx/Client
+cd enter E:\cnkdjx\Client\tools\tjpack -> E:/cnkdjx/Client/MyLuaGame
+cd exit E:\cnkdjx\Client\tools\tjpack <- E:/cnkdjx/Client/MyLuaGame
+*** 检查输入版本区间 ***
+svnVersion: 197
+gitVersion: None
+cd enter E:\cnkdjx\Client\tools\tjpack -> E:/cnkdjx/Client
+cd exit E:\cnkdjx\Client\tools\tjpack <- E:/cnkdjx/Client
+svn info Path: .
+Working Copy Root Path: E:\cnkdjx
+URL: https://127.0.0.1/svn/cnkdjx/Client
+Relative URL: ^/Client
+Repository Root: https://127.0.0.1/svn/cnkdjx
+Repository UUID: a40e7b26-3ebe-fb45-8f71-79d892507718
+Revision: 201
+Node Kind: directory
+Schedule: normal
+Last Changed Author: akl
+Last Changed Rev: 201
+Last Changed Date: 2023-06-05 01:03:26 +0800 (��һ, 05 6�� 2023)
+svnEndVersion: 201
+check svnVersion: [(197, 201)]
+check gitVersion: None
+*** 导出版本diff ***
+*** svn diff version is [(197, 201)]
+svn diff --summarize https://127.0.0.1/svn/cnkdjx/Client/MyLuaGame@197 https://127.0.0.1/svn/cnkdjx/Client/MyLuaGame@201
+M       https://127.0.0.1/svn/cnkdjx/Client/MyLuaGame/src/config/pokedex.lua
+M       https://127.0.0.1/svn/cnkdjx/Client/MyLuaGame/src/config/yunying/directbuygift.lua
+M       https://127.0.0.1/svn/cnkdjx/Client/MyLuaGame/res/spine/koudai_naikeluozima/hero_naikeluozima.atlas
+M       https://127.0.0.1/svn/cnkdjx/Client/MyLuaGame/res/spine/koudai_qiyuanmenghuan/hero_qiyuanmenghuan.atlas
+M       https://127.0.0.1/svn/cnkdjx/Client/MyLuaGame/res/spine/koudai_sgcjsnd/hero_sgsnd_mega.atlas
+svn export --depth empty -q --force -r 201 https://127.0.0.1/svn/cnkdjx/Client/MyLuaGame/src/config/pokedex.lua@ E:/cnkdjx/Client/tools/tjpack/patch_output_diff/src/config/pokedex.lua@
+svn export --depth empty -q --force -r 201 https://127.0.0.1/svn/cnkdjx/Client/MyLuaGame/src/config/yunying/directbuygift.lua@ E:/cnkdjx/Client/tools/tjpack/patch_output_diff/src/config/yunying/directbuygift.lua@
+svn export --depth empty -q --force -r 201 https://127.0.0.1/svn/cnkdjx/Client/MyLuaGame/res/spine/koudai_naikeluozima/hero_naikeluozima.atlas@ E:/cnkdjx/Client/tools/tjpack/patch_output_diff/res/spine/koudai_naikeluozima/hero_naikeluozima.atlas@
+svn export --depth empty -q --force -r 201 https://127.0.0.1/svn/cnkdjx/Client/MyLuaGame/res/spine/koudai_qiyuanmenghuan/hero_qiyuanmenghuan.atlas@ E:/cnkdjx/Client/tools/tjpack/patch_output_diff/res/spine/koudai_qiyuanmenghuan/hero_qiyuanmenghuan.atlas@
+svn export --depth empty -q --force -r 201 https://127.0.0.1/svn/cnkdjx/Client/MyLuaGame/res/spine/koudai_sgcjsnd/hero_sgsnd_mega.atlas@ E:/cnkdjx/Client/tools/tjpack/patch_output_diff/res/spine/koudai_sgcjsnd/hero_sgsnd_mega.atlas@
+*** 打 cn 包 ***
+cd enter E:\cnkdjx\Client\tools\tjpack -> E:/cnkdjx/Client/tools/tjpack/patch_output
+cd enter E:\cnkdjx\Client\tools\tjpack\patch_output -> E:/cnkdjx/Client/tools/tjpack
+cd exit E:\cnkdjx\Client\tools\tjpack\patch_output <- E:/cnkdjx/Client/tools/tjpack
+cd enter E:\cnkdjx\Client\tools\tjpack\patch_output -> E:/cnkdjx/Client/tools/tjpack
+cd exit E:\cnkdjx\Client\tools\tjpack\patch_output <- E:/cnkdjx/Client/tools/tjpack
+cd enter E:\cnkdjx\Client\tools\tjpack\patch_output -> E:/cnkdjx/Client/tools/tjpack
+cd exit E:\cnkdjx\Client\tools\tjpack\patch_output <- E:/cnkdjx/Client/tools/tjpack
+*** package for patch 26
+
+*** 当前 patch 为: 26
+
+*** E:\cnkdjx\Client\tools\tjpack\patch_output\res\version.plist 读取 app_version 为: 2.1.0.195
+
+*** 当前 app_version 为: 2.1.0.201
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>app_version</key>
+	<string>2.1.0.201</string>
+	<key>git_version</key>
+	<string>GIT_VERSION</string>
+	<key>loginServer</key>
+	<string>202.189.12.86:16666</string>
+	<key>loginServer2</key>
+	<string>202.189.12.86:16667</string>
+	<key>patch</key>
+	<string>26</string>
+	<key>serverUrl</key>
+	<string>http://202.189.12.86:18080/servers</string>
+	<key>versionUrl</key>
+	<string>http://202.189.12.86:18080/version</string>
+	<key>noticeUrl</key>
+	<string>http://202.189.12.86:18080/notice</string>
+	<key>reportUrl</key>
+	<string>http://202.189.12.86:1104</string>
+	<key>disableWordCheckUrl</key>
+	<string>http://202.189.12.86:1144/check</string>
+	<key>forShenhe</key>
+	<string>false</string>
+	<key>forOBB</key>
+	<string>false</string>
+	<key>feedBackUrl</key>
+	<string>http://202.189.12.86:1104/feedback</string>
+</dict>
+</plist>
+
+the patch diff with base, 2 files
+E:/cnkdjx/Client/tools/tjpack/patch_output: + x64/src/config.yunying.directbuygift
+E:/cnkdjx/Client/tools/tjpack/patch_output: + x64/src/config.pokedex
+x64/src/config.yunying.directbuygift : {'size': 25863L, 'name': 'x64/src/config.yunying.directbuygift', 'md5': '8b66ec0751a2ce3ee3c79fabe51f8319'}
+x64/src/config.pokedex : {'size': 15739L, 'name': 'x64/src/config.pokedex', 'md5': 'e27cbcac8232468e5ed585bb68c05ec2'}
+res/spine/koudai_naikeluozima/hero_naikeluozima.atlas : {'size': 2959L, 'name': 'res/spine/koudai_naikeluozima/hero_naikeluozima.atlas', 'md5': 'aa049b2fb6c1dd74e25ac828e95ad881'}
+res/spine/koudai_qiyuanmenghuan/hero_qiyuanmenghuan.atlas : {'size': 2851L, 'name': 'res/spine/koudai_qiyuanmenghuan/hero_qiyuanmenghuan.atlas', 'md5': '471332bd0dd239e6cd178c512dad850b'}
+res/version.plist : {'size': 997L, 'name': 'res/version.plist', 'md5': '1d35f2fab74ffab8a60f4b53bf203768'}
+res/spine/koudai_sgcjsnd/hero_sgsnd_mega.atlas : {'size': 6231L, 'name': 'res/spine/koudai_sgcjsnd/hero_sgsnd_mega.atlas', 'md5': '74f46c853e9b517f0f68dc911ee250a0'}
+src/config.yunying.directbuygift : {'size': 25863L, 'name': 'src/config.yunying.directbuygift', 'md5': '9ab3c87467fc332f560976ba576ec382'}
+src/config.pokedex : {'size': 15739L, 'name': 'src/config.pokedex', 'md5': 'bde11f6e2f8ea3a21900a81573136f07'}
+26.json: {'size': 25863L, 'name': 'x64/src/config.yunying.directbuygift', 'md5': '8b66ec0751a2ce3ee3c79fabe51f8319'}
+26.json: {'size': 15739L, 'name': 'x64/src/config.pokedex', 'md5': 'e27cbcac8232468e5ed585bb68c05ec2'}
+26.json: {'size': 2959L, 'name': 'res/spine/koudai_naikeluozima/hero_naikeluozima.atlas', 'md5': 'aa049b2fb6c1dd74e25ac828e95ad881'}
+26.json: {'size': 2851L, 'name': 'res/spine/koudai_qiyuanmenghuan/hero_qiyuanmenghuan.atlas', 'md5': '471332bd0dd239e6cd178c512dad850b'}
+26.json: {'size': 997L, 'name': 'res/version.plist', 'md5': '1d35f2fab74ffab8a60f4b53bf203768'}
+26.json: {'size': 6231L, 'name': 'res/spine/koudai_sgcjsnd/hero_sgsnd_mega.atlas', 'md5': '74f46c853e9b517f0f68dc911ee250a0'}
+26.json: {'size': 25863L, 'name': 'src/config.yunying.directbuygift', 'md5': '9ab3c87467fc332f560976ba576ec382'}
+26.json: {'size': 15739L, 'name': 'src/config.pokedex', 'md5': 'bde11f6e2f8ea3a21900a81573136f07'}
+cd exit E:\cnkdjx\Client\tools\tjpack <- E:/cnkdjx/Client/tools/tjpack/patch_output

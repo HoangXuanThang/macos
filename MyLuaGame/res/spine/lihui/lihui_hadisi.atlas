@@ -1,0 +1,230 @@
+
+lihui_hadisi.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 2, 2
+  size: 44, 11
+  orig: 44, 11
+  offset: 0, 0
+  index: -1
+chibang1
+  rotate: false
+  xy: 3717, 3761
+  size: 192, 310
+  orig: 192, 310
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 2231, 905
+  size: 295, 175
+  orig: 295, 175
+  offset: 0, 0
+  index: -1
+chibang3
+  rotate: false
+  xy: 2974, 2380
+  size: 303, 197
+  orig: 303, 197
+  offset: 0, 0
+  index: -1
+chibang4
+  rotate: false
+  xy: 2, 15
+  size: 205, 321
+  orig: 205, 321
+  offset: 0, 0
+  index: -1
+jianjia1
+  rotate: false
+  xy: 3911, 3944
+  size: 73, 127
+  orig: 73, 127
+  offset: 0, 0
+  index: -1
+jianjia2
+  rotate: false
+  xy: 3717, 3624
+  size: 74, 135
+  orig: 74, 135
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2231, 1082
+  size: 748, 543
+  orig: 748, 543
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 2974, 2305
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 3279, 2517
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 209, 183
+  size: 96, 153
+  orig: 96, 153
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: false
+  xy: 2776, 1656
+  size: 135, 174
+  orig: 135, 174
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10001
+  rotate: false
+  xy: 2, 2579
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10002
+  rotate: false
+  xy: 745, 3326
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10003
+  rotate: false
+  xy: 2, 1832
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10004
+  rotate: false
+  xy: 745, 2579
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10005
+  rotate: false
+  xy: 1488, 3326
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10006
+  rotate: false
+  xy: 2, 1085
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10007
+  rotate: false
+  xy: 745, 1832
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10008
+  rotate: false
+  xy: 1488, 2579
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10009
+  rotate: false
+  xy: 2231, 3326
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10010
+  rotate: false
+  xy: 2, 338
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10011
+  rotate: false
+  xy: 745, 1085
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10012
+  rotate: false
+  xy: 1488, 1832
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10013
+  rotate: false
+  xy: 2231, 2579
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10014
+  rotate: false
+  xy: 2974, 3326
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10015
+  rotate: false
+  xy: 745, 338
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10016
+  rotate: false
+  xy: 1488, 1085
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10017
+  rotate: false
+  xy: 2231, 1832
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10018
+  rotate: false
+  xy: 2974, 2579
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10019
+  rotate: false
+  xy: 1488, 338
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10020
+  rotate: false
+  xy: 2, 3326
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1

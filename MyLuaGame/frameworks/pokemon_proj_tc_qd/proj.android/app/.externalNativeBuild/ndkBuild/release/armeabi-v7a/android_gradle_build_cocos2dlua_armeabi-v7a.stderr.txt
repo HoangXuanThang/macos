@@ -1,0 +1,139 @@
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../Classes/AppDelegate.cpp:258:45: warning: format specifies type 'unsigned long' but the argument has type 'unsigned int' [-Wformat]
+        CCLOG("%s %s %lu %lu %lu", platform, arch, sizeof(int), sizeof(int*), sizeof(intptr_t));
+                     ~~~                           ^~~~~~~~~~~
+                     %u
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/platform/CCPlatformMacros.h:230:58: note: expanded from macro 'CCLOG'
+#define CCLOG(format, ...)      ::cocos2d::log(format, ##__VA_ARGS__)
+                                                         ^~~~~~~~~~~
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../Classes/AppDelegate.cpp:258:58: warning: format specifies type 'unsigned long' but the argument has type 'unsigned int' [-Wformat]
+        CCLOG("%s %s %lu %lu %lu", platform, arch, sizeof(int), sizeof(int*), sizeof(intptr_t));
+                         ~~~                                    ^~~~~~~~~~~~
+                         %u
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/platform/CCPlatformMacros.h:230:58: note: expanded from macro 'CCLOG'
+#define CCLOG(format, ...)      ::cocos2d::log(format, ##__VA_ARGS__)
+                                                         ^~~~~~~~~~~
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../Classes/AppDelegate.cpp:258:72: warning: format specifies type 'unsigned long' but the argument has type 'unsigned int' [-Wformat]
+        CCLOG("%s %s %lu %lu %lu", platform, arch, sizeof(int), sizeof(int*), sizeof(intptr_t));
+                             ~~~                                              ^~~~~~~~~~~~~~~~
+                             %u
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/platform/CCPlatformMacros.h:230:58: note: expanded from macro 'CCLOG'
+#define CCLOG(format, ...)      ::cocos2d::log(format, ##__VA_ARGS__)
+                                                         ^~~~~~~~~~~
+3 warnings generated.
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/scripting/lua-bindings/proj.android/../manual/cocostudio/lua_cocos2dx_coco_studio_manual.cpp:386:36: warning: 'getIgnoreMovementBoneData' is deprecated [-Wdeprecated-declarations]
+        tolua_pushboolean(L, self->getIgnoreMovementBoneData());
+                                   ^
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/scripting/lua-bindings/proj.android/../../..\editor-support/cocostudio/CCBone.h:195:5: note: 'getIgnoreMovementBoneData' has been explicitly marked deprecated here
+    CC_DEPRECATED_ATTRIBUTE virtual bool getIgnoreMovementBoneData() const { return isIgnoreMovementBoneData(); }
+    ^
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/scripting/lua-bindings/proj.android/../../..\platform/CCPlatformMacros.h:283:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/scripting/lua-bindings/proj.android/../manual/spine/lua_cocos2dx_spine_manual.cpp:509:42: warning: comparison between NULL and non-pointer ('bool' and NULL) [-Wnull-arithmetic]
+                tolua_pushboolean(tolua_S, (bool)entry != NULL);
+                                           ~~~~~~~~~~~ ^  ~~~~
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/scripting/lua-bindings/proj.android/../manual/spine/lua_cocos2dx_spine_manual.cpp:558:40: warning: comparison between NULL and non-pointer ('bool' and NULL) [-Wnull-arithmetic]
+                tolua_pushboolean(tolua_S, (bool)ani != NULL);
+                                           ~~~~~~~~~ ^  ~~~~
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/scripting/lua-bindings/proj.android/../manual/spine/lua_cocos2dx_spine_manual.cpp:581:43: warning: 'tolua_spine_SkeletoneAnimation_setBlendFunc' is deprecated [-Wdeprecated-declarations]
+        tolua_function(L, "setBlendFunc", tolua_spine_SkeletoneAnimation_setBlendFunc);
+                                          ^
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/scripting/lua-bindings/proj.android/../manual/spine/lua_cocos2dx_spine_manual.cpp:377:1: note: 'tolua_spine_SkeletoneAnimation_setBlendFunc' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE static int tolua_spine_SkeletoneAnimation_setBlendFunc(lua_State* tolua_S)
+^
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/scripting/lua-bindings/proj.android/../../../platform/CCPlatformMacros.h:283:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+1 warning generated.
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/scripting/lua-bindings/proj.android/../../../../external/lua/luaaes/rijndael-api-fst.c:268:29: warning: '&&' within '||' [-Wlogical-op-parentheses]
+                cipher->mode != MODE_CFB1 && key->direction == DIR_ENCRYPT) {
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/scripting/lua-bindings/proj.android/../../../../external/lua/luaaes/rijndael-api-fst.c:268:29: note: place parentheses around the '&&' expression to silence this warning
+                cipher->mode != MODE_CFB1 && key->direction == DIR_ENCRYPT) {
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1 warning generated.
+3 warnings generated.
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/scripting/lua-bindings/proj.android/../../../../external/lua/luarand/Rand.cpp:144:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register unsigned int x = ( seed | 1U ) & 0xFFFFFFFFU, *s = state;
+        ^~~~~~~~~
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/scripting/lua-bindings/proj.android/../../../../external/lua/luarand/Rand.cpp:144:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register unsigned int x = ( seed | 1U ) & 0xFFFFFFFFU, *s = state;
+        ^~~~~~~~~
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/scripting/lua-bindings/proj.android/../../../../external/lua/luarand/Rand.cpp:145:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int j;
+        ^~~~~~~~~
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/scripting/lua-bindings/proj.android/../../../../external/lua/luarand/Rand.cpp:156:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register unsigned int * p0 = state, *p2 = state + 2, *pM = state + M, s0, s1;
+        ^~~~~~~~~
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/scripting/lua-bindings/proj.android/../../../../external/lua/luarand/Rand.cpp:156:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register unsigned int * p0 = state, *p2 = state + 2, *pM = state + M, s0, s1;
+        ^~~~~~~~~
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/scripting/lua-bindings/proj.android/../../../../external/lua/luarand/Rand.cpp:156:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register unsigned int * p0 = state, *p2 = state + 2, *pM = state + M, s0, s1;
+        ^~~~~~~~~
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/scripting/lua-bindings/proj.android/../../../../external/lua/luarand/Rand.cpp:156:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register unsigned int * p0 = state, *p2 = state + 2, *pM = state + M, s0, s1;
+        ^~~~~~~~~
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/scripting/lua-bindings/proj.android/../../../../external/lua/luarand/Rand.cpp:156:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register unsigned int * p0 = state, *p2 = state + 2, *pM = state + M, s0, s1;
+        ^~~~~~~~~
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/scripting/lua-bindings/proj.android/../../../../external/lua/luarand/Rand.cpp:157:2: warning: 'register' storage class specifier is deprecated and incompatible with C++1z [-Wdeprecated-register]
+        register int j;
+        ^~~~~~~~~
+9 warnings generated.
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/extensions/assets-manager/AssetsManagerEx.cpp:660:69: warning: format specifies type 'unsigned long' but the argument has type 'std::__ndk1::unordered_map<std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >, cocos2d::extension::ManifestAsset, std::__ndk1::hash<std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > >, std::__ndk1::equal_to<std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > >, std::__ndk1::allocator<std::__ndk1::pair<const std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >, cocos2d::extension::ManifestAsset> > >::size_type' (aka 'unsigned int') [-Wformat]
+                std::string msg = StringUtils::format("%lu files need be check.", _remoteManifest->getAssets().size());
+                                                       ~~~                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                                       %u
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/extensions/assets-manager/AssetsManagerEx.cpp:1320:50: warning: format specifies type 'unsigned long' but the argument has type 'std::__ndk1::vector<PatchFileInfo, std::__ndk1::allocator<PatchFileInfo> >::size_type' (aka 'unsigned int') [-Wformat]
+                                                CCLOG("addPatchFile %lu in patch from %s", info.files.size(), filelistPath.c_str());
+                                                                    ~~~                    ^~~~~~~~~~~~~~~~~
+                                                                    %u
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/platform/CCPlatformMacros.h:230:58: note: expanded from macro 'CCLOG'
+#define CCLOG(format, ...)      ::cocos2d::log(format, ##__VA_ARGS__)
+                                                         ^~~~~~~~~~~
+2 warnings generated.
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/2d/CCFontAtlasCache.cpp:288:5: warning: format specifies type 'long' but the argument has type 'int' [-Wformat]
+                                texture.first,
+                                ^~~~~~~~~~~~~
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/2d/CCFontAtlasCache.cpp:302:4: warning: format specifies type 'unsigned long' but the argument has type 'std::__ndk1::unordered_map<int, cocos2d::Texture2D *, std::__ndk1::hash<int>, std::__ndk1::equal_to<int>, std::__ndk1::allocator<std::__ndk1::pair<const int, cocos2d::Texture2D *> > >::size_type' (aka 'unsigned int') [-Wformat]
+                        fa->_atlasTextures.size(),
+                        ^~~~~~~~~~~~~~~~~~~~~~~~~
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/2d/CCFontAtlasCache.cpp:303:4: warning: format specifies type 'unsigned long' but the argument has type 'std::__ndk1::unordered_map<char32_t, cocos2d::FontLetterDefinition, std::__ndk1::hash<char32_t>, std::__ndk1::equal_to<char32_t>, std::__ndk1::allocator<std::__ndk1::pair<const char32_t, cocos2d::FontLetterDefinition> > >::size_type' (aka 'unsigned int') [-Wformat]
+                        fa->_letterDefinitions.size(),
+                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/2d/CCFontAtlasCache.cpp:309:130: warning: format specifies type 'unsigned long' but the argument has type 'std::__ndk1::unordered_map<std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >, cocos2d::FontAtlas *, std::__ndk1::hash<std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > >, std::__ndk1::equal_to<std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> > >, std::__ndk1::allocator<std::__ndk1::pair<const std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >, cocos2d::FontAtlas *> > >::size_type' (aka 'unsigned int') [-Wformat]
+        snprintf(buftmp, sizeof(buftmp) - 1, "FontAtlasCache dumpDebugInfo: %lu fonts %ld textures %u letters, for %lu KB (%.2f MB)\n", _atlasMap.size(), (long)count, charCount, (long)totalBytes / 1024, totalBytes / (1024.0f*1024.0f));
+                                                                            ~~~                                                         ^~~~~~~~~~~~~~~~
+                                                                            %u
+4 warnings generated.
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/2d/CCLabel.cpp:717:94: warning: format specifies type 'unsigned long' but the argument has type 'std::__ndk1::basic_string<char32_t, std::__ndk1::char_traits<char32_t>, std::__ndk1::allocator<char32_t> >::size_type' (aka 'unsigned int') [-Wformat]
+            cocos2d::log("Error: Label text is too long %lu > %d and it will be truncated!", _utf32Text.length(), CC_LABEL_MAX_LENGTH);
+                                                        ~~~                                  ^~~~~~~~~~~~~~~~~~~
+                                                        %u
+1 warning generated.
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/renderer/CCTexture2D.cpp:292:14: warning: '&' within '|' [-Wbitwise-op-parentheses]
+                *out++ = v & 0x00FFFFFF | 0xFF000000;
+                         ~~^~~~~~~~~~~~ ~
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/renderer/CCTexture2D.cpp:292:14: note: place parentheses around the '&' expression to silence this warning
+                *out++ = v & 0x00FFFFFF | 0xFF000000;
+                           ^
+                         (             )
+1 warning generated.
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/../ymextra/crypto/AES/rijndael-api-fst.c:268:29: warning: '&&' within '||' [-Wlogical-op-parentheses]
+                cipher->mode != MODE_CFB1 && key->direction == DIR_ENCRYPT) {
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/../ymextra/crypto/AES/rijndael-api-fst.c:268:29: note: place parentheses around the '&&' expression to silence this warning
+                cipher->mode != MODE_CFB1 && key->direction == DIR_ENCRYPT) {
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1 warning generated.
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/platform/android/javaactivity-android.cpp:110:34: warning: 'init' is deprecated [-Wdeprecated-declarations]
+        cocos2d::DrawPrimitives::init();
+                                 ^
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/platform/android/../..\2d/CCDrawingPrimitives.h:89:5: note: 'init' has been explicitly marked deprecated here
+    CC_DEPRECATED_ATTRIBUTE void CC_DLL init();
+    ^
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/jni/../../../../cocos2d-x/cocos/platform/android/../..\platform/CCPlatformMacros.h:283:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+1 warning generated.

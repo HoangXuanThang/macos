@@ -1,0 +1,132 @@
+
+effect_fengxinshi_2.png
+size: 634, 542
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+TX_cr01_00000
+  rotate: false
+  xy: 375, 89
+  size: 187, 61
+  orig: 206, 98
+  offset: 9, 20
+  index: -1
+TX_cr01_00004
+  rotate: false
+  xy: 186, 117
+  size: 187, 88
+  orig: 206, 98
+  offset: 9, 3
+  index: -1
+TX_cr01_00008
+  rotate: false
+  xy: 375, 232
+  size: 191, 80
+  orig: 206, 98
+  offset: 8, 10
+  index: -1
+TX_fsx_00002
+  rotate: false
+  xy: 2, 8
+  size: 205, 99
+  orig: 222, 101
+  offset: 16, 2
+  index: -1
+TX_fsx_00004
+  rotate: false
+  xy: 375, 152
+  size: 207, 78
+  orig: 222, 101
+  offset: 5, 4
+  index: -1
+TX_fsx_00006
+  rotate: false
+  xy: 375, 314
+  size: 188, 89
+  orig: 222, 101
+  offset: 1, 12
+  index: -1
+TX_ljf_00000
+  rotate: false
+  xy: 373, 405
+  size: 184, 135
+  orig: 206, 161
+  offset: 9, 13
+  index: -1
+TX_ljf_00002
+  rotate: false
+  xy: 2, 109
+  size: 182, 141
+  orig: 206, 161
+  offset: 11, 8
+  index: -1
+TX_ljf_00004
+  rotate: false
+  xy: 192, 394
+  size: 179, 146
+  orig: 206, 161
+  offset: 16, 3
+  index: -1
+TX_ljf_00006
+  rotate: false
+  xy: 2, 394
+  size: 188, 146
+  orig: 206, 161
+  offset: 9, 4
+  index: -1
+TX_ljf_00008
+  rotate: false
+  xy: 2, 252
+  size: 186, 140
+  orig: 206, 161
+  offset: 9, 8
+  index: -1
+TX_ljf_00010
+  rotate: false
+  xy: 190, 260
+  size: 183, 132
+  orig: 206, 161
+  offset: 11, 9
+  index: -1
+TX_sg_00001
+  rotate: true
+  xy: 209, 2
+  size: 113, 115
+  orig: 116, 120
+  offset: 2, 3
+  index: -1
+TX_sj_00003
+  rotate: false
+  xy: 568, 292
+  size: 64, 112
+  orig: 67, 168
+  offset: 0, 3
+  index: -1
+TX_sj_00004
+  rotate: false
+  xy: 559, 406
+  size: 67, 134
+  orig: 67, 168
+  offset: 0, 2
+  index: -1
+TX_sj_00005
+  rotate: true
+  xy: 476, 20
+  size: 67, 140
+  orig: 67, 168
+  offset: 0, 1
+  index: -1
+TX_sj_00006
+  rotate: true
+  xy: 326, 20
+  size: 67, 148
+  orig: 67, 168
+  offset: 0, 5
+  index: -1
+TX_sj_00007
+  rotate: true
+  xy: 190, 207
+  size: 51, 165
+  orig: 67, 168
+  offset: 16, 3
+  index: -1

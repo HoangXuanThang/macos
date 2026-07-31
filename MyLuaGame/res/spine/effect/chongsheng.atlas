@@ -1,0 +1,55 @@
+
+chongsheng.png
+size: 649,324
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TX/TX_xt_g_0017
+  rotate: false
+  xy: 259, 17
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: -1
+images/TX/daoguang_1
+  rotate: true
+  xy: 259, 218
+  size: 105, 389
+  orig: 105, 389
+  offset: 0, 0
+  index: -1
+images/TX/dian5_1
+  rotate: false
+  xy: 460, 21
+  size: 51, 195
+  orig: 109, 249
+  offset: 55, 38
+  index: -1
+images/TX/dian5_2
+  rotate: true
+  xy: 1, 1
+  size: 64, 191
+  orig: 109, 249
+  offset: 40, 36
+  index: -1
+images/TX/flare_Fire
+  rotate: false
+  xy: 1, 67
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/TX/sk_6_1
+  rotate: false
+  xy: 513, 116
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+images/TX/xing
+  rotate: false
+  xy: 513, 14
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

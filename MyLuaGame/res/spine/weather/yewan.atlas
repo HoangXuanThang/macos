@@ -1,0 +1,27 @@
+
+yewan.png
+size: 343,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/gt2
+  rotate: false
+  xy: 160, 85
+  size: 182, 55
+  orig: 182, 55
+  offset: 0, 0
+  index: -1
+images/hei
+  rotate: false
+  xy: 160, 75
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+images/sg0074
+  rotate: true
+  xy: 1, 1
+  size: 139, 157
+  orig: 139, 157
+  offset: 0, 0
+  index: -1

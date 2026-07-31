@@ -1,0 +1,8 @@
+﻿VariableName,tintBlack,resPath,_beizhu1,standbyTinblack
+Defaults,FALSE,,,
+ID,是否开启tintBlack,资源路径,功能说明,standbyTinblack
+1,TRUE,buff/laixilamu_buff/laixilamu_buff.skel,,
+2,TRUE,naruto_tobirama00/sk1_locate.skel,,
+3,TRUE,naruto_hidan00/skBG.skel,,
+4,TRUE,naruto_chiyo00/skBG.skel,,
+5,TRUE,naruto_bee00/sk2_bg.skel,,

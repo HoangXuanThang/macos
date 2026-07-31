@@ -1,0 +1,20 @@
+
+guanqiabaoxiang.png
+size: 203,106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijingguang
+  rotate: true
+  xy: 106, 2
+  size: 102, 95
+  orig: 102, 95
+  offset: 0, 0
+  index: -1
+mobile_effect_1682
+  rotate: false
+  xy: 2, 2
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1

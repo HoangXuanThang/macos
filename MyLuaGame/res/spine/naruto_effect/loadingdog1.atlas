@@ -1,0 +1,146 @@
+
+loadingdog1.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+move1_001
+  rotate: true
+  xy: 617, 18
+  size: 91, 62
+  orig: 91, 62
+  offset: 0, 0
+  index: -1
+move1_002
+  rotate: true
+  xy: 420, 18
+  size: 91, 64
+  orig: 91, 64
+  offset: 0, 0
+  index: -1
+move1_003
+  rotate: true
+  xy: 681, 20
+  size: 89, 63
+  orig: 89, 63
+  offset: 0, 0
+  index: -1
+move1_004
+  rotate: true
+  xy: 681, 20
+  size: 89, 63
+  orig: 89, 63
+  offset: 0, 0
+  index: -1
+move1_005
+  rotate: true
+  xy: 681, 20
+  size: 89, 63
+  orig: 89, 63
+  offset: 0, 0
+  index: -1
+move1_006
+  rotate: true
+  xy: 551, 20
+  size: 89, 64
+  orig: 89, 64
+  offset: 0, 0
+  index: -1
+move1_007
+  rotate: true
+  xy: 746, 14
+  size: 95, 57
+  orig: 95, 57
+  offset: 0, 0
+  index: -1
+move1_008
+  rotate: true
+  xy: 746, 14
+  size: 95, 57
+  orig: 95, 57
+  offset: 0, 0
+  index: -1
+move1_009
+  rotate: true
+  xy: 355, 12
+  size: 97, 63
+  orig: 97, 63
+  offset: 0, 0
+  index: -1
+move1_010
+  rotate: true
+  xy: 286, 14
+  size: 95, 67
+  orig: 95, 67
+  offset: 0, 0
+  index: -1
+move1_015
+  rotate: true
+  xy: 286, 14
+  size: 95, 67
+  orig: 95, 67
+  offset: 0, 0
+  index: -1
+move1_018
+  rotate: true
+  xy: 286, 14
+  size: 95, 67
+  orig: 95, 67
+  offset: 0, 0
+  index: -1
+move1_011
+  rotate: true
+  xy: 150, 12
+  size: 97, 67
+  orig: 97, 67
+  offset: 0, 0
+  index: -1
+move1_019
+  rotate: true
+  xy: 150, 12
+  size: 97, 67
+  orig: 97, 67
+  offset: 0, 0
+  index: -1
+move1_014
+  rotate: true
+  xy: 486, 17
+  size: 92, 63
+  orig: 92, 63
+  offset: 0, 0
+  index: -1
+move1_016
+  rotate: true
+  xy: 2, 2
+  size: 107, 72
+  orig: 107, 72
+  offset: 0, 0
+  index: -1
+move1_017
+  rotate: true
+  xy: 76, 2
+  size: 107, 72
+  orig: 107, 72
+  offset: 0, 0
+  index: -1
+move1_020
+  rotate: true
+  xy: 219, 10
+  size: 99, 65
+  orig: 99, 65
+  offset: 0, 0
+  index: -1
+move1_012
+  rotate: true
+  xy: 219, 10
+  size: 99, 65
+  orig: 99, 65
+  offset: 0, 0
+  index: -1
+move1_013
+  rotate: true
+  xy: 219, 10
+  size: 99, 65
+  orig: 99, 65
+  offset: 0, 0
+  index: -1

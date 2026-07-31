@@ -1,0 +1,216 @@
+
+qiladina_buff.png
+size: 769,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff/TX_S1_st_0129
+  rotate: false
+  xy: 607, 192
+  size: 159, 70
+  orig: 159, 70
+  offset: 0, 0
+  index: -1
+buff/buff1
+  rotate: false
+  xy: 1, 168
+  size: 317, 94
+  orig: 317, 94
+  offset: 0, 0
+  index: -1
+buff/fire_10_00006
+  rotate: false
+  xy: 470, 128
+  size: 135, 134
+  orig: 135, 134
+  offset: 0, 0
+  index: -1
+buff/garrison_fire_bot_sheet_2_000
+  rotate: false
+  xy: 459, 1
+  size: 90, 31
+  orig: 108, 54
+  offset: 6, 0
+  index: -1
+buff/garrison_fire_bot_sheet_2_001
+  rotate: false
+  xy: 551, 1
+  size: 97, 31
+  orig: 108, 54
+  offset: 1, 0
+  index: -1
+buff/garrison_fire_bot_sheet_2_002
+  rotate: false
+  xy: 470, 90
+  size: 99, 36
+  orig: 108, 54
+  offset: 6, 0
+  index: -1
+buff/garrison_fire_bot_sheet_2_003
+  rotate: false
+  xy: 296, 57
+  size: 105, 39
+  orig: 108, 54
+  offset: 3, 0
+  index: -1
+buff/garrison_fire_bot_sheet_2_004
+  rotate: false
+  xy: 1, 9
+  size: 108, 54
+  orig: 108, 54
+  offset: 0, 0
+  index: -1
+buff/garrison_fire_bot_sheet_2_005
+  rotate: false
+  xy: 111, 9
+  size: 108, 54
+  orig: 108, 54
+  offset: 0, 0
+  index: -1
+buff/garrison_fire_bot_sheet_2_006
+  rotate: true
+  xy: 240, 60
+  size: 106, 54
+  orig: 108, 54
+  offset: 2, 0
+  index: -1
+buff/garrison_fire_bot_sheet_2_007
+  rotate: true
+  xy: 714, 86
+  size: 104, 54
+  orig: 108, 54
+  offset: 4, 0
+  index: -1
+buff/garrison_fire_bot_sheet_2_008
+  rotate: false
+  xy: 296, 98
+  size: 96, 54
+  orig: 108, 54
+  offset: 10, 0
+  index: -1
+buff/garrison_fire_bot_sheet_2_009
+  rotate: true
+  xy: 403, 5
+  size: 91, 54
+  orig: 108, 54
+  offset: 14, 0
+  index: -1
+buff/garrison_fire_bot_sheet_2_010
+  rotate: false
+  xy: 459, 34
+  size: 86, 54
+  orig: 108, 54
+  offset: 17, 0
+  index: -1
+buff/garrison_fire_bot_sheet_2_011
+  rotate: false
+  xy: 547, 34
+  size: 80, 54
+  orig: 108, 54
+  offset: 21, 0
+  index: -1
+buff/garrison_fire_bot_sheet_2_012
+  rotate: false
+  xy: 629, 34
+  size: 75, 54
+  orig: 108, 54
+  offset: 24, 0
+  index: -1
+buff/garrison_fire_bot_sheet_2_013
+  rotate: true
+  xy: 706, 9
+  size: 75, 54
+  orig: 108, 54
+  offset: 24, 0
+  index: -1
+buff/garrison_fire_bot_sheet_2_014
+  rotate: false
+  xy: 221, 1
+  size: 75, 54
+  orig: 108, 54
+  offset: 24, 0
+  index: -1
+buff/garrison_fire_bot_sheet_2_015
+  rotate: false
+  xy: 394, 98
+  size: 74, 54
+  orig: 108, 54
+  offset: 25, 0
+  index: -1
+buff/seq_zyw_016 #2613855_000
+  rotate: false
+  xy: 571, 99
+  size: 26, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+buff/seq_zyw_016 #2613855_002
+  rotate: false
+  xy: 650, 7
+  size: 25, 25
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+buff/seq_zyw_016 #2613855_004
+  rotate: false
+  xy: 677, 9
+  size: 23, 23
+  orig: 27, 27
+  offset: 1, 1
+  index: -1
+buff/seq_zyw_016 #2613855_006
+  rotate: true
+  xy: 298, 6
+  size: 24, 20
+  orig: 27, 27
+  offset: 2, 2
+  index: -1
+buff/seq_zyw_016 #2613855_008
+  rotate: false
+  xy: 298, 32
+  size: 22, 23
+  orig: 27, 27
+  offset: 4, 2
+  index: -1
+buff/seq_zyw_016 #2613855_010
+  rotate: false
+  xy: 322, 35
+  size: 20, 20
+  orig: 27, 27
+  offset: 6, 5
+  index: -1
+buff/seq_zyw_016 #2613855_012
+  rotate: false
+  xy: 296, 154
+  size: 11, 12
+  orig: 27, 27
+  offset: 9, 7
+  index: -1
+buff/seq_zyw_016 #2613855_014
+  rotate: false
+  xy: 571, 90
+  size: 7, 7
+  orig: 27, 27
+  offset: 12, 11
+  index: -1
+buff/sp
+  rotate: true
+  xy: 320, 154
+  size: 108, 148
+  orig: 108, 148
+  offset: 0, 0
+  index: -1
+buff/yan0_2
+  rotate: false
+  xy: 607, 90
+  size: 105, 100
+  orig: 105, 100
+  offset: 0, 0
+  index: -1
+buff/yun5
+  rotate: false
+  xy: 1, 65
+  size: 237, 101
+  orig: 237, 101
+  offset: 0, 0
+  index: -1

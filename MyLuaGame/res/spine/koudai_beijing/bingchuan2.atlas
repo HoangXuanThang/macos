@@ -1,0 +1,139 @@
+
+bingchuan2.png
+size: 1413,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D_bingkuai
+  rotate: true
+  xy: 1, 371
+  size: 558, 745
+  orig: 558, 745
+  offset: 0, 0
+  index: -1
+beijing
+  rotate: true
+  xy: 954, 517
+  size: 505, 344
+  orig: 505, 344
+  offset: 0, 0
+  index: -1
+bingkuai1
+  rotate: false
+  xy: 1300, 606
+  size: 112, 416
+  orig: 112, 416
+  offset: 0, 0
+  index: -1
+bingkuai3
+  rotate: true
+  xy: 748, 349
+  size: 166, 521
+  orig: 166, 521
+  offset: 0, 0
+  index: -1
+dong
+  rotate: true
+  xy: 202, 42
+  size: 41, 79
+  orig: 41, 79
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 1148, 47
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: -1
+hei
+  rotate: true
+  xy: 1400, 597
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+juese
+  rotate: true
+  xy: 1, 85
+  size: 284, 411
+  orig: 284, 411
+  offset: 0, 0
+  index: -1
+xue
+  rotate: false
+  xy: 1, 931
+  size: 951, 91
+  orig: 951, 91
+  offset: 0, 0
+  index: -1
+y_bing00
+  rotate: false
+  xy: 1300, 291
+  size: 98, 313
+  orig: 98, 313
+  offset: 0, 0
+  index: -1
+y_bing1
+  rotate: false
+  xy: 660, 1
+  size: 261, 164
+  orig: 261, 164
+  offset: 0, 0
+  index: -1
+y_bing5
+  rotate: false
+  xy: 1033, 36
+  size: 113, 311
+  orig: 113, 311
+  offset: 0, 0
+  index: -1
+y_xuekuai
+  rotate: true
+  xy: 534, 19
+  size: 350, 124
+  orig: 350, 124
+  offset: 0, 0
+  index: -1
+z_bing1
+  rotate: true
+  xy: 414, 17
+  size: 352, 118
+  orig: 353, 118
+  offset: 0, 0
+  index: -1
+z_bing2
+  rotate: false
+  xy: 1, 15
+  size: 199, 68
+  orig: 199, 68
+  offset: 0, 0
+  index: -1
+z_bing4
+  rotate: true
+  xy: 660, 175
+  size: 194, 81
+  orig: 194, 81
+  offset: 0, 0
+  index: -1
+z_bing5
+  rotate: false
+  xy: 1300, 33
+  size: 92, 256
+  orig: 92, 256
+  offset: 0, 0
+  index: -1
+z_bing_di1
+  rotate: false
+  xy: 743, 167
+  size: 288, 180
+  orig: 288, 180
+  offset: 0, 0
+  index: -1
+z_xuekuai
+  rotate: true
+  xy: 748, 554
+  size: 375, 199
+  orig: 375, 199
+  offset: 0, 0
+  index: -1

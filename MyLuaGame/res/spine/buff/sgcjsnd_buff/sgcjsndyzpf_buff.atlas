@@ -1,0 +1,97 @@
+
+sgcjsndyzpf_buff.png
+size: 697,121
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caidai
+  rotate: false
+  xy: 505, 51
+  size: 154, 30
+  orig: 154, 30
+  offset: 0, 0
+  index: -1
+huaban0
+  rotate: true
+  xy: 357, 37
+  size: 68, 103
+  orig: 68, 103
+  offset: 0, 0
+  index: -1
+huahai
+  rotate: false
+  xy: 462, 3
+  size: 219, 39
+  orig: 219, 39
+  offset: 0, 0
+  index: -1
+jiu
+  rotate: false
+  xy: 351, 3
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 122, 24
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+sha3
+  rotate: true
+  xy: 505, 83
+  size: 22, 161
+  orig: 22, 161
+  offset: 0, 0
+  index: -1
+shan/zhuzi
+  rotate: true
+  xy: 357, 107
+  size: 13, 309
+  orig: 13, 309
+  offset: 0, 0
+  index: -1
+sz
+  rotate: false
+  xy: 1, 1
+  size: 119, 119
+  orig: 154, 154
+  offset: 18, 18
+  index: -1
+tx/hudie2
+  rotate: false
+  xy: 462, 65
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+tx/shuipao
+  rotate: false
+  xy: 668, 44
+  size: 28, 76
+  orig: 28, 76
+  offset: 0, 0
+  index: -1
+tx/yuanguang
+  rotate: true
+  xy: 224, 52
+  size: 68, 131
+  orig: 68, 131
+  offset: 0, 0
+  index: -1
+xin2
+  rotate: false
+  xy: 224, 1
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+xin3
+  rotate: true
+  xy: 275, 10
+  size: 40, 74
+  orig: 40, 74
+  offset: 0, 0
+  index: -1

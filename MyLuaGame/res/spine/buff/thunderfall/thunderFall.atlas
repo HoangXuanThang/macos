@@ -1,0 +1,41 @@
+
+thunderFall.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/dian_luoei_1
+  rotate: true
+  xy: 0, 60
+  size: 192, 551
+  orig: 192, 551
+  offset: 0, 0
+  index: -1
+TX/guangyun
+  rotate: false
+  xy: 1313, 0
+  size: 252, 252
+  orig: 252, 252
+  offset: 0, 0
+  index: -1
+TX/suishi_2
+  rotate: false
+  xy: 1567, 154
+  size: 167, 98
+  orig: 167, 98
+  offset: 0, 0
+  index: -1
+TX/yun_w2
+  rotate: false
+  xy: 553, 54
+  size: 403, 198
+  orig: 403, 198
+  offset: 0, 0
+  index: -1
+TX/zbt_d
+  rotate: true
+  xy: 958, 116
+  size: 136, 353
+  orig: 136, 353
+  offset: 0, 0
+  index: -1

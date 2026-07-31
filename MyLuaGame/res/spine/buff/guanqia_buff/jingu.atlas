@@ -1,0 +1,69 @@
+
+jingu.png
+size: 447,271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/leiming_0001
+  rotate: true
+  xy: 319, 4
+  size: 77, 42
+  orig: 150, 100
+  offset: 56, 51
+  index: -1
+images/leiming_0002
+  rotate: false
+  xy: 202, 3
+  size: 115, 78
+  orig: 150, 100
+  offset: 26, 22
+  index: -1
+images/leiming_0003
+  rotate: false
+  xy: 76, 1
+  size: 58, 70
+  orig: 150, 100
+  offset: 33, 26
+  index: -1
+images/leiming_0004
+  rotate: false
+  xy: 1, 1
+  size: 73, 70
+  orig: 150, 100
+  offset: 12, 19
+  index: -1
+images/leiming_0005
+  rotate: true
+  xy: 392, 179
+  size: 91, 54
+  orig: 150, 100
+  offset: 12, 15
+  index: -1
+images/leiming_0006
+  rotate: true
+  xy: 392, 89
+  size: 88, 50
+  orig: 150, 100
+  offset: 15, 14
+  index: -1
+images/mm_dq
+  rotate: false
+  xy: 1, 73
+  size: 199, 197
+  orig: 199, 197
+  offset: 0, 0
+  index: -1
+images/paopao
+  rotate: false
+  xy: 136, 50
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+images/shouji14_2
+  rotate: false
+  xy: 202, 83
+  size: 188, 187
+  orig: 188, 187
+  offset: 0, 0
+  index: -1

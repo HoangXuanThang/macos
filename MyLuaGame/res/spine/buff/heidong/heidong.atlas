@@ -1,0 +1,55 @@
+
+heidong.png
+size: 1580,1028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circlefoam
+  rotate: false
+  xy: 553, 515
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: false
+  xy: 1, 403
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 1067, 13
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 1, 386
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+mobile_effect_2649
+  rotate: false
+  xy: 1067, 515
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+mobile_effect_tn129
+  rotate: false
+  xy: 553, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+vzs_sk2_bz0007
+  rotate: false
+  xy: 1, 473
+  size: 550, 554
+  orig: 550, 554
+  offset: 0, 0
+  index: -1

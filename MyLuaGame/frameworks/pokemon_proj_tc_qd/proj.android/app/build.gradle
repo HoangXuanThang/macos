@@ -1,0 +1,286 @@
+import org.gradle.internal.os.OperatingSystem;
+
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion PROP_COMPILE_SDK_VERSION.toInteger()
+
+    lintOptions{
+          checkReleaseBuilds false
+      }
+
+    defaultConfig {
+        applicationId "com.anime.incoming"
+        minSdkVersion PROP_MIN_SDK_VERSION
+        targetSdkVersion PROP_TARGET_SDK_VERSION
+        versionCode PROP_VERSION_CODE.toInteger()
+        versionName PROP_VERSION_NAME
+
+        externalNativeBuild {
+            if (PROP_BUILD_TYPE == 'ndk-build') {
+                ndkBuild {
+                    targets 'cocos2dlua'
+                    arguments 'NDK_TOOLCHAIN_VERSION=clang'
+                    arguments '-j' + Runtime.runtime.availableProcessors()
+
+                    def module_paths = [project.file("../../cocos2d").absolutePath,
+                                        project.file("../../cocos2d/cocos").absolutePath,
+                                        project.file("../../cocos2d/external").absolutePath]
+                    if (OperatingSystem.current().isWindows()) {
+                        module_paths = module_paths.collect {it.replaceAll('\\\\', '/')}
+                        arguments 'NDK_MODULE_PATH=' + module_paths.join(";")
+                    }
+                    else {
+                        arguments 'NDK_MODULE_PATH=' + module_paths.join(':')
+                    }
+                }
+            }
+            else if (PROP_BUILD_TYPE == 'cmake') {
+                cmake {
+                    targets 'cocos2dlua'
+                    arguments "-DCMAKE_FIND_ROOT_PATH=", "-DANDROID_STL=c++_static", "-DANDROID_TOOLCHAIN=clang", "-DANDROID_ARM_NEON=TRUE", \
+                              "-DUSE_CHIPMUNK=TRUE", "-DUSE_BULLET=TRUE", "-DBUILD_LUA_LIBS=TRUE"
+                    cppFlags "-frtti -fexceptions"
+                }
+            }
+        }
+
+        ndk {
+            abiFilters = []
+            abiFilters.addAll(PROP_APP_ABI.split(':').collect{it as String})
+        }
+        manifestPlaceholders = [
+            PACKAGE_NAME:"com.anime.incoming"
+        ]
+        repositories{
+            flatDir {
+                dirs 'libs'
+            }
+        }
+
+    }
+
+    sourceSets.main {
+        java.srcDir "src"
+        res.srcDir "res"
+        jniLibs.srcDir "libs"
+        manifest.srcFile "AndroidManifest.xml"
+        assets.srcDir "${buildDir}/intermediates/assets"
+    }
+
+    externalNativeBuild {
+        if (PROP_BUILD_TYPE == 'ndk-build') {
+            ndkBuild {
+                path "jni/Android.mk"
+            }
+        }
+        else if (PROP_BUILD_TYPE == 'cmake') {
+            cmake {
+                path "../../../../CMakeLists.txt"
+            }
+        }
+    }
+
+    signingConfigs {
+       release {
+            if (project.hasProperty("RELEASE_STORE_FILE")) {
+                storeFile file(RELEASE_STORE_FILE)
+                storePassword RELEASE_STORE_PASSWORD
+                keyAlias RELEASE_KEY_ALIAS
+                keyPassword RELEASE_KEY_PASSWORD
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            debuggable false
+            jniDebuggable false
+            renderscriptDebuggable false
+            minifyEnabled true
+            // shrinkResources true
+            useProguard true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            if (project.hasProperty("RELEASE_STORE_FILE")) {
+                signingConfig signingConfigs.release
+            }
+
+            externalNativeBuild {
+                ndkBuild {
+                    arguments 'NDK_DEBUG=0'
+                }
+            }
+            packagingOptions {
+                exclude '**/libtpnsSecurity.so'
+                exclude '**/libxguardian.so'
+            }
+        }
+
+        debug {
+            debuggable true
+            jniDebuggable true
+            renderscriptDebuggable true
+            externalNativeBuild {
+                ndkBuild {
+                    arguments 'NDK_DEBUG=1'
+                }
+            }
+            packagingOptions {
+                doNotStrip '*.so'
+            }
+        }
+    }
+}
+
+def getCocosCommandPath() {
+    if (OperatingSystem.current().isWindows()) {
+        return 'E:\\cnkdjx\\CLIENT\\MyLuaGame\\frameworks\\cocos2d-x\\tools\\cocos2d-console\\bin\\cocos.bat'
+    }
+    else {
+        new ByteArrayOutputStream().withStream { os ->
+            ext.console_path = "../../cocos2d-x/tools/cocos2d-console/bin"
+        }
+
+        return new File(console_path + '/cocos').absolutePath;
+    }
+}
+
+def genResSlim(srcDir) {
+    def path = project.rootDir.toString().trim()
+        path = path.substring(0, path.indexOf('MyLuaGame')) + 'tools/tjpack'
+
+    def lang = 'cn'
+    if (PROP_GAME_LANGUAGE) {
+        lang = PROP_GAME_LANGUAGE
+    }
+    def slimArgs = ['res_slim.py', '--lang', lang, '--out_res', srcDir + '/res']
+    println 'running command : ' + 'python ' + slimArgs.join(' ')
+    exec {
+        executable 'python'
+        args slimArgs
+        workingDir path
+    }
+}
+
+def encryptRes(srcDir) {
+    def compileArgs = ['rescompile', '--res-path', srcDir, '--inplace']
+
+    println 'running command : ' + 'cocos ' + compileArgs.join(' ')
+     exec {
+         executable getCocosCommandPath()
+         args compileArgs
+     }
+}
+
+def compileLua(srcDir, dstDir, doCompile, is64bit, doEncrypt) {
+    def compileArgs = ['luacompile', '-s', srcDir, '-d', dstDir]
+	compileArgs << '--disable-compile'
+
+    println 'running command : ' + 'cocos ' + compileArgs.join(' ')
+    exec {
+        executable getCocosCommandPath()
+        args compileArgs
+    }
+
+    delete fileTree(dstDir) {
+        include '**/*.lua'
+    }
+}
+
+android.applicationVariants.all { variant ->
+    def proj_folder = "${buildDir}/../../../../.."
+    def assets_folder = "${buildDir}/intermediates/assets"
+    def pack_folder = assets_folder + "/androidpack"
+
+    delete assets_folder
+
+    def targetName = variant.name.capitalize()
+    def copyTaskName = "copy${targetName}ResourcesToAssets"
+
+    tasks.register(copyTaskName) {
+        copy {
+           from proj_folder + "/res"
+           into pack_folder + "/res"
+        }
+
+        copy {
+            from "${buildDir}/../assets"
+            into pack_folder
+        }
+
+		genResSlim(pack_folder)
+
+        copy {
+           from proj_folder + "/cocos"
+           into pack_folder + "/cocos"
+        }
+
+        copy {
+            from proj_folder + "/updater"
+            into pack_folder + "/updater"
+        }
+
+        copy {
+            from proj_folder + "/src"
+            into pack_folder + "/src"
+        }
+
+		copy {
+           from proj_folder + "/cocos"
+           into pack_folder + "/x64/cocos"
+        }
+
+        copy {
+            from proj_folder + "/updater"
+            into pack_folder + "/x64/updater"
+        }
+
+        copy {
+            from proj_folder + "/src"
+            into pack_folder + "/x64/src"
+        }
+
+
+        compileLua(pack_folder + "/cocos",
+				   pack_folder + "/cocos",
+				   false, false, true)
+		compileLua(pack_folder + "/updater",
+				   pack_folder + "/updater",
+				   false, false, true)
+		compileLua(pack_folder + "/src",
+				   pack_folder + "/src",
+				   false, false, true)
+
+		compileLua(pack_folder + "/x64/cocos",
+				   pack_folder + "/x64/cocos",
+				   false, false, true)
+		compileLua(pack_folder + "/x64/updater",
+				   pack_folder + "/x64/updater",
+				   false, false, true)
+		compileLua(pack_folder + "/x64/src",
+				   pack_folder + "/x64/src",
+				   false, false, true)
+
+		encryptRes(pack_folder)
+
+		copy {
+			from pack_folder
+			into assets_folder
+		}
+
+		delete pack_folder
+
+		copy {
+			from "${buildDir}/../assets"
+			into assets_folder
+		}
+    }
+    tasks.getByName("pre${targetName}Build").dependsOn copyTaskName
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation project(':libcocos2dx')
+    implementation 'android.arch.lifecycle:extensions:1.1.1'
+    implementation 'com.android.support:support-v4:27.1.1'
+}

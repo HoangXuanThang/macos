@@ -1,0 +1,15 @@
+﻿VariableName,text,text_ma,text_en,text_th,text_in,text_ph,text_vn,startStoryID,skills
+Defaults,"""""","""""","""""","""""","""""","""""","""""",0,{}
+ID,Option text,Option text,Option text,Option text,Option text,Option text,Option text,选项跳转剧情ID,选项添加buff({skillID=num;...})
+1,Golden Apple,Epal Emas,Golden Apple,แอปเปิ้ลทอง,Apel Emas,Gintong Mansanas,Táo vàng,3000007,{66016=1}
+2,Silver Apple,Epal Perak,Silver Apple,แอปเปิ้ลเงิน,Apel Perak,Pilak na Mansanas,Táo bạc,3000009,{66017=1}
+3,Rotten Apple,Epal Busuk,Rotten Apple,แอปเปิ้ลเน่า,Apel Busuk,Bulok na Mansanas,Táo hỏng,3000011,{66016=1;66017=1}
+11,Golden Apple 2,Epal Emas 2,Golden Apple 2,แอปเปิ้ลทอง 2,Apel Emas 2,Gintong Mansanas 2,Táo vàng 2,11,{66016=1}
+21,Silver Apple 2,Epal Perak 2,Silver Apple 2,แอปเปิ้ลเงิน 2,Apel Perak 2,Pilak na Mansanas 2,Táo bạc 2,21,{66017=1}
+31,Rotten Apple 2,Epal Busuk 2,Rotten Apple 2,แอปเปิ้ลเน่า 2,Apel Busuk 2,Bulok na Mansanas 2,Táo hỏng 2,31,{66016=1;66017=1}
+100001,Go left,Pergi ke kiri,Go left,ไปทางซ้าย,Pergi ke kiri,Pumunta sa kaliwa,Đi bên trái,100007,{50000001=1}
+100002,Go right,Pergi ke kanan,Go right,ไปทางขวา,Pergi ke kanan,Pumunta sa kanan,Đi bên phải,100009,
+100101,Come out! Turtwig! Use water to melt!,Keluar! Turtwig! Gunakan air untuk mencairkan!,Come out! Turtwig! Use water to melt!,ออกมา! Turtwig! ใช้น้ำทำให้ละลาย!,Keluar! Turtwig! Gunakan air untuk melelehkan!,Lumabas ka! Turtwig! Gamitin ang tubig para tunawin!,Ra đây đi! Turtwig! Dùng nước để làm tan!,100105,
+100102,Come out! Charmander! Use fire to melt!,Keluar! Charmander! Gunakan api untuk mencairkan!,Come out! Charmander! Use fire to melt!,ออกมา! Charmander! ใช้ไฟทำให้ละลาย!,Keluar! Charmander! Gunakan api untuk melelehkan!,Lumabas ka! Charmander! Gamitin ang apoy para tunawin!,Ra đây đi! Charmander! Dùng lửa để làm tan!,100107,{50000002=1}
+100601,Prioritize healing Magikarp,Utamakan merawat Magikarp,Prioritize healing Magikarp,ให้ความสำคัญกับการรักษา Magikarp,Prioritaskan penyembuhan Magikarp,Bigyang-priyoridad ang pagpapagaling kay Magikarp,Ưu tiên chữa trị Magikarp,100612,{50000011=1}
+100602,Prioritize driving out the bad guys,Utamakan menghalau orang jahat,Prioritize driving out the bad guys,ให้ความสำคัญกับการขับไล่คนไม่ดีออกไป,Prioritaskan mengusir orang jahat,Bigyang-priyoridad ang pagpapaalis sa mga masamang tao,Ưu tiên đuổi kẻ xấu ra ngoài,100614,{50000012=1}

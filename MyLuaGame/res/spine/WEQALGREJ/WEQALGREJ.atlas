@@ -1,0 +1,2211 @@
+
+WEQALGREJ.png
+size: 2358,2358
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0-kua
+  rotate: false
+  xy: 2151, 384
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+0-l-chibang03
+  rotate: false
+  xy: 2, 1589
+  size: 200, 416
+  orig: 200, 416
+  offset: 0, 0
+  index: -1
+0-l-chibang04
+  rotate: true
+  xy: 1480, 1759
+  size: 196, 199
+  orig: 196, 199
+  offset: 0, 0
+  index: -1
+0-l-chibang04-2
+  rotate: true
+  xy: 1681, 1757
+  size: 196, 199
+  orig: 196, 199
+  offset: 0, 0
+  index: -1
+0-l-dabi
+  rotate: false
+  xy: 2268, 356
+  size: 46, 85
+  orig: 46, 85
+  offset: 0, 0
+  index: -1
+0-l-datui
+  rotate: false
+  xy: 506, 771
+  size: 44, 112
+  orig: 44, 112
+  offset: 0, 0
+  index: -1
+0-l-jiao
+  rotate: true
+  xy: 1897, 4
+  size: 59, 34
+  orig: 59, 34
+  offset: 0, 0
+  index: -1
+0-l-jiao0
+  rotate: true
+  xy: 2256, 1956
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+0-l-jijiao
+  rotate: false
+  xy: 1531, 274
+  size: 86, 137
+  orig: 86, 137
+  offset: 0, 0
+  index: -1
+0-l-shou
+  rotate: false
+  xy: 406, 1591
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+0-l-xiaobi
+  rotate: true
+  xy: 2030, 360
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+0-l-xiaotui
+  rotate: false
+  xy: 1921, 142
+  size: 33, 102
+  orig: 33, 102
+  offset: 0, 0
+  index: -1
+0-lian
+  rotate: true
+  xy: 1817, 8
+  size: 55, 78
+  orig: 55, 78
+  offset: 0, 0
+  index: -1
+0-pigumao01
+  rotate: true
+  xy: 1771, 1063
+  size: 90, 122
+  orig: 90, 122
+  offset: 0, 0
+  index: -1
+0-pigumao02
+  rotate: false
+  xy: 2097, 405
+  size: 52, 108
+  orig: 52, 108
+  offset: 0, 0
+  index: -1
+0-pigumao03
+  rotate: false
+  xy: 1755, 327
+  size: 74, 133
+  orig: 74, 133
+  offset: 0, 0
+  index: -1
+0-r-chibang03
+  rotate: false
+  xy: 386, 119
+  size: 122, 220
+  orig: 122, 220
+  offset: 0, 0
+  index: -1
+0-r-chibang04
+  rotate: false
+  xy: 204, 1177
+  size: 139, 410
+  orig: 139, 410
+  offset: 0, 0
+  index: -1
+0-r-dabi
+  rotate: true
+  xy: 2149, 346
+  size: 36, 72
+  orig: 36, 72
+  offset: 0, 0
+  index: -1
+0-r-datui
+  rotate: true
+  xy: 1617, 138
+  size: 40, 116
+  orig: 40, 116
+  offset: 0, 0
+  index: -1
+0-r-jiao01
+  rotate: false
+  xy: 2316, 226
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+0-r-jijiao
+  rotate: true
+  xy: 1511, 537
+  size: 59, 164
+  orig: 59, 164
+  offset: 0, 0
+  index: -1
+0-r-shou
+  rotate: false
+  xy: 1977, 348
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+0-r-xiaobi
+  rotate: true
+  xy: 1735, 134
+  size: 31, 64
+  orig: 31, 64
+  offset: 0, 0
+  index: -1
+0-r-xiaotui
+  rotate: false
+  xy: 2133, 181
+  size: 31, 90
+  orig: 31, 90
+  offset: 0, 0
+  index: -1
+0-shenti
+  rotate: true
+  xy: 1617, 180
+  size: 87, 116
+  orig: 87, 116
+  offset: 0, 0
+  index: -1
+0-toufa06
+  rotate: true
+  xy: 566, 495
+  size: 99, 160
+  orig: 99, 160
+  offset: 0, 0
+  index: -1
+0-toufa07
+  rotate: true
+  xy: 1721, 2
+  size: 37, 94
+  orig: 37, 94
+  offset: 0, 0
+  index: -1
+0-weiba01
+  rotate: true
+  xy: 1468, 1332
+  size: 43, 139
+  orig: 43, 139
+  offset: 0, 0
+  index: -1
+0-weiba02
+  rotate: false
+  xy: 2223, 155
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+45-bozi
+  rotate: true
+  xy: 1951, 300
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+45-kua
+  rotate: false
+  xy: 1722, 76
+  size: 77, 56
+  orig: 77, 56
+  offset: 0, 0
+  index: -1
+45-kuamao01
+  rotate: true
+  xy: 2316, 273
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+45-kuamao02
+  rotate: false
+  xy: 552, 846
+  size: 12, 37
+  orig: 12, 37
+  offset: 0, 0
+  index: -1
+45-l-chibang01
+  rotate: true
+  xy: 2226, 779
+  size: 95, 113
+  orig: 95, 113
+  offset: 0, 0
+  index: -1
+45-l-chibang01-2
+  rotate: false
+  xy: 1329, 1139
+  size: 76, 183
+  orig: 76, 183
+  offset: 0, 0
+  index: -1
+45-l-chibang02
+  rotate: true
+  xy: 662, 1171
+  size: 130, 191
+  orig: 130, 191
+  offset: 0, 0
+  index: -1
+45-l-chibang02-2
+  rotate: true
+  xy: 598, 2
+  size: 130, 191
+  orig: 130, 191
+  offset: 0, 0
+  index: -1
+45-l-chibang03
+  rotate: false
+  xy: 2, 1171
+  size: 200, 416
+  orig: 200, 416
+  offset: 0, 0
+  index: -1
+45-l-chibang03-2
+  rotate: false
+  xy: 204, 1589
+  size: 200, 416
+  orig: 200, 416
+  offset: 0, 0
+  index: -1
+45-l-chibang03-3
+  rotate: false
+  xy: 2, 753
+  size: 200, 416
+  orig: 200, 416
+  offset: 0, 0
+  index: -1
+45-l-chibang04
+  rotate: false
+  xy: 811, 129
+  size: 149, 192
+  orig: 149, 192
+  offset: 0, 0
+  index: -1
+45-l-chibangyumao01
+  rotate: true
+  xy: 1831, 300
+  size: 71, 118
+  orig: 71, 118
+  offset: 0, 0
+  index: -1
+45-l-chibangyumao02
+  rotate: true
+  xy: 1998, 300
+  size: 44, 78
+  orig: 44, 78
+  offset: 0, 0
+  index: -1
+45-l-chibangyumao02-2
+  rotate: false
+  xy: 2078, 290
+  size: 36, 68
+  orig: 36, 68
+  offset: 0, 0
+  index: -1
+45-l-chibangyumao03
+  rotate: false
+  xy: 2151, 442
+  size: 67, 92
+  orig: 67, 92
+  offset: 0, 0
+  index: -1
+45-l-chibangyumao04
+  rotate: false
+  xy: 2018, 653
+  size: 74, 105
+  orig: 74, 105
+  offset: 0, 0
+  index: -1
+45-l-chibangyumao05
+  rotate: true
+  xy: 2223, 376
+  size: 67, 43
+  orig: 67, 43
+  offset: 0, 0
+  index: -1
+45-l-chibangzhua01
+  rotate: false
+  xy: 1895, 1069
+  size: 17, 39
+  orig: 17, 39
+  offset: 0, 0
+  index: -1
+45-l-chibangzhua02
+  rotate: false
+  xy: 864, 585
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+45-l-chibangzhuayumao01
+  rotate: false
+  xy: 2268, 285
+  size: 46, 69
+  orig: 46, 69
+  offset: 0, 0
+  index: -1
+45-l-chibangzhuayumao02
+  rotate: true
+  xy: 2316, 305
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+45-l-dabi
+  rotate: false
+  xy: 447, 996
+  size: 50, 85
+  orig: 50, 85
+  offset: 0, 0
+  index: -1
+45-l-datui
+  rotate: false
+  xy: 1552, 155
+  size: 63, 117
+  orig: 63, 117
+  offset: 0, 0
+  index: -1
+45-l-jiao
+  rotate: false
+  xy: 903, 323
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+45-l-jijiao
+  rotate: false
+  xy: 1085, 3
+  size: 102, 160
+  orig: 102, 160
+  offset: 0, 0
+  index: -1
+45-l-shou
+  rotate: true
+  xy: 2095, 362
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+45-l-xiaobi
+  rotate: false
+  xy: 2116, 286
+  size: 31, 74
+  orig: 31, 74
+  offset: 0, 0
+  index: -1
+45-l-xiaotui
+  rotate: false
+  xy: 2165, 652
+  size: 48, 106
+  orig: 48, 106
+  offset: 0, 0
+  index: -1
+45-lian01
+  rotate: false
+  xy: 2166, 266
+  size: 55, 78
+  orig: 55, 78
+  offset: 0, 0
+  index: -1
+45-lian02
+  rotate: false
+  xy: 2166, 186
+  size: 55, 78
+  orig: 55, 78
+  offset: 0, 0
+  index: -1
+45-pigumao01
+  rotate: false
+  xy: 1468, 1377
+  size: 139, 157
+  orig: 139, 157
+  offset: 0, 0
+  index: -1
+45-pigumao02
+  rotate: false
+  xy: 2159, 536
+  size: 54, 114
+  orig: 54, 114
+  offset: 0, 0
+  index: -1
+45-pigumao03
+  rotate: true
+  xy: 2226, 1030
+  size: 66, 130
+  orig: 66, 130
+  offset: 0, 0
+  index: -1
+45-r-chiabngyumao04
+  rotate: false
+  xy: 2223, 312
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+45-r-chibang01
+  rotate: true
+  xy: 1100, 885
+  size: 94, 196
+  orig: 94, 196
+  offset: 0, 0
+  index: -1
+45-r-chibang01-2
+  rotate: true
+  xy: 1100, 885
+  size: 94, 196
+  orig: 94, 196
+  offset: 0, 0
+  index: -1
+45-r-chibang02
+  rotate: false
+  xy: 1294, 4
+  size: 67, 197
+  orig: 67, 197
+  offset: 0, 0
+  index: -1
+45-r-chibang02-2
+  rotate: false
+  xy: 1347, 205
+  size: 67, 197
+  orig: 67, 197
+  offset: 0, 0
+  index: -1
+45-r-chibang03
+  rotate: false
+  xy: 1162, 203
+  size: 103, 199
+  orig: 103, 199
+  offset: 0, 0
+  index: -1
+45-r-chibang03-2
+  rotate: false
+  xy: 1189, 2
+  size: 103, 199
+  orig: 103, 199
+  offset: 0, 0
+  index: -1
+45-r-chibang04
+  rotate: false
+  xy: 2, 341
+  size: 139, 410
+  orig: 139, 410
+  offset: 0, 0
+  index: -1
+45-r-chibang04-2
+  rotate: false
+  xy: 204, 765
+  size: 139, 410
+  orig: 139, 410
+  offset: 0, 0
+  index: -1
+45-r-chibangyumao01
+  rotate: false
+  xy: 564, 17
+  size: 32, 89
+  orig: 32, 89
+  offset: 0, 0
+  index: -1
+45-r-chibangyumao02
+  rotate: true
+  xy: 2030, 515
+  size: 56, 115
+  orig: 56, 115
+  offset: 0, 0
+  index: -1
+45-r-chibangyumao03
+  rotate: false
+  xy: 2062, 117
+  size: 37, 58
+  orig: 37, 58
+  offset: 0, 0
+  index: -1
+45-r-chibangzhua01
+  rotate: false
+  xy: 1531, 239
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+45-r-chibangzhuayumao01
+  rotate: true
+  xy: 1496, 54
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+45-r-chibangzhuayumao02
+  rotate: true
+  xy: 2316, 352
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+45-r-dabi
+  rotate: true
+  xy: 1722, 41
+  size: 33, 76
+  orig: 33, 76
+  offset: 0, 0
+  index: -1
+45-r-datui
+  rotate: true
+  xy: 1844, 475
+  size: 41, 123
+  orig: 41, 123
+  offset: 0, 0
+  index: -1
+45-r-jiao01
+  rotate: true
+  xy: 1685, 2
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+45-r-jiao02
+  rotate: true
+  xy: 832, 847
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+45-r-jijiao
+  rotate: false
+  xy: 507, 341
+  size: 56, 154
+  orig: 56, 154
+  offset: 0, 0
+  index: -1
+45-r-shou
+  rotate: false
+  xy: 2188, 965
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+45-r-xiaobi
+  rotate: false
+  xy: 2101, 109
+  size: 28, 68
+  orig: 28, 68
+  offset: 0, 0
+  index: -1
+45-r-xiaotui
+  rotate: false
+  xy: 2062, 177
+  size: 31, 94
+  orig: 31, 94
+  offset: 0, 0
+  index: -1
+45-shenti
+  rotate: true
+  xy: 1803, 158
+  size: 86, 116
+  orig: 86, 116
+  offset: 0, 0
+  index: -1
+45-toufa01
+  rotate: false
+  xy: 2252, 1865
+  size: 32, 89
+  orig: 32, 89
+  offset: 0, 0
+  index: -1
+45-toufa02
+  rotate: false
+  xy: 2252, 1812
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+45-toufa03
+  rotate: true
+  xy: 1416, 205
+  size: 20, 70
+  orig: 20, 70
+  offset: 0, 0
+  index: -1
+45-toufa04
+  rotate: false
+  xy: 1873, 1159
+  size: 18, 46
+  orig: 18, 46
+  offset: 0, 0
+  index: -1
+45-toufa05
+  rotate: true
+  xy: 2277, 1466
+  size: 18, 51
+  orig: 18, 51
+  offset: 0, 0
+  index: -1
+45-toufa06
+  rotate: false
+  xy: 1092, 1155
+  size: 105, 168
+  orig: 105, 168
+  offset: 0, 0
+  index: -1
+45-toufa07
+  rotate: true
+  xy: 1468, 2
+  size: 50, 113
+  orig: 50, 113
+  offset: 0, 0
+  index: -1
+45-toufa08
+  rotate: false
+  xy: 2198, 1004
+  size: 26, 54
+  orig: 26, 54
+  offset: 0, 0
+  index: -1
+45-weiba01
+  rotate: false
+  xy: 1619, 272
+  size: 43, 139
+  orig: 43, 139
+  offset: 0, 0
+  index: -1
+45-weiba02
+  rotate: false
+  xy: 2285, 154
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+45-weiba03
+  rotate: true
+  xy: 2281, 1486
+  size: 207, 73
+  orig: 207, 73
+  offset: 0, 0
+  index: -1
+45-weiba04
+  rotate: true
+  xy: 2094, 653
+  size: 105, 69
+  orig: 105, 69
+  offset: 0, 0
+  index: -1
+45-weibamao
+  rotate: false
+  xy: 2255, 237
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+45-wuqi
+  rotate: false
+  xy: 2, 2007
+  size: 408, 257
+  orig: 408, 257
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack1FX1-001
+  rotate: false
+  xy: 379, 491
+  size: 123, 272
+  orig: 123, 272
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack1FX1-002
+  rotate: false
+  xy: 447, 1359
+  size: 119, 274
+  orig: 119, 274
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack1FX1-003
+  rotate: true
+  xy: 997, 2127
+  size: 129, 270
+  orig: 129, 270
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack1FX1-004
+  rotate: false
+  xy: 447, 1083
+  size: 125, 274
+  orig: 125, 274
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack2FX1-001
+  rotate: false
+  xy: 1205, 1748
+  size: 113, 230
+  orig: 113, 230
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack2FX1-002
+  rotate: false
+  xy: 269, 107
+  size: 115, 232
+  orig: 115, 232
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack2FX1-003
+  rotate: true
+  xy: 2006, 1165
+  size: 109, 224
+  orig: 109, 224
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack2FX1-004
+  rotate: true
+  xy: 358, 2
+  size: 103, 204
+  orig: 103, 204
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack2FX1-005
+  rotate: true
+  xy: 1589, 958
+  size: 101, 184
+  orig: 101, 184
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack2FX1-006
+  rotate: true
+  xy: 1572, 728
+  size: 101, 166
+  orig: 101, 166
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack2FX1-007
+  rotate: true
+  xy: 1129, 404
+  size: 91, 146
+  orig: 91, 146
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack2FX1-008
+  rotate: false
+  xy: 2215, 550
+  size: 71, 94
+  orig: 71, 94
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack2FX2-001
+  rotate: false
+  xy: 2015, 1729
+  size: 269, 76
+  orig: 269, 76
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack2FX2-002
+  rotate: true
+  xy: 510, 108
+  size: 231, 86
+  orig: 231, 86
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack2FX2-003
+  rotate: false
+  xy: 1077, 1065
+  size: 209, 88
+  orig: 209, 88
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack2FX2-004
+  rotate: true
+  xy: 731, 136
+  size: 205, 78
+  orig: 205, 78
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack2FX2-005
+  rotate: true
+  xy: 832, 1304
+  size: 141, 76
+  orig: 141, 76
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack2FX2-006
+  rotate: false
+  xy: 1379, 407
+  size: 129, 72
+  orig: 129, 72
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack4FX1-001
+  rotate: true
+  xy: 648, 2116
+  size: 152, 347
+  orig: 152, 347
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack4FX1-002
+  rotate: false
+  xy: 406, 1635
+  size: 142, 349
+  orig: 142, 349
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack4FX1-003
+  rotate: false
+  xy: 2, 14
+  size: 144, 325
+  orig: 144, 325
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack4FX1-004
+  rotate: true
+  xy: 648, 1978
+  size: 136, 349
+  orig: 136, 349
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack4FX1-005
+  rotate: false
+  xy: 143, 460
+  size: 114, 291
+  orig: 114, 291
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack4FX1-006
+  rotate: true
+  xy: 1256, 1988
+  size: 102, 259
+  orig: 102, 259
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack4FX1-007
+  rotate: true
+  xy: 844, 1065
+  size: 92, 231
+  orig: 92, 231
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack4FX1-008
+  rotate: false
+  xy: 962, 152
+  size: 86, 217
+  orig: 86, 217
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack4FX1-009
+  rotate: false
+  xy: 1267, 203
+  size: 78, 199
+  orig: 78, 199
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack4FX1-010
+  rotate: true
+  xy: 1510, 413
+  size: 64, 149
+  orig: 64, 149
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Attack4FX1-011
+  rotate: false
+  xy: 2220, 445
+  size: 46, 103
+  orig: 46, 103
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX1-001
+  rotate: true
+  xy: 796, 585
+  size: 260, 66
+  orig: 260, 66
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX1-002
+  rotate: true
+  xy: 2286, 1695
+  size: 258, 70
+  orig: 258, 70
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX1-003
+  rotate: true
+  xy: 823, 323
+  size: 260, 78
+  orig: 260, 78
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX1-004
+  rotate: false
+  xy: 566, 847
+  size: 264, 80
+  orig: 264, 80
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX1-005
+  rotate: false
+  xy: 1609, 1307
+  size: 262, 78
+  orig: 262, 78
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX1-006
+  rotate: true
+  xy: 1050, 165
+  size: 234, 54
+  orig: 234, 54
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX1-007
+  rotate: false
+  xy: 1994, 1006
+  size: 202, 52
+  orig: 202, 52
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX1-008
+  rotate: false
+  xy: 1994, 964
+  size: 192, 40
+  orig: 192, 40
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX3-001
+  rotate: false
+  xy: 1510, 479
+  size: 164, 56
+  orig: 164, 56
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX3-002
+  rotate: false
+  xy: 1084, 2258
+  size: 448, 98
+  orig: 448, 98
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX3-003
+  rotate: false
+  xy: 1534, 2256
+  size: 388, 100
+  orig: 388, 100
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX3-004
+  rotate: false
+  xy: 1924, 2256
+  size: 374, 100
+  orig: 374, 100
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX3-005
+  rotate: true
+  xy: 345, 1277
+  size: 310, 100
+  orig: 310, 100
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX3-006
+  rotate: true
+  xy: 345, 983
+  size: 292, 100
+  orig: 292, 100
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX7-001
+  rotate: true
+  xy: 2256, 1982
+  size: 272, 39
+  orig: 272, 39
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX7-002
+  rotate: true
+  xy: 832, 1447
+  size: 272, 59
+  orig: 272, 59
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX7-003
+  rotate: false
+  xy: 2006, 1100
+  size: 222, 63
+  orig: 222, 63
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX7-004
+  rotate: true
+  xy: 1507, 759
+  size: 220, 63
+  orig: 220, 63
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX7-005
+  rotate: true
+  xy: 345, 765
+  size: 216, 67
+  orig: 216, 67
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX7-006
+  rotate: false
+  xy: 1298, 908
+  size: 188, 65
+  orig: 188, 65
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX7-007
+  rotate: true
+  xy: 1416, 227
+  size: 178, 63
+  orig: 178, 63
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX7-008
+  rotate: false
+  xy: 1801, 90
+  size: 104, 39
+  orig: 104, 39
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX7-009
+  rotate: true
+  xy: 1480, 1958
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX9-001
+  rotate: false
+  xy: 2, 2266
+  size: 621, 90
+  orig: 621, 90
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX9-002
+  rotate: false
+  xy: 625, 2270
+  size: 457, 86
+  orig: 457, 86
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX9-003
+  rotate: true
+  xy: 2300, 1955
+  size: 401, 56
+  orig: 401, 56
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX9-004
+  rotate: true
+  xy: 2316, 402
+  size: 83, 40
+  orig: 83, 40
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill1FX9-005
+  rotate: false
+  xy: 1003, 1726
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX1-001
+  rotate: false
+  xy: 1775, 958
+  size: 137, 103
+  orig: 137, 103
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX1-002
+  rotate: true
+  xy: 1257, 690
+  size: 193, 123
+  orig: 193, 123
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX1-003
+  rotate: true
+  xy: 1128, 690
+  size: 193, 127
+  orig: 193, 127
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX1-004
+  rotate: true
+  xy: 2227, 1284
+  size: 177, 129
+  orig: 177, 129
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX1-005
+  rotate: false
+  xy: 791, 2
+  size: 169, 125
+  orig: 169, 125
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX1-006
+  rotate: true
+  xy: 1468, 981
+  size: 167, 119
+  orig: 167, 119
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX1-007
+  rotate: true
+  xy: 1552, 54
+  size: 99, 63
+  orig: 99, 63
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX1-008
+  rotate: true
+  xy: 1965, 518
+  size: 97, 63
+  orig: 97, 63
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX1-009
+  rotate: true
+  xy: 2288, 545
+  size: 99, 63
+  orig: 99, 63
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX11-001
+  rotate: false
+  xy: 1953, 617
+  size: 27, 116
+  orig: 27, 116
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX11-002
+  rotate: true
+  xy: 1801, 65
+  size: 23, 122
+  orig: 23, 122
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX11-003
+  rotate: false
+  xy: 1956, 147
+  size: 25, 124
+  orig: 25, 124
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX11-004
+  rotate: false
+  xy: 2010, 151
+  size: 23, 120
+  orig: 23, 120
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX11-005
+  rotate: true
+  xy: 1801, 131
+  size: 25, 118
+  orig: 25, 118
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX11-006
+  rotate: true
+  xy: 1944, 273
+  size: 25, 118
+  orig: 25, 118
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX11-007
+  rotate: false
+  xy: 2035, 151
+  size: 25, 120
+  orig: 25, 120
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX11-008
+  rotate: false
+  xy: 1983, 149
+  size: 25, 122
+  orig: 25, 122
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX11-009
+  rotate: false
+  xy: 2005, 388
+  size: 23, 128
+  orig: 23, 128
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX11-010
+  rotate: true
+  xy: 1288, 1112
+  size: 25, 114
+  orig: 25, 114
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX12-001
+  rotate: true
+  xy: 1062, 1159
+  size: 131, 28
+  orig: 131, 28
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX12-002
+  rotate: false
+  xy: 1676, 462
+  size: 139, 24
+  orig: 139, 24
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX12-003
+  rotate: true
+  xy: 1951, 334
+  size: 139, 24
+  orig: 139, 24
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX12-004
+  rotate: false
+  xy: 1803, 246
+  size: 137, 24
+  orig: 137, 24
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX12-005
+  rotate: false
+  xy: 2018, 627
+  size: 133, 24
+  orig: 133, 24
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX12-006
+  rotate: true
+  xy: 1977, 383
+  size: 133, 26
+  orig: 133, 26
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX12-007
+  rotate: true
+  xy: 1468, 68
+  size: 135, 26
+  orig: 135, 26
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX12-008
+  rotate: false
+  xy: 1803, 272
+  size: 139, 26
+  orig: 139, 26
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX12-009
+  rotate: true
+  xy: 2328, 885
+  size: 143, 24
+  orig: 143, 24
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX12-010
+  rotate: false
+  xy: 2215, 646
+  size: 131, 24
+  orig: 131, 24
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-001
+  rotate: false
+  xy: 2013, 1551
+  size: 266, 82
+  orig: 266, 82
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-002
+  rotate: false
+  xy: 1609, 1567
+  size: 266, 92
+  orig: 266, 92
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-003
+  rotate: false
+  xy: 1609, 1661
+  size: 266, 94
+  orig: 266, 94
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-004
+  rotate: false
+  xy: 1609, 1477
+  size: 266, 88
+  orig: 266, 88
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-005
+  rotate: false
+  xy: 838, 973
+  size: 256, 90
+  orig: 256, 90
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-006
+  rotate: true
+  xy: 1042, 627
+  size: 256, 84
+  orig: 256, 84
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-007
+  rotate: false
+  xy: 2013, 1635
+  size: 266, 92
+  orig: 266, 92
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-008
+  rotate: true
+  xy: 550, 1716
+  size: 268, 94
+  orig: 268, 94
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-009
+  rotate: true
+  xy: 568, 1446
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-010
+  rotate: true
+  xy: 574, 1176
+  size: 268, 86
+  orig: 268, 86
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-011
+  rotate: true
+  xy: 989, 1456
+  size: 268, 84
+  orig: 268, 84
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-012
+  rotate: true
+  xy: 893, 1456
+  size: 268, 94
+  orig: 268, 94
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-013
+  rotate: false
+  xy: 574, 1079
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-014
+  rotate: false
+  xy: 566, 929
+  size: 268, 86
+  orig: 268, 86
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-015
+  rotate: false
+  xy: 2013, 1463
+  size: 262, 86
+  orig: 262, 86
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-016
+  rotate: false
+  xy: 836, 885
+  size: 262, 86
+  orig: 262, 86
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-017
+  rotate: false
+  xy: 1609, 1387
+  size: 262, 88
+  orig: 262, 88
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-018
+  rotate: true
+  xy: 864, 623
+  size: 260, 88
+  orig: 260, 88
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-019
+  rotate: true
+  xy: 954, 623
+  size: 260, 86
+  orig: 260, 86
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-020
+  rotate: true
+  xy: 903, 379
+  size: 242, 84
+  orig: 242, 84
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-021
+  rotate: true
+  xy: 737, 343
+  size: 240, 84
+  orig: 240, 84
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-022
+  rotate: true
+  xy: 1045, 401
+  size: 224, 82
+  orig: 224, 82
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-023
+  rotate: false
+  xy: 1096, 981
+  size: 192, 82
+  orig: 192, 82
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-024
+  rotate: true
+  xy: 1914, 958
+  size: 150, 78
+  orig: 150, 78
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-025
+  rotate: true
+  xy: 2314, 487
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX15-026
+  rotate: false
+  xy: 625, 2266
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX3-001
+  rotate: true
+  xy: 1383, 481
+  size: 71, 125
+  orig: 71, 125
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX3-002
+  rotate: true
+  xy: 1882, 1748
+  size: 205, 131
+  orig: 205, 131
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX3-003
+  rotate: true
+  xy: 1335, 1334
+  size: 179, 131
+  orig: 179, 131
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX3-004
+  rotate: true
+  xy: 1873, 1263
+  size: 199, 131
+  orig: 199, 131
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX3-005
+  rotate: false
+  xy: 855, 1159
+  size: 205, 131
+  orig: 205, 131
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX3-006
+  rotate: false
+  xy: 1517, 1957
+  size: 245, 131
+  orig: 245, 131
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX3-007
+  rotate: false
+  xy: 2006, 1330
+  size: 219, 131
+  orig: 219, 131
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX3-008
+  rotate: true
+  xy: 598, 134
+  size: 207, 131
+  orig: 207, 131
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX3-009
+  rotate: false
+  xy: 1764, 1955
+  size: 245, 131
+  orig: 245, 131
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX3-010
+  rotate: true
+  xy: 1202, 1324
+  size: 181, 131
+  orig: 181, 131
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX3-011
+  rotate: true
+  xy: 1202, 1507
+  size: 239, 131
+  orig: 239, 131
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX3-012
+  rotate: true
+  xy: 1335, 1515
+  size: 243, 131
+  orig: 243, 131
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX3-013
+  rotate: true
+  xy: 148, 104
+  size: 235, 119
+  orig: 235, 119
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX3-014
+  rotate: true
+  xy: 1075, 1511
+  size: 237, 125
+  orig: 237, 125
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX3-015
+  rotate: true
+  xy: 677, 606
+  size: 239, 117
+  orig: 239, 117
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX3-016
+  rotate: false
+  xy: 143, 341
+  size: 235, 117
+  orig: 235, 117
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX3-017
+  rotate: false
+  xy: 1895, 1110
+  size: 109, 95
+  orig: 109, 95
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX3-018
+  rotate: false
+  xy: 1910, 720
+  size: 41, 13
+  orig: 41, 13
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX6-001
+  rotate: false
+  xy: 506, 885
+  size: 58, 196
+  orig: 58, 196
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX6-002
+  rotate: false
+  xy: 504, 497
+  size: 60, 272
+  orig: 60, 272
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX6-003
+  rotate: true
+  xy: 566, 1017
+  size: 60, 270
+  orig: 60, 270
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX6-004
+  rotate: false
+  xy: 989, 371
+  size: 54, 250
+  orig: 54, 250
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX6-005
+  rotate: true
+  xy: 1676, 488
+  size: 24, 166
+  orig: 24, 166
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX6-006
+  rotate: false
+  xy: 568, 1402
+  size: 4, 42
+  orig: 4, 42
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX7-001
+  rotate: false
+  xy: 1507, 733
+  size: 53, 24
+  orig: 53, 24
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX7-002
+  rotate: false
+  xy: 2030, 573
+  size: 127, 52
+  orig: 127, 52
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX7-003
+  rotate: false
+  xy: 1873, 1207
+  size: 131, 54
+  orig: 131, 54
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX7-004
+  rotate: true
+  xy: 1496, 100
+  size: 135, 54
+  orig: 135, 54
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX7-005
+  rotate: false
+  xy: 1664, 269
+  size: 137, 56
+  orig: 137, 56
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill2FX7-006
+  rotate: true
+  xy: 1982, 632
+  size: 135, 34
+  orig: 135, 34
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX14-001
+  rotate: true
+  xy: 1771, 1155
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX14-002
+  rotate: false
+  xy: 1671, 616
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX14-003
+  rotate: false
+  xy: 2018, 862
+  size: 152, 100
+  orig: 152, 100
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX14-004
+  rotate: false
+  xy: 2018, 760
+  size: 152, 100
+  orig: 152, 100
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX14-005
+  rotate: true
+  xy: 2226, 876
+  size: 152, 100
+  orig: 152, 100
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX14-006
+  rotate: false
+  xy: 1677, 514
+  size: 146, 100
+  orig: 146, 100
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX14-007
+  rotate: false
+  xy: 1877, 1464
+  size: 134, 100
+  orig: 134, 100
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX14-008
+  rotate: false
+  xy: 1823, 616
+  size: 128, 100
+  orig: 128, 100
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX14-009
+  rotate: false
+  xy: 1831, 373
+  size: 118, 100
+  orig: 118, 100
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX14-010
+  rotate: true
+  xy: 1277, 404
+  size: 102, 100
+  orig: 102, 100
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX14-011
+  rotate: false
+  xy: 1735, 167
+  size: 66, 100
+  orig: 66, 100
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX14-012
+  rotate: true
+  xy: 1583, 2
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX14-013
+  rotate: false
+  xy: 2268, 443
+  size: 44, 100
+  orig: 44, 100
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX14-014
+  rotate: false
+  xy: 2095, 179
+  size: 36, 92
+  orig: 36, 92
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX14-015
+  rotate: true
+  xy: 1468, 54
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX21-001
+  rotate: false
+  xy: 646, 1721
+  size: 185, 255
+  orig: 185, 255
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX21-002
+  rotate: false
+  xy: 566, 596
+  size: 109, 249
+  orig: 109, 249
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX21-003
+  rotate: true
+  xy: 2015, 1807
+  size: 147, 235
+  orig: 147, 235
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX21-004
+  rotate: false
+  xy: 1363, 12
+  size: 103, 191
+  orig: 103, 191
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX22-001
+  rotate: true
+  xy: 999, 1980
+  size: 145, 255
+  orig: 145, 255
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX22-002
+  rotate: true
+  xy: 2011, 1956
+  size: 143, 243
+  orig: 143, 243
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX22-003
+  rotate: true
+  xy: 2009, 2101
+  size: 153, 245
+  orig: 153, 245
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX22-004
+  rotate: false
+  xy: 1468, 1536
+  size: 139, 221
+  orig: 139, 221
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX22-005
+  rotate: false
+  xy: 1664, 327
+  size: 89, 133
+  orig: 89, 133
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX22-006
+  rotate: true
+  xy: 1617, 57
+  size: 79, 103
+  orig: 79, 103
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX22-007
+  rotate: false
+  xy: 1298, 885
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX3-001
+  rotate: true
+  xy: 1106, 166
+  size: 233, 54
+  orig: 233, 54
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX3-002
+  rotate: true
+  xy: 1407, 1105
+  size: 227, 54
+  orig: 227, 54
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX3-003
+  rotate: true
+  xy: 1910, 735
+  size: 221, 60
+  orig: 221, 60
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX3-004
+  rotate: true
+  xy: 1972, 769
+  size: 187, 44
+  orig: 187, 44
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX3-005
+  rotate: true
+  xy: 2172, 781
+  size: 181, 52
+  orig: 181, 52
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX3-006
+  rotate: false
+  xy: 2006, 1276
+  size: 219, 52
+  orig: 219, 52
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX3-008
+  rotate: false
+  xy: 1994, 1060
+  size: 219, 38
+  orig: 219, 38
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX6-001
+  rotate: true
+  xy: 1320, 1760
+  size: 226, 158
+  orig: 226, 158
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX6-002
+  rotate: false
+  xy: 1519, 2090
+  size: 244, 164
+  orig: 244, 164
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX6-003
+  rotate: true
+  xy: 833, 1726
+  size: 250, 168
+  orig: 250, 168
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX6-004
+  rotate: false
+  xy: 1003, 1750
+  size: 200, 228
+  orig: 200, 228
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX6-005
+  rotate: true
+  xy: 412, 1986
+  size: 278, 234
+  orig: 278, 234
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX6-006
+  rotate: true
+  xy: 259, 477
+  size: 286, 118
+  orig: 286, 118
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX6-007
+  rotate: false
+  xy: 1765, 2088
+  size: 242, 166
+  orig: 242, 166
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX6-008
+  rotate: false
+  xy: 1269, 2092
+  size: 248, 164
+  orig: 248, 164
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX7-001
+  rotate: false
+  xy: 1740, 838
+  size: 168, 118
+  orig: 168, 118
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX7-002
+  rotate: false
+  xy: 1740, 718
+  size: 168, 118
+  orig: 168, 118
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX7-003
+  rotate: true
+  xy: 1259, 508
+  size: 180, 122
+  orig: 180, 122
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX7-004
+  rotate: true
+  xy: 1463, 1150
+  size: 180, 124
+  orig: 180, 124
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX7-005
+  rotate: true
+  xy: 2232, 1098
+  size: 184, 124
+  orig: 184, 124
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX7-006
+  rotate: true
+  xy: 1877, 1566
+  size: 180, 134
+  orig: 180, 134
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX7-007
+  rotate: true
+  xy: 565, 343
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX7-008
+  rotate: true
+  xy: 910, 1292
+  size: 162, 170
+  orig: 162, 170
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX7-009
+  rotate: true
+  xy: 660, 1513
+  size: 206, 170
+  orig: 206, 170
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX7-010
+  rotate: true
+  xy: 662, 1303
+  size: 208, 168
+  orig: 208, 168
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX7-011
+  rotate: true
+  xy: 414, 771
+  size: 210, 90
+  orig: 210, 90
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX7-012
+  rotate: false
+  xy: 148, 2
+  size: 208, 100
+  orig: 208, 100
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX7-013
+  rotate: false
+  xy: 1589, 1181
+  size: 180, 124
+  orig: 180, 124
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX7-014
+  rotate: true
+  xy: 1082, 1325
+  size: 184, 118
+  orig: 184, 118
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX7-015
+  rotate: false
+  xy: 1589, 1061
+  size: 180, 118
+  orig: 180, 118
+  offset: 0, 0
+  index: -1
+54_Wuerqiaola_Guiren2/Skill3FX7-016
+  rotate: true
+  xy: 1481, 237
+  size: 168, 48
+  orig: 168, 48
+  offset: 0, 0
+  index: -1
+90-celian01
+  rotate: false
+  xy: 2030, 408
+  size: 65, 105
+  orig: 65, 105
+  offset: 0, 0
+  index: -1
+90-celian02
+  rotate: false
+  xy: 2215, 672
+  size: 65, 105
+  orig: 65, 105
+  offset: 0, 0
+  index: -1
+90-celian03
+  rotate: false
+  xy: 2282, 672
+  size: 65, 105
+  orig: 65, 105
+  offset: 0, 0
+  index: -1
+90-cenaoke
+  rotate: false
+  xy: 1382, 728
+  size: 123, 178
+  orig: 123, 178
+  offset: 0, 0
+  index: -1
+90-cetoufa04
+  rotate: false
+  xy: 2223, 227
+  size: 30, 83
+  orig: 30, 83
+  offset: 0, 0
+  index: -1
+90-r-cejijiao
+  rotate: true
+  xy: 1825, 518
+  size: 96, 138
+  orig: 96, 138
+  offset: 0, 0
+  index: -1
+efffect/ziyan_1
+  rotate: true
+  xy: 380, 341
+  size: 148, 125
+  orig: 148, 125
+  offset: 0, 0
+  index: -1
+efffect/ziyan_2
+  rotate: true
+  xy: 962, 2
+  size: 148, 121
+  orig: 148, 121
+  offset: 0, 0
+  index: -1
+efffect/ziyan_3
+  rotate: false
+  xy: 1572, 831
+  size: 166, 125
+  orig: 166, 125
+  offset: 0, 0
+  index: -1
+efffect/ziyan_4
+  rotate: true
+  xy: 1199, 1155
+  size: 167, 128
+  orig: 167, 128
+  offset: 0, 0
+  index: -1
+efffect/ziyan_5
+  rotate: true
+  xy: 1383, 554
+  size: 172, 126
+  orig: 172, 126
+  offset: 0, 0
+  index: -1
+efffect/ziyan_6
+  rotate: true
+  xy: 1129, 497
+  size: 191, 128
+  orig: 191, 128
+  offset: 0, 0
+  index: -1
+efffect/ziyan_7
+  rotate: false
+  xy: 1298, 975
+  size: 168, 128
+  orig: 168, 128
+  offset: 0, 0
+  index: -1
+efffect/ziyan_8
+  rotate: false
+  xy: 1511, 598
+  size: 158, 128
+  orig: 158, 128
+  offset: 0, 0
+  index: -1

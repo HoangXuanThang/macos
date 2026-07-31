@@ -1,0 +1,153 @@
+
+icon_tx_9.png
+size: 551, 125
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+CCC1
+  rotate: true
+  xy: 510, 59
+  size: 16, 14
+  orig: 160, 160
+  offset: 110, 70
+  index: -1
+CCC2
+  rotate: true
+  xy: 366, 35
+  size: 14, 17
+  orig: 160, 160
+  offset: 111, 65
+  index: -1
+DDB
+  rotate: false
+  xy: 237, 3
+  size: 44, 30
+  orig: 160, 160
+  offset: 38, 12
+  index: -1
+DL1
+  rotate: false
+  xy: 438, 2
+  size: 15, 9
+  orig: 160, 160
+  offset: 23, 55
+  index: -1
+DL2
+  rotate: true
+  xy: 526, 61
+  size: 14, 11
+  orig: 160, 160
+  offset: 116, 112
+  index: -1
+DMZ
+  rotate: false
+  xy: 495, 58
+  size: 13, 17
+  orig: 160, 160
+  offset: 103, 30
+  index: -1
+FGG
+  rotate: true
+  xy: 309, 5
+  size: 28, 25
+  orig: 160, 160
+  offset: 102, 47
+  index: -1
+PM
+  rotate: false
+  xy: 366, 51
+  size: 72, 72
+  orig: 160, 160
+  offset: 3, 77
+  index: -1
+PM2
+  rotate: true
+  xy: 440, 57
+  size: 66, 53
+  orig: 160, 160
+  offset: 8, 104
+  index: -1
+PMDW
+  rotate: false
+  xy: 385, 4
+  size: 51, 45
+  orig: 160, 160
+  offset: 18, 108
+  index: -1
+SBB
+  rotate: true
+  xy: 487, 5
+  size: 50, 60
+  orig: 160, 160
+  offset: 102, 19
+  index: -1
+SSS
+  rotate: true
+  xy: 438, 13
+  size: 36, 19
+  orig: 160, 160
+  offset: 20, 113
+  index: -1
+SSZ
+  rotate: true
+  xy: 283, 4
+  size: 29, 24
+  orig: 160, 160
+  offset: 99, 22
+  index: -1
+TAP
+  rotate: true
+  xy: 459, 2
+  size: 53, 26
+  orig: 160, 160
+  offset: 14, 124
+  index: -1
+XXB
+  rotate: false
+  xy: 495, 102
+  size: 35, 21
+  orig: 160, 160
+  offset: 71, 11
+  index: -1
+YYY
+  rotate: true
+  xy: 495, 77
+  size: 23, 33
+  orig: 160, 160
+  offset: 68, 14
+  index: -1
+dd
+  rotate: true
+  xy: 120, 6
+  size: 117, 115
+  orig: 160, 160
+  offset: 19, 24
+  index: -1
+dgA
+  rotate: false
+  xy: 336, 6
+  size: 39, 27
+  orig: 160, 160
+  offset: 88, 113
+  index: -1
+dgB
+  rotate: false
+  xy: 532, 101
+  size: 17, 22
+  orig: 160, 160
+  offset: 26, 42
+  index: -1
+dk
+  rotate: true
+  xy: 2, 6
+  size: 117, 116
+  orig: 160, 160
+  offset: 21, 22
+  index: -1
+dk2
+  rotate: false
+  xy: 237, 35
+  size: 127, 88
+  orig: 160, 160
+  offset: 18, 58
+  index: -1

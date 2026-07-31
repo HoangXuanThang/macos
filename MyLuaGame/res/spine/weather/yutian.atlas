@@ -1,0 +1,83 @@
+
+yutian.png
+size: 534,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/gt2
+  rotate: false
+  xy: 191, 107
+  size: 218, 65
+  orig: 218, 65
+  offset: 0, 0
+  index: -1
+images/guangquan
+  rotate: true
+  xy: 191, 1
+  size: 9, 79
+  orig: 9, 79
+  offset: 0, 0
+  index: -1
+images/hei
+  rotate: false
+  xy: 272, 1
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+images/ns7
+  rotate: false
+  xy: 411, 56
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+images/sg0074
+  rotate: true
+  xy: 1, 5
+  size: 167, 188
+  orig: 167, 188
+  offset: 0, 0
+  index: -1
+images/water_3
+  rotate: false
+  xy: 296, 3
+  size: 84, 54
+  orig: 138, 78
+  offset: 29, 9
+  index: -1
+images/water_4
+  rotate: false
+  xy: 191, 52
+  size: 102, 53
+  orig: 138, 78
+  offset: 19, 8
+  index: -1
+images/water_5
+  rotate: false
+  xy: 295, 59
+  size: 102, 46
+  orig: 138, 78
+  offset: 19, 8
+  index: -1
+images/water_6
+  rotate: false
+  xy: 191, 12
+  size: 103, 38
+  orig: 138, 78
+  offset: 18, 8
+  index: -1
+images/water_7
+  rotate: false
+  xy: 382, 31
+  size: 100, 23
+  orig: 100, 23
+  offset: 0, 0
+  index: -1
+images/xy
+  rotate: false
+  xy: 529, 93
+  size: 4, 79
+  orig: 4, 79
+  offset: 0, 0
+  index: -1

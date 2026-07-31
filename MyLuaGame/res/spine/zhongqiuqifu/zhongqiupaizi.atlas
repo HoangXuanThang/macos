@@ -1,0 +1,55 @@
+
+zhongqiupaizi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fuzi
+  rotate: false
+  xy: 654, 689
+  size: 164, 218
+  orig: 164, 218
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 2, 428
+  size: 479, 479
+  orig: 479, 479
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 483, 552
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+liangdi3
+  rotate: false
+  xy: 483, 562
+  size: 169, 345
+  orig: 169, 345
+  offset: 0, 0
+  index: -1
+liangdi4
+  rotate: false
+  xy: 2, 81
+  size: 169, 345
+  orig: 169, 345
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 173, 207
+  size: 221, 219
+  orig: 221, 219
+  offset: 0, 0
+  index: -1
+shengzi2
+  rotate: false
+  xy: 2, 2
+  size: 37, 77
+  orig: 37, 77
+  offset: 0, 0
+  index: -1

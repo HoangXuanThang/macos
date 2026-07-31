@@ -1,0 +1,34 @@
+
+qianlizhi.png
+size: 434,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/Xing1
+  rotate: false
+  xy: 1, 1
+  size: 190, 186
+  orig: 190, 186
+  offset: 0, 0
+  index: -1
+TX/guangze
+  rotate: true
+  xy: 193, 13
+  size: 44, 178
+  orig: 44, 178
+  offset: 0, 0
+  index: -1
+TX/mobile_effect_1682
+  rotate: false
+  xy: 193, 59
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+duobian1
+  rotate: false
+  xy: 323, 81
+  size: 110, 106
+  orig: 110, 106
+  offset: 0, 0
+  index: -1

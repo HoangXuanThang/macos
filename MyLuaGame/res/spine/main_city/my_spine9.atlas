@@ -1,0 +1,55 @@
+
+my_spine9.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: true
+  xy: 112, 65
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+qian
+  rotate: true
+  xy: 72, 48
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 13
+  size: 68, 105
+  orig: 68, 105
+  offset: 0, 0
+  index: -1
+shoubi
+  rotate: false
+  xy: 102, 87
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 102, 57
+  size: 8, 28
+  orig: 8, 28
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 2, 2
+  size: 9, 32
+  orig: 9, 32
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: false
+  xy: 72, 13
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+﻿VariableName,huodongID,_beizhu,belongs,attr
+Defaults,0,"""""",,{}
+ID,活动版本ID,备注,所属内容(1-雪球;2-道具;3-卡比兽;4-忍蛙;5-电飞鼠;),属性(value-积分;range-出现范围;life-生命值)
+1,101031,,1,
+2,101031,,2,{stayTime=3;value=10}
+3,101031,,3,{weight=5.6;cardId=712;showSpeed=3;life=9;cardName=kabishou;speed=8;showWeight=7}
+4,101031,,3,{weight=4;cardId=3303;showSpeed=5;life=6;cardName=hero_jiaherenwa;speed=10;showWeight=4}
+5,101031,,3,{weight=3;cardId=2891;showSpeed=7;life=3;cardName=daodianfeishu;speed=12;showWeight=2}
+11,10001,,1,
+12,10001,,2,{stayTime=1.3;value=10}
+13,10001,,3,{weight=5.6;cardId=712;showSpeed=3;life=9;cardName=kabishou;speed=8;showWeight=7}
+14,10001,,3,{weight=4;cardId=3303;showSpeed=5;life=6;cardName=hero_jiaherenwa;speed=10;showWeight=4}
+15,10001,,3,{weight=3;cardId=2891;showSpeed=8;life=3;cardName=daodianfeishu;speed=13;showWeight=2}

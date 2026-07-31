@@ -1,0 +1,48 @@
+
+miansi.png
+size: 637,189
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang_xian_ADD2
+  rotate: false
+  xy: 191, 12
+  size: 185, 176
+  orig: 185, 176
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 531, 64
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+lan_gq
+  rotate: false
+  xy: 378, 14
+  size: 151, 174
+  orig: 151, 174
+  offset: 0, 0
+  index: -1
+mm_x
+  rotate: true
+  xy: 531, 81
+  size: 22, 100
+  orig: 22, 100
+  offset: 0, 0
+  index: -1
+shouji14_2
+  rotate: false
+  xy: 1, 1
+  size: 188, 187
+  orig: 188, 187
+  offset: 0, 0
+  index: -1
+wm_bf2
+  rotate: false
+  xy: 531, 105
+  size: 105, 83
+  orig: 105, 83
+  offset: 0, 0
+  index: -1

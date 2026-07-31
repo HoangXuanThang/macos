@@ -1,0 +1,153 @@
+
+jianguoxiaozi.png
+size: 389, 1032
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Yz
+  rotate: false
+  xy: 184, 495
+  size: 56, 15
+  orig: 58, 17
+  offset: 1, 1
+  index: -1
+bai
+  rotate: false
+  xy: 263, 56
+  size: 37, 38
+  orig: 41, 42
+  offset: 2, 2
+  index: -1
+pic_0
+  rotate: true
+  xy: 284, 365
+  size: 122, 97
+  orig: 122, 97
+  offset: 0, 0
+  index: -1
+pic_1
+  rotate: true
+  xy: 298, 241
+  size: 122, 85
+  orig: 122, 85
+  offset: 0, 0
+  index: -1
+pic_10
+  rotate: true
+  xy: 173, 244
+  size: 92, 123
+  orig: 92, 123
+  offset: 0, 0
+  index: -1
+pic_11
+  rotate: true
+  xy: 252, 489
+  size: 124, 134
+  orig: 124, 134
+  offset: 0, 0
+  index: -1
+pic_12
+  rotate: false
+  xy: 163, 96
+  size: 133, 146
+  orig: 133, 146
+  offset: 0, 0
+  index: -1
+pic_13
+  rotate: false
+  xy: 2, 82
+  size: 159, 161
+  orig: 159, 161
+  offset: 0, 0
+  index: -1
+pic_14
+  rotate: false
+  xy: 298, 184
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+pic_15
+  rotate: true
+  xy: 298, 112
+  size: 70, 37
+  orig: 70, 37
+  offset: 0, 0
+  index: -1
+pic_2
+  rotate: true
+  xy: 173, 338
+  size: 147, 109
+  orig: 147, 109
+  offset: 0, 0
+  index: -1
+pic_3
+  rotate: true
+  xy: 184, 512
+  size: 216, 66
+  orig: 216, 66
+  offset: 0, 0
+  index: -1
+pic_4
+  rotate: true
+  xy: 198, 14
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+pic_5
+  rotate: true
+  xy: 198, 2
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+pic_6
+  rotate: false
+  xy: 198, 51
+  size: 63, 43
+  orig: 63, 43
+  offset: 0, 0
+  index: -1
+pic_7
+  rotate: false
+  xy: 2, 13
+  size: 194, 67
+  orig: 194, 67
+  offset: 0, 0
+  index: -1
+pic_8
+  rotate: false
+  xy: 2, 730
+  size: 217, 300
+  orig: 217, 300
+  offset: 0, 0
+  index: -1
+pic_9
+  rotate: false
+  xy: 252, 615
+  size: 133, 163
+  orig: 134, 163
+  offset: 0, 0
+  index: -1
+qi_1
+  rotate: true
+  xy: 2, 487
+  size: 241, 180
+  orig: 265, 185
+  offset: 15, 1
+  index: -1
+qi_2
+  rotate: true
+  xy: 221, 780
+  size: 250, 166
+  orig: 265, 185
+  offset: 5, 2
+  index: -1
+qi_3
+  rotate: true
+  xy: 2, 245
+  size: 240, 169
+  orig: 265, 185
+  offset: 20, 2
+  index: -1

@@ -1,0 +1,20 @@
+
+chenmo.png
+size: 174,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ico_x0
+  rotate: false
+  xy: 111, 46
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+images/ico_x1
+  rotate: false
+  xy: 1, 1
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1

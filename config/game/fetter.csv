@@ -1,0 +1,456 @@
+﻿VariableName,name,name_vn,name_ma,name_in,name_ph,name_en,name_th,desc,desc_tw,desc_en,desc_vn,desc_th,cards,equipID,skinID,attrMap
+Defaults,,,,,,,,,"""""","""""","""""","""""",<>,,,{}
+VariableName,name,name_vn,name_ma,name_in,name_ph,name_en,name_th,desc,desc_tw,desc_en,desc_vn,desc_th,cards,equipID,skinID,attrMap
+111,Humor Group  ,Nhóm Hài Hước,Kumpulan Lucu  ,Kelompok Lucu  ,Nakakatawang Grupo  ,Humor Group  ,กลุ่มตลก  ,,,,,,<2843;2633;3683>,,,{7=10%;8=10%}
+112,Rules of Power  ,Quy Tắc Quyền Lực,Peraturan Kuasa  ,Aturan Kekuatan  ,Batas ng Kapangyarihan  ,Rules of Power  ,กฎแห่งอำนาจ  ,,,,,,<2612;2963;3432>,,,{1=10%}
+113,Adventure Companion  ,Bạn Đồng Hành Phiêu Lưu,Teman Pengembaraan  ,Rekan Petualangan  ,Kasamang Pakikipagsapalaran  ,Adventure Companion  ,เพื่อนร่วมผจญภัย  ,,,,,,<2073;2593;731>,,,{7=10%;8=10%}
+411,Soulmate  ,Bạn Thân Của Linh Hồn,Sahabat Jiwa  ,Sahabat Jiwa  ,Matalik na Kaibigan ng Kaluluwa  ,Soulmate  ,เพื่อนสนิทของวิญญาณ  ,,,,,,<3432;3342;3472>,,,{7=8%;8=8%}
+412,Bizarre Character  ,Nhân Vật Quái Dị,Watak Aneh  ,Karakter Aneh  ,Kakaibang Tauhan  ,Bizarre Character  ,ตัวละครประหลาด  ,,,,,,<13;3772;793>,,,{1=10%}
+413,Technology Expert  ,Chuyên Gia Công Nghệ,Pakar Teknologi  ,Ahli Teknologi  ,Eksperto sa Teknolohiya  ,Technology Expert  ,ผู้เชี่ยวชาญด้านเทคโนโลยี  ,,,,,,<3683;3472;53>,,,{7=8%;8=8%}
+511,Friendship Group  ,Nhóm Tình Bạn,Kumpulan Persahabatan  ,Kelompok Persahabatan  ,Grupo ng Pagkakaibigan  ,Friendship Group  ,กลุ่มมิตรภาพ  ,,,,,,<1931;3293;3511>,,,{7=10%;8=10%}
+512,Black-Clad Deliveryman  ,Người Giao Hàng Áo Đen,Penghantar Berpakaian Hitam  ,Pengantar Berpakaian Hitam  ,Tagapaghahatid na Naka-Itim  ,Black-Clad Deliveryman  ,คนส่งของชุดดำ  ,,,,,,<552;793;1612>,,,{1=10%}
+513,Superhero  ,Siêu Anh Hùng,Adiwira  ,Pahlawan Super  ,Superhero  ,Superhero  ,ซูเปอร์ฮีโร่  ,,,,,,<1931;1903;1221>,,,{7=10%;8=10%}
+811,Toxic Companion  ,Bạn Đồng Hành Độc,Teman Beracun  ,Rekan Beracun  ,Kasamang May Lason  ,Toxic Companion  ,เพื่อนร่วมทางพิษ  ,,,,,,<3772;44;163>,,,{7=8%;8=8%}
+812,Toxic Body  ,Thân Thể Độc,Tubuh Beracun  ,Tubuh Beracun  ,Katawang May Lason  ,Toxic Body  ,ร่างกายมีพิษ  ,,,,,,<3772;1503>,,,{1=10%}
+813,Mysterious Power  ,Quyền Lực Bí Ẩn,Kuasa Misteri  ,Kekuatan Misterius  ,Misteryosong Kapangyarihan  ,Mysterious Power  ,พลังลึกลับ  ,,,,,,<273;692;2073>,,,{7=8%;8=8%}
+1611,Toxic Specialist  ,Chuyên Gia Độc Tố,Pakar Racun  ,Ahli Racun  ,Eksperto sa Lason  ,Toxic Specialist  ,ผู้เชี่ยวชาญพิษ  ,,,,,,<1503;1032;82>,,,{7=15%;8=15%}
+1612,Violent Girl  ,Cô Gái Bạo Lực,Gadis Ganas  ,Gadis Brutal  ,Babaeng Bayolente  ,Violent Girl  ,สาวนักเลง  ,,,,,,<572;3152;1381>,,,{1=15%}
+1613,Skill Control  ,Kiểm Soát Kỹ Năng,Kawalan Kemahiran  ,Kontrol Keterampilan  ,Kontrol sa Kasanayan  ,Skill Control  ,ควบคุมทักษะ  ,,,,,,<2723;712;552>,,,{7=15%;8=15%}
+1614,Alien Race  ,Chủng Tộc Ngoài Hành Tinh,Kaum Asing  ,Ras Asing  ,Lahi Mula sa Ibang Mundo  ,Alien Race  ,เผ่านอกโลก  ,,,,,,<7001;3673;2233;1931>,,,{23=500}
+2411,Force Leader  ,Lãnh Đạo Thế Lực,Pemimpin Kekuatan  ,Pemimpin Kekuatan  ,Pinuno ng Puwersa  ,Force Leader  ,ผู้นำอำนาจ  ,,,,,,<3353;3251;3543>,,,{7=15%;8=15%}
+2412,Second Generation Superhuman  ,Siêu Nhân Thế Hệ Thứ Hai,Adiwira Generasi Kedua  ,Pahlawan Generasi Kedua  ,Superhero ng Ikalawang Henerasyon  ,Second Generation Superhuman  ,ซูเปอร์แมนรุ่นที่สอง  ,,,,,,<3021;3663;1841;2233>,,,{1=15%}
+2413,Hot-Blooded Teen  ,Thiếu Niên Nhiệt Huyết,Remaja Bersemangat  ,Remaja Bersemangat  ,Kabataang Masigla  ,Hot-Blooded Teen  ,วัยรุ่นเลือดร้อน  ,,,,,,<631;3543;741>,,,{7=15%;8=15%}
+2414,Unlimited Potential  ,Tiềm Năng Vô Hạn,Potensi Tanpa Had  ,Potensi Tak Terbatas  ,Walang Hanggang Potensyal  ,Unlimited Potential  ,ศักยภาพไร้ขีดจำกัด  ,,,,,,<1423;1231;593;3152>,,,{14=500}
+2611,Special Function  ,Chức Năng Đặc Biệt,Fungsi Khas  ,Fungsi Khusus  ,Tanging Kakayahan  ,Special Function  ,ฟังก์ชันพิเศษ  ,,,,,,<3181;1381;741;603>,,,{7=20%;8=20%}
+2612,Ultimate Control  ,Kiểm Soát Tối Thượng,Kawalan Mutlak  ,Kontrol Tertinggi  ,Ganap na Kontrol  ,Ultimate Control  ,การควบคุมสูงสุด  ,,,,,,<3021;2401;721;972>,,,{1=20%}
+2613,Superpower Authority  ,Quyền Lực Siêu Năng,Kuasa Luar Biasa  ,Kekuatan Super  ,Kapangyarihang Supernatural  ,Superpower Authority  ,พลังเหนือธรรมชาติ  ,,,,,,<3143;1393;771;721>,,,{7=20%;8=20%}
+2614,Demonic Will  ,Ý Chí Ma Thần,Semangat Dewa Iblis  ,Tekad Dewa Iblis  ,Diwa ng Diyablo  ,Demonic Will  ,จิตวิญญาณแห่งมาร  ,,,,,,<3673;2493;3251;1813>,,,{22=1000}
+2711,Martial Force  ,Thế Lực Đấu Võ,Kekuatan Pertarungan  ,Kekuatan Seni Bela Diri  ,Puwersang Mandirigma  ,Martial Force  ,พลังแห่งการต่อสู้  ,,,,,,<1303;692;1903>,,,{7=12%;8=12%}
+2712,Power Strength  ,Sức Mạnh Của Quyền,Kekuatan Tumbukan  ,Kekuatan Tinju  ,Lakas ng Kamao  ,Power Strength  ,พลังของหมัด  ,,,,,,<1303;1423;2233>,,,{1=12%}
+2713,Skill Control  ,Kiểm Soát Kỹ Năng,Kawalan Kemahiran  ,Kontrol Keterampilan  ,Kontrol sa Kasanayan  ,Skill Control  ,ควบคุมทักษะ  ,,,,,,<731;631;2723>,,,{7=12%;8=12%}
+3311,Hope of the Ninja World  ,Hy Vọng Thế Giới Ninja,Harapan Dunia Ninja  ,Harapan Dunia Ninja  ,Pag-asa ng Mundo ng Ninja  ,Hope of the Ninja World  ,ความหวังของโลกนินจา  ,,,,,,<3353;2242>,,,{7=15%;8=15%}
+3312,Defeat the Lightning  ,Đánh Bại Sấm Sét,Mengalahkan Kilat  ,Mengalahkan Petir  ,Talunin ang Kidlat  ,Defeat the Lightning  ,พิชิตสายฟ้า  ,,,,,,<593;883;1221>,,,{1=15%}
+3313,Battle Enthusiast  ,Người Đam Mê Chiến Đấu,Pencinta Pertarungan  ,Pecinta Pertarungan  ,Mahilig Lumaban  ,Battle Enthusiast  ,ผู้ที่หลงใหลการต่อสู้  ,,,,,,<1423;3171;2023>,,,{7=15%;8=15%}
+3314,Skill Peak  ,Đỉnh Cao Kỹ Năng,Kemahiran Tertinggi  ,Puncak Keterampilan  ,Rurok ng Kasanayan  ,Skill Peak  ,ทักษะสูงสุด  ,,,,,,<1313;3152;1911>,,,{23=500}
+3331,Hope of the Ninja World  ,Hy Vọng Thế Giới Ninja,Harapan Dunia Ninja  ,Harapan Dunia Ninja  ,Pag-asa ng Mundo ng Ninja  ,Hope of the Ninja World  ,ความหวังของโลกนินจา  ,,,,,,<3353;2242>,,,{7=20%;8=20%}
+3332,Defeat the Lightning  ,Đánh Bại Sấm Sét,Mengalahkan Kilat  ,Mengalahkan Petir  ,Talunin ang Kidlat  ,Defeat the Lightning  ,พิชิตสายฟ้า  ,,,,,,<593;883;1221>,,,{1=20%}
+3333,Battle Enthusiast  ,Người Đam Mê Chiến Đấu,Pencinta Pertarungan  ,Pecinta Pertarungan  ,Mahilig Lumaban  ,Battle Enthusiast  ,ผู้ที่หลงใหลการต่อสู้  ,,,,,,<1423;3171;2023>,,,{7=20%;8=20%}
+3334,Skill Peak  ,Đỉnh Cao Kỹ Năng,Kemahiran Tertinggi  ,Puncak Keterampilan  ,Rurok ng Kasanayan  ,Skill Peak  ,ทักษะสูงสุด  ,,,,,,<1313;3152;1911>,,,{22=1000}
+3911,Supernatural Sensation  ,Cảm Ứng Siêu Phàm,Deria Luar Biasa  ,Indra Supernatural  ,Pakiramdam na Hindi Pangkaraniwan  ,Supernatural Sensation  ,สัมผัสเหนือธรรมชาติ  ,,,,,,<1503;572;3663;1841>,,,{7=20%;8=20%}
+3912,God’s Responsibility  ,Trách Nhiệm Của Thần,Tanggungjawab Dewa  ,Tanggung Jawab Dewa  ,Tungkulin ng Diyos  ,God’s Responsibility  ,ความรับผิดชอบของเทพ  ,,,,,,<1893;771;263;863>,,,{1=20%}
+3913,Vengeful Power  ,Quyền Lực Oán Hận,Kuasa Kebencian  ,Kekuatan Kebencian  ,Kapangyarihan ng Poot  ,Vengeful Power  ,พลังแห่งความแค้น  ,,,,,,<3021;1393;1813;163>,,,{7=20%;8=20%}
+3914,Demon God Body  ,Thân Thể Ma Thần,Tubuh Dewa Iblis  ,Tubuh Dewa Iblis  ,Katawan ng Diyablo  ,Demon God Body  ,ร่างมาร  ,,,,,,<1231;263;2023;1253>,,,{22=1000}
+4011,Soulmate  ,Bạn Thân Của Linh Hồn,Sahabat Jiwa  ,Sahabat Jiwa  ,Matalik na Kaibigan ng Kaluluwa  ,Soulmate  ,เพื่อนสนิทของวิญญาณ  ,,,,,,<552;3543;493>,,,{7=12%;8=12%}
+4012,Humor Group  ,Nhóm Hài Hước,Kumpulan Lucu  ,Kelompok Lucu  ,Nakakatawang Grupo  ,Humor Group  ,กลุ่มตลก  ,,,,,,<2593;793;2843>,,,{1=12%}
+4013,Oath Companion  ,Bạn Đồng Hành Thề Nguyền,Teman Bersumpah  ,Rekan Sumpah  ,Kasamang Panata  ,Oath Companion  ,เพื่อนร่วมคำสาบาน  ,,,,,,<3683;2633;13>,,,{7=12%;8=12%}
+4911,Rock Solid  ,Vững Như Đá,Kukuh Seperti Batu  ,Kokoh Seperti Batu  ,Tulad ng Bato  ,Rock Solid  ,มั่นคงดั่งหิน  ,,,,,,<1503;863;1903>,,,{7=12%;8=12%}
+4912,Tonnage Pressure  ,Áp Lực Tonnage,Tekanan Tonnage  ,Tekanan Berat  ,Presyur na Matindi  ,Tonnage Pressure  ,แรงกดดันตันเนจ  ,,,,,,<3772;2593;1253>,,,{1=12%}
+4913,Journey Companion  ,Bạn Đồng Hành Cùng Đi,Teman Sepengembaraan  ,Rekan Perjalanan  ,Kasamang Paglalakbay  ,Journey Companion  ,เพื่อนร่วมเดินทาง  ,,,,,,<3432;2073;2033>,,,{7=12%;8=12%}
+5011,The Teacher’s Compassionate Soul  ,Tâm Hồn Nhân Ái Của Người Thầy,Hati Penyayang Guru  ,Hati Penuh Kasih Seorang Guru  ,Pusong Mapagkalinga ng Guro  ,The Teacher’s Compassionate Soul  ,จิตใจเมตตาของครู  ,,,,,,<3353;1241;1772;641>,,,{7=15%;8=15%}
+5012,Magical Girl  ,Cô Gái Phép Thuật,Gadis Sihir  ,Gadis Sihir  ,Batang Babaeng May Mahika  ,Magical Girl  ,สาวพ่อมด  ,,,,,,<2401;1393;771>,,,{1=15%}
+5013,Magic Control  ,Kiểm Soát Ma Lực,Kawalan Ajaib  ,Kontrol Kekuatan Magis  ,Kontrol sa Kapangyarihang Mahika  ,Magic Control  ,ควบคุมพลังเวท  ,,,,,,<3143;1381;593;603>,,,{7=15%;8=15%}
+5014,Infinite Blessings  ,Phúc Lành Vô Hạn,Berkat Tanpa Had  ,Berkat Tanpa Batas  ,Walang Hanggang Biyaya  ,Infinite Blessings  ,พรอันไม่มีที่สิ้นสุด  ,,,,,,<1241;3161;1772>,,,{23=500}
+5511,Magical Friends  ,Bạn Bè Phép Thuật,Rakan Sihir  ,Teman Ajaib  ,Kaibigang Mahikero  ,Magical Friends  ,เพื่อนนักเวท  ,,,,,,<771;3283;731>,,,{7=12%;8=12%}
+5512,Magic Control  ,Kiểm Soát Ma Lực,Kawalan Ajaib  ,Kontrol Kekuatan Magis  ,Kontrol sa Kapangyarihang Mahika  ,Magic Control  ,ควบคุมพลังเวท  ,,,,,,<1221;503;2843>,,,{1=12%}
+5513,IQ Specialist  ,Chuyên Gia IQ,Pakar IQ  ,Ahli IQ  ,Eksperto sa IQ  ,IQ Specialist  ,ผู้เชี่ยวชาญ IQ  ,,,,,,<333;731;3472>,,,{7=12%;8=12%}
+5711,Sword Mastery  ,Đỉnh Cao Kiếm,Puncak Pedang  ,Puncak Pedang  ,Tuktok ng Espada  ,Sword Mastery  ,สุดยอดดาบ  ,,,,,,<3303;701;1841;611>,,,{7=20%;8=20%}
+5712,Combat Expert  ,Chuyên Gia Chiến Đấu,Pakar Pertempuran  ,Ahli Pertarungan  ,Eksperto sa Labanan  ,Combat Expert  ,ผู้เชี่ยวชาญการต่อสู้  ,,,,,,<1893;2233;3171;611>,,,{1=20%}
+5713,Assassin Alliance  ,Liên Minh Sát Thủ,Perikatan Pembunuh  ,Aliansi Pembunuh  ,Samahan ng mga Mamamaslang  ,Assassin Alliance  ,พันธมิตรมือสังหาร  ,,,,,,<1381;1841;1293>,,,{7=20%;8=20%}
+5714,Girl Group  ,Nhóm Cô Gái,Kumpulan Gadis  ,Kelompok Gadis  ,Grupo ng mga Babae  ,Girl Group  ,กลุ่มสาวๆ  ,,,,,,<1393;721;3152;503>,,,{14=1000}
+5741,Sword Mastery  ,Đỉnh Cao Kiếm,Puncak Pedang  ,Puncak Pedang  ,Tuktok ng Espada  ,Sword Mastery  ,สุดยอดดาบ  ,,,,,,<3303;701;1841;611>,,,{7=25%;8=25%}
+5742,Combat Expert  ,Chuyên Gia Chiến Đấu,Pakar Pertempuran  ,Ahli Pertarungan  ,Eksperto sa Labanan  ,Combat Expert  ,ผู้เชี่ยวชาญการต่อสู้  ,,,,,,<1893;2233;3171;611>,,,{1=25%}
+5743,Assassin Alliance  ,Liên Minh Sát Thủ,Perikatan Pembunuh  ,Aliansi Pembunuh  ,Samahan ng mga Mamamaslang  ,Assassin Alliance  ,พันธมิตรมือสังหาร  ,,,,,,<1381;1841;1293>,,,{7=25%;8=25%}
+5744,Girl Group  ,Nhóm Cô Gái,Kumpulan Gadis  ,Kelompok Gadis  ,Grupo ng mga Babae  ,Girl Group  ,กลุ่มสาวๆ  ,,,,,,<1393;721;3152;503>,,,{14=1000}
+5911,School Girl  ,Cô Gái Học Đường,Gadis Sekolah  ,Gadis Sekolah  ,Estudyanteng Babae  ,School Girl  ,สาวมัธยม  ,,,,,,<771;1393;503>,,,{7=15%;8=15%}
+5912,Defeat the Lightning  ,Đánh Bại Sấm Sét,Mengalahkan Kilat  ,Mengalahkan Petir  ,Talunin ang Kidlat  ,Defeat the Lightning  ,พิชิตสายฟ้า  ,,,,,,<1221;333;593;883>,,,{1=15%}
+5913,Battle Enthusiast  ,Người Đam Mê Chiến Đấu,Pencinta Pertarungan  ,Pecinta Pertarungan  ,Mahilig Lumaban  ,Battle Enthusiast  ,ผู้ที่หลงใหลการต่อสู้  ,,,,,,<1423;3171;2023>,,,{7=15%;8=15%}
+5914,Magic Control  ,Kiểm Soát Ma Lực,Kawalan Ajaib  ,Kontrol Kekuatan Magis  ,Kontrol sa Kapangyarihang Mahika  ,Magic Control  ,ควบคุมพลังเวท  ,,,,,,<3143;1381;503;603>,,,{14=500}
+6011,Fire Control  ,Kiểm Soát Lửa,Kawalan Api  ,Kontrol Api  ,Kontrol sa Apoy  ,Fire Control  ,ควบคุมไฟ  ,,,,,,<3143;1393;1303;3152>,,,{7=15%;8=15%}
+6012,Magic School  ,Học Phái Phép Thuật,Aliran Sihir  ,Aliran Sihir  ,Paaralang Mahika  ,Magic School  ,สายเวทมนตร์  ,,,,,,<721;3143;1813;1381>,,,{1=15%}
+6013,Exploration Team  ,Đội Khám Phá,Pasukan Penjelajah  ,Tim Penjelajah  ,Koponan ng Eksplorasyon  ,Exploration Team  ,ทีมสำรวจ  ,,,,,,<1503;1231;3003;2023>,,,{7=15%;8=15%}
+6014,Magic Control  ,Kiểm Soát Ma Lực,Kawalan Ajaib  ,Kontrol Kekuatan Magis  ,Kontrol ng Mahikang Lakas  ,Magic Control  ,ควบคุมพลังเวท  ,,,,,,<3143;1381;503;593>,,,{14=500}
+6111,Soaring and Earth  ,Bay Lượn Và Đất,Terbang & Bumi  ,Terbang dan Tanah  ,Paglipad at Lupa  ,Soaring and Earth  ,บินและพื้นดิน  ,,,,,,<7001;701;3592;741>,,,{7=15%;8=15%}
+6112,Unmatched Fast Sword  ,Kiếm Nhanh Vô Song,Pedang Pantas Tiada Tanding  ,Pedang Cepat Tak Tertandingi  ,Mabilis na Espadang Walang Kapantay  ,Unmatched Fast Sword  ,ดาบเร็วไร้เทียมทาน  ,,,,,,<3303;572;1841;1071>,,,{1=15%}
+6113,Combat Expert  ,Chuyên Gia Chiến Đấu,Pakar Pertempuran  ,Ahli Pertarungan  ,Eksperto sa Labanan  ,Combat Expert  ,ผู้เชี่ยวชาญการต่อสู้  ,,,,,,<1893;2233;3171;2023>,,,{7=15%;8=15%}
+6114,Ordinary Human Body  ,Thân Thể Người Thường,Tubuh Biasa  ,Tubuh Manusia Biasa  ,Katawang Karaniwang Tao  ,Ordinary Human Body  ,ร่างกายมนุษย์ธรรมดา  ,,,,,,<3303;2242;701;1911>,,,{14=500}
+6311,Power of Water  ,Sức Mạnh Dòng Nước,Kekuatan Air  ,Kekuatan Air  ,Lakas ng Tubig  ,Power of Water  ,พลังแห่งสายน้ำ  ,,,,,,<2401;641;3543>,,,{7=15%;8=15%}
+6312,Sword Control  ,Kiểm Soát Kiếm,Kawalan Pedang  ,Kontrol Pedang  ,Kontrol ng Espada  ,Sword Control  ,ควบคุมดาบ  ,,,,,,<3303;572;1841;611>,,,{1=15%}
+6313,Gentle Soul  ,Tâm Hồn Dịu Dàng,Jiwa Lembut  ,Jiwa Lembut  ,Kaluluwang Banayad  ,Gentle Soul  ,จิตใจอ่อนโยน  ,,,,,,<1941;1951;3161;3003>,,,{7=15%;8=15%}
+6314,Unlimited Potential  ,Tiềm Năng Vô Hạn,Potensi Tanpa Had  ,Potensi Tak Terbatas  ,Walang Hanggang Potensyal  ,Unlimited Potential  ,ศักยภาพไร้ขีดจำกัด  ,,,,,,<1423;1231;593;741>,,,{14=500}
+6411,Power of Water  ,Sức Mạnh Dòng Nước,Kekuatan Air  ,Kekuatan Air  ,Lakas ng Tubig  ,Power of Water  ,พลังแห่งสายน้ำ  ,,,,,,<2401;631;3543>,,,{7=15%;8=15%}
+6412,Exotic Bloodline  ,Dòng Máu Dị Tộc,Darah Asing  ,Darah Ras Asing  ,Dugong Banyagang Lahi  ,Exotic Bloodline  ,สายเลือดต่างเผ่า  ,,,,,,<1841;163;2073>,,,{1=15%}
+6413,Girl Group  ,Nhóm Cô Gái,Kumpulan Gadis  ,Kelompok Gadis  ,Grupo ng mga Babae  ,Girl Group  ,กลุ่มสาวๆ  ,,,,,,<1393;721;3152;503>,,,{7=15%;8=15%}
+6414,Infinite Blessings  ,Phúc Lành Vô Hạn,Berkat Tanpa Had  ,Berkat Tanpa Batas  ,Walang Hanggang Biyaya  ,Infinite Blessings  ,พรอันไม่มีที่สิ้นสุด  ,,,,,,<1241;3161;1772>,,,{23=500}
+6911,Violence Group  ,Nhóm Bạo Lực,Kumpulan Ganas  ,Kelompok Brutal  ,Grupo ng Bayolente  ,Violence Group  ,กลุ่มรุนแรง  ,,,,,,<2013;2963;1911>,,,{7=10%;8=10%}
+6912,Group Friendship  ,Tình Bạn Tập Thể,Persahabatan Kolektif  ,Persahabatan Kolektif  ,Kolektibong Pagkakaibigan  ,Group Friendship  ,มิตรภาพกลุ่ม  ,,,,,,<3543;3432;402>,,,{1=10%}
+6913,Brave Acceptance  ,Dũng Cảm Đảm Nhận,Keberanian Menghadapi  ,Berani Menghadapi  ,Matapang na Harapin  ,Brave Acceptance  ,กล้ารับผิดชอบ  ,,,,,,<493;2073;3511>,,,{7=10%;8=10%}
+7011,Soaring and Earth  ,Bay Lượn Và Đất,Terbang & Bumi  ,Terbang dan Tanah  ,Paglipad at Lupa  ,Soaring and Earth  ,บินและพื้นดิน  ,,,,,,<7001;611;3592;741>,,,{7=20%;8=20%}
+7012,Unmatched Fast Sword  ,Kiếm Nhanh Vô Song,Pedang Pantas Tiada Tanding  ,Pedang Cepat Tak Tertandingi  ,Mabilis na Espadang Walang Kapantay  ,Unmatched Fast Sword  ,ดาบเร็วไร้เทียมทาน  ,,,,,,<3303;572;1841;1071>,,,{1=20%}
+7013,Combat Expert  ,Chuyên Gia Chiến Đấu,Pakar Pertempuran  ,Ahli Pertarungan  ,Eksperto sa Labanan  ,Combat Expert  ,ผู้เชี่ยวชาญการต่อสู้  ,,,,,,<1893;2233;3171;2023>,,,{7=20%;8=20%}
+7014,Ordinary Human Body  ,Thân Thể Người Thường,Tubuh Biasa  ,Tubuh Manusia Biasa  ,Katawang Karaniwang Tao  ,Ordinary Human Body  ,ร่างกายมนุษย์ธรรมดา  ,,,,,,<3303;2242;611;1911>,,,{14=1000}
+7111,Tech Innovation  ,Sáng Tạo Công Nghệ,Inovasi Teknologi  ,Kreasi Teknologi  ,Makabagong Teknolohiya  ,Tech Innovation  ,นวัตกรรมเทคโนโลยี  ,,,,,,<3181;3592;3683>,,,{7=15%;8=15%}
+7112,Sword Control  ,Kiểm Soát Kiếm,Kawalan Pedang  ,Kontrol Pedang  ,Kontrol ng Espada  ,Sword Control  ,ควบคุมดาบ  ,,,,,,<3303;572;1841;611>,,,{1=15%}
+7113,Dual Blade Unity  ,Song Kiếm Hợp Bích,Gabungan Pedang Berkembar  ,Dua Pedang Bersatu  ,Pinagsanib na Espada  ,Dual Blade Unity  ,ดาบคู่ประสานใจ  ,,,,,,<701;611;1381>,,,{7=15%;8=15%}
+7114,Unmatched Queen  ,Nữ Hoàng Vô Song,Ratu Tiada Tanding  ,Ratu Tak Tertandingi  ,Walang Kapantay na Reyna  ,Unmatched Queen  ,ราชินีไร้เทียมทาน  ,,,,,,<3353;3161;1772;863>,,,{23=500}
+7211,Frozen Thousand Miles  ,Băng Đóng Ngàn Dặm,Bekuan Seribu Batu  ,Es Membeku Ribuan Mil  ,Yelong Nagyeyelo ng Libong Milya  ,Frozen Thousand Miles  ,น้ำแข็งปกคลุมพันลี้  ,,,,,,<3021;1082>,,,{7=20%;8=20%}
+7212,Legendary Magic  ,Huyền Thoại Phép Thuật,Legenda Ajaib  ,Legenda Sihir  ,Alamat ng Mahika  ,Legendary Magic  ,ตำนานเวทมนตร์  ,,,,,,<2401;263;1813;593>,,,{1=20%}
+7213,Witching Moment  ,Thời Khắc Phù Thủy,Saat Penyihir  ,Momen Penyihir  ,Sandali ng Mangkukulam  ,Witching Moment  ,ช่วงเวลาแม่มด  ,,,,,,<3143;771;503>,,,{7=20%;8=20%}
+7214,Girl Group  ,Nhóm Cô Gái,Kumpulan Gadis  ,Kelompok Gadis  ,Grupo ng mga Babae  ,Girl Group  ,กลุ่มสาวๆ  ,,,,,,<1393;2401;3152;641>,,,{22=1000}
+7311,Legendary Mage  ,Huyền Thoại Pháp Sư,Legenda Ahli Sihir  ,Legenda Penyihir  ,Alamat ng Salamangkero  ,Legendary Mage  ,ตำนานจอมเวท  ,,,,,,<1381;3283;603>,,,{7=15%;8=15%}
+7312,Defeat the Lightning  ,Đánh Bại Sấm Sét,Mengalahkan Kilat,Mengalahkan Petir  ,Talunin ang Kidlat  ,Defeat the Lightning  ,พิชิตสายฟ้า  ,,,,,,<333;883;1221>,,,{1=15%}
+7313,Ordinary Human Body  ,Thân Thể Người Thường,Tubuh Biasa  ,Tubuh Manusia Biasa  ,Katawang Karaniwang Tao  ,Ordinary Human Body  ,ร่างกายมนุษย์ธรรมดา  ,,,,,,<3303;2242;1911>,,,{7=15%;8=15%}
+7314,Superpower Companion  ,Bạn Đồng Hành Siêu Năng,Teman Kuasa Super  ,Rekan Supernatural  ,Kasamang May Kakayahang Supernatural  ,Superpower Companion  ,เพื่อนร่วมทางพลังพิเศษ  ,,,,,,<2493;1893;721;503>,,,{23=500}
+7411,Holy Fire Control  ,Kiểm Soát Thánh Hỏa,Kawalan Api Suci  ,Kontrol Api Suci  ,Kontrol ng Banal na Apoy  ,Holy Fire Control  ,ควบคุมไฟศักดิ์สิทธิ์  ,,,,,,<1393;242;603>,,,{7=15%;8=15%}
+7412,Power of Fire  ,Sức Mạnh Lửa,Kekuatan Api  ,Kekuatan Api  ,Lakas ng Apoy  ,Power of Fire  ,พลังแห่งไฟ  ,,,,,,<3152;1303;1612>,,,{1=15%}
+7413,Immortal Body  ,Thân Thể Bất Tử,Tubuh Abadi  ,Tubuh Abadi  ,Katawang Walang Kamatayan  ,Immortal Body  ,ร่างอมตะ  ,,,,,,<263;3021;3673;393>,,,{7=15%;8=15%}
+7414,Unlimited Potential  ,Tiềm Năng Vô Hạn,Potensi Tanpa Had  ,Potensi Tak Terbatas  ,Walang Hanggang Potensyal  ,Unlimited Potential  ,ศักยภาพไร้ขีดจำกัด  ,,,,,,<1423;1231;593;631>,,,{14=500}
+7611,Wind-Fast Sword  ,Kiếm Nhanh Như Gió,Pedang Sepantas Angin  ,Pedang Cepat Seperti Angin  ,Espada Kasingbilis ng Hangin  ,Wind-Fast Sword  ,ดาบไวดั่งลม  ,,,,,,<701;1841;611;1071>,,,{7=20%;8=20%}
+7612,Battle Instinct  ,Bản Năng Chiến Đấu,Naluri Bertarung  ,Naluri Bertarung  ,Likas na Instinct sa Laban  ,Battle Instinct  ,สัญชาตญาณนักสู้  ,,,,,,<1313;572;3003;741>,,,{1=20%}
+7613,Beloved Idol  ,Thần Tượng Được Yêu Thích,Idola Disayangi  ,Idola Favorit  ,Paboritong Idolo  ,Beloved Idol  ,ไอดอลขวัญใจ  ,,,,,,<2493;7001;641;593>,,,{7=20%;8=20%}
+7614,Demonic Seed  ,Hạt Giống Ma Thần,Benih Dewa Iblis  ,Benih Dewa Iblis  ,Binhi ng Diyos ng Demonyo  ,Demonic Seed  ,เมล็ดพันธุ์จอมมาร  ,,,,,,<3673;1893;3251;3161>,,,{14=1000}
+7711,Master of Magic  ,Thành Thạo Phép Thuật,Penguasaan Sihir  ,Ahli Sihir  ,Bihasa sa Mahika  ,Master of Magic  ,เชี่ยวชาญเวทมนตร์  ,,,,,,<263;3021;3181;1813>,,,{7=20%;8=20%}
+7712,Magical Girl  ,Cô Gái Phép Thuật,Gadis Sihir  ,Gadis Penyihir  ,Batang Babaeng May Mahika  ,Magical Girl  ,สาวพ่อมด  ,,,,,,<2401;1393;503>,,,{1=20%}
+7713,Magic Control  ,Kiểm Soát Ma Lực,Kawalan Ajaib  ,Kontrol Kekuatan Magis  ,Kontrol ng Mahikang Lakas  ,Magic Control  ,ควบคุมพลังเวท  ,,,,,,<3143;1381;593;603>,,,{7=20%;8=20%}
+7714,Demon God's Power  ,Sức Mạnh Ma Thần,Kekuatan Dewa Iblis  ,Kekuatan Dewa Iblis  ,Lakas ng Diyos ng Demonyo  ,Demon God's Power  ,พลังแห่งจอมมาร  ,,,,,,<3673;2493;1231;2023>,,,{22=1000}
+7911,Firepower Control  ,Kiểm Soát Hỏa Lực,Kawalan Kuasa Api  ,Kontrol Kekuatan Api  ,Kontrol ng Apoy  ,Firepower Control  ,ควบคุมพลังไฟ  ,,,,,,<44;1612;3293>,,,{7=12%;8=12%}
+7912,Vanguard Enforcer  ,Tiên Phong Thi Hành,Perintis Tindakan  ,Pelaksana Depan  ,Tagapagpatupad  ,Vanguard Enforcer  ,แนวหน้าแห่งภารกิจ  ,,,,,,<1293;1903;2593>,,,{1=12%}
+7913,High-Energy Tech  ,Công Nghệ Cao Năng,Teknologi Tenaga Tinggi  ,Teknologi Tingkat Tinggi  ,Teknolohiyang Advanced  ,High-Energy Tech  ,เทคโนโลยีพลังงานสูง  ,,,,,,<3683;712;3472>,,,{7=12%;8=12%}
+8611,Goddess Alliance  ,Liên Minh Nữ Thần,Perikatan Dewi  ,Aliansi Dewi  ,Alyansa ng mga Diyosa  ,Goddess Alliance  ,พันธมิตรเทพี  ,,,,,,<3161;1893>,,,{7=15%;8=15%}
+8612,The Teacher’s Compassionate Soul  ,Tâm Hồn Nhân Ái Của Người Thầy,Hati Penyayang Guru  ,Hati Penuh Kasih Seorang Guru  ,Pusong Mapagkalinga ng Guro  ,The Teacher’s Compassionate Soul  ,จิตใจเมตตาของครู  ,,,,,,<3353;1241;1772;3181>,,,{1=15%}
+8613,Gentle Soul  ,Tâm Hồn Dịu Dàng,Jiwa Lembut  ,Jiwa Lembut  ,Kaluluwang Banayad  ,Gentle Soul  ,จิตใจอ่อนโยน  ,,,,,,<1941;1951;3181;3003>,,,{7=15%;8=15%}
+8614,Demon God Race  ,Chủng Tộc Ma Thần,Kaum Dewa Iblis  ,Ras Dewa Iblis  ,Lahi ng Diyos ng Demonyo  ,Demon God Race  ,เผ่าจอมมาร  ,,,,,,<3673;393;3251;2023>,,,{14=500}
+8811,Lightning Family  ,Gia Đình Sấm Sét,Keluarga Kilat  ,Keluarga Petir  ,Pamilyang Kidlat  ,Lightning Family  ,ครอบครัวสายฟ้า  ,,,,,,<333;593;731>,,,{7=15%;8=15%}
+8812,Professional Assassin  ,Sát Thủ Chuyên Nghiệp,Pembunuh Profesional  ,Pembunuh Profesional  ,Propesyonal na Mamamaslang  ,Professional Assassin  ,นักฆ่ามืออาชีพ  ,,,,,,<572;1841;1293>,,,{1=15%}
+8813,Teenage Journey  ,Hành Trình Thiếu Niên,Perjalanan Remaja  ,Perjalanan Remaja  ,Paglalakbay ng Kabataan  ,Teenage Journey  ,การผจญภัยของวัยรุ่น  ,,,,,,<631;2033;2013>,,,{7=15%;8=15%}
+9711,Interesting Magic  ,Phép Thuật Thú Vị,Sihir Menarik  ,Sihir Menarik  ,Kamangha-manghang Mahika  ,Interesting Magic  ,เวทมนตร์สุดสนุก  ,,,,,,<3143;771;721>,,,{7=15%;8=15%}
+9712,Time Control  ,Kiểm Soát Thời Gian,Kawalan Masa  ,Kontrol Waktu  ,Kontrol ng Oras  ,Time Control  ,ควบคุมเวลา  ,,,,,,<1393;263;3683>,,,{1=15%}
+9713,Heroic Appearance  ,Dáng Vẻ Anh Hùng,Rupa Wira  ,Penampilan Pahlawan  ,Anyo ng Bayani  ,Heroic Appearance  ,รูปลักษณ์ฮีโร่  ,,,,,,<1313;572;3152;712>,,,{7=15%;8=15%}
+9714,Witch Alliance  ,Liên Minh Phù Thủy,Perikatan Penyihir  ,Aliansi Penyihir  ,Alyansa ng mga Mangkukulam  ,Witch Alliance  ,พันธมิตรพ่อมด  ,,,,,,<3143;2401;771;1393>,,,{22=500}
+9731,Interesting Magic  ,Phép Thuật Thú Vị,Sihir Menarik  ,Sihir Menarik  ,Kamangha-manghang Mahika  ,Interesting Magic  ,เวทมนตร์สุดสนุก  ,,,,,,<3143;771;721>,,,{7=20%;8=20%}
+9732,Time Control  ,Kiểm Soát Thời Gian,Kawalan Masa  ,Kontrol Waktu  ,Kontrol ng Oras  ,Time Control  ,ควบคุมเวลา  ,,,,,,<1393;263;3683>,,,{1=20%}
+9733,Heroic Appearance  ,Dáng Vẻ Anh Hùng,Rupa Wira  ,Penampilan Pahlawan  ,Anyo ng Bayani  ,Heroic Appearance  ,รูปลักษณ์ฮีโร่  ,,,,,,<1313;572;3152;712>,,,{7=20%;8=20%}
+9734,Witch Alliance  ,Liên Minh Phù Thủy,Perikatan Penyihir  ,Aliansi Penyihir  ,Alyansa ng mga Mangkukulam  ,Witch Alliance  ,พันธมิตรพ่อมด  ,,,,,,<3143;2401;771;1393>,,,{22=1000}
+10311,Toxin Control  ,Kiểm Soát Độc Tố,Kawalan Racun  ,Kontrol Racun  ,Kontrol ng Lason  ,Toxin Control  ,ควบคุมพิษ  ,,,,,,<1503;163;82>,,,{7=15%;8=15%}
+10312,Darkness Control  ,Kiểm Soát Bóng Tối,Kawalan Kegelapan  ,Kontrol Kegelapan  ,Kontrol ng Kadiliman  ,Darkness Control  ,ควบคุมความมืด  ,,,,,,<1393;3021;3251>,,,{1=15%}
+10313,Gaming Machine Alliance  ,Liên Minh Máy Chơi Game,Perikatan Permainan  ,Aliansi Konsol Game  ,Alyansa ng Gaming Console  ,Gaming Machine Alliance  ,พันธมิตรเกมเมอร์  ,,,,,,<263;1303;273>,,,{7=15%;8=15%}
+10314,Justice and Evil  ,Chính Nghĩa Và Bất Chính,Keadilan dan Kejahatan  ,Keadilan dan Kejahatan  ,Katarungan at Kasamaan  ,Justice and Evil  ,ความยุติธรรมกับความชั่วร้าย  ,,,,,,<3673;393;3251;1841>,,,{23=500}
+10711,Samurai Soul  ,Linh Hồn Samurai,Roh Samurai  ,Jiwa Samurai  ,Kaluluwang Samurai  ,Samurai Soul  ,วิญญาณซามูไร  ,,,,,,<3353;1423;3152;3663>,,,{7=15%;8=15%}
+10712,Unmatched Fast Sword  ,Kiếm Nhanh Vô Song,Pedang Pantas Tiada Tanding  ,Pedang Cepat Tak Tertandingi  ,Mabilis na Espadang Walang Kapantay  ,Unmatched Fast Sword  ,ดาบเร็วไร้เทียมทาน  ,,,,,,<3303;572;1841;631>,,,{1=15%}
+10713,Combat Expert  ,Chuyên Gia Chiến Đấu,Pakar Pertempuran  ,Ahli Pertarungan  ,Eksperto sa Labanan  ,Combat Expert  ,ผู้เชี่ยวชาญการต่อสู้  ,,,,,,<1893;2233;3171;2023>,,,{7=15%;8=15%}
+10714,Unlimited Potential  ,Tiềm Năng Vô Hạn,Potensi Tanpa Had  ,Potensi Tak Terbatas  ,Walang Hanggang Potensyal  ,Unlimited Potential  ,ศักยภาพไร้ขีดจำกัด  ,,,,,,<1423;1231;593;741>,,,{14=500}
+10811,Ice Control  ,Kiểm Soát Băng,Kawalan Ais  ,Kontrol Es  ,Kontrol ng Yelo  ,Ice Control  ,ควบคุมน้ำแข็ง  ,,,,,,<3021;721>,,,{7=15%;8=15%}
+10812,Violence Group  ,Nhóm Bạo Lực,Kumpulan Ganas  ,Kelompok Brutal  ,Grupo ng Bayolente  ,Violence Group  ,กลุ่มรุนแรง  ,,,,,,<1813;603;1612>,,,{1=15%}
+10813,Girl Group  ,Nhóm Cô Gái,Kumpulan Gadis  ,Kelompok Gadis  ,Grupo ng mga Babae  ,Girl Group  ,กลุ่มสาวๆ  ,,,,,,<3152;163;503>,,,{7=15%;8=15%}
+11731,Iron Will  ,Ý Chí Thép,Semangat Besi  ,Tekad Baja  ,Bakalyadong Lakas ng Loob  ,Iron Will  ,จิตใจแข็งแกร่ง  ,,,,,,<7001;1313;1911;631>,,,{7=20%;8=20%}
+11732,Demon Slayer  ,Tiêu Diệt Ác Quỷ,Musnahkan Iblis  ,Membasmi Iblis  ,Puksain ang Demonyo  ,Demon Slayer  ,กำจัดปีศาจ  ,,,,,,<2401;1893;3161;1772>,,,{1=20%}
+11733,Ultimate Fist  ,Quyền Đạo Tối Thượng,Tumbukan Tertinggi  ,Kekuatan Tertinggi  ,Pinakamataas na Lakas ng Kamao  ,Ultimate Fist  ,หมัดสูงสุด  ,,,,,,<1423;1303;242;1911>,,,{7=20%;8=20%}
+11734,Divine Body  ,Thân Thể Thần Ma,Tubuh Dewa Iblis  ,Tubuh Dewa Iblis  ,Katawang Diyos-Demonyo  ,Divine Body  ,ร่างเทพมาร  ,,,,,,<3021;1941;3251;3673>,,,{14=1000}
+12211,Superhero  ,Siêu Anh Hùng,Adiwira  ,Pahlawan Super  ,Super Hero  ,Superhero  ,ซูเปอร์ฮีโร่  ,,,,,,<1931;1903;53>,,,{7=15%;8=15%}
+12212,Lightning Conqueror  ,Đánh Bại Sấm Sét,Mengalahkan Kilat  ,Mengalahkan Petir  ,Talunin ang Kidlat  ,Lightning Conqueror  ,พิชิตสายฟ้า  ,,,,,,<593;333;731;883>,,,{1=15%}
+12213,Berserker Warrior  ,Chiến Binh Cuồng Bạo,Pahlawan Ganas  ,Prajurit Ganas  ,Mandirigmang Mabagsik  ,Berserker Warrior  ,นักรบคลั่ง  ,,,,,,<2023;1303;1911;242>,,,{7=15%;8=15%}
+12214,Demon God Race  ,Chủng Tộc Ma Thần,Kaum Dewa Iblis  ,Ras Dewa Iblis  ,Lahi ng Diyos-Demonyo  ,Demon God Race  ,เผ่าจอมมาร  ,,,,,,<3673;393;3251;2023>,,,{23=500}
+12311,Sword Mastery  ,Đỉnh Cao Kiếm,Puncak Pedang  ,Puncak Pedang  ,Rurok ng Espada  ,Sword Mastery  ,สุดยอดดาบ  ,,,,,,<3303;701;1841;611>,,,{7=20%;8=20%}
+12312,God’s Responsibility  ,Trách Nhiệm Của Thần,Tanggungjawab Dewa  ,Tanggung Jawab Dewa  ,Tungkulin ng Diyos  ,God’s Responsibility  ,ความรับผิดชอบของเทพ  ,,,,,,<1893;263;393;863>,,,{1=20%}
+12313,Iron Forged a Thousand Times  ,Sắt Được Rèn Từ Ngàn Lần,Besi Ditempa Seribu Kali  ,Besi Ditempa Ribuan Kali  ,Bakal na Pinanday ng Libong Ulit  ,Iron Forged a Thousand Times  ,เหล็กที่ผ่านการหลอมพันครั้ง  ,,,,,,<2233;1423;3171;1911>,,,{7=20%;8=20%}
+12314,Demon God's Power  ,Sức Mạnh Ma Thần,Kekuatan Dewa Iblis  ,Kekuatan Dewa Iblis  ,Lakas ng Diyos-Demonyo  ,Demon God's Power  ,พลังแห่งจอมมาร  ,,,,,,<3673;2493;3251;2023>,,,{23=1000}
+12411,Magic Control  ,Kiểm Soát Ma Lực,Kawalan Ajaib  ,Kontrol Kekuatan Magis  ,Kontrol ng Mahika  ,Magic Control  ,ควบคุมพลังเวท  ,,,,,,<3143;1381;593;603>,,,{7=20%;8=20%}
+12412,Infinite Blessings  ,Phúc Lành Vô Hạn,Berkat Tanpa Had  ,Berkat Tanpa Batas  ,Walang Hanggang Biyaya  ,Infinite Blessings  ,พรอันไม่มีที่สิ้นสุด  ,,,,,,<3181;3161;863>,,,{1=20%}
+12413,Beloved Idol  ,Thần Tượng Được Yêu Thích,Idola Disayangi  ,Idola Favorit  ,Paboritong Idolo  ,Beloved Idol  ,ไอดอลขวัญใจ  ,,,,,,<2493;7001;641;593>,,,{7=20%;8=20%}
+12414,Girl Group  ,Nhóm Cô Gái,Kumpulan Gadis  ,Kelompok Gadis  ,Grupo ng mga Babae  ,Girl Group  ,กลุ่มสาวๆ  ,,,,,,<3303;2401;3152;503>,,,{23=1000}
+12511,Dominant Body  ,Thân Thể Bá Chủ,Tubuh Penguasa  ,Tubuh Penguasa  ,Katawan ng Kataas-taasang Pinuno,Dominant Body  ,ร่างจักรพรรดิ  ,,,,,,<263;3663;1303;1911>,,,{7=15%;8=15%}
+12512,Unmatched Fury  ,Cuồng Bạo Vô Song,Amukan Tiada Tanding  ,Ganas Tak Tertandingi  ,Walang Kapantay na Galit  ,Unmatched Fury  ,คลั่งสุดไร้เทียมทาน  ,,,,,,<3673;1423;3592;2023>,,,{1=15%}
+12513,Hero Alliance  ,Liên Minh Anh Hùng,Perikatan Wira  ,Aliansi Pahlawan  ,Samahan ng mga Bayani  ,Hero Alliance  ,พันธมิตรฮีโร่  ,,,,,,<2493;1313>,,,{7=15%;8=15%}
+12514,Demonic Seed  ,Hạt Giống Ma Thần,Benih Dewa Iblis  ,Benih Dewa Iblis  ,Binhi ng Diyos-Demonyo  ,Demonic Seed  ,เมล็ดพันธุ์จอมมาร  ,,,,,,<3673;1893;3251;3161>,,,{23=500}
+12911,Death’s Chosen One  ,Người Được Chọn Của Tử Thần,Yang Terpilih Oleh Maut  ,Yang Terpilih oleh Dewa Kematian  ,Napiling Isa ng Diyos ng Kamatayan  ,Death’s Chosen One  ,ผู้ถูกเลือกโดยยมทูต  ,,,,,,<1231;393;1813>,,,{7=15%;8=15%}
+12912,Professional Assassin  ,Sát Thủ Chuyên Nghiệp,Pembunuh Profesional  ,Pembunuh Profesional  ,Propesyonal na Mamamaslang  ,Professional Assassin  ,นักฆ่ามืออาชีพ  ,,,,,,<572;1841;883>,,,{1=15%}
+12913,Never Backs Down  ,Không Chịu Thua Đấu,Tidak Mahu Kalah  ,Tak Pernah Menyerah  ,Hindi Marunong Sumuko  ,Never Backs Down  ,ไม่ยอมแพ้  ,,,,,,<1423;3171;1911>,,,{7=15%;8=15%}
+13011,Power of Fire  ,Sức Mạnh Lửa,Kekuatan Api  ,Kekuatan Api  ,Lakas ng Apoy  ,Power of Fire  ,พลังแห่งไฟ  ,,,,,,<3143;1393;3152;603>,,,{7=15%;8=15%}
+13012,Never Backs Down  ,Không Chịu Thua Đấu,Tidak Mahu Kalah  ,Tak Pernah Menyerah  ,Hindi Marunong Sumuko  ,Never Backs Down  ,ไม่ยอมแพ้  ,,,,,,<3673;2233;3171>,,,{1=15%}
+13013,Ultimate Fist  ,Quyền Đạo Tối Thượng,Tumbukan Tertinggi  ,Kekuatan Tertinggi  ,Pinakamataas na Lakas ng Kamao  ,Ultimate Fist  ,อำนาจสูงสุด  ,,,,,,<1423;3663;1911>,,,{7=15%;8=15%}
+13014,Dominant Body  ,Thân Thể Bá Chủ,Tubuh Penguasa  ,Tubuh Penguasa  ,Katawan ng Kataas-taasang Pinuno,Dominant Body  ,ร่างจักรพรรดิ  ,,,,,,<7001;1253;2023>,,,{14=500}
+13111,Sword Mastery  ,Đỉnh Cao Kiếm,Puncak Pedang  ,Puncak Pedang  ,Rurok ng Espada  ,Sword Mastery  ,ยอดดาบสูงสุด  ,,,,,,<572;701;1841;1071>,,,{7=20%;8=20%}
+13112,Hero Alliance  ,Liên Minh Anh Hùng,Perikatan Wira  ,Aliansi Pahlawan  ,Samahan ng mga Bayani  ,Hero Alliance  ,พันธมิตรฮีโร่  ,,,,,,<2493;1253>,,,{1=20%}
+13113,Demonic Seed  ,Hạt Giống Ma Thần,Benih Dewa Iblis  ,Benih Dewa Iblis  ,Binhi ng Diyos-Demonyo  ,Demonic Seed  ,เมล็ดพันธุ์จอมมาร  ,,,,,,<3673;1893;3251;3161>,,,{7=20%;8=20%}
+13114,Inborn Innocence  ,Ngây Ngô Bẩm Sinh,Naif Sejak Lahir  ,Lugu Sejak Lahir  ,Inosente Mula sa Kapanganakan  ,Inborn Innocence  ,ไร้เดียงสาโดยกำเนิด  ,,,,,,<771;641;503>,,,{23=1000}
+13811,Transcendent Will  ,Ý Chí Siêu Phàm,Semangat Luar Biasa  ,Tekad Supernatural  ,Di-mabilang na Lakas ng Loob  ,Transcendent Will  ,จิตใจเหนือมนุษย์  ,,,,,,<2493;1231;3171;631>,,,{7=15%;8=15%}
+13812,Girl Alliance  ,Liên Minh Cô Gái,Perikatan Gadis  ,Aliansi Gadis  ,Samahan ng mga Babae  ,Girl Alliance  ,พันธมิตรสาวๆ  ,,,,,,<3303;2401;721;641>,,,{1=15%}
+13813,Eternal Sword Path  ,Đường Kiếm Vĩnh Cửu,Jalan Pedang Abadi  ,Pedang Abadi  ,Walang Hanggang Espada  ,Eternal Sword Path  ,ถนนดาบนิรันดร์  ,,,,,,<1313;1231;611;1071>,,,{7=15%;8=15%}
+13814,Sparkling Magic  ,Phép Thuật Lấp Lánh,Sihir Berkilauan  ,Sihir Berkilauan  ,Kumikinang na Mahika  ,Sparkling Magic  ,เวทมนตร์เปล่งประกาย  ,,,,,,<1393;771;972;503>,,,{22=500}
+13911,Sparkling Magic  ,Phép Thuật Lấp Lánh,Sihir Berkilauan  ,Sihir Berkilauan  ,Kumikinang na Mahika  ,Sparkling Magic  ,เวทมนตร์เปล่งประกาย  ,,,,,,<3143;263;972;593>,,,{7=20%;8=20%}
+13912,Magical Girl  ,Cô Gái Phép Thuật,Gadis Sihir  ,Gadis Penyihir  ,Batang Babaeng May Mahika  ,Magical Girl  ,สาวพ่อมด  ,,,,,,<2401;771;503>,,,{1=20%}
+13913,Darkness Control  ,Kiểm Soát Bóng Tối,Kawalan Kegelapan  ,Kontrol Kegelapan  ,Kontrol ng Kadiliman  ,Darkness Control  ,ควบคุมความมืด  ,,,,,,<393;3021;3251>,,,{7=20%;8=20%}
+13914,Fire Control  ,Kiểm Soát Lửa,Kawalan Api  ,Kontrol Api  ,Kontrol ng Apoy  ,Fire Control  ,ควบคุมไฟ  ,,,,,,<3143;1303;3152;242>,,,{22=1000}
+13961,Sparkling Magic  ,Phép Thuật Lấp Lánh,Sihir Berkilauan  ,Sihir Berkilauan  ,Kumikinang na Mahika  ,Sparkling Magic  ,เวทมนตร์เปล่งประกาย  ,,,,,,<3143;263;972;593>,,,{7=25%;8=25%}
+13962,Magical Girl  ,Cô Gái Phép Thuật,Gadis Sihir  ,Gadis Penyihir  ,Batang Babaeng May Mahika  ,Magical Girl  ,สาวพ่อมด  ,,,,,,<2401;771;503>,,,{1=25%}
+13963,Darkness Control  ,Kiểm Soát Bóng Tối,Kawalan Kegelapan  ,Kontrol Kegelapan  ,Kontrol ng Kadiliman  ,Darkness Control  ,ควบคุมความมืด  ,,,,,,<393;3021;3251>,,,{7=25%;8=25%}
+13964,Fire Control  ,Kiểm Soát Lửa,Kawalan Api  ,Kontrol Api  ,Kontrol ng Apoy  ,Fire Control  ,ควบคุมไฟ  ,,,,,,<3143;1303;3152;242>,,,{22=1000}
+14211,One Punch Man  ,Người Đấm Một Cú,Penumbuk Satu Pukulan  ,Orang yang Memukul Sekali  ,Taong May Isang Suntok  ,One Punch Man  ,นักชกหนึ่งหมัด  ,,,,,,<2233;3663;3171;242>,,,{7=20%;8=20%}
+14212,Ordinary Human Body  ,Thân Thể Người Thường,Tubuh Biasa  ,Tubuh Manusia Biasa  ,Katawang Pangkaraniwang Tao  ,Ordinary Human Body  ,ร่างกายมนุษย์ธรรมดา  ,,,,,,<3353;721;3152;631>,,,{1=20%}
+14213,Battle Instinct  ,Bản Năng Chiến Đấu,Naluri Bertarung  ,Naluri Bertarung  ,Instinct sa Pakikipaglaban  ,Battle Instinct  ,สัญชาตญาณนักสู้  ,,,,,,<1313;572;3003;741>,,,{7=20%;8=20%}
+14214,Breaking Authority  ,Uy Quyền Bức Phá,Kuasa Meledak  ,Kekuatan Meledak  ,Puwersang Malakas  ,Breaking Authority  ,อำนาจทำลายล้าง  ,,,,,,<3673;3021;701;1813>,,,{14=1000}
+15011,Iron Will  ,Ý Chí Thép,Semangat Besi  ,Tekad Baja  ,Bakalyadong Lakas ng Loob  ,Iron Will  ,จิตใจแข็งแกร่ง  ,,,,,,<7001;1313;1911;631>,,,{7=20%;8=20%}
+15012,Protective Armor  ,Giáp Cứng Bảo Vệ,Perisai Keras Pelindung  ,Perisai Baja  ,Kalasag na Bakal  ,Protective Armor  ,เกราะป้องกันแข็งแกร่ง  ,,,,,,<3021;1313;2723;863>,,,{1=20%}
+15013,Brutal Action  ,Hành Động Tàn Bạo,Tindakan Kejam  ,Tindakan Brutal  ,Brutal na Pagkilos  ,Brutal Action  ,การกระทำโหดร้าย  ,,,,,,<3673;2493;263;1841>,,,{7=20%;8=20%}
+15014,Naive Group  ,Nhóm Ngây Ngô,Kumpulan Naif  ,Kelompok Polos  ,Grupo ng Inosente  ,Naive Group  ,กลุ่มไร้เดียงสา  ,,,,,,<771;641;503>,,,{23=1000}
+16111,Firepower Control  ,Kiểm Soát Hỏa Lực,Kawalan Kuasa Api  ,Kontrol Kekuatan Api  ,Kontrol ng Apoy  ,Firepower Control  ,ควบคุมพลังไฟ  ,,,,,,<44;793;3293>,,,{7=15%;8=15%}
+16112,Magical Moment  ,Thời Khắc Huyền Ảo,Detik Ajaib  ,Momen Ajaib  ,Sandaling Mahimala  ,Magical Moment  ,ช่วงเวลาลึกลับ  ,,,,,,<771;3283;731>,,,{1=15%}
+16113,Girl Group  ,Nhóm Cô Gái,Kumpulan Gadis  ,Kelompok Gadis  ,Grupo ng mga Babae  ,Girl Group  ,กลุ่มสาวๆ  ,,,,,,<572;3152;503>,,,{7=15%;8=15%}
+17711,Supreme Saintess  ,Thánh Nữ Tối Cao,Perawan Agung  ,Gadis Suci Tertinggi  ,Pinakamataas na Banal na Babae  ,Supreme Saintess  ,เทพธิดาสูงสุด  ,,,,,,<1941;1313;1241>,,,{7=15%;8=15%}
+17712,Infinite Blessings  ,Phúc Lành Vô Hạn,Berkat Tanpa Had  ,Berkat Tanpa Batas  ,Walang Hanggang Biyaya  ,Infinite Blessings  ,พรอันไม่มีที่สิ้นสุด  ,,,,,,<1241;3161;863>,,,{1=15%}
+17713,The Teacher’s Compassionate Soul  ,Tâm Hồn Nhân Ái Của Người Thầy,Hati Penyayang Guru  ,Hati Penuh Kasih Seorang Guru  ,Mapagkalingang Puso ng Guro  ,The Teacher’s Compassionate Soul  ,จิตใจเมตตาของครู  ,,,,,,<3353;1241;641;3161>,,,{7=15%;8=15%}
+17714,Unmatched Queen  ,Nữ Hoàng Vô Song,Ratu Tiada Tanding  ,Ratu Tak Tertandingi  ,Walang Kapantay na Reyna  ,Unmatched Queen  ,ราชินีไร้เทียมทาน  ,,,,,,<3353;3161;863;712>,,,{23=500}
+18111,Demonic Sensing  ,Cảm Ứng Ma,Deria Ajaib  ,Indra Iblis  ,Pakiramdam ng Demonyo  ,Demonic Sensing  ,สัมผัสวิญญาณ  ,,,,,,<3021;393;1231>,,,{7=15%;8=15%}
+18112,Alternate Dimension  ,Không Gian Dị Thế,Dimensi Dunia Asing  ,Ruang Dunia Asing  ,Ibang Dimensyong Mundo  ,Alternate Dimension  ,มิติแปลกประหลาด  ,,,,,,<2493;1393;393;972>,,,{1=15%}
+18113,Darkness Control  ,Kiểm Soát Bóng Tối,Kawalan Kegelapan  ,Kontrol Kegelapan  ,Kontrol ng Kadiliman  ,Darkness Control  ,ควบคุมความมืด  ,,,,,,<1393;3021;3251;1303>,,,{7=15%;8=15%}
+18114,Supreme Mage  ,Pháp Sư Tối Cao,Ahli Sihir Tertinggi  ,Penyihir Tertinggi  ,Pinakamataas na Mangkukulam  ,Supreme Mage  ,จอมเวทสูงสุด  ,,,,,,<771;1381;593>,,,{22=500}
+18411,Disaster Warning  ,Cảnh Báo Tai Họa,Amaran Bencana  ,Peringatan Bencana  ,Babala ng Sakuna  ,Disaster Warning  ,เตือนภัยภัยพิบัติ  ,,,,,,<263;3663;1253>,,,{7=15%;8=15%}
+18412,Sword Control  ,Kiểm Soát Kiếm,Kawalan Pedang  ,Kontrol Pedang  ,Kontrol ng Espada  ,Sword Control  ,ควบคุมดาบ  ,,,,,,<3303;572;1071;611>,,,{1=15%}
+18413,Justice and Evil  ,Chính Nghĩa Và Bất Chính,Keadilan dan Kejahatan  ,Keadilan dan Kejahatan  ,Katarungan at Kasamaan  ,Justice and Evil  ,ความยุติธรรมกับความชั่วร้าย  ,,,,,,<3673;393;3251;1032>,,,{7=15%;8=15%}
+18414,Alien Bloodline  ,Dòng Máu Dị Tộc,Darah Asing  ,Darah Ras Asing  ,Dugong Banyaga  ,Alien Bloodline  ,สายเลือดต่างเผ่าพันธุ์  ,,,,,,<2073;163;641>,,,{23=500}
+18911,Angel Alliance  ,Liên Minh Thiên Thần,Perikatan Malaikat  ,Aliansi Malaikat  ,Samahan ng mga Anghel  ,Angel Alliance  ,พันธมิตรเทวา  ,,,,,,<3161;1951;1941>,,,{7=20%;8=20%}
+18912,Gentle Wife  ,Người Vợ Hiền Mẫu,Isteri dan Ibu Penyayang  ,Istri yang Lembut dan Baik  ,Mapagkalingang Asawa  ,Gentle Wife  ,ภรรยาผู้เป็นแม่ที่ดี  ,,,,,,<3303;712;721;641>,,,{1=20%}
+18913,Near-God Power  ,Sức Mạnh Cận Thần,Kekuatan Separa Tuhan  ,Kekuatan Semi-Dewa  ,Lakas ng Semi-Diyos  ,Near-God Power  ,พลังผู้พิทักษ์  ,,,,,,<2493;771;2023;1253>,,,{7=20%;8=20%}
+18914,Divine Body  ,Thân Thể Thần Ma,Tubuh Dewa Iblis  ,Tubuh Dewa Iblis  ,Katawan ng Diyos-Demonyo  ,Divine Body  ,ร่างเทพมาร  ,,,,,,<3021;1941;3251;863>,,,{14=1000}
+19011,Iron-Boned Skeleton  ,Xương Sắt Thép,Tulang Besi Keluli  ,Tulang Besi Baja  ,Butong Bakal at Asero  ,Iron-Boned Skeleton  ,กระดูกเหล็กกล้า  ,,,,,,<7001;3592;712;1931>,,,{7=15%;8=15%}
+19012,Superhero  ,Siêu Anh Hùng,Adiwira  ,Pahlawan Super  ,Super Hero  ,Superhero  ,ซูเปอร์ฮีโร่  ,,,,,,<1931;1221;53>,,,{1=15%}
+19013,Enhanced Physique  ,Tăng Cường Thể Chất,Peningkatan Fizikal  ,Peningkatan Fisik  ,Pinahusay na Katawan  ,Enhanced Physique  ,เสริมสร้างร่างกาย  ,,,,,,<3663;2023;1911>,,,{7=15%;8=15%}
+19014,Vanguard Enforcer  ,Tiên Phong Thi Hành,Perintis Tindakan  ,Pelaksana Terdepan  ,Nangungunang Tagapagpatupad  ,Vanguard Enforcer  ,แนวหน้าภารกิจ  ,,,,,,<1231;1293;2593;793>,,,{23=500}
+19111,Ultimate Fist  ,Quyền Đạo Tối Thượng,Tumbukan Tertinggi  ,Kekuatan Tertinggi  ,Pinakamataas na Lakas  ,Ultimate Fist  ,อำนาจสูงสุด  ,,,,,,<1423;3663;1303>,,,{7=15%;8=15%}
+19112,Unyielding Will  ,Ý Chí Kiên Cường,Semangat Teguh  ,Tekad Kuat  ,Matatag na Diwa  ,Unyielding Will  ,จิตใจเข้มแข็ง  ,,,,,,<3353;1313;2023;611>,,,{1=15%}
+19113,Breaking Authority  ,Uy Quyền Bức Phá,Kuasa Meledak  ,Kekuatan Meledak  ,Sumasabog na Kapangyarihan  ,Breaking Authority  ,อำนาจทำลายล้าง  ,,,,,,<3673;3021;701;1813>,,,{7=15%;8=15%}
+19114,Iron-Boned Skeleton  ,Xương Sắt Thép,Tulang Besi Keluli  ,Tulang Besi Baja  ,Butong Bakal at Asero  ,Iron-Boned Skeleton  ,กระดูกเหล็กกล้า  ,,,,,,<7001;3592;712;1931>,,,{14=500}
+19311,Iron-Boned Skeleton  ,Xương Sắt Thép,Tulang Besi Keluli  ,Tulang Besi Baja  ,Butong Bakal at Asero  ,Iron-Boned Skeleton  ,กระดูกเหล็กกล้า  ,,,,,,<7001;3592;712;1903>,,,{7=15%;8=15%}
+19312,Superhero  ,Siêu Anh Hùng,Adiwira  ,Pahlawan Super  ,Super Hero  ,Superhero  ,ซูเปอร์ฮีโร่  ,,,,,,<1903;1221;53>,,,{1=15%}
+19313,Eternal Protector  ,Bảo Vệ Vĩnh Cửu,Perlindungan Abadi  ,Perlindungan Abadi  ,Walang Hanggang Proteksyon  ,Eternal Protector  ,ปกป้องนิรันดร์  ,,,,,,<741;863;3161;1772>,,,{7=15%;8=15%}
+19314,Alien Race  ,Chủng Tộc Ngoài Hành Tinh,Kaum Asing  ,Ras Luar Angkasa  ,Lahi mula sa Kalawakan  ,Alien Race  ,เผ่าพันธุ์ต่างดาว  ,,,,,,<7001;3673;2233;163>,,,{23=500}
+19411,Superpower Legion  ,Quân Đoàn Siêu Năng,Legion Superpower  ,Pasukan Supernatural  ,Hukbong May Super Power  ,Superpower Legion  ,กองทัพพลังวิเศษ  ,,,,,,<3143;593;603;1032>,,,{7=20%;8=20%}
+19412,Holy Light Power  ,Sức Mạnh Ánh Sáng Thánh,Kekuatan Cahaya Suci  ,Kekuatan Cahaya Suci  ,Banal na Liwanag na Lakas  ,Holy Light Power  ,พลังแห่งแสงศักดิ์สิทธิ์  ,,,,,,<1951;3161;1772>,,,{1=20%}
+19413,Oathbound Companion  ,Bạn Đồng Hành Thề Nguyền,Teman Bersumpah  ,Rekan Sumpah Setia  ,Kakamping may Sumpa  ,Oathbound Companion  ,เพื่อนร่วมทางสาบาน  ,,,,,,<1951>,,,{7=20%;8=20%}
+19414,Fusion Transformation  ,Biến Hình Kết Hợp,Gabungan Transformasi  ,Transformasi Gabungan  ,Pinagsamang Pagbabago  ,Fusion Transformation  ,การแปลงร่างรวมกัน  ,,,,,,<1951;7001;2401;771>,,,{23=1000}
+19511,Superpower Legion  ,Quân Đoàn Siêu Năng,Legion Superpower  ,Pasukan Supernatural  ,Hukbong May Super Power  ,Superpower Legion  ,กองทัพพลังวิเศษ  ,,,,,,<3143;593;603;1032>,,,{7=20%;8=20%}
+19512,Holy Light Power  ,Sức Mạnh Ánh Sáng Thánh,Kekuatan Cahaya Suci  ,Kekuatan Cahaya Suci  ,Banal na Liwanag na Lakas  ,Holy Light Power  ,พลังแห่งแสงศักดิ์สิทธิ์  ,,,,,,<1941;3161;1772>,,,{1=20%}
+19513,Oathbound Companion  ,Bạn Đồng Hành Thề Nguyền,Teman Bersumpah  ,Rekan Sumpah Setia  ,Kakamping may Sumpa  ,Oathbound Companion  ,เพื่อนร่วมทางสาบาน  ,,,,,,<1941>,,,{7=20%;8=20%}
+19514,Fusion Transformation  ,Biến Hình Kết Hợp,Gabungan Transformasi  ,Transformasi Gabungan  ,Pinagsamang Pagbabago  ,Fusion Transformation  ,การแปลงร่างรวมกัน  ,,,,,,<1941;1393;3171;741>,,,{14=1000}
+19611,Supernatural Ability  ,Khả Năng Siêu Phàm,Keupayaan Hebat  ,Kemampuan Supernatural  ,Kakayahang Higit sa Tao  ,Supernatural Ability  ,ความสามารถเหนือธรรมชาติ  ,,,,,,<721;572;1241;1381>,,,{7=20%;8=20%}
+19612,Elegant Image  ,Hình Tượng Thanh Lịch,Imej Anggun  ,Penampilan Elegan  ,Eleganteng Anyô  ,Elegant Image  ,ภาพลักษณ์สง่างาม  ,,,,,,<2493;263;3181;1813>,,,{1=20%}
+19613,Cute Naive Girl  ,Cô Gái Ngây Ngô Dễ Thương,Gadis Naif Comel  ,Gadis Polos dan Imut  ,Inosenteng Cute na Babae  ,Cute Naive Girl  ,สาวน้อยไร้เดียงสาน่ารัก  ,,,,,,<3143;771;641;163>,,,{7=20%;8=20%}
+19614,Divine Body  ,Thân Thể Thần Ma,Tubuh Dewa Iblis  ,Tubuh Dewa Iblis  ,Katawan ng Diyos-Demonyo  ,Divine Body  ,ร่างเทพมาร  ,,,,,,<3021;1941;3251;3673>,,,{23=1000}
+20111,Oath of the Wind  ,Lời Thề Của Gió,Sumpah Angin  ,Sumpah Angin  ,Sumpa ng Hangin  ,Oath of the Wind  ,คำสาบานแห่งสายลม  ,,,,,,<3303;3663;3283>,,,{7=12%;8=12%}
+20112,Chaotic Demon Lord  ,Ma Vương Hỗn Độn,Raja Iblis Kacau  ,Raja Iblis Kekacauan  ,Haring Demonyo ng Kaguluhan  ,Chaotic Demon Lord  ,ราชามารแห่งความวุ่นวาย  ,,,,,,<2493;3251;3543>,,,{1=12%}
+20113,Adventure Companion  ,Bạn Đồng Hành Phiêu Lưu,Teman Pengembaraan  ,Rekan Petualangan  ,Kaibigang Pakikipagsapalaran  ,Adventure Companion  ,เพื่อนร่วมทางผจญภัย  ,,,,,,<3161;972;3511>,,,{7=12%;8=12%}
+20211,God-Slaying Unmatched  ,Vô Song Đoạt Thần,Perebutan Dewa Tiada Tanding  ,Tak Terkalahkan Mengalahkan Dewa  ,"Walang Talo, Tagapabagsak ng Diyos  ",God-Slaying Unmatched  ,ผู้พิชิตเทพผู้ไร้เทียมทาน  ,,,,,,<2493;1423;3003;2723>,,,{7=15%;8=15%}
+20212,Dominant Body  ,Thân Thể Bá Chủ,Tubuh Penguasa  ,Tubuh Penguasa  ,Katawan ng Pinuno  ,Dominant Body  ,ร่างจักรพรรดิ  ,,,,,,<263;701;1303;1911>,,,{1=15%}
+20213,Combat Expert  ,Chuyên Gia Chiến Đấu,Pakar Pertempuran  ,Ahli Pertarungan  ,Eksperto sa Labanan  ,Combat Expert  ,ผู้เชี่ยวชาญการต่อสู้  ,,,,,,<1893;2233;3171;611>,,,{7=15%;8=15%}
+20214,Demonic Seed  ,Hạt Giống Ma Thần,Benih Dewa Iblis  ,Benih Dewa Iblis  ,Binhi ng Diyos-Demonyo  ,Demonic Seed  ,เมล็ดพันธุ์จอมมาร  ,,,,,,<3673;1893;3251;3161>,,,{14=500}
+20311,Dark Rookie  ,Tân Binh Bóng Tối,Rekrut Kegelapan  ,Pemula dari Kegelapan  ,Baguhan ng Kadiliman  ,Dark Rookie  ,ทหารใหม่แห่งความมืด  ,,,,,,<1393;972;552>,,,{7=15%;8=15%}
+20312,Flesh Rebirth  ,Tái Sinh Thịt Máu,Kebangkitan Daging & Darah  ,Reinkarnasi Daging dan Darah  ,Pagkabuhay ng Laman  ,Flesh Rebirth  ,เกิดใหม่เนื้อและเลือด  ,,,,,,<3021;1253;402>,,,{1=15%}
+20313,Mutated Reconstruction  ,Biến Dị Tái Tổ,Mutasi dan Penyusunan Semula  ,Mutasi Rekonstruksi  ,Mutasyong Muling Nabuo  ,Mutated Reconstruction  ,การเปลี่ยนแปลงพันธุกรรม  ,,,,,,<1941;1951;2593>,,,{7=15%;8=15%}
+20711,Sword Brotherhood  ,Bạn Bè Kiếm Đạo,Sahabat Jalan Pedang  ,Teman Ahli Pedang  ,Kaibigang Espadachin  ,Sword Brotherhood  ,เพื่อนนักดาบ  ,,,,,,<3303;1071;2683>,,,{7=12%;8=12%}
+20712,Natural Power  ,Sức Mạnh Tự Nhiên,Kekuatan Alam  ,Kekuatan Alam  ,Lakas ng Kalikasan  ,Natural Power  ,พลังแห่งธรรมชาติ  ,,,,,,<2023;1032;3283>,,,{1=12%}
+20713,Alien Bloodline  ,Dòng Máu Dị Tộc,Darah Asing  ,Darah Bangsa Asing  ,Dugong Banyaga  ,Alien Bloodline  ,สายเลือดต่างเผ่าพันธุ์  ,,,,,,<1841;163;641>,,,{7=12%;8=12%}
+22311,The Strongest on Earth  ,Người Mạnh Nhất Trên Mặt Đất,Orang Terkuat di Dunia  ,Orang Terkuat di Dunia  ,Pinakamalakas sa Mundo  ,The Strongest on Earth  ,ผู้แข็งแกร่งที่สุดบนโลก  ,,,,,,<1423;1303;242;1911>,,,{7=20%;8=20%}
+22312,Combat Master  ,Bậc Thầy Chiến Đấu,Mahaguru Pertempuran  ,Ahli Pertarungan  ,Eksperto sa Labanan  ,Combat Master  ,ปรมาจารย์นักรบ  ,,,,,,<3673;3021;701;1813>,,,{1=20%}
+22313,Alien Race  ,Chủng Tộc Ngoài Hành Tinh,Kaum Asing  ,Ras Luar Angkasa  ,Lahi mula sa Kalawakan  ,Alien Race  ,เผ่าพันธุ์ต่างดาว  ,,,,,,<7001;3673;3171;163>,,,{7=20%;8=20%}
+22314,Second Generation Superhuman  ,Siêu Nhân Thế Hệ Thứ Hai,Adiwira Generasi Kedua  ,Superman Generasi Kedua  ,Ikalawang Henerasyong Superman  ,Second Generation Superhuman  ,ซูเปอร์ฮีโร่รุ่นที่สอง  ,,,,,,<3021;1841;1903;3543>,,,{14=1000}
+22411,Hope of the Ninja World  ,Hy Vọng Thế Giới Ninja,Harapan Dunia Ninja  ,Harapan Dunia Ninja  ,Pag-asa ng Mundo ng Ninja  ,Hope of the Ninja World  ,ความหวังแห่งโลกนินจา  ,,,,,,<3353;333>,,,{7=15%;8=15%}
+22412,Travel Companion  ,Bạn Đồng Hành Du Lịch,Teman Pengembaraan  ,Rekan Perjalanan  ,Kaibigang Manlalakbay  ,Travel Companion  ,เพื่อนร่วมทางนักท่องเที่ยว  ,,,,,,<2401;1241;1772>,,,{1=15%}
+22413,Unyielding Will  ,Ý Chí Không Khuất Phục,Semangat Tidak Terkalahkan  ,Tekad Tak Terkalahkan  ,Diwang Di Magagapi  ,Unyielding Will  ,จิตใจไม่ยอมแพ้  ,,,,,,<2233;3592;1253;3003>,,,{7=15%;8=15%}
+22414,Gentle Wife  ,Người Vợ Hiền Mẫu,Isteri dan Ibu Penyayang  ,Istri yang Lembut dan Baik  ,Mapagkalingang Asawa  ,Gentle Wife  ,ภรรยาผู้เป็นแม่ที่ดี  ,,,,,,<3303;1893;721;641>,,,{14=500}
+23511,Supreme Fist  ,Quyền Đạo Tối Thượng,Tumbukan Tertinggi  ,Kekuatan Tertinggi  ,Pinakamataas na Lakas  ,Supreme Fist  ,อำนาจสูงสุด  ,,,,,,<2233;1423;3171;1911>,,,{7=20%;8=20%}
+23512,Combat Master  ,Bậc Thầy Chiến Đấu,Mahaguru Pertempuran  ,Ahli Pertarungan  ,Eksperto sa Labanan  ,Combat Master  ,ปรมาจารย์นักรบ  ,,,,,,<1423;3673;1841;3663>,,,{1=20%}
+23513,Demon Slayer  ,Tiêu Diệt Ác Quỷ,Musnahkan Iblis  ,Membasmi Iblis  ,Puksain ang Demonyo  ,Demon Slayer  ,นักล่าอสูร  ,,,,,,<2401;1893;3161;1772>,,,{7=20%;8=20%}
+23514,Breaking Authority  ,Uy Quyền Bức Phá,Kuasa Meledak  ,Kekuatan Meledak  ,Sumasabog na Kapangyarihan  ,Breaking Authority  ,อำนาจทำลายล้าง  ,,,,,,<3673;3021;701;1813>,,,{23=1000}
+23611,Superpower Domination,Siêu năng uy thế,Penguasaan Kuasa Super,Dominasi Kekuatan Super,Paghahari ng Kapangyarihan,Superpower Domination,พลังพิเศษอำนาจเหนือ,,,,,,<3673;3353;3251;631>,,,{7=20%;8=20%}
+23612,Graceful Transformation,Ưu nhã hóa thân,Penjelmaan Anggun,Transformasi Anggun,Mahinhin na Pagkakatawang-tao,Graceful Transformation,แปลงร่างอย่างสง่างาม,,,,,,<2493;1313;1253;2431>,,,{1=20%}
+23613,Maiden Alliance,Thiếu nữ liên minh,Perikatan Gadis Muda,Aliansi Gadis Muda,Alyansa ng mga Dalaga,Maiden Alliance,พันธมิตรสาวน้อย,,,,,,<1173;1941;3251;1961>,,,{7=20%;8=20%}
+23614,Combat Instinct,Bản năng chiến đấu,Naluri Bertempur,Naluri Bertarung,Instinct sa Pakikipaglaban,Combat Instinct,สัญชาตญาณการต่อสู้,,,,,,<3021;263;2233;3663>,,,{23=1000}
+23811,Angel Alliance  ,Liên Minh Thiên Thần,Perikatan Malaikat  ,Aliansi Malaikat  ,Samahan ng mga Anghel  ,Angel Alliance  ,พันธมิตรเทวา  ,,,,,,<1941;1951;3161;1893>,,,{7=20%;8=20%}
+23812,Destruction Kingdom  ,Vương Quốc Hủy Diệt,Kerajaan Pemusnah  ,Kerajaan Kehancuran  ,Kaharian ng Pagkawasak  ,Destruction Kingdom  ,อาณาจักรแห่งการทำลายล้าง  ,,,,,,<3021;263;2233;3663>,,,{1=20%}
+23813,Elegant Image  ,Hình Tượng Thanh Lịch,Imej Anggun  ,Penampilan Elegan  ,Eleganteng Anyô  ,Elegant Image  ,ภาพลักษณ์สง่างาม  ,,,,,,<1313;263;3181;1813>,,,{7=20%;8=20%}
+23814,Divine Body  ,Thân Thể Thần Ma,Tubuh Dewa Iblis  ,Tubuh Dewa Iblis  ,Katawan ng Diyos-Demonyo  ,Divine Body  ,ร่างเทพมาร  ,,,,,,<1173;1941;3251;3673>,,,{14=1000}
+23911,Overwhelming Power  ,Uy Thế Siêu Năng,Keagungan Superpower  ,Kewibawaan Supernatural  ,Awtoridad ng Superpower  ,Overwhelming Power  ,พลังอำนาจเหนือธรรมชาติ  ,,,,,,<3143;593;603;1032>,,,{7=20%;8=20%}
+23912,Elegant Image  ,Hình Tượng Thanh Lịch,Imej Anggun  ,Penampilan Elegan  ,Eleganteng Anyô  ,Elegant Image  ,ภาพลักษณ์สง่างาม  ,,,,,,<2493;263;3181;1813>,,,{1=20%}
+23913,Girl Alliance  ,Liên Minh Cô Gái,Perikatan Gadis  ,Aliansi Gadis  ,Samahan ng mga Babae  ,Girl Alliance  ,พันธมิตรสาวๆ  ,,,,,,<1393;721;771;3152>,,,{7=20%;8=20%}
+23914,Battle Instinct  ,Bản Năng Chiến Đấu,Naluri Bertarung  ,Naluri Bertarung  ,Likas na Pakikipaglaban  ,Battle Instinct  ,สัญชาตญาณนักสู้  ,,,,,,<1313;572;3003;741>,,,{23=1000}
+24011,Supernatural Ability  ,Khả Năng Siêu Phàm,Keupayaan Hebat  ,Kemampuan Supernatural  ,Kakayahang Higit sa Tao  ,Supernatural Ability  ,ความสามารถเหนือธรรมชาติ  ,,,,,,<721;572;1241;1381>,,,{7=20%;8=20%}
+24012,Elegant Image  ,Hình Tượng Thanh Lịch,Imej Anggun  ,Penampilan Elegan  ,Eleganteng Anyô  ,Elegant Image  ,ภาพลักษณ์สง่างาม  ,,,,,,<2493;263;3181;1813>,,,{1=20%}
+24013,Sparkling Magic  ,Phép Thuật Lấp Lánh,Sihir Berkilauan  ,Sihir Berkilauan  ,Kumikinang na Mahika  ,Sparkling Magic  ,เวทมนตร์เปล่งประกาย  ,,,,,,<3143;263;972;593>,,,{7=20%;8=20%}
+24014,Magical Girl  ,Cô Gái Phép Thuật,Gadis Sihir  ,Gadis Penyihir  ,Batang Babaeng Mangkukulam  ,Magical Girl  ,สาวพ่อมด  ,,,,,,<1393;771;503>,,,{23=1000}
+24311,Pirate Alliance  ,Liên Minh Hải Tặc,Perikatan Lanun  ,Aliansi Bajak Laut  ,Samahan ng mga Pirata  ,Pirate Alliance  ,พันธมิตรโจรสลัด  ,,,,,,<3543>,,,{7=20%;8=20%}
+24312,Unmatched Beauty  ,Vẻ Đẹp Vô Song,Kecantikan Tiada Tanding  ,Kecantikan Tiada Tanding  ,Walang Kapantay na Ganda  ,Unmatched Beauty  ,ความงดงามไร้เทียมทาน  ,,,,,,<3353;1893;2242;641>,,,{1=20%}
+24313,Overwhelming Power  ,Uy Thế Siêu Năng,Keagungan Superpower  ,Kewibawaan Supernatural  ,Awtoridad ng Superpower  ,Overwhelming Power  ,พลังอำนาจเหนือธรรมชาติ  ,,,,,,<3143;593;603;1032>,,,{7=20%;8=20%}
+24314,King’s Authority  ,Uy Quyền Của Vị Vương,Kebesaran Sang Raja  ,Kekuatan Sang Raja  ,Kapangyarihan ng Hari  ,King’s Authority  ,อำนาจของกษัตริย์  ,,,,,,<2493;1313;1253;393>,,,{23=1000}
+24911,Infinite Swordsmanship  ,Kiếm Pháp Vô Hạn,Seni Pedang Tanpa Had  ,Teknik Pedang Tanpa Batas  ,Walang Hanggang Teknik ng Espada  ,Infinite Swordsmanship  ,ทักษะดาบไร้ขีดจำกัด  ,,,,,,<572;701;1841;3251>,,,{7=20%;8=20%}
+24912,Hero Alliance  ,Liên Minh Anh Hùng,Perikatan Wira  ,Aliansi Pahlawan  ,Samahan ng mga Bayani  ,Hero Alliance  ,พันธมิตรฮีโร่  ,,,,,,<1313;1253>,,,{1=20%}
+24913,Demonic Seed  ,Hạt Giống Ma Thần,Benih Dewa Iblis  ,Benih Dewa Iblis  ,Binhi ng Diyos-Demonyo  ,Demonic Seed  ,เมล็ดพันธุ์จอมมาร  ,,,,,,<3673;1893;3251;3161>,,,{7=20%;8=20%}
+24914,Elegant Image  ,Hình Tượng Thanh Lịch,Imej Anggun  ,Penampilan Elegan  ,Eleganteng Anyô  ,Elegant Image  ,ภาพลักษณ์สง่างาม  ,,,,,,<1313;263;3181;1813>,,,{23=1000}
+25911,Solid as Rock  ,Vững Như Đá,Teguh Seperti Batu  ,Teguh Seperti Batu  ,Matatag na Parang Bato  ,Solid as Rock  ,มั่นคงดุจหิน  ,,,,,,<1503;863;1903>,,,{7=12%;8=12%}
+25912,Ninja Squad  ,Nhóm Ninja,Kumpulan Ninja  ,Kelompok Ninja  ,Grupo ng mga Ninja  ,Ninja Squad  ,กลุ่มนินจา  ,,,,,,<3353;2242;333>,,,{1=12%}
+25913,Sword and Blade Master  ,Bậc Thầy Kiếm và Dao,Mahaguru Pedang dan Pisau  ,Ahli Pedang dan Pisau  ,Guro ng Espada at Balisong  ,Sword and Blade Master  ,ปรมาจารย์ดาบและมีด  ,,,,,,<1231;3251;3152>,,,{7=12%;8=12%}
+26111,Idol Star  ,Ngôi Sao Thần Tượng,Bintang Idola  ,Bintang Idola  ,Bituing Idolo  ,Idol Star  ,ดาวดวงที่เป็นที่รัก  ,,,,,,<1241;1903;3683>,,,{7=12%;8=12%}
+26112,Skill Control  ,Kiểm Soát Kỹ Năng,Kawalan Kemahiran  ,Kontrol Keterampilan  ,Kontrol ng Kasanayan  ,Skill Control  ,ควบคุมทักษะ  ,,,,,,<2723;712;552>,,,{1=12%}
+26113,Abstract Group  ,Nhóm Trừu Tượng,Kumpulan Abstrak  ,Kelompok Abstrak  ,Pangkat ng Abstrak  ,Abstract Group  ,กลุ่มนามธรรม  ,,,,,,<7001;1931;2633>,,,{7=12%;8=12%}
+26311,Martial Power Faction  ,Thế Lực Đấu Võ,Kuasa Bertarung  ,Kekuatan Seni Bela Diri  ,Lakas ng Martial Arts  ,Martial Power Faction  ,กองกำลังต่อสู้  ,,,,,,<1303;1903;273>,,,{7=12%;8=12%}
+26312,Superpower Authority  ,Quyền Lực Siêu Năng,Kekuatan Supernatural  ,Kekuatan Supernatural  ,Kapangyarihang Supernatural  ,Superpower Authority  ,พลังวิเศษ  ,,,,,,<263;1813;1903>,,,{1=12%}
+26313,Fusion Transformation  ,Biến Hình Kết Hợp,Gabungan Transformasi  ,Transformasi Gabungan  ,Pinagsamang Pagbabago  ,Fusion Transformation  ,การแปลงร่างรวมกัน  ,,,,,,<1941;1951;3171>,,,{7=12%;8=12%}
+26811,Swordsman’s Love  ,Tình Yêu Kiếm Khách,Cinta Pendekar  ,Cinta Pendekar Pedang  ,Pag-ibig ng Mandirigmang Espada  ,Swordsman’s Love  ,ความรักของนักดาบ  ,,,,,,<712;3152;611>,,,{7=10%;8=10%}
+26812,Sword Brotherhood  ,Bạn Bè Kiếm Đạo,Sahabat Jalan Pedang  ,Teman Ahli Pedang  ,Kaibigang Espadachin  ,Sword Brotherhood  ,เพื่อนนักดาบ  ,,,,,,<3511;631;1231>,,,{1=10%}
+26813,Skill Control  ,Kiểm Soát Kỹ Năng,Kawalan Kemahiran  ,Kontrol Keterampilan  ,Kontrol ng Kasanayan  ,Skill Control  ,ควบคุมทักษะ  ,,,,,,<731;503;2963>,,,{7=10%;8=10%}
+27211,Superior IQ  ,IQ Vượt Trội,IQ Luar Biasa  ,IQ Luar Biasa  ,Napakataas na IQ  ,Superior IQ  ,ไอคิวสูง  ,,,,,,<1393;3181;1813>,,,{7=15%;8=15%}
+27212,Iron Will  ,Ý Chí Thép,Semangat Besi  ,Tekad Baja  ,Diwang Bakal  ,Iron Will  ,จิตใจแข็งแกร่ง  ,,,,,,<7001;1313;1911;631>,,,{1=15%}
+27213,Superpower Control  ,Kiểm Soát Siêu Năng,Kawalan Superpower  ,Kontrol Superpower  ,Kontrol ng Superpower  ,Superpower Control  ,ควบคุมพลังวิเศษ  ,,,,,,<2401;771;503;593>,,,{7=15%;8=15%}
+27214,Tech Innovator  ,Sáng Tạo Công Nghệ,Reka Cipta Teknologi  ,Inovasi Teknologi  ,Makabagong Teknolohiya  ,Tech Innovator  ,สร้างสรรค์เทคโนโลยี  ,,,,,,<3181;3592;3683>,,,{14=500}
+28411,Secret Superpower  ,Siêu Năng Bí Mật,Kuasa Super Rahsia  ,Kekuatan Rahasia  ,Lihim na Kapangyarihan  ,Secret Superpower  ,ความลับแห่งพลังวิเศษ  ,,,,,,<2013;1931;2633>,,,{7=10%;8=10%}
+28412,Dream Master  ,Bậc Thầy Giấc Mơ,Mahaguru Mimpi  ,Ahli Mimpi  ,Dalubhasa ng Panaginip  ,Dream Master  ,ปรมาจารย์แห่งความฝัน  ,,,,,,<3683;1612;863>,,,{1=10%}
+28413,Wish Expert  ,Chuyên Gia Ước Nguyện,Pakar Harapan  ,Ahli Harapan  ,Eksperto sa mga Hiling  ,Wish Expert  ,ผู้เชี่ยวชาญความปรารถนา  ,,,,,,<3283;3003;771>,,,{7=10%;8=10%}
+29611,Firepower Control  ,Kiểm Soát Hỏa Lực,Kawalan Kuasa Api  ,Kontrol Kekuatan Api  ,Kontrol ng Apoy  ,Firepower Control  ,ควบคุมพลังไฟ  ,,,,,,<44;1612;3293>,,,{7=12%;8=12%}
+29612,Iron Will  ,Ý Chí Thép,Semangat Besi  ,Tekad Baja  ,Diwang Bakal  ,Iron Will  ,จิตใจแข็งแกร่ง  ,,,,,,<3663;1303;1911>,,,{1=12%}
+29613,Crisis Sensing  ,Cảm Ứng Khủng Hoảng,Deria Bencana  ,Indra Krisis  ,Pakiramdam sa Krisis  ,Crisis Sensing  ,สัมผัสวิกฤต  ,,,,,,<3592;611;1293>,,,{7=12%;8=12%}
+30011,Mecha Warrior  ,Chiến Binh Mecha,Pahlawan Mecha  ,Prajurit Mecha  ,Mandirigmang Mecha  ,Mecha Warrior  ,นักรบหุ่นยนต์  ,,,,,,<3592;2723;712>,,,{7=15%;8=15%}
+30012,Extraordinary Will  ,Ý Chí Siêu Phàm,Semangat Luar Biasa  ,Kemauan Luar Biasa  ,Kagustuhang Higit sa Karaniwan  ,Extraordinary Will  ,จิตใจเหนือมนุษย์  ,,,,,,<2493;1231;3171;631>,,,{1=15%}
+30013,Combat Expert  ,Chuyên Gia Chiến Đấu,Pakar Pertempuran  ,Ahli Pertarungan  ,Eksperto sa Labanan  ,Combat Expert  ,ผู้เชี่ยวชาญการต่อสู้  ,,,,,,<1893;2233;3171;2023>,,,{7=15%;8=15%}
+30014,Nonchalant Girl  ,Cô Gái Không Tính Toán,Gadis Tidak Berkira  ,Gadis Tanpa Perhitungan  ,Batang Babaeng Walang Kalkulasyon  ,Nonchalant Girl  ,สาวไร้การคำนวณ  ,,,,,,<2401;1393;771>,,,{14=500}
+30211,Will of the Dead  ,Ý Chí Của Người Chết,Semangat Si Mati  ,Tekad Orang Mati  ,Diwa ng Patay  ,Will of the Dead  ,จิตใจผู้ตาย  ,,,,,,<1221;1903;1931;3543>,,,{7=20%;8=20%}
+30212,King’s Authority  ,Uy Quyền Của Vị Vương,Kebesaran Sang Raja  ,Kekuatan Raja  ,Kapangyarihan ng Hari  ,King’s Authority  ,อำนาจของกษัตริย์  ,,,,,,<2493;1313;1253;393>,,,{1=20%}
+30213,Second Generation Superhuman  ,Siêu Nhân Thế Hệ Thứ Hai,Adiwira Generasi Kedua  ,Superman Generasi Kedua  ,Ikalawang Henerasyong Superman  ,Second Generation Superhuman  ,ซูเปอร์ฮีโร่รุ่นที่สอง  ,,,,,,<2233;1841;1903;3543>,,,{7=20%;8=20%}
+30214,Divine Weapon Control  ,Kiểm Soát Thần Khí,Kawalan Senjata Ilahi  ,Kontrol Senjata Ilahi  ,Kontrol ng Banal na Sandata  ,Divine Weapon Control  ,ควบคุมอาวุธเทพ  ,,,,,,<2493;1893;1313;863>,,,{23=1000}
+31411,Sparkling Magic  ,Phép Thuật Lấp Lánh,Sihir Berkilauan  ,Sihir Berkilauan  ,Kumikinang na Mahika  ,Sparkling Magic  ,เวทมนตร์เปล่งประกาย  ,,,,,,<263;972;593;603>,,,{7=20%;8=20%}
+31412,Wizard Alliance  ,Liên Minh Phù Thủy,Perikatan Penyihir  ,Aliansi Penyihir  ,Samahan ng mga Mangkukulam  ,Wizard Alliance  ,พันธมิตรพ่อมดแม่มด  ,,,,,,<2401;771;1393;503>,,,{1=20%}
+31413,Ordinary Human Body  ,Thân Thể Người Thường,Tubuh Biasa  ,Tubuh Manusia Biasa  ,Katawan ng Karaniwang Tao  ,Ordinary Human Body  ,ร่างกายมนุษย์ธรรมดา  ,,,,,,<3353;721;3152;631>,,,{7=20%;8=20%}
+31414,Unlimited Potential  ,Tiềm Năng Vô Hạn,Potensi Tanpa Had  ,Potensi Tak Terbatas  ,Walang Hanggang Potensyal  ,Unlimited Potential  ,ศักยภาพไร้ขีดจำกัด  ,,,,,,<1423;1231;593;631>,,,{14=1000}
+31511,Fire Power  ,Sức Mạnh Lửa,Kekuatan Api  ,Kekuatan Api  ,Lakas ng Apoy  ,Fire Power  ,พลังแห่งไฟ  ,,,,,,<3143;1393;603>,,,{7=15%;8=15%}
+31512,Sword Control  ,Kiểm Soát Kiếm,Kawalan Pedang  ,Kontrol Pedang  ,Kontrol ng Espada  ,Sword Control  ,ควบคุมดาบ  ,,,,,,<3303;572;1841;611>,,,{1=15%}
+31513,Battle Enthusiast  ,Người Đam Mê Chiến Đấu,Pencinta Pertempuran  ,Pecinta Pertarungan  ,Mahilig sa Laban  ,Battle Enthusiast  ,ผู้คลั่งไคล้การต่อสู้  ,,,,,,<1423;3171;2023>,,,{7=15%;8=15%}
+31514,Girl Group  ,Nhóm Cô Gái,Kumpulan Gadis  ,Kelompok Gadis  ,Samahan ng mga Babae  ,Girl Group  ,กลุ่มสาวๆ  ,,,,,,<1393;721;503>,,,{14=500}
+31611,Angel Alliance  ,Liên Minh Thiên Thần,Perikatan Malaikat  ,Aliansi Malaikat  ,Samahan ng mga Anghel  ,Angel Alliance  ,พันธมิตรเทวา  ,,,,,,<1893;1951;1941>,,,{7=15%;8=15%}
+31612,Gentle Wife  ,Người Vợ Hiền Mẫu,Isteri dan Ibu Penyayang  ,Istri yang Lembut dan Baik  ,Mapagkalingang Asawa  ,Gentle Wife  ,ภรรยาผู้เป็นแม่ที่ดี  ,,,,,,<3303;1893;721;641>,,,{1=15%}
+31613,Teacher's Compassionate Soul  ,Tâm Hồn Nhân Ái Của Người Thầy,Hati Penyayang Guru  ,Hati Guru yang Penuh Kasih  ,Pusong Maawain ng Guro  ,Teacher's Compassionate Soul  ,จิตใจเมตตาของครู  ,,,,,,<3353;1241;641;1772>,,,{7=15%;8=15%}
+31614,Divine Body  ,Thân Thể Thần Ma,Tubuh Dewa Iblis  ,Tubuh Dewa Iblis  ,Katawan ng Diyos-Demonyo  ,Divine Body  ,ร่างเทพมาร  ,,,,,,<3021;1911;2493>,,,{14=500}
+31711,Superpower Transformation  ,Biến Hình Siêu Năng,Transformasi Super  ,Transformasi Superpower  ,Transformasyong may Superpower  ,Superpower Transformation  ,การแปลงร่างพลังวิเศษ  ,,,,,,<2233;2723;2401;503>,,,{7=20%;8=20%}
+31712,Dominant Body  ,Thân Thể Bá Chủ,Tubuh Penguasa  ,Tubuh Penguasa  ,Katawan ng Pinuno  ,Dominant Body  ,ร่างจักรพรรดิ  ,,,,,,<7001;1253;2023;3663>,,,{1=20%}
+31713,Combat Specialist  ,Chuyên Gia Chiến Đấu,Pakar Pertempuran  ,Ahli Pertarungan  ,Eksperto sa Labanan  ,Combat Specialist  ,ผู้เชี่ยวชาญการต่อสู้  ,,,,,,<1893;2233;1911;611>,,,{7=20%;8=20%}
+31714,Alien Race  ,Chủng Tộc Ngoài Hành Tinh,Kaum Asing  ,Ras Luar Angkasa  ,Lahi mula sa Kalawakan  ,Alien Race  ,เผ่าพันธุ์ต่างดาว  ,,,,,,<7001;3673;2233;163>,,,{14=1000}
+31811,Teacher's Compassionate Soul  ,Tâm Hồn Nhân Ái Của Người Thầy,Hati Penyayang Guru  ,Hati Guru yang Penuh Kasih  ,Pusong Maawain ng Guro  ,Teacher's Compassionate Soul  ,จิตใจเมตตาของครู  ,,,,,,<3353;1241;641;1772>,,,{7=15%;8=15%}
+31812,Holy Light Illumination  ,Ánh Sáng Thánh Chiếu Rọi,Cahaya Suci Bersinar  ,Cahaya Suci Bersinar  ,Banal na Liwanag na Nagniningning  ,Holy Light Illumination  ,แสงศักดิ์สิทธิ์ส่องสว่าง  ,,,,,,<1951;1941;3161;1772>,,,{1=15%}
+31813,Transcendent Saint Power  ,Siêu Phàm Nhập Thánh,Super Masuk Keagungan  ,Kesucian Luar Biasa  ,Pagka-Banal na Di Matatawaran  ,Transcendent Saint Power  ,จิตใจเหนือมนุษย์เข้าสู่ความศักดิ์สิทธิ์  ,,,,,,<2493;1313;1241;263>,,,{7=15%;8=15%}
+31814,Tech Innovator  ,Sáng Tạo Công Nghệ,Reka Cipta Teknologi  ,Inovasi Teknologi  ,Makabagong Teknolohiya  ,Tech Innovator  ,สร้างสรรค์เทคโนโลยี  ,,,,,,<2723;3592;3683>,,,{23=500}
+32111,Hope of the Ninja World  ,Hy Vọng Thế Giới Ninja,Harapan Dunia Ninja  ,Harapan Dunia Ninja  ,Pag-asa ng Mundo ng Ninja  ,Hope of the Ninja World  ,ความหวังแห่งโลกนินจา  ,,,,,,<333;2242>,,,{7=20%;8=20%}
+32112,Combat Master  ,Bậc Thầy Chiến Đấu,Mahaguru Pertempuran  ,Ahli Pertarungan  ,Eksperto sa Labanan  ,Combat Master  ,ปรมาจารย์นักรบ  ,,,,,,<1423;1303;611;1911>,,,{1=20%}
+32113,Combat Master  ,Bậc Thầy Chiến Đấu,Mahaguru Pertempuran  ,Ahli Pertarungan  ,Eksperto sa Labanan  ,Combat Master  ,ปรมาจารย์นักรบ  ,,,,,,<3673;3021;701;1813>,,,{7=20%;8=20%}
+32114,Fire Control  ,Kiểm Soát Lửa,Kawalan Api  ,Kontrol Api  ,Kontrol ng Apoy  ,Fire Control  ,ควบคุมไฟ  ,,,,,,<3143;1303;3152;242>,,,{23=1000}
+32211,Hope of the Ninja World  ,Hy Vọng Thế Giới Ninja,Harapan Dunia Ninja  ,Harapan Dunia Ninja  ,Pag-asa ng Mundo ng Ninja  ,Hope of the Ninja World  ,ความหวังแห่งโลกนินจา  ,,,,,,<333;2242;3211>,,,{7=20%;8=20%}
+32212,Combat Master  ,Bậc Thầy Chiến Đấu,Mahaguru Pertempuran  ,Ahli Pertarungan  ,Dalubhasa sa Labanan  ,Combat Master  ,ปรมาจารย์นักรบ  ,,,,,,<2431;2381;2391;1911>,,,{1=20%}
+32213,Extraordinary Ability  ,Khả Năng Siêu Phàm,Keupayaan Hebat  ,Kemampuan Supernatural  ,Kapangyarihang Higit sa Karaniwan  ,Extraordinary Ability  ,ความสามารถเหนือธรรมชาติ  ,,,,,,<3592;1173;1961;1381>,,,{7=20%;8=20%}
+32214,Iron Will  ,Ý Chí Thép,Semangat Besi  ,Tekad Baja  ,Diwang Bakal  ,Iron Will  ,จิตใจแข็งแกร่ง  ,,,,,,<3673;3353;3251;631>,,,{23=1000}
+32511,Sword Control  ,Kiểm Soát Kiếm,Kawalan Pedang  ,Kontrol Pedang  ,Kontrol ng Espada  ,Sword Control  ,ควบคุมดาบ  ,,,,,,<3303;572;1841;611>,,,{7=15%;8=15%}
+32512,Raging Image  ,Hình Tượng Nổi Giận,Imej Kemarahan  ,Penampilan Marah  ,Hitsurang Galit  ,Raging Image  ,ภาพลักษณ์ความโกรธ  ,,,,,,<2023;1303;1253>,,,{1=15%}
+32513,Combat Specialist  ,Chuyên Gia Chiến Đấu,Pakar Pertempuran  ,Ahli Pertarungan  ,Dalubhasa sa Labanan  ,Combat Specialist  ,ผู้เชี่ยวชาญการต่อสู้  ,,,,,,<1893;2233;3171;611>,,,{7=15%;8=15%}
+32514,Divine Body  ,Thân Thể Thần Ma,Tubuh Dewa Iblis  ,Tubuh Dewa Iblis  ,Katawan ng Diyos-Demonyo  ,Divine Body  ,ร่างเทพมาร  ,,,,,,<3021;1911;2493>,,,{14=500}
+32811,Oath of the Wind  ,Lời Thề Của Gió,Sumpah Angin  ,Sumpah Angin  ,Pangako ng Hangin  ,Oath of the Wind  ,คำสาบานแห่งสายลม  ,,,,,,<3303;3663;1071>,,,{7=12%;8=12%}
+32812,Superpower Companion  ,Bạn Đồng Hành Siêu Năng,Teman Superpower  ,Rekan Superpower  ,Kasamang may Superpower  ,Superpower Companion  ,เพื่อนร่วมทางพลังวิเศษ  ,,,,,,<263;1221;731>,,,{1=12%}
+32813,Adventure Companion  ,Bạn Đồng Hành Phiêu Lưu,Teman Pengembaraan  ,Rekan Petualang  ,Kasamang Manlalakbay  ,Adventure Companion  ,เพื่อนร่วมทางผจญภัย  ,,,,,,<2401;1381;741>,,,{7=12%;8=12%}
+32911,Firepower Control  ,Kiểm Soát Hỏa Lực,Kawalan Kuasa Api  ,Kontrol Kekuatan Api  ,Kontrol ng Apoy  ,Firepower Control  ,ควบคุมพลังไฟ  ,,,,,,<44;1612;2963>,,,{7=12%;8=12%}
+32912,Special Forces Warrior  ,Chiến Binh Đặc Chủng,Prajurit Khas  ,Prajurit Khusus  ,Mandirigmang Espesyal  ,Special Forces Warrior  ,นักรบหน่วยพิเศษ  ,,,,,,<1903;3511;493>,,,{1=12%}
+32913,Crisis Sensing  ,Cảm Ứng Khủng Hoảng,Deria Krisis  ,Indra Krisis  ,Pakiramdam sa Krisis  ,Crisis Sensing  ,สัมผัสวิกฤต  ,,,,,,<3171;1071;2683>,,,{7=12%;8=12%}
+33011,Infinite Swordsmanship  ,Kiếm Pháp Vô Hạn,Seni Pedang Tanpa Had  ,Ilmu Pedang Tak Terbatas  ,Walang Hanggang Estilo ng Espada  ,Infinite Swordsmanship  ,ทักษะดาบไร้ขีดจำกัด  ,,,,,,<572;701;1841;3251>,,,{7=20%;8=20%}
+33012,Demon Slayer  ,Tiêu Diệt Ác Quỷ,Musnahkan Iblis  ,Menghancurkan Iblis  ,Puksa ang Demonyo  ,Demon Slayer  ,กำจัดอสูร  ,,,,,,<2401;1893;3161;1772>,,,{1=20%}
+33013,Girl Alliance  ,Liên Minh Cô Gái,Perikatan Gadis  ,Aliansi Gadis  ,Samahan ng mga Babae  ,Girl Alliance  ,พันธมิตรสาวๆ  ,,,,,,<1393;721;771;3152>,,,{7=20%;8=20%}
+33014,Gentle Wife  ,Người Vợ Hiền Mẫu,Isteri dan Ibu Penyayang  ,Istri yang Lembut dan Baik  ,Asawang Mapagmahal  ,Gentle Wife  ,ภรรยาผู้เป็นแม่ที่ดี  ,,,,,,<3353;1893;2242;641>,,,{14=1000}
+33411,Firepower Control  ,Kiểm Soát Hỏa Lực,Kawalan Kuasa Api  ,Kontrol Kekuatan Api  ,Kontrol ng Apoy  ,Firepower Control  ,ควบคุมพลังไฟ  ,,,,,,<44;1612;2963>,,,{7=12%;8=12%}
+33412,Advanced Technology  ,Công Nghệ Siêu Việt,Teknologi Hebat  ,Teknologi Super  ,Teknolohiyang Makabago  ,Advanced Technology  ,เทคโนโลยีขั้นสูง  ,,,,,,<3592;3683;3472>,,,{1=12%}
+33413,Cosmic Walker  ,Người Đi Bộ Vũ Trụ,Penjelajah Angkasa  ,Penjelajah Luar Angkasa  ,Naglalakad sa Kalawakan  ,Cosmic Walker  ,นักเดินอวกาศ  ,,,,,,<3673;741;1931>,,,{7=12%;8=12%}
+33511,Hope of the Ninja World  ,Hy Vọng Thế Giới Ninja,Harapan Dunia Ninja  ,Harapan Dunia Ninja  ,Pag-asa ng Mundo ng Ninja  ,Hope of the Ninja World  ,ความหวังแห่งโลกนินจา  ,,,,,,<333;2242>,,,{7=20%;8=20%}
+33512,Teacher's Compassionate Soul  ,Tâm Hồn Nhân Ái Của Người Thầy,Hati Penyayang Guru  ,Hati Guru yang Penuh Kasih  ,Pusong Maawain ng Guro  ,Teacher's Compassionate Soul  ,จิตใจเมตตาของครู  ,,,,,,<1241;1772;641;863>,,,{1=20%}
+33513,Taijutsu Master  ,Bậc Thầy Thể Thuật,Mahaguru Seni Tubuh  ,Ahli Taijutsu  ,Guro ng Taijutsu  ,Taijutsu Master  ,ปรมาจารย์กีฬาศิลป์  ,,,,,,<3673;1423;2233;3663>,,,{7=20%;8=20%}
+33514,Gentle Wife  ,Người Vợ Hiền Mẫu,Isteri dan Ibu Penyayang  ,Istri yang Lembut dan Baik  ,Asawang Mapagmahal  ,Gentle Wife  ,ภรรยาผู้เป็นแม่ที่ดี  ,,,,,,<3303;1893;2242;641>,,,{23=1000}
+34311,Dream Enthusiast  ,Say Mê Trong Giấc Mộng,Terpesona Dalam Mimpi  ,Terbuai dalam Mimpi  ,Nalulunod sa Panaginip  ,Dream Enthusiast  ,หลงใหลในความฝัน  ,,,,,,<692;3511;2963>,,,{7=10%;8=10%}
+34312,Widespread Companion  ,Bạn Đồng Hành Rộng Rãi,Teman Luas Hati  ,Teman Sejati  ,Kaibigang Matapat  ,Widespread Companion  ,เพื่อนร่วมทางใจกว้าง  ,,,,,,<402;793;242>,,,{1=10%}
+34313,Wandering Adventurer  ,Lang Thang Giang Hồ,Pengembara Dunia  ,Pengembara Dunia  ,Manlalakbay sa Mundo  ,Wandering Adventurer  ,เร่ร่อนสู่โลกกว้าง  ,,,,,,<2073;2593;1071>,,,{7=10%;8=10%}
+34711,Firepower Control  ,Kiểm Soát Hỏa Lực,Kawalan Kuasa Api  ,Kontrol Kekuatan Api  ,Kontrol ng Apoy  ,Firepower Control  ,ควบคุมพลังไฟ  ,,,,,,<44;1612;2963>,,,{7=12%;8=12%}
+34712,Advanced Technology  ,Công Nghệ Siêu Việt,Teknologi Hebat  ,Teknologi Super  ,Teknolohiyang Makabago  ,Advanced Technology  ,เทคโนโลยีขั้นสูง  ,,,,,,<3592;3683;712>,,,{1=12%}
+34713,Innovative Creator  ,Sáng Tạo Phát Minh,Reka Cipta Inovatif  ,Penemuan Kreatif  ,Imbensyong Malikhaing  ,Innovative Creator  ,สร้างสรรค์สิ่งประดิษฐ์  ,,,,,,<1893;2723;3683>,,,{7=12%;8=12%}
+35111,Sword and Blade Master  ,Bậc Thầy Kiếm và Dao,Mahaguru Pedang dan Pisau  ,Ahli Pedang dan Pisau  ,Guro ng Espada at Balisong  ,Sword and Blade Master  ,ปรมาจารย์ดาบและมีด  ,,,,,,<1231;3251;3152>,,,{7=12%;8=12%}
+35112,Sword Brotherhood  ,Bạn Bè Kiếm Đạo,Sahabat Jalan Pedang  ,Teman Ahli Pedang  ,Kaibigang Espadachin  ,Sword Brotherhood  ,เพื่อนนักดาบ  ,,,,,,<3303;712;1071>,,,{1=12%}
+35113,Skill Control  ,Kiểm Soát Kỹ Năng,Kawalan Kemahiran  ,Kontrol Keterampilan  ,Kontrol ng Kasanayan  ,Skill Control  ,ควบคุมทักษะ  ,,,,,,<731;503;2963>,,,{7=12%;8=12%}
+35411,Explorer Spirit  ,Tinh Thần Khám Phá,Semangat Penjelajahan  ,Semangat Penjelajahan  ,Espiritu ng Paglalakbay  ,Explorer Spirit  ,จิตวิญญาณนักสำรวจ  ,,,,,,<3303;3663;631>,,,{7=15%;8=15%}
+35412,Superpower Transformation  ,Biến Hình Siêu Năng,Transformasi Superpower  ,Transformasi Superpower  ,Transformasyong may Superpower  ,Superpower Transformation  ,การแปลงร่างพลังวิเศษ  ,,,,,,<2233;3171;2723>,,,{1=15%}
+35413,Passionate Youth  ,Thiếu Niên Nhiệt Huyết,Remaja Penuh Semangat  ,Pemuda Bersemangat  ,Kabataang Mainit ang Dugo  ,Passionate Youth  ,เยาวชนแห่งความกระตือรือร้น  ,,,,,,<631;242;741>,,,{7=15%;8=15%}
+35414,Crisis Sensing  ,Cảm Ứng Khủng Hoảng,Deria Krisis  ,Indra Krisis  ,Pakiramdam sa Krisis  ,Crisis Sensing  ,สัมผัสวิกฤต  ,,,,,,<3592;611;1293>,,,{23=500}
+35911,Angel Alliance  ,Liên Minh Thiên Thần,Perikatan Malaikat  ,Aliansi Malaikat  ,Samahan ng mga Anghel  ,Angel Alliance  ,พันธมิตรเทวา  ,,,,,,<1941;1951;3161;1893>,,,{7=15%;8=15%}
+35912,War Machine  ,Cỗ Máy Chiến Tranh,Mesin Perang  ,Mesin Perang  ,Makina ng Digmaan  ,War Machine  ,เครื่องจักรสงคราม  ,,,,,,<3003;3021;712>,,,{1=15%}
+35913,Cute Innocent Girl  ,Cô Gái Ngây Ngô Dễ Thương,Gadis Lugu dan Comel  ,Gadis Imut dan Lugu  ,Batang Babaeng Walang Muang  ,Cute Innocent Girl  ,สาวน้อยไร้เดียงสาน่ารัก  ,,,,,,<3143;771;641;163>,,,{7=15%;8=15%}
+35914,Sky and Earth Flight  ,Bay Lượn Và Đất,Terbang dan Mendarat  ,Terbang dan Tanah  ,Paglipad at Lupa  ,Sky and Earth Flight  ,บินและดิน  ,,,,,,<7001;611;701;741>,,,{14=500}
+36011,Compassionate Healer,Thầy thuốc nhân tâm,Penyembuh Berhati Mulia,Tabib Berhati Murni,Mapagmalasakit na Manggagamot,Compassionate Healer,นักรักษาผู้เปี่ยมเมตตา,,,,,,<1241;1772;641;863>,,,{7=20%;8=20%}
+36012,Idol of Spirits,Nhân khí thần tượng,Idola Semangat Jiwa,Idola Spiritualitas,Idolong Espiritwal,Idol of Spirits,ไอดอลแห่งพลังใจ,,,,,,<2493;7001;641;593>,,,{1=20%}
+36013,Sparkling Sorcery,Ma pháp lấp lánh,Sihir Berkilau,Sihir Berkilauan,Kumikinang na Mahika,Sparkling Sorcery,เวทมนตร์ระยิบระยับ,,,,,,<263;972;593;603>,,,{7=20%;8=20%}
+36014,Priestess Alliance,Vu nữ liên minh,Perikatan Pendeta Wanita,Aliansi Pendeta Wanita,Samahan ng mga Babaylan,Priestess Alliance,พันธมิตรหญิงหมอผี,,,,,,<2401;771;1393;503>,,,{23=1000}
+36611,Supreme Fist  ,Quyền Đạo Tối Thượng,Tumbukan Tertinggi  ,Jurus Tangan Tertinggi  ,Pinakamataas na Paraan ng Pakikipaglaban  ,Supreme Fist  ,อำนาจสูงสุด  ,,,,,,<1423;1303;242;1911>,,,{7=15%;8=15%}
+36612,Unyielding Will  ,Ý Chí Kiên Cường,Semangat Teguh  ,Keteguhan Hati  ,Tibay ng Loob  ,Unyielding Will  ,จิตใจเข้มแข็ง  ,,,,,,<3353;1313;2023;611>,,,{1=15%}
+36613,Breaking Authority  ,Uy Quyền Bức Phá,Kuasa Meledak  ,Kekuatan yang Mendobrak  ,Kapangyarihang Dumudurog  ,Breaking Authority  ,อำนาจทำลายล้าง  ,,,,,,<3673;3021;701;1813>,,,{7=15%;8=15%}
+36614,Second Generation Superhuman  ,Siêu Nhân Thế Hệ Thứ Hai,Adiwira Generasi Kedua  ,Superman Generasi Kedua  ,Ikalawang Henerasyong Superman  ,Second Generation Superhuman  ,ซูเปอร์ฮีโร่รุ่นที่สอง  ,,,,,,<3021;1841;2233;3543>,,,{14=500}
+36711,Alien Race  ,Chủng Tộc Ngoài Hành Tinh,Kaum Asing  ,Ras Luar Angkasa  ,Lahi mula sa Kalawakan  ,Alien Race  ,เผ่าพันธุ์ต่างดาว  ,,,,,,<7001;2233;3171;163>,,,{7=20%;8=20%}
+36712,Combat Master  ,Bậc Thầy Chiến Đấu,Mahaguru Pertempuran  ,Ahli Pertarungan  ,Dalubhasa sa Labanan  ,Combat Master  ,ปรมาจารย์นักรบ  ,,,,,,<1423;1303;611;1911>,,,{1=20%}
+36713,Destruction Kingdom  ,Vương Quốc Hủy Diệt,Kerajaan Pemusnah  ,Kerajaan Kehancuran  ,Kaharian ng Pagkawasak  ,Destruction Kingdom  ,อาณาจักรแห่งการทำลายล้าง  ,,,,,,<3021;263;2233;3663>,,,{7=20%;8=20%}
+36714,Divine Body  ,Thân Thể Thần Ma,Tubuh Dewa Iblis  ,Tubuh Dewa Iblis  ,Katawan ng Diyos-Demonyo  ,Divine Body  ,ร่างเทพมาร  ,,,,,,<3021;1941;3251;863>,,,{23=1000}
+36811,Abstract Group  ,Nhóm Trừu Tượng,Kumpulan Abstrak  ,Kelompok Abstrak  ,Grupo ng Abstrak  ,Abstract Group  ,กลุ่มนามธรรม  ,,,,,,<7001;1931;2633>,,,{7=12%;8=12%}
+36812,Innovative Creator  ,Sáng Tạo Phát Minh,Reka Cipta Inovatif  ,Penemuan Kreatif  ,Imbensyong Malikhaing  ,Innovative Creator  ,สร้างสรรค์สิ่งประดิษฐ์  ,,,,,,<2723;3472;13>,,,{1=12%}
+36813,Techno-Being  ,Sinh Vật Công Nghệ,Makhluk Teknologi  ,Makhluk Teknologi  ,Nilalang ng Teknolohiya  ,Techno-Being  ,สิ่งมีชีวิตเทคโนโลยี  ,,,,,,<3592;1903;712>,,,{7=12%;8=12%}
+37711,Toxin Studies  ,Học Tập Độc Tố,Belajar Racun  ,Belajar Racun  ,Pag-aaral ng Lason  ,Toxin Studies  ,เรียนรู้พิษ  ,,,,,,<44;82;1032>,,,{7=10%;8=10%}
+37712,Pressure Like Mount Tai  ,Áp Lực Như Núi Thái Sơn,Tekanan Seperti Gunung  ,Tekanan Sebesar Gunung Tai  ,Presyur na Parang Bundok Tai  ,Pressure Like Mount Tai  ,แรงกดดันหนักเหมือนภูเขาไท่ซาน  ,,,,,,<402;1253;7001>,,,{1=10%}
+37713,Adventure Companion  ,Bạn Đồng Hành Phiêu Lưu,Teman Pengembaraan  ,Rekan Petualang  ,Kasamang Manlalakbay  ,Adventure Companion  ,เพื่อนร่วมทางผจญภัย  ,,,,,,<2633;163;2033>,,,{7=10%;8=10%}
+40241,Elegant Image  ,Hình Tượng Thanh Lịch,Imej Anggun  ,Penampilan Elegan  ,Eleganteng Anyô  ,Elegant Image  ,ภาพลักษณ์สง่างาม  ,,,,,,<1313;263;3181;3221>,,,{7=20%;8=20%}
+40242,Divine Body  ,Thân Thể Thần Ma,Tubuh Dewa Iblis  ,Tubuh Dewa Iblis  ,Katawan ng Diyos-Demonyo  ,Divine Body  ,ร่างเทพมาร  ,,,,,,<1173;1941;3251;1961>,,,{1=20%}
+40243,Overwhelming Power  ,Uy Thế Siêu Năng,Keagungan Superpower  ,Kewibawaan Superpower  ,Karismang may Superpower  ,Overwhelming Power  ,พลังอำนาจเหนือธรรมชาติ  ,,,,,,<3143;593;603;2391>,,,{7=20%;8=20%}
+40244,King’s Authority  ,Uy Quyền Của Vị Vương,Kebesaran Sang Raja  ,Kekuatan Raja  ,Kapangyarihan ng Hari  ,King’s Authority  ,อำนาจของกษัตริย์  ,,,,,,<2493;1313;1253;2431>,,,{23=1000}
+41611,Bond of Master & Disciple,Tình thầy trò sâu đậm,Ikatan Guru dan Murid,Ikatan Guru dan Murid,Ugnayan ng Guro at Mag-aaral,Bond of Master & Disciple,ความผูกพันอาจารย์ศิษย์,,,,,,<333>,,,{7=20%;8=20%}
+41612,Battle Master,Bậc thầy chiến đấu,Pakar Pertempuran,Master Pertarungan,Ginoo ng Laban,Battle Master,ปรมาจารย์การต่อสู้,,,,,,<1423;1303;611;7051>,,,{1=20%}
+41613,Overwhelming Power,Thế lực siêu phàm,Kuasa Hebat,Kekuatan Super,Makapangyarihang Aura,Overwhelming Power,พลังเหนือชั้น,,,,,,<3143;593;603;7011>,,,{7=20%;8=20%}
+41614,Iron Will,Ý chí thép,Azam Besi,Tekad Baja,Bakal na Paninindigan,Iron Will,เจตจำนงเหล็กกล้า,,,,,,<3673;3353;3251;3221>,,,{14=1000}
+70011,Extraordinary Ability  ,Khả Năng Siêu Phàm,Keupayaan Hebat  ,Kemampuan Supernatural  ,Kapangyarihang Higit sa Karaniwan  ,Extraordinary Ability  ,ความสามารถเหนือธรรมชาติ  ,,,,,,<721;572;1241;1381>,,,{7=20%;8=20%}
+70012,Demon Slayer  ,Tiêu Diệt Ác Quỷ,Musnahkan Iblis  ,Menghancurkan Iblis  ,Puksa ang Demonyo  ,Demon Slayer  ,กำจัดอสูร  ,,,,,,<2401;1893;3161;1772>,,,{1=20%}
+70013,Iron Will  ,Ý Chí Thép,Semangat Besi  ,Tekad Baja  ,Diwang Bakal  ,Iron Will  ,จิตใจแข็งแกร่ง  ,,,,,,<3021;1313;1911;631>,,,{7=20%;8=20%}
+70014,Alien Race  ,Chủng Tộc Ngoài Hành Tinh,Kaum Asing  ,Ras Luar Angkasa  ,Lahi mula sa Kalawakan  ,Alien Race  ,เผ่าพันธุ์ต่างดาว  ,,,,,,<3673;2233;3171;163>,,,{22=1000}
+70111,Ironclad Fusion,Kiên giáp phụ thể,Gabungan Perisai Besi,Fusi Baja Pelindung,Bakal na Kalasag sa Katawan,Ironclad Fusion,เกราะเหล็กรวมร่าง,,,,,,<3021;1313;2723;863>,,,{7=20%;8=20%}
+70112,Maiden Alliance,Thiếu nữ liên minh,Perikatan Gadis Ayu,Aliansi Gadis Muda,Alyansa ng mga Dalaga,Maiden Alliance,พันธมิตรสาวน้อย,,,,,,<1393;721;771;3152>,,,{1=20%}
+70113,Born Adorkable,Trời sinh ngốc manh,Lahir Comel Tapi Bingung ,Lahir Imut nan Bodoh,Isinilang na Cute at Clueless,Born Adorkable,เกิดมาน่ารักแต่โก๊ะๆ,,,,,,<3601;1503;1313;572>,,,{7=20%;8=20%}
+70114,Noble Combatant,Chiến đấu đạt nhân,Pejuang Berhati Mulia,Pejuang Berprinsip,Mandirigmang Makatao,Noble Combatant,นักสู้ผู้มีอุดมการณ์,,,,,,<4024;2361;3221;2351>,,,{14=1000}
+70511,Ironclad Fusion,Kiên giáp phụ thể,Gabungan Perisai Besi,Fusi Baja Pelindung,Bakal na Kalasag sa Katawan,Ironclad Fusion,เกราะเหล็กรวมร่าง,,,,,,<631>,,,{7=20%;8=20%}
+70512,Maiden Alliance,Thiếu nữ liên minh,Perikatan Gadis Ayu,Aliansi Gadis Muda,Alyansa ng mga Dalaga,Maiden Alliance,พันธมิตรสาวน้อย,,,,,,<7011;721;771;3152>,,,{1=20%}
+70513,Born Adorkable,Trời sinh ngốc manh,Lahir Comel Tapi Bingung ,Lahir Imut nan Bodoh,Isinilang na Cute at Clueless,Born Adorkable,เกิดมาน่ารักแต่โก๊ะๆ,,,,,,<2391;3601;1313;572>,,,{7=20%;8=20%}
+70514,Noble Combatant,Chiến đấu đạt nhân,Pejuang Berhati Mulia,Pejuang Berprinsip,Mandirigmang Makatao,Noble Combatant,นักสู้ผู้มีอุดมการณ์,,,,,,<4024;3211;3221;2381>,,,{14=1000}
+70515,Quỷ máu,Quỷ máu,Iblis Darah,Iblis Darah,Dugong Demonyo,Blood Demon,ปีศาจเลือด,,,,,,<8007;8008;2391>,,,{7=20%;8=20%}
+80001,Reaper's Connection,Reaper's Connection,Reaper's Connection,Reaper's Connection,Reaper's Connection,Reaper's Connection,สายสัมพันธ์ยมทูต,,,,,,<8901;4024;1231>,,,
+80011,Tiếng Sấm Trong Đêm Tĩnh,Tiếng Sấm Trong Đêm Tĩnh,Guruh di Malam Sunyi,Guntur di Malam Sunyi,Kulog sa Tahimik na Gabi,Thunder in the Silent Night,เสียงฟ้าในคืนเงียบ,,,,,,<8001;3211;3221;2381>,,,{14=1000}
+80012,Ngọn Lửa Dưới Mặt Nạ,Ngọn Lửa Dưới Mặt Nạ,Api di Sebalik Topeng,Api di Balik Topeng,Apoy sa Likod ng Maskara,Flame Beneath the Mask,เปลวไฟใต้หน้ากาก,,,,,,<8001;1313;2723;863>,,,{7=20%;8=20%}
+80013,Vũ Điệu Của Tia Chớp,Vũ Điệu Của Tia Chớp,Tarian Kilat,Tarian Petir,Sayaw ng Kidlat,Dance of Lightning,ระบำสายฟ้า,,,,,,<8001;593;603;2391>,,,{7=20%;8=20%}
+80021,Mây Mù Gạt Lối Ánh Dương,Mây Mù Gạt Lối Ánh Dương,Kabut yang Menutup Matahari,Kabut yang Menutup Matahari,Ulaping Humaharang sa Araw,Mist that Blocks the Sun,หมอกที่บังแสงอาทิตย์,,,,,,<8002;2233;3171;163>,,,{7=20%;8=20%}
+80022,Dòng Chảy Không Hình Dáng,Dòng Chảy Không Hình Dáng,Aliran Tanpa Bentuk,Aliran Tanpa Wujud,Daloy na Walang Hugis,Formless Flow,การไหลไร้รูป,,,,,,<8002;1503;1313;572>,,,{7=20%;8=20%}
+80023,Lưỡi Kiếm Trong Tĩnh Lặng,Lưỡi Kiếm Trong Tĩnh Lặng,Pedang dalam Kesunyian,Pedang dalam Keheningan,Espadang Tahimik,Blade in Silence,คมดาบในความเงียบ,,,,,,<8002;1841;2233;3543>,,,{14=500}
+80031,Gia Đình,Gia Đình,Keluarga,Keluarga,Pamilya,Family,ครอบครัว,,,,,,<8004>,,,{1=20%;14=500}
+80032,Sát Quỷ Đội,Sát Quỷ Đội,Korps Pembasmi Iblis,Korps Pembasmi Iblis,Demon Slayer Corps,Demon Slayer Corps,หน่วยพิฆาตอสูร,,,,,,<8004;631;7051>,,,{8=20%}
+80033,Huyền Thoại Kiếm,Huyền Thoại Kiếm,Pedang Legenda,Pedang Legendaris,Alamat ng Espada,Legendary Sword,ตำนานแห่งดาบ,,,,,,<2683;1231;631>,,,{23=500;7=20%}
+80034,Vũ Nữ Thép,Vũ Nữ Thép,Penari Besi,Penari Baja,Mananayaw na Bakal,Iron Dancer,นักระบำเหล็ก,,,,,,<8004;572;972;611>,,,{1=20%}
+80041,Học Trò Bất Bại,Học Trò Bất Bại,Murid yang Tak Terkalahkan,Murid Tak Terkalahkan,Mag-aaral na Hindi Matatalo,Unyielding Student,ศิษย์ผู้ไม่แพ้,,,,,,<631;641;1503>,,,{7=15%;8=15%}
+80042,Hoa Kiếm Đa Vũ Trụ,Hoa Kiếm Đa Vũ Trụ,Bunga Pedang Multiverse,Bunga Pedang Multiverse,Bulaklak ng Espadang Multiverse,Multiverse Sword Flower,ดอกไม้ดาบพหุจักรวาล,,,,,,<3303;1381;3152;712>,,,{1=15%}
+80043,Thiếu Nữ Trầm Lặng,Thiếu Nữ Trầm Lặng,Gadis Pendiam,Gadis Pendiam,Tahimik na Dalaga,Silent Maiden,สาวน้อยผู้เงียบสงบ,,,,,,<641;972;611>,,,{7=15%;22=1000}
+80044,Ý Chí Bất Diệt,Ý Chí Bất Diệt,Tekad Abadi,Tekad Abadi,Di-Matitinag na Will,Undying Will,เจตจำนงอมตะ,,,,,,<1381;1503;641;611>,,,{23=500}
+80051,Sát Quỷ Đội,Sát Quỷ Đội,Korps Pembasmi Iblis,Korps Pembasmi Iblis,Demon Slayer Corps,Demon Slayer Corps,หน่วยพิฆาตอสูร,,,,,,<631;8006;8005;7051>,,,{7=20%;8=20%}
+80052,Trụ Cột - Hashira,Trụ Cột - Hashira,Tiang - Hashira,Pilar - Hashira,Haligi - Hashira,Pillar - Hashira,เสาหลัก - ฮาชิระ,,,,,,<8005;7051>,,,{1=20%}
+80053,Đỉnh Cao Kiếm Pháp,Đỉnh Cao Kiếm Pháp,Kemuncak Ilmu Pedang,Puncak Ilmu Pedang,Rurok ng Sining ng Espada,Peak of Swordsmanship,ยอดแห่งวิชาดาบ,,,,,,<3303;701;574;8005;8006>,,,{7=20%;8=20%}
+80054,Người Đam Mê Chiến Đấu,Người Đam Mê Chiến Đấu,Peminat Pertempuran,Pecinta Pertarungan,Nahuhumaling sa Labanan,Battle Enthusiast,ผู้คลั่งไคล้การต่อสู้,,,,,,<8005;1423;3171;2023>,,,{14=1000}
+80061,Sát Quỷ Đội,Sát Quỷ Đội,Korps Pembasmi Iblis,Korps Pembasmi Iblis,Demon Slayer Corps,Demon Slayer Corps,หน่วยพิฆาตอสูร,,,,,,<631;8006;8005;7051>,,,{7=20%;8=20%}
+80062,Trụ Cột - Hashira,Trụ Cột - Hashira,Tiang - Hashira,Pilar - Hashira,Haligi - Hashira,Pillar - Hashira,เสาหลัก - ฮาชิระ,,,,,,<8005;7051>,,,{1=20%}
+80063,Kiếm Nhanh Vô Song,Kiếm Nhanh Vô Song,Pedang Pantas Tiada Tandingan,Pedang Cepat Tak Tertandingi,Espadang Mabilis na Walang Katulad,Unmatched Swift Blade,ดาบเร็วไร้เทียมทาน,,,,,,<3303;572;1841;8005;8006>,,,{7=20%;8=20%}
+80064,Đam Mê Chiến Đấu,Đam Mê Chiến Đấu,Semangat Pertempuran,Gairah Pertarungan,Pagnanais sa Labanan,Passion for Battle,หลงใหลการต่อสู้,,,,,,<263;8006;3171;2023;1173>,,,{14=1000}
+80091,Hải Tặc,Hải Tặc,Lanun,Bajak Laut,Pirata,Pirate,โจรสลัด,,,,,,<3543;2431;8009>,,,{7=20%;8=20%}
+80092,Huyền Thoại Kiếm,Huyền Thoại Kiếm,Pedang Legenda,Pedang Legendaris,Alamat ng Espada,Legendary Sword,ตำนานแห่งดาบ,,,,,,<8009;2683;1231;8006>,,,{1=20%}
+80093,Uy Quyền Của Vị Vương,Uy Quyền Của Vị Vương,Kewibawaan Raja,Kewibawaan Raja,Kapangyarihan ng Hari,Authority of the King,อำนาจของราชา,,,,,,<2493;8009;1313;1253;393>,,,{7=20%;8=20%}
+80094,Đỉnh Cao Kỹ Năng,Đỉnh Cao Kỹ Năng,Kemuncak Kemahiran,Puncak Keterampilan,Tuktok ng Kasanayan,Pinnacle of Skill,สุดยอดทักษะ,,,,,,<8005;1313;3152;1911;8009>,,,{14=1000}
+80095,Hình thái tuyệt đối,Hình thái tuyệt đối,Bentuk Mutlak,Bentuk Absolut,Ganap na Anyo,Absolute Form,ร่างสมบูรณ์แบบ,,,,,,<8010;4024;1231>,,,{14=1000}
+80096,Tứ diện hư vô,Tứ diện hư vô,Tetrahedron Kehampaan,Tetrahedron Kekosongan,Apat na Mukha ng Kawalan,Void Tetrahedron,สี่ด้านแห่งความว่างเปล่า,,,,,,<8010;1396;1173;2033>,,,{7=20%;8=20%}
+80097,Bản Năng Hắc Ám,Bản Năng Hắc Ám,Naluri Gelap,Naluri Gelap,Madilim na Likas,Dark Instinct,สัญชาตญาณมืด,,,,,,<8010;2361;1293>,,,{1=20%}
+80098,Sức mạnh huỷ diệt,Sức mạnh huỷ diệt,Kekuatan Pemusnah,Kekuatan Penghancur,Wasak na Lakas,Destructive Power,พลังทำลายล้าง,,,,,,<8101;3673;2233>,,,{7=20%}
+80099,Chiến binh hoàn hảo,Chiến binh hoàn hảo,Pahlawan Sempurna,Prajurit Sempurna,Perpektong Mandirigma,Perfect Warrior,นักรบผู้สมบูรณ์แบบ,,,,,,<8101;2233;1423;3171>,,,{14=1000}
+90011,External Projection Image  ,Hình Tượng Ngoài Thân,Imej Luar Biasa  ,Penampilan dari Luar  ,Hitsura ng Panlabas  ,External Projection Image  ,ภาพลักษณ์นอกตัว  ,,,,,,<9002;9003>,,,{7=12%;8=12%}
+90021,External Projection Image  ,Hình Tượng Ngoài Thân,Imej Luar Biasa  ,Penampilan dari Luar  ,Hitsura ng Panlabas  ,External Projection Image  ,ภาพลักษณ์นอกตัว  ,,,,,,<9001;9003>,,,{7=15%;8=15%}
+90031,External Projection Image  ,Hình Tượng Ngoài Thân,Imej Luar Biasa  ,Penampilan dari Luar  ,Hitsura ng Panlabas  ,External Projection Image  ,ภาพลักษณ์นอกตัว  ,,,,,,<9001;9002>,,,{7=20%;8=20%}

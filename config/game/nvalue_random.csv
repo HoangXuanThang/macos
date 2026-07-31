@@ -1,0 +1,8 @@
+﻿VariableName,drawType,_comment,drawTriggerType,drawTriggerTimes,weightStart,weightEnd,effectLimit,startCount,libs
+Defaults,"""""","""""",2,0,0,0,0,0,{}
+ID,抽取类型,类型注释,抽取触发类型(0从X次开始;1权值累加;2概率触发;3每X次;4第X次),抽取次数条件,权值上限,权值下限,生效次数上限,开始次数,随机库
+1,default,,0,1,,,,,{1=10}
+2,default,,0,11,,,,,{2=10}
+3,default,,0,31,,,,,{3=10}
+4,default,,0,51,,,,,{4=10}
+5,default,,0,81,,,,,{5=10}

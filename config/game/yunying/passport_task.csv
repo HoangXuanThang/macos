@@ -1,0 +1,961 @@
+﻿VariableName,_beizhu,huodongID,periodType,weekParam,taskAttribute,taskType,taskParam,taskSpecialParam,title,title_th,title_en,title_vn,title_kr,desc,desc_th,desc_en,desc_vn,desc_kr,exp,goToPanel
+Defaults,,0,1,1,3,0,9999,{},"""""","""""","""""","""""","""""",Completing task to get EXP.,ทำภารกิจให้สำเร็จเพื่อรับค่าประสบการณ์ (EXP),Completing task to get EXP.,Hoàn thành nhiệm vụ nhận điểm kinh nghiệm,퀘스트 완료 시 경험치 획득 가능,0,
+ID,备注,活动版本ID,周期类型（1=每日;2=每周）,周参数（第几周）,任务属性(3=普通;4=大师专属),任务类型;普通关卡战斗次数0;困难关卡战斗次数1;活动副本战斗次数2;竞技场战斗次数3;钻石十连抽4;钻石单抽5;装备十连抽6;装备单抽7;开金宝箱8;购买体力9;充值钻石10;装备强化11;装备铸炼12;装备升星13;点金14;VIP等级15;考古16;,任务参数,任务特殊参数,标题,标题,标题,标题_越南,标题_韩,描述,描述,描述,描述_越南,描述_韩,奖励,前往类型枚举:5位数关卡ID-关卡10000为主线不限关10100为主线第一章20000为困难不限关  gainWay获得途径   shop商店activity活动接口roleLogo头像接口figure个人形象接口gainGold点金接口recharge充值接口gainStamina购买体力friend好友接口cardBag背包接口strengthen还有培养接口handbook图鉴接口任意英文-数字表示其页签
+1,,1001,,,,18,1,,Receive treasure once,รับสมบัติครั้งเดียว,Receive treasure once,Nhận kho báu một lần,,,,,,,10,gainGold
+2,,1001,,,,20,100000,,Spend 100000 Coins,ใช้ 100000 เหรียญ,Spend 100000 Coins,Tiêu 100000 Xu đồng,,,,,,,10,
+3,,1001,,,,21,300,,Spend 300 Primogems,ใช้ 300 เพชร,Spend 300 Primogems,Tiêu 300 Nguyên bảo,,,,,,,20,
+4,,1001,,,,26,1,,Buy 1 stamina,ซื้อพลังงาน 1 ครั้ง,Buy 1 stamina,Mua 1 thể lực,,,,,,,20,gainStamina
+5,,1001,,,,29,10,,Clear the normal stage 10 times,ผ่านด่านปกติ 10 ครั้ง,Clear the normal stage 10 times,Vượt ải bình thường 10 lần,,,,,,,10,10000
+6,,1001,,,,30,3,,Hard stage challenge 3 times,ท้าทายด่านยาก 3 ครั้ง,Hard stage challenge 3 times,Thử thách ải khó 3 lần,,,,,,,20,20000
+7,,1001,,,,36,3,,Upgrade Ninja 3 times,อัปเกรดนินจา 3 ครั้ง,Upgrade Ninja 3 times,Nâng cấp Ninja 3 lần,,,,,,,20,strengthen-1
+8,,1001,,,,41,5,,Participate in the arena 5 times,เข้าร่วมสนามประลอง 5 ครั้ง,Participate in the arena 5 times,Tham đấu trường 5 lần,,,,,,,20,
+9,,1001,2,,4,18,10,,Receive Treasure 10 times,รับสมบัติ 10 ครั้ง,Receive Treasure 10 times,Nhận Kho Báu 10 lần,,,,,,,20,gainGold
+10,,1001,2,,,20,1000000,,"Spend 1,000,000 Xu coins","ใช้ 1,000,000 เหรียญ Xu","Spend 1,000,000 Xu coins",Tiêu 1000000 Xu đồng,,,,,,,20,
+11,,1001,2,,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,30,
+12,,1001,2,,,26,10,,Buy 10 stamina,ซื้อพลังงาน 10,Buy 10 stamina,Mua 10 thể lực,,,,,,,30,gainStamina
+13,,1001,2,,,29,80,,Clear normal stage 80 times,ผ่านด่านปกติ 80 ครั้ง,Clear normal stage 80 times,Vượt ải bình thường 80 lần,,,,,,,30,10000
+14,,1001,2,,,30,30,,Challenge the hard stage 30 times,ท้าทายด่านยาก 30 ครั้ง,Challenge the hard stage 30 times,Thử thách ải khó 30 lần,,,,,,,30,20000
+15,,1001,2,,,36,30,,Upgrade Ninja 30 times,อัปเกรดนินจา 30 ครั้ง,Upgrade Ninja 30 times,Nâng cấp Ninja 30 lần,,,,,,,30,strengthen-1
+16,,1001,2,,,41,20,,Participate in the arena 20 times,เข้าร่วมสังเวียน 20 ครั้ง,Participate in the arena 20 times,Tham gia đấu trường 20 lần,,,,,,,30,
+17,,1001,2,2,4,18,10,,Receive Treasure 10 times,รับสมบัติ 10 ครั้ง,Receive Treasure 10 times,Nhận Kho Báu 10 lần,,,,,,,20,gainGold
+18,,1001,2,2,,20,1000000,,"Spend 1,000,000 Xu coins","ใช้ 1,000,000 เหรียญ Xu","Spend 1,000,000 Xu coins",Tiêu 1000000 Xu đồng,,,,,,,20,
+19,,1001,2,2,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,30,
+20,,1001,2,2,,26,10,,Buy 10 stamina,ซื้อพลังงาน 10,Buy 10 stamina,Mua 10 thể lực,,,,,,,30,gainStamina
+21,,1001,2,2,,29,80,,Clear normal stage 80 times,ผ่านด่านปกติ 80 ครั้ง,Clear normal stage 80 times,Vượt ải bình thường 80 lần,,,,,,,30,10000
+22,,1001,2,2,,30,30,,Challenge the hard stage 30 times,ท้าทายด่านยาก 30 ครั้ง,Challenge the hard stage 30 times,Thử thách ải khó 30 lần,,,,,,,30,20000
+23,,1001,2,2,,36,30,,Upgrade Ninja 30 times,อัปเกรดนินจา 30 ครั้ง,Upgrade Ninja 30 times,Nâng cấp Ninja 30 lần,,,,,,,30,strengthen-1
+24,,1001,2,2,,41,20,,Participate in the arena 20 times,เข้าร่วมสังเวียน 20 ครั้ง,Participate in the arena 20 times,Tham gia đấu trường 20 lần,,,,,,,30,
+25,,1001,2,3,4,18,10,,Receive Treasure 10 times,รับสมบัติ 10 ครั้ง,Receive Treasure 10 times,Nhận Kho Báu 10 lần,,,,,,,20,gainGold
+26,,1001,2,3,,20,1000000,,"Spend 1,000,000 Xu coins","ใช้ 1,000,000 เหรียญ Xu","Spend 1,000,000 Xu coins",Tiêu 1000000 Xu đồng,,,,,,,20,
+27,,1001,2,3,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,30,
+28,,1001,2,3,,26,10,,Buy 10 stamina,ซื้อพลังงาน 10,Buy 10 stamina,Mua 10 thể lực,,,,,,,30,gainStamina
+29,,1001,2,3,,29,80,,Clear normal stage 80 times,ผ่านด่านปกติ 80 ครั้ง,Clear normal stage 80 times,Vượt ải bình thường 80 lần,,,,,,,30,10000
+30,,1001,2,3,,30,30,,Challenge the hard stage 30 times,ท้าทายด่านยาก 30 ครั้ง,Challenge the hard stage 30 times,Thử thách ải khó 30 lần,,,,,,,30,20000
+31,,1001,2,3,,36,30,,Upgrade Ninja 30 times,อัปเกรดนินจา 30 ครั้ง,Upgrade Ninja 30 times,Nâng cấp Ninja 30 lần,,,,,,,30,strengthen-1
+32,,1001,2,3,,41,20,,Participate in the arena 20 times,เข้าร่วมสังเวียน 20 ครั้ง,Participate in the arena 20 times,Tham gia đấu trường 20 lần,,,,,,,30,
+33,,1001,2,4,4,18,10,,Receive Treasure 10 times,รับสมบัติ 10 ครั้ง,Receive Treasure 10 times,Nhận Kho Báu 10 lần,,,,,,,20,gainGold
+34,,1001,2,4,,20,1000000,,"Spend 1,000,000 Xu coins","ใช้ 1,000,000 เหรียญ Xu","Spend 1,000,000 Xu coins",Tiêu 1000000 Xu đồng,,,,,,,20,
+35,,1001,2,4,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,30,
+36,,1001,2,4,,26,10,,Buy 10 stamina,ซื้อพลังงาน 10,Buy 10 stamina,Mua 10 thể lực,,,,,,,30,gainStamina
+37,,1001,2,4,,29,80,,Clear normal stage 80 times,ผ่านด่านปกติ 80 ครั้ง,Clear normal stage 80 times,Vượt ải bình thường 80 lần,,,,,,,30,10000
+38,,1001,2,4,,30,30,,Challenge the hard stage 30 times,ท้าทายด่านยาก 30 ครั้ง,Challenge the hard stage 30 times,Thử thách ải khó 30 lần,,,,,,,30,20000
+39,,1001,2,4,,36,30,,Upgrade Ninja 30 times,อัปเกรดนินจา 30 ครั้ง,Upgrade Ninja 30 times,Nâng cấp Ninja 30 lần,,,,,,,30,strengthen-1
+40,,1001,2,4,,41,20,,Participate in the arena 20 times,เข้าร่วมสังเวียน 20 ครั้ง,Participate in the arena 20 times,Tham gia đấu trường 20 lần,,,,,,,30,
+1001,,1002,,,4,15,1,,Daily Login,เข้าสู่ระบบรายวัน,Daily Login,Đăng nhập hàng ngày,,,,,,,15,
+1002,,1002,,,4,29,30,,Fight in the normal stage 30 times,ต่อสู้ที่ด่านปกติ 30 ครั้ง,Fight in the normal stage 30 times,Chiến đấu ở ải bình thường 30 lần,,,,,,,15,10000
+1003,,1002,,,4,39,1,,Accessory Breakthrough Once,เจาะผ่านอุปกรณ์ครั้งเดียว,Accessory Breakthrough Once,Đột phá phụ kiện 1 lần,,,ทำภารกิจให้สำเร็จเพื่อรับค่าประสบการณ์ (EXP),,,,15,
+1004,,1002,,,,41,5,,Participate in the arena 5 times,เข้าร่วมสนามประลอง 5 ครั้ง,Participate in the arena 5 times,Tham đấu trường 5 lần,,,,,,,15,
+1005,,1002,,,,66,2,,Participate in Illusion Challenge 2 times,เข้าร่วมท้าทายภาพลวงตา 2 ครั้ง,Participate in Illusion Challenge 2 times,Tham gia Khiêu chiến ảo ảnh 2 lần,,,,,,,15,
+1006,,1002,,,,20,1000000,,"Spend 1,000,000 Xu coins","ใช้ 1,000,000 เหรียญ Xu","Spend 1,000,000 Xu coins",Tiêu 1000000 Xu đồng,,,,,,,15,
+1007,,1002,,,,21,300,,Spend 300 Primogems,ใช้ 300 เพชร,Spend 300 Primogems,Tiêu 300 Nguyên bảo,,,,,,,15,
+1101,,1002,2,,4,17,2,,Logged in for a total of 2 days,ล็อกอินครบทั้งหมด 2 วัน,Logged in for a total of 2 days,Đăng nhập tổng cộng 2 ngày,,,,,,,50,
+1102,,1002,2,,4,36,30,,Upgrade Ninja 30 times,อัปเกรดนินจา 30 ครั้ง,Upgrade Ninja 30 times,Nâng cấp Ninja 30 lần,,,,,,,50,strengthen-1
+1103,,1002,2,,4,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,50,
+1104,,1002,2,,,43,25,,Arena points: 25 points,คะแนนสนามประลอง: 25 คะแนน,Arena points: 25 points,Điểm đấu trường: 25 điểm,,,,,,,50,
+1105,,1002,2,,,63,25000,,Accumulate 25000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 25000 คะแนน,Accumulate 25000 Anbu Special Training points,Tích lũy 25000 điểm Đặc huấn Anbu,,,,,,,50,
+1106,,1002,2,,,55,10,,Donate 10 times,บริจาค 10 ครั้ง,Donate 10 times,Quyên góp 10 lần,,,,,,,50,
+1107,,1002,2,,,50,10,,Draw 10 times in Primogem Banner,หมุน 10 ครั้งในกาชา Primogem,Draw 10 times in Primogem Banner,Rút 10 lần trong Rút thẻ Nguyên bảo,,,,,,,50,
+1108,,1002,2,,4,29,150,,Fight in the normal stage 150 times,ต่อสู้ในด่านปกติ 150 ครั้ง,Fight in the normal stage 150 times,Chiến đấu ở ải bình thường 150 lần,,,,,,,50,10000
+1109,,1002,2,,,30,30,,Challenge the hard stage 30 times,ท้าทายด่านยาก 30 ครั้ง,Challenge the hard stage 30 times,Thử thách ải khó 30 lần,,,,,,,50,20000
+1110,,1002,2,,,85,15,,Complete the dispatch mission 15 times,ทำภารกิจส่งสายงานให้สำเร็จ 15 ครั้ง,Complete the dispatch mission 15 times,Hoàn thành nhiệm điều phái 15 lần,,,,,,,50,
+1111,,1002,2,,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,50,
+1112,,1002,2,,4,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,50,
+1113,,1002,2,,,86,3,{3=4},Complete the S-rank dispatch mission 3 times,ทำภารกิจส่งกำลังระดับ S ให้ครบ 3 ครั้ง,Complete the S-rank dispatch mission 3 times,Hoàn thành nhiệm vụ điều phái bậc S 3 lần,,,,,,,50,
+1201,,1002,2,2,4,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,50,
+1202,,1002,2,2,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,50,strengthen-1
+1203,,1002,2,2,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,50,
+1204,,1002,2,2,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,50,
+1205,,1002,2,2,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,50,
+1206,,1002,2,2,4,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,50,
+1207,,1002,2,2,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,50,
+1208,,1002,2,2,4,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,50,10000
+1209,,1002,2,2,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,50,20000
+1210,,1002,2,2,4,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,50,
+1211,,1002,2,2,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,50,
+1212,,1002,2,2,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,50,
+1213,,1002,2,2,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,50,
+1301,,1002,2,3,4,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,50,
+1302,,1002,2,3,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,50,strengthen-1
+1303,,1002,2,3,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,100,
+1304,,1002,2,3,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,50,
+1305,,1002,2,3,4,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,50,
+1306,,1002,2,3,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,50,
+1307,,1002,2,3,4,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,100,
+1308,,1002,2,3,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,100,10000
+1309,,1002,2,3,4,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,100,20000
+1310,,1002,2,3,4,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,50,
+1311,,1002,2,3,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,100,
+1312,,1002,2,3,4,67,7,,Clear Floor 7 Anbu Training,ผ่านชั้นที่ 7 การฝึกอบรมอันบู,Clear Floor 7 Anbu Training,Vượt tầng 7 Huấn luyện Anbu,,,,,,,100,
+1313,,1002,2,3,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,100,
+1401,,1002,2,4,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,50,
+1402,,1002,2,4,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,50,strengthen-1
+1403,,1002,2,4,4,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,100,
+1404,,1002,2,4,4,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,50,
+1405,,1002,2,4,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,50,
+1406,,1002,2,4,4,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,50,
+1407,,1002,2,4,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,100,
+1408,,1002,2,4,4,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,100,10000
+1409,,1002,2,4,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,100,20000
+1410,,1002,2,4,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,50,
+1411,,1002,2,4,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,100,
+1412,,1002,2,4,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,100,
+1413,,1002,2,4,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,100,
+1501,,1002,2,5,4,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,50,
+1502,,1002,2,5,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,50,strengthen-1
+1503,,1002,2,5,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,100,
+1504,,1002,2,5,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,50,
+1505,,1002,2,5,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,50,
+1506,,1002,2,5,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,50,
+1507,,1002,2,5,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,100,
+1508,,1002,2,5,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,100,10000
+1509,,1002,2,5,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,100,20000
+1510,,1002,2,5,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,50,
+1511,,1002,2,5,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,100,
+1512,,1002,2,5,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,100,
+1513,,1002,2,5,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,100,
+1601,,1002,2,6,4,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,50,
+1602,,1002,2,6,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,50,strengthen-1
+1603,,1002,2,6,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,100,
+1604,,1002,2,6,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,50,
+1605,,1002,2,6,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,50,
+1606,,1002,2,6,4,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,50,
+1607,,1002,2,6,4,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,100,
+1608,,1002,2,6,4,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,100,10000
+1609,,1002,2,6,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,100,20000
+1610,,1002,2,6,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,50,
+1611,,1002,2,6,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,100,
+1612,,1002,2,6,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,100,
+1613,,1002,2,6,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,100,
+1701,,1002,2,7,4,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,50,
+1702,,1002,2,7,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,50,strengthen-1
+1703,,1002,2,7,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,100,
+1704,,1002,2,7,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,50,
+1705,,1002,2,7,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,50,
+1706,,1002,2,7,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,50,
+1707,,1002,2,7,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,100,
+1708,,1002,2,7,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,100,10000
+1709,,1002,2,7,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,100,20000
+1710,,1002,2,7,4,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,50,
+1711,,1002,2,7,4,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,100,
+1712,,1002,2,7,4,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,100,
+1713,,1002,2,7,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,100,
+1801,,1002,2,8,4,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,50,
+1802,,1002,2,8,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,50,strengthen-1
+1803,,1002,2,8,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,100,
+1804,,1002,2,8,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,50,
+1805,,1002,2,8,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,50,
+1806,,1002,2,8,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,50,
+1807,,1002,2,8,4,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,100,
+1808,,1002,2,8,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,100,10000
+1809,,1002,2,8,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,100,20000
+1810,,1002,2,8,4,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,50,
+1811,,1002,2,8,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,100,
+1812,,1002,2,8,4,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,100,
+1813,,1002,2,8,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,100,
+1901,,1002,2,9,4,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,50,
+1902,,1002,2,9,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,50,strengthen-1
+1903,,1002,2,9,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,100,
+1904,,1002,2,9,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,50,
+1905,,1002,2,9,4,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,50,
+1906,,1002,2,9,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,50,
+1907,,1002,2,9,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,100,
+1908,,1002,2,9,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,100,10000
+1909,,1002,2,9,4,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,100,20000
+1910,,1002,2,9,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,50,
+1911,,1002,2,9,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,100,
+1912,,1002,2,9,4,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,100,
+1913,,1002,2,9,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,100,
+2001,,1002,2,10,4,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,50,
+2002,,1002,2,10,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,50,strengthen-1
+2003,,1002,2,10,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,100,
+2004,,1002,2,10,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,50,
+2005,,1002,2,10,4,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,50,
+2006,,1002,2,10,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,50,
+2007,,1002,2,10,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,100,
+2008,,1002,2,10,4,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,100,10000
+2009,,1002,2,10,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,100,20000
+2010,,1002,2,10,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,50,
+2011,,1002,2,10,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,100,
+2012,,1002,2,10,4,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,100,
+2013,,1002,2,10,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,100,
+2101,,1002,2,11,4,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,50,
+2102,,1002,2,11,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,50,strengthen-1
+2103,,1002,2,11,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,100,
+2104,,1002,2,11,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,50,
+2105,,1002,2,11,4,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,50,
+2106,,1002,2,11,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,50,
+2107,,1002,2,11,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,100,
+2108,,1002,2,11,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,100,10000
+2109,,1002,2,11,4,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,100,20000
+2110,,1002,2,11,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,50,
+2111,,1002,2,11,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,100,
+2112,,1002,2,11,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,100,
+2113,,1002,2,11,4,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,100,
+2201,,1002,2,12,4,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,50,
+2202,,1002,2,12,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,50,strengthen-1
+2203,,1002,2,12,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,100,
+2204,,1002,2,12,4,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,50,
+2205,,1002,2,12,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,50,
+2206,,1002,2,12,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,50,
+2207,,1002,2,12,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,100,
+2208,,1002,2,12,4,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,100,10000
+2209,,1002,2,12,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,100,20000
+2210,,1002,2,12,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,50,
+2211,,1002,2,12,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,100,
+2212,,1002,2,12,4,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,100,
+2213,,1002,2,12,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,100,
+3001,,1003,,,,15,1,,Daily Login,เข้าสู่ระบบรายวัน,Daily Login,Đăng nhập hàng ngày,,,,,,,300,
+3002,,1003,,,,29,30,,Fight in the normal stage 30 times,ต่อสู้ในด่านปกติ 30 ครั้ง,Fight in the normal stage 30 times,Chiến đấu ở ải bình thường 30 lần,,,,,,,300,10000
+3003,,1003,,,,39,1,,Accessory Breakthrough Once,ทะลวงอุปกรณ์เสริม 1 ครั้ง,Accessory Breakthrough Once,Đột phá phụ kiện 1 lần,,,,,,,300,
+3004,,1003,,,,41,5,,Participate in the arena 5 times,เข้าร่วมสนามประลอง 5 ครั้ง,Participate in the arena 5 times,Tham đấu trường 5 lần,,,,,,,300,
+3005,,1003,,,,66,2,,Participate in Illusion Challenge 2 times,เข้าร่วมท้าทายมายา 2 ครั้ง,Participate in Illusion Challenge 2 times,Tham gia Khiêu chiến ảo ảnh 2 lần,,,,,,,300,
+3006,,1003,,,,20,1000000,,"Spend 1,000,000 Xu coins",ใช้ 1000000 เหรียญทองแดง,"Spend 1,000,000 Xu coins",Tiêu 1000000 Xu đồng,,,,,,,300,
+3007,,1003,,,,21,300,,Spend 300 Primogems,ใช้ 300 ตราประทับ,Spend 300 Primogems,Tiêu 300 Nguyên bảo,,,,,,,300,
+3008,,1003,,,4,15,1,,Marster daily login.,เข้าสู่ระบบรายวัน (มาสเตอร์),Marster daily login.,Marster đăng nhập hàng ngày.,,,,,,,300,
+3101,,1003,2,,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบสะสม 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,1000,
+3102,,1003,2,,,36,50,,Upgrade Ninja 50 times.,อัปเกรดฮีโร่ 50 ครั้ง,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,1000,strengthen-1
+3103,,1003,2,,,21,1000,,Spend 1000 Primogems,ใช้ 1000 ตราประทับ,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,1000,
+3104,,1003,2,,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,1000,
+3105,,1003,2,,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสม 50000 แต้มฝึกพิเศษแอนบุ,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,1000,
+3106,,1003,2,,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,1000,
+3107,,1003,2,,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,สุ่ม 20 ครั้งในการสุ่มบัตรตราประทับ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,1000,
+3108,,1003,2,,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,1000,10000
+3109,,1003,2,,,30,60,,Challenge 60 Hard Levels,ท้าทายด่านยาก 60 ครั้ง,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,1000,20000
+3110,,1003,2,,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจมอบหมายสำเร็จ 30 ครั้ง,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,1000,
+3111,,1003,2,,,21,3000,,Spend 3000 Primogems,ใช้ 3000 ตราประทับ,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,1000,
+3112,,1003,2,,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกแอนบุ ชั้น 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,1000,
+3113,,1003,2,,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจมอบหมายระดับ S สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,1000,
+3201,,1003,2,2,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบสะสม 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,1000,
+3202,,1003,2,2,,36,50,,Upgrade Ninja 50 times.,อัปเกรดฮีโร่ 50 ครั้ง,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,1000,strengthen-1
+3203,,1003,2,2,,21,1000,,Spend 1000 Primogems,ใช้ 1000 ตราประทับ,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,2000,
+3204,,1003,2,2,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,1000,
+3205,,1003,2,2,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสม 50000 แต้มฝึกพิเศษแอนบุ,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,1000,
+3206,,1003,2,2,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,1000,
+3207,,1003,2,2,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,สุ่ม 20 ครั้งในการสุ่มบัตรตราประทับ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,2000,
+3208,,1003,2,2,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,2000,10000
+3209,,1003,2,2,,30,60,,Challenge 60 Hard Levels,ท้าทายด่านยาก 60 ครั้ง,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,2000,20000
+3210,,1003,2,2,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจมอบหมายสำเร็จ 30 ครั้ง,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,1000,
+3211,,1003,2,2,,21,3000,,Spend 3000 Primogems,ใช้ 3000 ตราประทับ,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,2000,
+3212,,1003,2,2,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกแอนบุ ชั้น 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,2000,
+3213,,1003,2,2,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจมอบหมายระดับ S สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,2000,
+3301,,1003,2,3,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบสะสม 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,1000,
+3302,,1003,2,3,,36,50,,Upgrade Ninja 50 times.,อัปเกรดฮีโร่ 50 ครั้ง,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,1000,strengthen-1
+3303,,1003,2,3,,21,1000,,Spend 1000 Primogems,ใช้ 1000 ตราประทับ,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,2000,
+3304,,1003,2,3,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,1000,
+3305,,1003,2,3,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสม 50000 แต้มฝึกพิเศษแอนบุ,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,1000,
+3306,,1003,2,3,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,1000,
+3307,,1003,2,3,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,สุ่ม 20 ครั้งในการสุ่มบัตรตราประทับ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,2000,
+3308,,1003,2,3,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,2000,10000
+3309,,1003,2,3,,30,60,,Challenge 60 Hard Levels,ท้าทายด่านยาก 60 ครั้ง,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,2000,20000
+3310,,1003,2,3,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจมอบหมายสำเร็จ 30 ครั้ง,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,1000,
+3311,,1003,2,3,,21,3000,,Spend 3000 Primogems,ใช้ 3000 ตราประทับ,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,2000,
+3312,,1003,2,3,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกแอนบุ ชั้น 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,2000,
+3313,,1003,2,3,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจมอบหมายระดับ S สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,2000,
+3401,,1003,2,4,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบสะสม 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,1000,
+3402,,1003,2,4,,36,50,,Upgrade Ninja 50 times.,อัปเกรดฮีโร่ 50 ครั้ง,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,1000,strengthen-1
+3403,,1003,2,4,,21,1000,,Spend 1000 Primogems,ใช้ 1000 ตราประทับ,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,2000,
+3404,,1003,2,4,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,1000,
+3405,,1003,2,4,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสม 50000 แต้มฝึกพิเศษแอนบุ,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,1000,
+3406,,1003,2,4,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,1000,
+3407,,1003,2,4,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,สุ่ม 20 ครั้งในการสุ่มบัตรตราประทับ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,2000,
+3408,,1003,2,4,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,2000,10000
+3409,,1003,2,4,,30,60,,Challenge 60 Hard Levels,ท้าทายด่านยาก 60 ครั้ง,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,2000,20000
+3410,,1003,2,4,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจมอบหมายสำเร็จ 30 ครั้ง,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,1000,
+3411,,1003,2,4,,21,3000,,Spend 3000 Primogems,ใช้ 3000 ตราประทับ,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,2000,
+3412,,1003,2,4,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกแอนบุ ชั้น 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,2000,
+3413,,1003,2,4,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจมอบหมายระดับ S สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,2000,
+3501,,1003,2,5,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบสะสม 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,1000,
+3502,,1003,2,5,,36,50,,Upgrade Ninja 50 times.,อัปเกรดฮีโร่ 50 ครั้ง,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,1000,strengthen-1
+3503,,1003,2,5,,21,1000,,Spend 1000 Primogems,ใช้ 1000 ตราประทับ,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,2000,
+3504,,1003,2,5,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,1000,
+3505,,1003,2,5,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสม 50000 แต้มฝึกพิเศษแอนบุ,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,1000,
+3506,,1003,2,5,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,1000,
+3507,,1003,2,5,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,สุ่ม 20 ครั้งในการสุ่มบัตรตราประทับ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,2000,
+3508,,1003,2,5,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,2000,10000
+3509,,1003,2,5,,30,60,,Challenge 60 Hard Levels,ท้าทายด่านยาก 60 ครั้ง,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,2000,20000
+3510,,1003,2,5,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจมอบหมายสำเร็จ 30 ครั้ง,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,1000,
+3511,,1003,2,5,,21,3000,,Spend 3000 Primogems,ใช้ 3000 ตราประทับ,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,2000,
+3512,,1003,2,5,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกแอนบุ ชั้น 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,2000,
+3513,,1003,2,5,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจมอบหมายระดับ S สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,2000,
+3601,,1003,2,6,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบสะสม 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,1000,
+3602,,1003,2,6,,36,50,,Upgrade Ninja 50 times.,อัปเกรดฮีโร่ 50 ครั้ง,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,1000,strengthen-1
+3603,,1003,2,6,,21,1000,,Spend 1000 Primogems,ใช้ 1000 ตราประทับ,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,2000,
+3604,,1003,2,6,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,1000,
+3605,,1003,2,6,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสม 50000 แต้มฝึกพิเศษแอนบุ,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,1000,
+3606,,1003,2,6,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,1000,
+3607,,1003,2,6,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,สุ่ม 20 ครั้งในการสุ่มบัตรตราประทับ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,2000,
+3608,,1003,2,6,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,2000,10000
+3609,,1003,2,6,,30,60,,Challenge 60 Hard Levels,ท้าทายด่านยาก 60 ครั้ง,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,2000,20000
+3610,,1003,2,6,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจมอบหมายสำเร็จ 30 ครั้ง,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,1000,
+3611,,1003,2,6,,21,3000,,Spend 3000 Primogems,ใช้ 3000 ตราประทับ,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,2000,
+3612,,1003,2,6,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกแอนบุ ชั้น 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,2000,
+3613,,1003,2,6,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจมอบหมายระดับ S สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,2000,
+3701,,1003,2,7,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบสะสม 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,1000,
+3702,,1003,2,7,,36,50,,Upgrade Ninja 50 times.,อัปเกรดฮีโร่ 50 ครั้ง,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,1000,strengthen-1
+3703,,1003,2,7,,21,1000,,Spend 1000 Primogems,ใช้ 1000 ตราประทับ,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,2000,
+3704,,1003,2,7,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,1000,
+3705,,1003,2,7,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสม 50000 แต้มฝึกพิเศษแอนบุ,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,1000,
+3706,,1003,2,7,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,1000,
+3707,,1003,2,7,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,สุ่ม 20 ครั้งในการสุ่มบัตรตราประทับ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,2000,
+3708,,1003,2,7,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,2000,10000
+3709,,1003,2,7,,30,60,,Challenge 60 Hard Levels,ท้าทายด่านยาก 60 ครั้ง,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,2000,20000
+3710,,1003,2,7,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจมอบหมายสำเร็จ 30 ครั้ง,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,1000,
+3711,,1003,2,7,,21,3000,,Spend 3000 Primogems,ใช้ 3000 ตราประทับ,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,2000,
+3712,,1003,2,7,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกแอนบุ ชั้น 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,2000,
+3713,,1003,2,7,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจมอบหมายระดับ S สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,2000,
+3801,,1003,2,8,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบสะสม 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,1000,
+3802,,1003,2,8,,36,50,,Upgrade Ninja 50 times.,อัปเกรดฮีโร่ 50 ครั้ง,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,1000,strengthen-1
+3803,,1003,2,8,,21,1000,,Spend 1000 Primogems,ใช้ 1000 ตราประทับ,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,2000,
+3804,,1003,2,8,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,1000,
+3805,,1003,2,8,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสม 50000 แต้มฝึกพิเศษแอนบุ,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,1000,
+3806,,1003,2,8,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,1000,
+3807,,1003,2,8,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,สุ่ม 20 ครั้งในการสุ่มบัตรตราประทับ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,2000,
+3808,,1003,2,8,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,2000,10000
+3809,,1003,2,8,,30,60,,Challenge 60 Hard Levels,ท้าทายด่านยาก 60 ครั้ง,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,2000,20000
+3810,,1003,2,8,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจมอบหมายสำเร็จ 30 ครั้ง,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,1000,
+3811,,1003,2,8,,21,3000,,Spend 3000 Primogems,ใช้ 3000 ตราประทับ,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,2000,
+3812,,1003,2,8,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกแอนบุ ชั้น 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,2000,
+3813,,1003,2,8,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจมอบหมายระดับ S สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,2000,
+3901,,1003,2,9,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบสะสม 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,1000,
+3902,,1003,2,9,,36,50,,Upgrade Ninja 50 times.,อัปเกรดฮีโร่ 50 ครั้ง,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,1000,strengthen-1
+3903,,1003,2,9,,21,1000,,Spend 1000 Primogems,ใช้ 1000 ตราประทับ,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,2000,
+3904,,1003,2,9,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,1000,
+3905,,1003,2,9,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสม 50000 แต้มฝึกพิเศษแอนบุ,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,1000,
+3906,,1003,2,9,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,1000,
+3907,,1003,2,9,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,สุ่ม 20 ครั้งในการสุ่มบัตรตราประทับ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,2000,
+3908,,1003,2,9,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,2000,10000
+3909,,1003,2,9,,30,60,,Challenge 60 Hard Levels,ท้าทายด่านยาก 60 ครั้ง,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,2000,20000
+3910,,1003,2,9,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจมอบหมายสำเร็จ 30 ครั้ง,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,1000,
+3911,,1003,2,9,,21,3000,,Spend 3000 Primogems,ใช้ 3000 ตราประทับ,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,2000,
+3912,,1003,2,9,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกแอนบุ ชั้น 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,2000,
+3913,,1003,2,9,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจมอบหมายระดับ S สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,2000,
+4001,,1003,2,10,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบรวม 3 วัน  ,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,1000,
+4002,,1003,2,10,,36,50,,Upgrade Ninja 50 times.,อัปเกรดฮีโร่ 50 ครั้ง  ,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,1000,strengthen-1
+4003,,1003,2,10,,21,1000,,Spend 1000 Primogems,ใช้ 1000 คริสตัล  ,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,2000,
+4004,,1003,2,10,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน  ,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,1000,
+4005,,1003,2,10,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสม 50000 แต้มฝึกพิเศษหน่วยลับ  ,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,1000,
+4006,,1003,2,10,,55,20,,Donate 20 times,บริจาค 20 ครั้ง  ,Donate 20 times,Quyên góp 20 lần,,,,,,,1000,
+4007,,1003,2,10,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,สุ่มการ์ดด้วยคริสตัล 20 ครั้ง  ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,2000,
+4008,,1003,2,10,,29,300,,Fight in the normal stage 300 times,ต่อสู้ด่านปกติ 300 ครั้ง  ,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,2000,10000
+4009,,1003,2,10,,30,60,,Challenge 60 Hard Levels,ท้าทายด่านยาก 60 ครั้ง  ,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,2000,20000
+4010,,1003,2,10,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจมอบหมายสำเร็จ 30 ครั้ง  ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,1000,
+4011,,1003,2,10,,21,3000,,Spend 3000 Primogems,ใช้ 3000 คริสตัล  ,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,2000,
+4012,,1003,2,10,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกหน่วยลับ ชั้นที่ 7  ,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,2000,
+4013,,1003,2,10,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจมอบหมายระดับ S สำเร็จ 6 ครั้ง  ,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,2000,
+4101,,1003,2,11,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบรวม 3 วัน  ,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,1000,
+4102,,1003,2,11,,36,50,,Upgrade Ninja 50 times.,อัปเกรดฮีโร่ 50 ครั้ง  ,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,1000,strengthen-1
+4103,,1003,2,11,,21,1000,,Spend 1000 Primogems,ใช้ 1000 คริสตัล  ,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,2000,
+4104,,1003,2,11,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน  ,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,1000,
+4105,,1003,2,11,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสม 50000 แต้มฝึกพิเศษหน่วยลับ  ,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,1000,
+4106,,1003,2,11,,55,20,,Donate 20 times,บริจาค 20 ครั้ง  ,Donate 20 times,Quyên góp 20 lần,,,,,,,1000,
+4107,,1003,2,11,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,สุ่มการ์ดด้วยคริสตัล 20 ครั้ง  ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,2000,
+4108,,1003,2,11,,29,300,,Fight in the normal stage 300 times,ต่อสู้ด่านปกติ 300 ครั้ง  ,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,2000,10000
+4109,,1003,2,11,,30,60,,Challenge 60 Hard Levels,ท้าทายด่านยาก 60 ครั้ง  ,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,2000,20000
+4110,,1003,2,11,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจมอบหมายสำเร็จ 30 ครั้ง  ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,1000,
+4111,,1003,2,11,,21,3000,,Spend 3000 Primogems,ใช้ 3000 คริสตัล  ,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,2000,
+4112,,1003,2,11,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกหน่วยลับ ชั้นที่ 7  ,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,2000,
+4113,,1003,2,11,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจมอบหมายระดับ S สำเร็จ 6 ครั้ง  ,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,2000,
+5001,,1004,,,,15,1,,Daily Login,เข้าสู่ระบบรายวัน,Daily Login,Đăng nhập hàng ngày,,,,,,,30,
+5002,,1004,,,,29,30,,Fight in the normal stage 30 times,ต่อสู้ที่ด่านปกติ 30 ครั้ง,Fight in the normal stage 30 times,Chiến đấu ở ải bình thường 30 lần,,,,,,,30,10000
+5003,,1004,,,,39,1,,Accessory Breakthrough Once,เจาะผ่านอุปกรณ์ครั้งเดียว,Accessory Breakthrough Once,Đột phá phụ kiện 1 lần,,,,,,,30,
+5004,,1004,,,,41,5,,Participate in the arena 5 times,เข้าร่วมสนามประลอง 5 ครั้ง,Participate in the arena 5 times,Tham đấu trường 5 lần,,,,,,,30,
+5005,,1004,,,,66,2,,Participate in Illusion Challenge 2 times,เข้าร่วมท้าทายภาพลวงตา 2 ครั้ง,Participate in Illusion Challenge 2 times,Tham gia Khiêu chiến ảo ảnh 2 lần,,,,,,,30,
+5006,,1004,,,,20,1000000,,"Spend 1,000,000 Xu coins","ใช้ 1,000,000 เหรียญ Xu","Spend 1,000,000 Xu coins",Tiêu 1000000 Xu đồng,,,,,,,30,
+5007,,1004,,,,21,300,,Spend 300 Primogems,ใช้ 300 เพชร,Spend 300 Primogems,Tiêu 300 Nguyên bảo,,,,,,,30,
+5008,,1004,,,4,15,1,,Marster daily login.,Marster เข้าสู่ระบบรายวัน.,Marster daily login.,Marster đăng nhập hàng ngày.,,,,,,,30,
+5101,,1004,2,,,17,2,,Logged in for a total of 2 days,ล็อกอินครบทั้งหมด 2 วัน,Logged in for a total of 2 days,Đăng nhập tổng cộng 2 ngày,,,,,,,100,
+5102,,1004,2,,,36,30,,Upgrade Ninja 30 times,อัปเกรดนินจา 30 ครั้ง,Upgrade Ninja 30 times,Nâng cấp Ninja 30 lần,,,,,,,100,strengthen-1
+5103,,1004,2,,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,100,
+5104,,1004,2,,,43,25,,Arena points: 25 points,คะแนนสนามประลอง: 25 คะแนน,Arena points: 25 points,Điểm đấu trường: 25 điểm,,,,,,,100,
+5105,,1004,2,,,63,25000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+5106,,1004,2,,,55,10,,Donate 10 times,บริจาค 10 ครั้ง,Donate 10 times,Quyên góp 10 lần,,,,,,,100,
+5107,,1004,2,,,50,10,,Draw 10 times in Primogem Banner,หมุน 10 ครั้งในกาชา Primogem,Draw 10 times in Primogem Banner,Rút 10 lần trong Rút thẻ Nguyên bảo,,,,,,,100,
+5108,,1004,2,,,29,150,,Fight in the normal stage 150 times,ต่อสู้ในด่านปกติ 150 ครั้ง,Fight in the normal stage 150 times,Chiến đấu ở ải bình thường 150 lần,,,,,,,100,10000
+5109,,1004,2,,,30,30,,Challenge the hard stage 30 times,ท้าทายด่านยาก 30 ครั้ง,Challenge the hard stage 30 times,Thử thách ải khó 30 lần,,,,,,,100,20000
+5110,,1004,2,,,85,15,,Complete the dispatch mission 15 times,ทำภารกิจส่งสายงานให้สำเร็จ 15 ครั้ง,Complete the dispatch mission 15 times,Hoàn thành nhiệm điều phái 15 lần,,,,,,,100,
+5111,,1004,2,,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,100,
+5112,,1004,2,,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,100,
+5113,,1004,2,,,86,3,{3=4},Complete the S-rank dispatch mission 3 times,ทำภารกิจส่งกำลังระดับ S ให้ครบ 3 ครั้ง,Complete the S-rank dispatch mission 3 times,Hoàn thành nhiệm vụ điều phái bậc S 3 lần,,,,,,,100,
+5201,,1004,2,2,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+5202,,1004,2,2,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+5203,,1004,2,2,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+5204,,1004,2,2,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+5205,,1004,2,2,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+5206,,1004,2,2,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+5207,,1004,2,2,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+5208,,1004,2,2,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+5209,,1004,2,2,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+5210,,1004,2,2,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+5211,,1004,2,2,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+5212,,1004,2,2,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+5213,,1004,2,2,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+5301,,1004,2,3,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+5302,,1004,2,3,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+5303,,1004,2,3,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+5304,,1004,2,3,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+5305,,1004,2,3,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+5306,,1004,2,3,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+5307,,1004,2,3,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+5308,,1004,2,3,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+5309,,1004,2,3,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+5310,,1004,2,3,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+5311,,1004,2,3,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+5312,,1004,2,3,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+5313,,1004,2,3,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+5401,,1004,2,4,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+5402,,1004,2,4,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+5403,,1004,2,4,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+5404,,1004,2,4,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+5405,,1004,2,4,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+5406,,1004,2,4,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+5407,,1004,2,4,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+5408,,1004,2,4,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+5409,,1004,2,4,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+5410,,1004,2,4,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+5411,,1004,2,4,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+5412,,1004,2,4,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+5413,,1004,2,4,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+5501,,1004,2,5,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+5502,,1004,2,5,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+5503,,1004,2,5,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+5504,,1004,2,5,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+5505,,1004,2,5,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+5506,,1004,2,5,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+5507,,1004,2,5,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+5508,,1004,2,5,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+5509,,1004,2,5,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+5510,,1004,2,5,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+5511,,1004,2,5,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+5512,,1004,2,5,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+5513,,1004,2,5,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+5601,,1004,2,6,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+5602,,1004,2,6,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+5603,,1004,2,6,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+5604,,1004,2,6,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+5605,,1004,2,6,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+5606,,1004,2,6,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+5607,,1004,2,6,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+5608,,1004,2,6,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+5609,,1004,2,6,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+5610,,1004,2,6,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+5611,,1004,2,6,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+5612,,1004,2,6,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+5613,,1004,2,6,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+5701,,1004,2,7,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+5702,,1004,2,7,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+5703,,1004,2,7,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+5704,,1004,2,7,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+5705,,1004,2,7,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+5706,,1004,2,7,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+5707,,1004,2,7,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+5708,,1004,2,7,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+5709,,1004,2,7,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+5710,,1004,2,7,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+5711,,1004,2,7,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+5712,,1004,2,7,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+5713,,1004,2,7,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+5801,,1004,2,8,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+5802,,1004,2,8,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+5803,,1004,2,8,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+5804,,1004,2,8,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+5805,,1004,2,8,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+5806,,1004,2,8,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+5807,,1004,2,8,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+5808,,1004,2,8,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+5809,,1004,2,8,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+5810,,1004,2,8,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+5811,,1004,2,8,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+5812,,1004,2,8,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+5813,,1004,2,8,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+5901,,1004,2,9,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+5902,,1004,2,9,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+5903,,1004,2,9,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+5904,,1004,2,9,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+5905,,1004,2,9,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+5906,,1004,2,9,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+5907,,1004,2,9,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+5908,,1004,2,9,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+5909,,1004,2,9,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+5910,,1004,2,9,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+5911,,1004,2,9,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+5912,,1004,2,9,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+5913,,1004,2,9,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+6001,,1004,2,10,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+6002,,1004,2,10,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+6003,,1004,2,10,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+6004,,1004,2,10,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+6005,,1004,2,10,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+6006,,1004,2,10,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+6007,,1004,2,10,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+6008,,1004,2,10,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+6009,,1004,2,10,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+6010,,1004,2,10,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+6011,,1004,2,10,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+6012,,1004,2,10,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+6013,,1004,2,10,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+6101,,1004,2,11,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+6102,,1004,2,11,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+6103,,1004,2,11,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+6104,,1004,2,11,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+6105,,1004,2,11,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+6106,,1004,2,11,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+6107,,1004,2,11,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+6108,,1004,2,11,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+6109,,1004,2,11,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+6110,,1004,2,11,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+6111,,1004,2,11,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+6112,,1004,2,11,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+6113,,1004,2,11,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+6501,,1005,,,,15,1,,Daily Login,เข้าสู่ระบบรายวัน,Daily Login,Đăng nhập hàng ngày,,,,,,,30,
+6502,,1005,,,,29,30,,Fight in the normal stage 30 times,ต่อสู้ที่ด่านปกติ 30 ครั้ง,Fight in the normal stage 30 times,Chiến đấu ở ải bình thường 30 lần,,,,,,,30,10000
+6503,,1005,,,,39,1,,Accessory Breakthrough Once,เจาะผ่านอุปกรณ์ครั้งเดียว,Accessory Breakthrough Once,Đột phá phụ kiện 1 lần,,,,,,,30,
+6504,,1005,,,,41,5,,Participate in the arena 5 times,เข้าร่วมสนามประลอง 5 ครั้ง,Participate in the arena 5 times,Tham đấu trường 5 lần,,,,,,,30,
+6505,,1005,,,,66,2,,Participate in Illusion Challenge 2 times,เข้าร่วมท้าทายภาพลวงตา 2 ครั้ง,Participate in Illusion Challenge 2 times,Tham gia Khiêu chiến ảo ảnh 2 lần,,,,,,,30,
+6506,,1005,,,,20,1000000,,"Spend 1,000,000 Xu coins","ใช้ 1,000,000 เหรียญ Xu","Spend 1,000,000 Xu coins",Tiêu 1000000 Xu đồng,,,,,,,30,
+6507,,1005,,,,21,300,,Spend 300 Primogems,ใช้ 300 เพชร,Spend 300 Primogems,Tiêu 300 Nguyên bảo,,,,,,,30,
+6508,,1005,,,4,15,1,,Marster daily login.,Marster เข้าสู่ระบบรายวัน.,Marster daily login.,Marster đăng nhập hàng ngày.,,,,,,,30,
+6521,,1005,2,,,17,2,,Logged in for a total of 2 days,ล็อกอินครบทั้งหมด 2 วัน,Logged in for a total of 2 days,Đăng nhập tổng cộng 2 ngày,,,,,,,100,
+6522,,1005,2,,,36,30,,Upgrade Ninja 30 times,อัปเกรดนินจา 30 ครั้ง,Upgrade Ninja 30 times,Nâng cấp Ninja 30 lần,,,,,,,100,strengthen-1
+6523,,1005,2,,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,100,
+6524,,1005,2,,,43,25,,Arena points: 25 points,คะแนนสนามประลอง: 25 คะแนน,Arena points: 25 points,Điểm đấu trường: 25 điểm,,,,,,,100,
+6525,,1005,2,,,63,25000,,Accumulate 25000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 25000 คะแนน,Accumulate 25000 Anbu Special Training points,Tích lũy 25000 điểm Đặc huấn Anbu,,,,,,,100,
+6526,,1005,2,,,55,10,,Donate 10 times,บริจาค 10 ครั้ง,Donate 10 times,Quyên góp 10 lần,,,,,,,100,
+6527,,1005,2,,,50,10,,Draw 10 times in Primogem Banner,หมุน 10 ครั้งในกาชา Primogem,Draw 10 times in Primogem Banner,Rút 10 lần trong Rút thẻ Nguyên bảo,,,,,,,100,
+6528,,1005,2,,,29,150,,Fight in the normal stage 150 times,ต่อสู้ในด่านปกติ 150 ครั้ง,Fight in the normal stage 150 times,Chiến đấu ở ải bình thường 150 lần,,,,,,,100,10000
+6529,,1005,2,,,30,30,,Challenge the hard stage 30 times,ท้าทายด่านยาก 30 ครั้ง,Challenge the hard stage 30 times,Thử thách ải khó 30 lần,,,,,,,100,20000
+6530,,1005,2,,,85,15,,Complete the dispatch mission 15 times,ทำภารกิจส่งสายงานให้สำเร็จ 15 ครั้ง,Complete the dispatch mission 15 times,Hoàn thành nhiệm điều phái 15 lần,,,,,,,100,
+6531,,1005,2,,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,100,
+6532,,1005,2,,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,100,
+6533,,1005,2,,,86,3,{3=4},Complete the S-rank dispatch mission 3 times,ทำภารกิจส่งกำลังระดับ S ให้ครบ 3 ครั้ง,Complete the S-rank dispatch mission 3 times,Hoàn thành nhiệm vụ điều phái bậc S 3 lần,,,,,,,100,
+6541,,1005,2,2,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+6542,,1005,2,2,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+6543,,1005,2,2,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+6544,,1005,2,2,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+6545,,1005,2,2,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+6546,,1005,2,2,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+6547,,1005,2,2,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+6548,,1005,2,2,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+6549,,1005,2,2,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+6550,,1005,2,2,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+6551,,1005,2,2,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+6552,,1005,2,2,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+6553,,1005,2,2,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+6561,,1005,2,3,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+6562,,1005,2,3,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+6563,,1005,2,3,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+6564,,1005,2,3,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+6565,,1005,2,3,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+6566,,1005,2,3,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+6567,,1005,2,3,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+6568,,1005,2,3,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+6569,,1005,2,3,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+6570,,1005,2,3,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+6571,,1005,2,3,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+6572,,1005,2,3,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+6573,,1005,2,3,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+6581,,1005,2,4,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+6582,,1005,2,4,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+6583,,1005,2,4,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+6584,,1005,2,4,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+6585,,1005,2,4,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+6586,,1005,2,4,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+6587,,1005,2,4,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+6588,,1005,2,4,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+6589,,1005,2,4,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+6590,,1005,2,4,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+6591,,1005,2,4,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+6592,,1005,2,4,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+6593,,1005,2,4,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+6601,,1005,2,5,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+6602,,1005,2,5,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+6603,,1005,2,5,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+6604,,1005,2,5,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+6605,,1005,2,5,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+6606,,1005,2,5,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+6607,,1005,2,5,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+6608,,1005,2,5,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+6609,,1005,2,5,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+6610,,1005,2,5,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+6611,,1005,2,5,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+6612,,1005,2,5,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+6613,,1005,2,5,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+6621,,1005,2,6,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+6622,,1005,2,6,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+6623,,1005,2,6,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+6624,,1005,2,6,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+6625,,1005,2,6,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+6626,,1005,2,6,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+6627,,1005,2,6,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+6628,,1005,2,6,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+6629,,1005,2,6,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+6630,,1005,2,6,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+6631,,1005,2,6,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+6632,,1005,2,6,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+6633,,1005,2,6,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+6641,,1005,2,7,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+6642,,1005,2,7,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+6643,,1005,2,7,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+6644,,1005,2,7,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+6645,,1005,2,7,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+6646,,1005,2,7,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+6647,,1005,2,7,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+6648,,1005,2,7,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+6649,,1005,2,7,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+6650,,1005,2,7,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+6651,,1005,2,7,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+6652,,1005,2,7,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+6653,,1005,2,7,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+6661,,1005,2,8,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+6662,,1005,2,8,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+6663,,1005,2,8,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+6664,,1005,2,8,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+6665,,1005,2,8,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+6666,,1005,2,8,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+6667,,1005,2,8,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+6668,,1005,2,8,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+6669,,1005,2,8,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+6670,,1005,2,8,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+6671,,1005,2,8,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+6672,,1005,2,8,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+6673,,1005,2,8,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+6681,,1005,2,9,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+6682,,1005,2,9,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+6683,,1005,2,9,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+6684,,1005,2,9,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+6685,,1005,2,9,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+6686,,1005,2,9,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+6687,,1005,2,9,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+6688,,1005,2,9,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+6689,,1005,2,9,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+6690,,1005,2,9,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+6691,,1005,2,9,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+6692,,1005,2,9,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+6693,,1005,2,9,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+6701,,1005,2,10,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+6702,,1005,2,10,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+6703,,1005,2,10,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+6704,,1005,2,10,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+6705,,1005,2,10,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+6706,,1005,2,10,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+6707,,1005,2,10,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+6708,,1005,2,10,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+6709,,1005,2,10,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+6710,,1005,2,10,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+6711,,1005,2,10,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+6712,,1005,2,10,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+6713,,1005,2,10,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+6721,,1005,2,11,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+6722,,1005,2,11,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+6723,,1005,2,11,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+6724,,1005,2,11,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+6725,,1005,2,11,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+6726,,1005,2,11,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+6727,,1005,2,11,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+6728,,1005,2,11,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+6729,,1005,2,11,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+6730,,1005,2,11,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+6731,,1005,2,11,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+6732,,1005,2,11,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+6733,,1005,2,11,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+7001,,1006,,,,15,1,,Daily Login,เข้าสู่ระบบรายวัน,Daily Login,Đăng nhập hàng ngày,,,,,,,30,
+7002,,1006,,,,29,30,,Fight in the normal stage 30 times,ต่อสู้ที่ด่านปกติ 30 ครั้ง,Fight in the normal stage 30 times,Chiến đấu ở ải bình thường 30 lần,,,,,,,30,10000
+7003,,1006,,,,39,1,,Accessory Breakthrough Once,เจาะผ่านอุปกรณ์ครั้งเดียว,Accessory Breakthrough Once,Đột phá phụ kiện 1 lần,,,,,,,30,
+7004,,1006,,,,41,5,,Participate in the arena 5 times,เข้าร่วมสนามประลอง 5 ครั้ง,Participate in the arena 5 times,Tham đấu trường 5 lần,,,,,,,30,
+7005,,1006,,,,66,2,,Participate in Illusion Challenge 2 times,เข้าร่วมท้าทายภาพลวงตา 2 ครั้ง,Participate in Illusion Challenge 2 times,Tham gia Khiêu chiến ảo ảnh 2 lần,,,,,,,30,
+7006,,1006,,,,20,1000000,,"Spend 1,000,000 Xu coins","ใช้ 1,000,000 เหรียญ Xu","Spend 1,000,000 Xu coins",Tiêu 1000000 Xu đồng,,,,,,,30,
+7007,,1006,,,,21,300,,Spend 300 Primogems,ใช้ 300 เพชร,Spend 300 Primogems,Tiêu 300 Nguyên bảo,,,,,,,30,
+7008,,1006,,,4,15,1,,Marster daily login.,Marster เข้าสู่ระบบรายวัน.,Marster daily login.,Marster đăng nhập hàng ngày.,,,,,,,30,
+7021,,1006,2,,,17,2,,Logged in for a total of 2 days,ล็อกอินครบทั้งหมด 2 วัน,Logged in for a total of 2 days,Đăng nhập tổng cộng 2 ngày,,,,,,,100,
+7022,,1006,2,,,36,30,,Upgrade Ninja 30 times,อัปเกรดนินจา 30 ครั้ง,Upgrade Ninja 30 times,Nâng cấp Ninja 30 lần,,,,,,,100,strengthen-1
+7023,,1006,2,,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,100,
+7024,,1006,2,,,43,25,,Arena points: 25 points,คะแนนสนามประลอง: 25 คะแนน,Arena points: 25 points,Điểm đấu trường: 25 điểm,,,,,,,100,
+7025,,1006,2,,,63,25000,,Accumulate 25000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 25000 คะแนน,Accumulate 25000 Anbu Special Training points,Tích lũy 25000 điểm Đặc huấn Anbu,,,,,,,100,
+7026,,1006,2,,,55,10,,Donate 10 times,บริจาค 10 ครั้ง,Donate 10 times,Quyên góp 10 lần,,,,,,,100,
+7027,,1006,2,,,50,10,,Draw 10 times in Primogem Banner,หมุน 10 ครั้งในกาชา Primogem,Draw 10 times in Primogem Banner,Rút 10 lần trong Rút thẻ Nguyên bảo,,,,,,,100,
+7028,,1006,2,,,29,150,,Fight in the normal stage 150 times,ต่อสู้ในด่านปกติ 150 ครั้ง,Fight in the normal stage 150 times,Chiến đấu ở ải bình thường 150 lần,,,,,,,100,10000
+7029,,1006,2,,,30,30,,Challenge the hard stage 30 times,ท้าทายด่านยาก 30 ครั้ง,Challenge the hard stage 30 times,Thử thách ải khó 30 lần,,,,,,,100,20000
+7030,,1006,2,,,85,15,,Complete the dispatch mission 15 times,ทำภารกิจส่งสายงานให้สำเร็จ 15 ครั้ง,Complete the dispatch mission 15 times,Hoàn thành nhiệm điều phái 15 lần,,,,,,,100,
+7031,,1006,2,,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,100,
+7032,,1006,2,,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,100,
+7033,,1006,2,,,86,3,{3=4},Complete the S-rank dispatch mission 3 times,ทำภารกิจส่งกำลังระดับ S ให้ครบ 3 ครั้ง,Complete the S-rank dispatch mission 3 times,Hoàn thành nhiệm vụ điều phái bậc S 3 lần,,,,,,,100,
+7041,,1006,2,2,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+7042,,1006,2,2,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+7043,,1006,2,2,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+7044,,1006,2,2,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+7045,,1006,2,2,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+7046,,1006,2,2,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+7047,,1006,2,2,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+7048,,1006,2,2,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+7049,,1006,2,2,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+7050,,1006,2,2,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+7051,,1006,2,2,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+7052,,1006,2,2,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+7053,,1006,2,2,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+7061,,1006,2,3,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+7062,,1006,2,3,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+7063,,1006,2,3,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+7064,,1006,2,3,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+7065,,1006,2,3,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+7066,,1006,2,3,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+7067,,1006,2,3,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+7068,,1006,2,3,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+7069,,1006,2,3,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+7070,,1006,2,3,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+7071,,1006,2,3,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+7072,,1006,2,3,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+7073,,1006,2,3,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+7081,,1006,2,4,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+7082,,1006,2,4,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+7083,,1006,2,4,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+7084,,1006,2,4,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+7085,,1006,2,4,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+7086,,1006,2,4,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+7087,,1006,2,4,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+7088,,1006,2,4,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+7089,,1006,2,4,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+7090,,1006,2,4,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+7091,,1006,2,4,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+7092,,1006,2,4,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+7093,,1006,2,4,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+7101,,1006,2,5,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+7102,,1006,2,5,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+7103,,1006,2,5,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+7104,,1006,2,5,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+7105,,1006,2,5,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+7106,,1006,2,5,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+7107,,1006,2,5,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+7108,,1006,2,5,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+7109,,1006,2,5,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+7110,,1006,2,5,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+7111,,1006,2,5,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+7112,,1006,2,5,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+7113,,1006,2,5,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+7121,,1006,2,6,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+7122,,1006,2,6,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+7123,,1006,2,6,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+7124,,1006,2,6,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+7125,,1006,2,6,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+7126,,1006,2,6,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+7127,,1006,2,6,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+7128,,1006,2,6,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+7129,,1006,2,6,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+7130,,1006,2,6,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+7131,,1006,2,6,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+7132,,1006,2,6,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+7133,,1006,2,6,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+7141,,1006,2,7,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+7142,,1006,2,7,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+7143,,1006,2,7,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+7144,,1006,2,7,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+7145,,1006,2,7,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+7146,,1006,2,7,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+7147,,1006,2,7,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+7148,,1006,2,7,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+7149,,1006,2,7,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+7150,,1006,2,7,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+7151,,1006,2,7,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+7152,,1006,2,7,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+7153,,1006,2,7,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+7161,,1006,2,8,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+7162,,1006,2,8,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+7163,,1006,2,8,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+7164,,1006,2,8,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+7165,,1006,2,8,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+7166,,1006,2,8,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+7167,,1006,2,8,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+7168,,1006,2,8,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+7169,,1006,2,8,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+7170,,1006,2,8,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+7171,,1006,2,8,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+7172,,1006,2,8,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+7173,,1006,2,8,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+7181,,1006,2,9,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+7182,,1006,2,9,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+7183,,1006,2,9,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+7184,,1006,2,9,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+7185,,1006,2,9,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+7186,,1006,2,9,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+7187,,1006,2,9,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+7188,,1006,2,9,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+7189,,1006,2,9,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+7190,,1006,2,9,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+7191,,1006,2,9,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+7192,,1006,2,9,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+7193,,1006,2,9,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+7201,,1006,2,10,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+7202,,1006,2,10,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+7203,,1006,2,10,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+7204,,1006,2,10,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+7205,,1006,2,10,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+7206,,1006,2,10,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+7207,,1006,2,10,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+7208,,1006,2,10,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+7209,,1006,2,10,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+7210,,1006,2,10,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+7211,,1006,2,10,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+7212,,1006,2,10,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+7213,,1006,2,10,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+7221,,1006,2,11,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+7222,,1006,2,11,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+7223,,1006,2,11,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+7224,,1006,2,11,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+7225,,1006,2,11,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+7226,,1006,2,11,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+7227,,1006,2,11,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+7228,,1006,2,11,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+7229,,1006,2,11,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+7230,,1006,2,11,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+7231,,1006,2,11,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+7232,,1006,2,11,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+7233,,1006,2,11,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+7501,,1007,,,,15,1,,Daily Login,เข้าสู่ระบบรายวัน,Daily Login,Đăng nhập hàng ngày,,,,,,,30,
+7502,,1007,,,,29,30,,Fight in the normal stage 30 times,ต่อสู้ที่ด่านปกติ 30 ครั้ง,Fight in the normal stage 30 times,Chiến đấu ở ải bình thường 30 lần,,,,,,,30,10000
+7503,,1007,,,,39,1,,Accessory Breakthrough Once,เจาะผ่านอุปกรณ์ครั้งเดียว,Accessory Breakthrough Once,Đột phá phụ kiện 1 lần,,,,,,,30,
+7504,,1007,,,,41,5,,Participate in the arena 5 times,เข้าร่วมสนามประลอง 5 ครั้ง,Participate in the arena 5 times,Tham đấu trường 5 lần,,,,,,,30,
+7505,,1007,,,,66,2,,Participate in Illusion Challenge 2 times,เข้าร่วมท้าทายภาพลวงตา 2 ครั้ง,Participate in Illusion Challenge 2 times,Tham gia Khiêu chiến ảo ảnh 2 lần,,,,,,,30,
+7506,,1007,,,,20,1000000,,"Spend 1,000,000 Xu coins","ใช้ 1,000,000 เหรียญ Xu","Spend 1,000,000 Xu coins",Tiêu 1000000 Xu đồng,,,,,,,30,
+7507,,1007,,,,21,300,,Spend 300 Primogems,ใช้ 300 เพชร,Spend 300 Primogems,Tiêu 300 Nguyên bảo,,,,,,,30,
+7508,,1007,,,4,15,1,,Daily Login.,เข้าสู่ระบบรายวัน.,Daily Login.,Đăng nhập hàng ngày.,,,,,,,30,
+7521,,1007,2,,,17,2,,Logged in for a total of 2 days,ล็อกอินครบทั้งหมด 2 วัน,Logged in for a total of 2 days,Đăng nhập tổng cộng 2 ngày,,,,,,,100,
+7522,,1007,2,,,36,30,,Upgrade Ninja 30 times,อัปเกรดนินจา 30 ครั้ง,Upgrade Ninja 30 times,Nâng cấp Ninja 30 lần,,,,,,,100,strengthen-1
+7523,,1007,2,,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,100,
+7524,,1007,2,,,43,25,,Arena points: 25 points,คะแนนสนามประลอง: 25 คะแนน,Arena points: 25 points,Điểm đấu trường: 25 điểm,,,,,,,100,
+7525,,1007,2,,,63,25000,,Accumulate 25000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 25000 คะแนน,Accumulate 25000 Anbu Special Training points,Tích lũy 25000 điểm Đặc huấn Anbu,,,,,,,100,
+7526,,1007,2,,,55,10,,Donate 10 times,บริจาค 10 ครั้ง,Donate 10 times,Quyên góp 10 lần,,,,,,,100,
+7527,,1007,2,,,50,10,,Draw 10 times in Primogem Banner,หมุน 10 ครั้งในกาชา Primogem,Draw 10 times in Primogem Banner,Rút 10 lần trong Rút thẻ Nguyên bảo,,,,,,,100,
+7528,,1007,2,,,29,150,,Fight in the normal stage 150 times,ต่อสู้ในด่านปกติ 150 ครั้ง,Fight in the normal stage 150 times,Chiến đấu ở ải bình thường 150 lần,,,,,,,100,10000
+7529,,1007,2,,,30,30,,Challenge the hard stage 30 times,ท้าทายด่านยาก 30 ครั้ง,Challenge the hard stage 30 times,Thử thách ải khó 30 lần,,,,,,,100,20000
+7530,,1007,2,,,85,15,,Complete the dispatch mission 15 times,ทำภารกิจส่งสายงานให้สำเร็จ 15 ครั้ง,Complete the dispatch mission 15 times,Hoàn thành nhiệm điều phái 15 lần,,,,,,,100,
+7531,,1007,2,,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,100,
+7532,,1007,2,,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,100,
+7533,,1007,2,,,86,3,{3=4},Complete the S-rank dispatch mission 3 times,ทำภารกิจส่งกำลังระดับ S ให้ครบ 3 ครั้ง,Complete the S-rank dispatch mission 3 times,Hoàn thành nhiệm vụ điều phái bậc S 3 lần,,,,,,,100,
+7541,,1007,2,2,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+7542,,1007,2,2,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+7543,,1007,2,2,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+7544,,1007,2,2,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+7545,,1007,2,2,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+7546,,1007,2,2,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+7547,,1007,2,2,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+7548,,1007,2,2,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+7549,,1007,2,2,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+7550,,1007,2,2,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+7551,,1007,2,2,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+7552,,1007,2,2,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+7553,,1007,2,2,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+7561,,1007,2,3,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+7562,,1007,2,3,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+7563,,1007,2,3,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+7564,,1007,2,3,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+7565,,1007,2,3,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+7566,,1007,2,3,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+7567,,1007,2,3,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+7568,,1007,2,3,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+7569,,1007,2,3,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+7570,,1007,2,3,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+7571,,1007,2,3,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+7572,,1007,2,3,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+7573,,1007,2,3,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+7581,,1007,2,4,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+7582,,1007,2,4,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+7583,,1007,2,4,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+7584,,1007,2,4,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+7585,,1007,2,4,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+7586,,1007,2,4,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+7587,,1007,2,4,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+7588,,1007,2,4,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+7589,,1007,2,4,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+7590,,1007,2,4,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+7591,,1007,2,4,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+7592,,1007,2,4,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+7593,,1007,2,4,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+7601,,1007,2,5,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+7602,,1007,2,5,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+7603,,1007,2,5,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+7604,,1007,2,5,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+7605,,1007,2,5,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+7606,,1007,2,5,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+7607,,1007,2,5,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+7608,,1007,2,5,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+7609,,1007,2,5,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+7610,,1007,2,5,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+7611,,1007,2,5,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+7612,,1007,2,5,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+7613,,1007,2,5,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+7621,,1007,2,6,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+7622,,1007,2,6,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+7623,,1007,2,6,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+7624,,1007,2,6,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+7625,,1007,2,6,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+7626,,1007,2,6,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+7627,,1007,2,6,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+7628,,1007,2,6,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+7629,,1007,2,6,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+7630,,1007,2,6,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+7631,,1007,2,6,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+7632,,1007,2,6,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+7633,,1007,2,6,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+7641,,1007,2,7,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+7642,,1007,2,7,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+7643,,1007,2,7,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+7644,,1007,2,7,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+7645,,1007,2,7,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+7646,,1007,2,7,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+7647,,1007,2,7,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+7648,,1007,2,7,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+7649,,1007,2,7,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+7650,,1007,2,7,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+7651,,1007,2,7,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+7652,,1007,2,7,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+7653,,1007,2,7,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+7661,,1007,2,8,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+7662,,1007,2,8,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+7663,,1007,2,8,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+7664,,1007,2,8,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+7665,,1007,2,8,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+7666,,1007,2,8,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+7667,,1007,2,8,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+7668,,1007,2,8,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+7669,,1007,2,8,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+7670,,1007,2,8,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+7671,,1007,2,8,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+7672,,1007,2,8,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+7673,,1007,2,8,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+7681,,1007,2,9,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+7682,,1007,2,9,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+7683,,1007,2,9,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+7684,,1007,2,9,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+7685,,1007,2,9,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+7686,,1007,2,9,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+7687,,1007,2,9,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+7688,,1007,2,9,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+7689,,1007,2,9,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+7690,,1007,2,9,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+7691,,1007,2,9,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+7692,,1007,2,9,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+7693,,1007,2,9,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+7701,,1007,2,10,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+7702,,1007,2,10,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+7703,,1007,2,10,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+7704,,1007,2,10,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+7705,,1007,2,10,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+7706,,1007,2,10,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+7707,,1007,2,10,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+7708,,1007,2,10,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+7709,,1007,2,10,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+7710,,1007,2,10,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+7711,,1007,2,10,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+7712,,1007,2,10,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+7713,,1007,2,10,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,
+7721,,1007,2,11,,17,3,,Logged in for a total of 3 days,เข้าสู่ระบบทั้งหมด 3 วัน,Logged in for a total of 3 days,Đăng nhập tổng cộng 3 ngày,,,,,,,100,
+7722,,1007,2,11,,36,50,,Upgrade Ninja 50 times.,อัปเกรดนินจา 50 ครั้ง.,Upgrade Ninja 50 times.,Nâng cấp Ninja 50 lần.,,,,,,,100,strengthen-1
+7723,,1007,2,11,,21,1000,,Spend 1000 Primogems,ใช้ 1000 เพชร,Spend 1000 Primogems,Tiêu 1000 Nguyên bảo,,,,,,,200,
+7724,,1007,2,11,,43,50,,Arena Points: 50 points,คะแนนสนามประลอง: 50 คะแนน,Arena Points: 50 points,Điểm đấu trường: 50 điểm,,,,,,,100,
+7725,,1007,2,11,,63,50000,,Accumulate 50000 Anbu Special Training points,สะสมคะแนนฝึกพิเศษ Anbu 50000 คะแนน,Accumulate 50000 Anbu Special Training points,Tích lũy 50000 điểm Đặc huấn Anbu,,,,,,,100,
+7726,,1007,2,11,,55,20,,Donate 20 times,บริจาค 20 ครั้ง,Donate 20 times,Quyên góp 20 lần,,,,,,,100,
+7727,,1007,2,11,,50,20,,Draw 20 times in the Gacha Spirit Stone Draw,หมุน 20 ครั้งในการสุ่มบัตรหินวิญญาณ,Draw 20 times in the Gacha Spirit Stone Draw,Rút 20 lần trong Rút thẻ Nguyên bảo,,,,,,,200,
+7728,,1007,2,11,,29,300,,Fight in the normal stage 300 times,ต่อสู้ในด่านปกติ 300 ครั้ง,Fight in the normal stage 300 times,Chiến đấu ở ải bình thường 300 lần,,,,,,,200,10000
+7729,,1007,2,11,,30,60,,Challenge 60 Hard Levels,ท้าทาย 60 ด่านยาก,Challenge 60 Hard Levels,Thử thách ải khó 60 lần,,,,,,,200,20000
+7730,,1007,2,11,,85,30,,Complete the dispatch mission 30 times,ทำภารกิจส่งกำลัง 30 ครั้งสำเร็จ,Complete the dispatch mission 30 times,Hoàn thành nhiệm vụ điều phái 30 lần,,,,,,,100,
+7731,,1007,2,11,,21,3000,,Spend 3000 Primogems,ใช้ 3000 หินอัญมณี,Spend 3000 Primogems,Tiêu 3000 Nguyên bảo,,,,,,,200,
+7732,,1007,2,11,,67,7,,Clear Anbu Training Level 7,ผ่านการฝึกอบรมอันบู ชั้นที่ 7,Clear Anbu Training Level 7,Vượt Huấn luyện Anbu tầng 7,,,,,,,200,
+7733,,1007,2,11,,86,6,{6=4},Complete S-rank dispatch mission 6 times,ทำภารกิจส่งกำลังระดับ S ให้สำเร็จ 6 ครั้ง,Complete S-rank dispatch mission 6 times,Hoàn thành nhiệm vụ điều phái bậc S 6 lần,,,,,,,200,

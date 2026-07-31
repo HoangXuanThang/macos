@@ -1,0 +1,167 @@
+
+jiraiya00_ui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+erduo
+  rotate: false
+  xy: 170, 188
+  size: 19, 45
+  orig: 23, 46
+  offset: 0, 1
+  index: -1
+zilaiye_bianzi
+  rotate: false
+  xy: 2, 235
+  size: 212, 787
+  orig: 212, 787
+  offset: 0, 0
+  index: -1
+zilaiye_biaoqing
+  rotate: false
+  xy: 895, 705
+  size: 93, 90
+  orig: 93, 91
+  offset: 0, 1
+  index: -1
+zilaiye_biyan
+  rotate: false
+  xy: 292, 2
+  size: 86, 25
+  orig: 86, 25
+  offset: 0, 0
+  index: -1
+zilaiye_fa1
+  rotate: false
+  xy: 933, 504
+  size: 63, 199
+  orig: 64, 200
+  offset: 1, 0
+  index: -1
+zilaiye_fa2
+  rotate: true
+  xy: 503, 48
+  size: 68, 240
+  orig: 68, 240
+  offset: 0, 0
+  index: -1
+zilaiye_fa3
+  rotate: true
+  xy: 216, 169
+  size: 260, 297
+  orig: 260, 297
+  offset: 0, 0
+  index: -1
+zilaiye_juanzhou
+  rotate: false
+  xy: 581, 422
+  size: 350, 246
+  orig: 350, 246
+  offset: 0, 0
+  index: -1
+zilaiye_lian
+  rotate: true
+  xy: 745, 3
+  size: 113, 168
+  orig: 113, 168
+  offset: 0, 0
+  index: -1
+zilaiye_shengzi
+  rotate: true
+  xy: 292, 29
+  size: 20, 169
+  orig: 20, 170
+  offset: 0, 1
+  index: -1
+zilaiye_yaodai
+  rotate: false
+  xy: 515, 118
+  size: 282, 55
+  orig: 282, 55
+  offset: 0, 0
+  index: -1
+zilaiye_yi1
+  rotate: false
+  xy: 216, 431
+  size: 263, 591
+  orig: 263, 591
+  offset: 0, 0
+  index: -1
+zilaiye_yi2
+  rotate: false
+  xy: 481, 436
+  size: 98, 586
+  orig: 98, 586
+  offset: 0, 0
+  index: -1
+zilaiye_yi3
+  rotate: false
+  xy: 581, 670
+  size: 312, 352
+  orig: 312, 352
+  offset: 0, 0
+  index: -1
+zilaiye_yi4
+  rotate: false
+  xy: 515, 175
+  size: 364, 245
+  orig: 364, 245
+  offset: 0, 0
+  index: -1
+zilaiye_yi5
+  rotate: false
+  xy: 895, 797
+  size: 125, 225
+  orig: 125, 226
+  offset: 0, 0
+  index: -1
+zilaiye_youbi
+  rotate: false
+  xy: 2, 18
+  size: 166, 215
+  orig: 166, 215
+  offset: 0, 0
+  index: -1
+zilaiye_youshou
+  rotate: false
+  xy: 881, 148
+  size: 141, 272
+  orig: 141, 273
+  offset: 0, 0
+  index: -1
+zilaiye_youshoua
+  rotate: false
+  xy: 170, 169
+  size: 37, 17
+  orig: 38, 17
+  offset: 1, 0
+  index: -1
+zilaiye_zuobi
+  rotate: true
+  xy: 292, 51
+  size: 116, 209
+  orig: 116, 209
+  offset: 0, 0
+  index: -1
+zilaiye_zuoshou1
+  rotate: false
+  xy: 933, 426
+  size: 39, 76
+  orig: 41, 76
+  offset: 2, 0
+  index: -1
+zilaiye_zuoshou1a
+  rotate: false
+  xy: 990, 753
+  size: 22, 42
+  orig: 26, 47
+  offset: 0, 5
+  index: -1
+zilaiye_zuoshou2
+  rotate: false
+  xy: 170, 2
+  size: 120, 165
+  orig: 120, 165
+  offset: 0, 0
+  index: -1

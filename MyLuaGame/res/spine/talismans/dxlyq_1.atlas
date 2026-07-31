@@ -1,0 +1,118 @@
+
+dxlyq_1.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/liuguang/1_00000
+  rotate: true
+  xy: 2, 162
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00002
+  rotate: true
+  xy: 2, 96
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00004
+  rotate: true
+  xy: 260, 162
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00006
+  rotate: true
+  xy: 2, 30
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00008
+  rotate: true
+  xy: 260, 96
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00010
+  rotate: true
+  xy: 518, 162
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00012
+  rotate: true
+  xy: 260, 30
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00014
+  rotate: true
+  xy: 518, 96
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00016
+  rotate: true
+  xy: 776, 162
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00018
+  rotate: true
+  xy: 518, 30
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00020
+  rotate: true
+  xy: 776, 96
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00022
+  rotate: true
+  xy: 1034, 162
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00024
+  rotate: true
+  xy: 776, 30
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00026
+  rotate: true
+  xy: 1034, 96
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/liuguang/1_00028
+  rotate: true
+  xy: 1292, 162
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/lizi
+  rotate: false
+  xy: 2, 2
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1

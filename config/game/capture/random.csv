@@ -1,0 +1,8 @@
+﻿VariableName,drawType,_comment,drawTriggerType,drawTriggerTimes,weightStart,weightEnd,effectLimit,startCount,probInit,probStep,probLimit,probMiniTimes,probEffectInterval,libs
+Defaults,"""""","""""",2,0,0,0,0,0,0,0.01,0.2,30,50,{}
+ID,抽取类型,类型注释,抽取触发类型(0从X次开始;1权值累加;2概率触发;3每X次;4第X次),抽取次数条件,权值上限,权值下限,生效次数上限,开始次数,概率初值,概率递增,概率上限,概率保底次数,概率生效间隔,随机库
+1,default,,0,1,,,150,,,,,,,{1=70;2=30}
+2,default,,0,151,,,150,,,,,,,{1=65;2=35}
+3,default,,0,301,,,,,,,,,,{1=60;2=40}
+4,default,,4,12,,,,,,,,,,{3=1}
+7,default,,,,,,,22,,0.02,0.6,40,,{3=1}

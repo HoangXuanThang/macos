@@ -1,0 +1,90 @@
+
+huizhang_tianfu.png
+size: 865,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diquan_1
+  rotate: true
+  xy: 460, 249
+  size: 285, 231
+  orig: 568, 231
+  offset: 283, 0
+  index: -1
+diquan_2
+  rotate: false
+  xy: 509, 19
+  size: 127, 96
+  orig: 253, 96
+  offset: 126, 0
+  index: -1
+diquan_3
+  rotate: false
+  xy: 693, 238
+  size: 165, 131
+  orig: 329, 131
+  offset: 164, 0
+  index: -1
+diquan_4
+  rotate: false
+  xy: 234, 1
+  size: 273, 223
+  orig: 545, 223
+  offset: 272, 0
+  index: -1
+diquan_fz
+  rotate: false
+  xy: 1, 73
+  size: 231, 461
+  orig: 461, 461
+  offset: 230, 0
+  index: -1
+luox1
+  rotate: false
+  xy: 729, 115
+  size: 135, 121
+  orig: 144, 121
+  offset: 9, 0
+  index: -1
+sjq_1
+  rotate: false
+  xy: 1, 35
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+sjq_2
+  rotate: false
+  xy: 638, 24
+  size: 89, 91
+  orig: 89, 91
+  offset: 0, 0
+  index: -1
+sjq_h2
+  rotate: false
+  xy: 729, 22
+  size: 89, 91
+  orig: 89, 91
+  offset: 0, 0
+  index: -1
+tx_gz
+  rotate: true
+  xy: 234, 226
+  size: 308, 224
+  orig: 308, 224
+  offset: 0, 0
+  index: -1
+xz_gq
+  rotate: false
+  xy: 693, 371
+  size: 166, 163
+  orig: 166, 163
+  offset: 0, 0
+  index: -1
+xz_gz
+  rotate: false
+  xy: 509, 117
+  size: 160, 130
+  orig: 160, 130
+  offset: 0, 0
+  index: -1

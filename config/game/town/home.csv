@@ -1,0 +1,7 @@
+﻿VariableName,cardNum,reply,defaultIDs,furnitureLimitNum,notice1,notice1_vn,notice1_tw,notice1_en,notice1_kr,notice2,notice2_vn,notice2_tw,notice2_en,notice2_kr
+Defaults,0,0,{floor=70001;wall=71001},999,"""""","""""","""""","""""","""""","""""","""""","""""","""""",""""""
+ID,小憩中卡牌最多放置,小憩恢复速度,小屋默认墙地面,家具数量上限,小憩升级恢复提醒,小憩升级恢复提醒,小憩升级恢复提醒,小憩升级恢复提醒,小憩升级恢复提醒,小憩升级恢复提醒,小憩升级恢复提醒,小憩升级恢复提醒,小憩升级恢复提醒,小憩升级恢复提醒
+1,5,10,,,,,,,,,,,,
+2,5,10,,,精灵小憩中可放置精灵 5 个,5 yêu tinh có thể được đặt trong giấc ngủ ngắn của yêu tinh,,,,精灵恢复精力速度为 3 点/h,Tinh linh tái sinh với tốc độ 3 điểm/h,,,
+3,8,10,,,精灵小憩中可放置精灵 8 个,8 yêu tinh có thể được đặt trong giấc ngủ ngắn của yêu tinh,,,,精灵恢复精力速度为 5 点/h,Tinh linh tái sinh với tốc độ 5 điểm/h,,,
+4,8,10,,,精灵小憩中可放置精灵 8 个,8 yêu tinh có thể được đặt trong giấc ngủ ngắn của yêu tinh,,,,精灵恢复精力速度为 5 点/h,Tinh linh tái sinh với tốc độ 5 điểm/h,,,

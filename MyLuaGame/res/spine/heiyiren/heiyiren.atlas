@@ -1,0 +1,265 @@
+
+heiyiren.png
+size: 752, 522
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+guangbo0001
+  rotate: false
+  xy: 585, 2
+  size: 73, 84
+  orig: 130, 200
+  offset: 51, 54
+  index: -1
+guangbo0002
+  rotate: false
+  xy: 2, 3
+  size: 110, 147
+  orig: 130, 200
+  offset: 15, 27
+  index: -1
+guangbo0003
+  rotate: false
+  xy: 483, 13
+  size: 100, 158
+  orig: 130, 200
+  offset: 7, 21
+  index: -1
+guangbo0004
+  rotate: false
+  xy: 2, 333
+  size: 110, 187
+  orig: 130, 200
+  offset: 3, 7
+  index: -1
+guangbo0005
+  rotate: false
+  xy: 385, 8
+  size: 96, 163
+  orig: 130, 200
+  offset: 18, 20
+  index: -1
+guangbo0006
+  rotate: true
+  xy: 585, 419
+  size: 101, 152
+  orig: 130, 200
+  offset: 15, 25
+  index: -1
+pic_0
+  rotate: true
+  xy: 585, 214
+  size: 66, 17
+  orig: 66, 17
+  offset: 0, 0
+  index: -1
+pic_0111
+  rotate: false
+  xy: 696, 68
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+pic_1
+  rotate: false
+  xy: 540, 327
+  size: 41, 79
+  orig: 41, 79
+  offset: 0, 0
+  index: -1
+pic_10
+  rotate: true
+  xy: 660, 13
+  size: 73, 34
+  orig: 75, 34
+  offset: 0, 0
+  index: -1
+pic_11
+  rotate: true
+  xy: 604, 272
+  size: 55, 91
+  orig: 55, 91
+  offset: 0, 0
+  index: -1
+pic_1111
+  rotate: true
+  xy: 114, 342
+  size: 178, 93
+  orig: 186, 105
+  offset: 8, 3
+  index: -1
+pic_12
+  rotate: false
+  xy: 495, 282
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+pic_13
+  rotate: false
+  xy: 654, 189
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+pic_14
+  rotate: false
+  xy: 540, 408
+  size: 41, 85
+  orig: 41, 85
+  offset: 0, 0
+  index: -1
+pic_15
+  rotate: true
+  xy: 581, 175
+  size: 37, 71
+  orig: 37, 71
+  offset: 0, 0
+  index: -1
+pic_16
+  rotate: false
+  xy: 698, 389
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+pic_2
+  rotate: true
+  xy: 538, 282
+  size: 36, 64
+  orig: 37, 64
+  offset: 0, 0
+  index: -1
+pic_2111
+  rotate: false
+  xy: 540, 495
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+pic_3
+  rotate: false
+  xy: 696, 32
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+pic_3111
+  rotate: false
+  xy: 495, 182
+  size: 84, 98
+  orig: 84, 98
+  offset: 0, 0
+  index: -1
+pic_4
+  rotate: true
+  xy: 585, 329
+  size: 88, 111
+  orig: 88, 111
+  offset: 0, 0
+  index: -1
+pic_4111
+  rotate: true
+  xy: 604, 214
+  size: 56, 82
+  orig: 63, 82
+  offset: 0, 0
+  index: -1
+pic_5
+  rotate: false
+  xy: 654, 88
+  size: 84, 98
+  orig: 84, 98
+  offset: 0, 0
+  index: -1
+pic_6
+  rotate: false
+  xy: 270, 2
+  size: 113, 160
+  orig: 113, 160
+  offset: 0, 0
+  index: -1
+pic_7
+  rotate: true
+  xy: 688, 205
+  size: 33, 61
+  orig: 33, 61
+  offset: 0, 0
+  index: -1
+pic_8
+  rotate: false
+  xy: 585, 104
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+pic_9b
+  rotate: false
+  xy: 697, 240
+  size: 53, 78
+  orig: 53, 78
+  offset: 0, 0
+  index: -1
+san01
+  rotate: false
+  xy: 698, 320
+  size: 50, 67
+  orig: 50, 67
+  offset: 0, 0
+  index: -1
+san02
+  rotate: false
+  xy: 154, 164
+  size: 173, 176
+  orig: 173, 176
+  offset: 0, 0
+  index: -1
+san03
+  rotate: true
+  xy: 209, 347
+  size: 173, 170
+  orig: 173, 170
+  offset: 0, 0
+  index: -1
+san04
+  rotate: true
+  xy: 329, 173
+  size: 172, 164
+  orig: 172, 164
+  offset: 0, 0
+  index: -1
+san05
+  rotate: true
+  xy: 381, 348
+  size: 172, 157
+  orig: 172, 157
+  offset: 0, 0
+  index: -1
+san06
+  rotate: true
+  xy: 2, 152
+  size: 179, 150
+  orig: 179, 150
+  offset: 0, 0
+  index: -1
+san07
+  rotate: false
+  xy: 114, 16
+  size: 154, 134
+  orig: 154, 134
+  offset: 0, 0
+  index: -1
+shaodow
+  rotate: false
+  xy: 687, 188
+  size: 56, 15
+  orig: 58, 17
+  offset: 1, 1
+  index: -1
+zhen
+  rotate: false
+  xy: 114, 333
+  size: 27, 7
+  orig: 27, 8
+  offset: 0, 1
+  index: -1

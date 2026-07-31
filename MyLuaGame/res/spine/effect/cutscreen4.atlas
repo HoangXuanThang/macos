@@ -1,0 +1,153 @@
+
+cutscreen4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WU2
+  rotate: true
+  xy: 391, 275
+  size: 163, 100
+  orig: 163, 100
+  offset: 0, 0
+  index: -1
+WU3
+  rotate: true
+  xy: 302, 231
+  size: 207, 87
+  orig: 207, 87
+  offset: 0, 0
+  index: -1
+daoguang_blue
+  rotate: false
+  xy: 575, 572
+  size: 29, 162
+  orig: 29, 162
+  offset: 0, 0
+  index: -1
+dg_b
+  rotate: true
+  xy: 710, 694
+  size: 29, 162
+  orig: 29, 162
+  offset: 0, 0
+  index: -1
+ditu
+  rotate: false
+  xy: 2, 626
+  size: 327, 278
+  orig: 327, 278
+  offset: 0, 0
+  index: -1
+diwen
+  rotate: true
+  xy: 2, 220
+  size: 404, 159
+  orig: 404, 159
+  offset: 0, 0
+  index: -1
+gt2
+  rotate: false
+  xy: 2, 906
+  size: 616, 109
+  orig: 616, 109
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 2, 2
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+hengti
+  rotate: false
+  xy: 163, 257
+  size: 137, 367
+  orig: 137, 367
+  offset: 0, 0
+  index: -1
+lan_gq
+  rotate: false
+  xy: 2, 12
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 617, 725
+  size: 275, 154
+  orig: 277, 156
+  offset: 1, 1
+  index: -1
+s2
+  rotate: false
+  xy: 620, 881
+  size: 287, 134
+  orig: 289, 136
+  offset: 1, 1
+  index: -1
+s3
+  rotate: false
+  xy: 331, 592
+  size: 242, 142
+  orig: 244, 144
+  offset: 1, 1
+  index: -1
+s4
+  rotate: false
+  xy: 302, 440
+  size: 152, 150
+  orig: 154, 152
+  offset: 1, 1
+  index: -1
+s5
+  rotate: false
+  xy: 894, 733
+  size: 110, 145
+  orig: 112, 147
+  offset: 1, 1
+  index: -1
+s6
+  rotate: false
+  xy: 456, 449
+  size: 116, 141
+  orig: 118, 143
+  offset: 1, 1
+  index: -1
+s7
+  rotate: false
+  xy: 909, 880
+  size: 111, 135
+  orig: 113, 137
+  offset: 1, 1
+  index: -1
+s8
+  rotate: false
+  xy: 606, 632
+  size: 102, 91
+  orig: 104, 93
+  offset: 1, 1
+  index: -1
+waikuang
+  rotate: false
+  xy: 331, 736
+  size: 284, 168
+  orig: 284, 168
+  offset: 0, 0
+  index: -1
+xfk
+  rotate: false
+  xy: 391, 237
+  size: 51, 36
+  orig: 60, 37
+  offset: 3, 1
+  index: -1
+zhezhao_hei
+  rotate: true
+  xy: 493, 325
+  size: 122, 95
+  orig: 128, 108
+  offset: 1, 8
+  index: -1

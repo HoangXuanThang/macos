@@ -1,0 +1,174 @@
+
+effect_chuyinweilai_2.png
+size: 1818, 1459
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+4/045
+  rotate: true
+  xy: 1525, 404
+  size: 241, 291
+  orig: 350, 500
+  offset: 45, 99
+  index: -1
+4/047
+  rotate: false
+  xy: 1525, 2
+  size: 271, 400
+  orig: 350, 500
+  offset: 26, 57
+  index: -1
+4/049
+  rotate: false
+  xy: 913, 1049
+  size: 283, 408
+  orig: 350, 500
+  offset: 20, 52
+  index: -1
+4/051
+  rotate: false
+  xy: 626, 1049
+  size: 285, 408
+  orig: 350, 500
+  offset: 18, 55
+  index: -1
+4/053
+  rotate: false
+  xy: 938, 234
+  size: 283, 404
+  orig: 350, 500
+  offset: 19, 60
+  index: -1
+4/055
+  rotate: false
+  xy: 314, 1046
+  size: 310, 411
+  orig: 350, 500
+  offset: 17, 54
+  index: -1
+4/057
+  rotate: false
+  xy: 623, 224
+  size: 313, 408
+  orig: 350, 500
+  offset: 19, 56
+  index: -1
+4/059
+  rotate: false
+  xy: 1198, 1051
+  size: 314, 406
+  orig: 350, 500
+  offset: 22, 57
+  index: -1
+4/061
+  rotate: false
+  xy: 935, 640
+  size: 313, 407
+  orig: 350, 500
+  offset: 24, 54
+  index: -1
+4/063
+  rotate: false
+  xy: 624, 636
+  size: 309, 408
+  orig: 350, 500
+  offset: 26, 52
+  index: -1
+4/065
+  rotate: false
+  xy: 314, 634
+  size: 308, 410
+  orig: 350, 500
+  offset: 25, 48
+  index: -1
+4/067
+  rotate: false
+  xy: 2, 211
+  size: 307, 413
+  orig: 350, 500
+  offset: 25, 44
+  index: -1
+4/069
+  rotate: false
+  xy: 2, 626
+  size: 310, 413
+  orig: 350, 500
+  offset: 20, 42
+  index: -1
+4/071
+  rotate: false
+  xy: 311, 212
+  size: 310, 412
+  orig: 350, 500
+  offset: 18, 41
+  index: -1
+4/073
+  rotate: false
+  xy: 2, 1041
+  size: 310, 416
+  orig: 350, 500
+  offset: 17, 36
+  index: -1
+4/075
+  rotate: false
+  xy: 1223, 235
+  size: 300, 403
+  orig: 350, 500
+  offset: 25, 46
+  index: -1
+4/077
+  rotate: false
+  xy: 1486, 647
+  size: 265, 402
+  orig: 350, 500
+  offset: 55, 43
+  index: -1
+4/079
+  rotate: false
+  xy: 1514, 1056
+  size: 235, 401
+  orig: 350, 500
+  offset: 70, 38
+  index: -1
+4/081
+  rotate: false
+  xy: 1250, 646
+  size: 234, 403
+  orig: 350, 500
+  offset: 70, 34
+  index: -1
+4/083
+  rotate: true
+  xy: 771, 6
+  size: 216, 356
+  orig: 350, 500
+  offset: 86, 36
+  index: -1
+4/085
+  rotate: true
+  xy: 1129, 21
+  size: 211, 314
+  orig: 350, 500
+  offset: 90, 71
+  index: -1
+4/087
+  rotate: true
+  xy: 2, 4
+  size: 205, 301
+  orig: 350, 500
+  offset: 93, 71
+  index: -1
+4/089
+  rotate: true
+  xy: 305, 12
+  size: 197, 298
+  orig: 350, 500
+  offset: 99, 69
+  index: -1
+6(1)
+  rotate: true
+  xy: 605, 40
+  size: 170, 164
+  orig: 200, 200
+  offset: 15, 15
+  index: -1

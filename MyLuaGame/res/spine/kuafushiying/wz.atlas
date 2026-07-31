@@ -1,0 +1,48 @@
+
+wz.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bsz
+  rotate: false
+  xy: 2, 183
+  size: 181, 71
+  orig: 181, 71
+  offset: 0, 0
+  index: -1
+bzz
+  rotate: false
+  xy: 2, 110
+  size: 181, 71
+  orig: 181, 71
+  offset: 0, 0
+  index: -1
+dian1
+  rotate: false
+  xy: 2, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+dian2
+  rotate: false
+  xy: 37, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+dian3
+  rotate: false
+  xy: 37, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+zdz
+  rotate: false
+  xy: 2, 37
+  size: 181, 71
+  orig: 181, 71
+  offset: 0, 0
+  index: -1

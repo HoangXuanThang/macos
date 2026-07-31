@@ -1,0 +1,8 @@
+﻿VariableName,type,desc,desc_vn,desc_en,desc_th,desc_in,desc_ph,desc_ma,score,scoreUp,award,limitTime,choiceNum
+Defaults,,"""""","""""","""""","""""","""""","""""","""""",0,<>,{},15,4
+ID,问题类型(1-文本问答难度Ⅰ;2-文本问答难度Ⅱ;3-文本问答难度Ⅲ;4-看图问答;5-小游戏),描述,desc_vn,desc_en,desc_th,desc_in,desc_ph,desc_ma,积分分值,答题时间积分衰减,奖励,限制时间,选项个数
+1,1,Câu hỏi văn bản độ khó 1,Câu hỏi văn bản độ khó 1,Text question difficulty level 1  ,คำถามข้อความ ระดับความยาก 1  ,Pertanyaan teks tingkat kesulitan 1  ,Tanong sa teksto antas ng kahirapan 1  ,Soalan teks - Tahap kesukaran 1  ,10,<<0;2;1>;<2;5;0.9>;<5;10;0.7>;<10;15;0.5>>,{gold=10000;libs=<21001>},,
+2,2,Câu hỏi văn bản độ khó 2,Câu hỏi văn bản độ khó 2,Text question difficulty level 2  ,คำถามข้อความ ระดับความยาก 2  ,Pertanyaan teks tingkat kesulitan 2  ,Tanong sa teksto antas ng kahirapan 2  ,Soalan teks - Tahap kesukaran 2  ,20,<<0;2;1>;<2;5;0.9>;<5;10;0.7>;<10;15;0.5>>,{gold=10000;libs=<21001>},,
+3,3,Câu hỏi văn bản độ khó 3,Câu hỏi văn bản độ khó 3,Text question difficulty level 3  ,คำถามข้อความ ระดับความยาก 3  ,Pertanyaan teks tingkat kesulitan 3  ,Tanong sa teksto antas ng kahirapan 3  ,Soalan teks - Tahap kesukaran 3  ,30,<<0;2;1>;<2;5;0.9>;<5;10;0.7>;<10;15;0.5>>,{gold=10000;libs=<21001>},,
+4,4,Câu hỏi theo hình ảnh,Câu hỏi theo hình ảnh,Image-based question  ,คำถามตามภาพ  ,Pertanyaan berdasarkan gambar  ,Tanong batay sa larawan  ,Soalan berdasarkan gambar  ,30,<<0;2;1>;<2;5;0.9>;<5;10;0.7>;<10;15;0.5>>,{gold=10000;libs=<21001>},,
+5,5,Trò chơi nhỏ,Trò chơi nhỏ,Mini game  ,เกมเล็ก  ,Permainan kecil  ,Maliit na laro  ,Permainan mini  ,50,<<0;2;1>;<2;5;0.9>;<5;10;0.7>;<10;15;0.5>>,{gold=10000;libs=<21001>},,

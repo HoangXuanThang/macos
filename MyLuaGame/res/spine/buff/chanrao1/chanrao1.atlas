@@ -1,0 +1,48 @@
+
+chanrao1.png
+size: 704, 100
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+effect/zhuan_01
+  rotate: false
+  xy: 2, 2
+  size: 115, 96
+  orig: 133, 133
+  offset: 15, 18
+  index: -1
+effect/zhuan_03
+  rotate: false
+  xy: 119, 2
+  size: 115, 96
+  orig: 133, 133
+  offset: 15, 18
+  index: -1
+effect/zhuan_05
+  rotate: false
+  xy: 236, 2
+  size: 115, 96
+  orig: 133, 133
+  offset: 15, 18
+  index: -1
+effect/zhuan_07
+  rotate: false
+  xy: 470, 2
+  size: 114, 96
+  orig: 133, 133
+  offset: 15, 18
+  index: -1
+effect/zhuan_09
+  rotate: false
+  xy: 586, 2
+  size: 114, 96
+  orig: 133, 133
+  offset: 15, 18
+  index: -1
+effect/zhuan_10
+  rotate: false
+  xy: 353, 2
+  size: 115, 96
+  orig: 133, 133
+  offset: 15, 18
+  index: -1

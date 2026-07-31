@@ -1,0 +1,5 @@
+﻿VariableName,layerID,defaultFurns,defaultCards,languages
+Defaults,,<>,<>,<cn;in;tw;en;en_zd;vn;kr;th;ma;ph>
+ID,layerID,默认家具<id; idx; x; y; flip>,默认数码兽<id>,语言区域
+1,1,<<52036;1;6;15;False>;<52033;1;6;10;True>;<52020;1;8;11;True>;<52024;1;12;7;False>;<52027;1;14;13;False>;<52031;1;15;15;True>;<53008;2;5;12;False>;<53009;2;12;5>>,,
+2,2,<<52036;2;6;15;False>;<52033;2;6;10;True>;<52020;2;8;11;True>;<52024;2;12;7;False>;<52027;2;14;13;False>;<52031;2;15;15;True>;<53008;2;5;12;False>;<53009;2;12;5>>,,

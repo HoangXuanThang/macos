@@ -1,0 +1,4 @@
+﻿VariableName,winAward,failAward,servOpenDays,servOpenDays_tw,autoSignVIP,minBetRateGold,betRateFixGold,maxBetWinGold,minBetRateCoin,betRateFixCoin,maxBetWinCoin,preBetGold,preBetCoin,top4BetGold,top4BetCoin,championBetGold,championBetCoin,damageScoreRatio,preBetExtraAward,top4BetExtraAward
+Defaults,{},{},,,,,,,,,,50000,100,50000,100,50000,100,1000,{},{}
+ID,胜利奖励,失败奖励,相对开服开启时间,相对开服开启时间,自动报名VIP,金币赔率最小值,金币赔率修正系数,下注最高金币奖励,代币赔率最小值,代币赔率修正系数,下注最高代币奖励,预选押注金币,预选押注代币,四强押注金币,四强押注代币,冠军押注金币,冠军押注代币,伤害转换积分比例,预选押注额外奖励,四强押注额外奖励
+1,{6017=1},{6018=1},0,25,7,2.5,1,1500000,2,1,1500,200000,,200000,,300000,200,,{coin8=200;gold=300000},{coin8=300;gold=300000}

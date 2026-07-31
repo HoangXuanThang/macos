@@ -1,0 +1,27 @@
+
+slt_xuanzhong.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lgg
+  rotate: false
+  xy: 2, 2
+  size: 12, 88
+  orig: 12, 88
+  offset: 0, 0
+  index: -1
+lq2
+  rotate: false
+  xy: 2, 92
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+w_xx2
+  rotate: false
+  xy: 154, 211
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1

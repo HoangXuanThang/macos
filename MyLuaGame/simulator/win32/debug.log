@@ -1,0 +1,42 @@
+report url 
+win x86 4 4 4
+can not get file data of updater/main.lua
+[LUA ERROR] [string "require 'main'"]:1: module 'main' not found:
+	no field package.preload['main']
+	no file 'cocos/main.lua'
+	no file 'updater/main.lua'
+	no file '.\main.dll'
+	no file 'F:\game\manga\client_manga\simulator\win32\main.dll'
+	no file 'F:\game\manga\client_manga\simulator\win32\loadall.dll'
+.fake not valid file path
+version url ?arch=x86&plat=win&app=&min_patch=0&patch=0&channel=&tag=&t=1752071040.00
+    DownloaderCURL: createTask: Id(0)
+++++DownloaderCURL::Impl::_threadProc begin 0C44F1A4
+----DownloaderCURL::Impl::_threadProc end 0C44F1A4
+AssetsManagerEx : Fail to download version file, retry 3
+
+.fake not valid file path
+version url ?arch=x86&plat=win&app=&min_patch=0&patch=0&channel=&tag=&t=1752071040.00
+    DownloaderCURL: createTask: Id(1)
+++++DownloaderCURL::Impl::_threadProc begin 0C44F1A4
+++++DownloaderCURL::Impl::_threadProc begin 0C44F1A4
+----DownloaderCURL::Impl::_threadProc end 0C44F1A4
+AssetsManagerEx : Fail to download version file, retry 2
+
+.fake not valid file path
+version url ?arch=x86&plat=win&app=&min_patch=0&patch=0&channel=&tag=&t=1752071040.00
+    DownloaderCURL: createTask: Id(2)
+++++DownloaderCURL::Impl::_threadProc begin 0C44F1A4
+++++DownloaderCURL::Impl::_threadProc begin 0C44F1A4
+----DownloaderCURL::Impl::_threadProc end 0C44F1A4
+AssetsManagerEx : Fail to download version file, retry 1
+
+.fake not valid file path
+version url ?arch=x86&plat=win&app=&min_patch=0&patch=0&channel=&tag=&t=1752071040.00
+    DownloaderCURL: createTask: Id(3)
+++++DownloaderCURL::Impl::_threadProc begin 0C44F1A4
+++++DownloaderCURL::Impl::_threadProc begin 0C44F1A4
+----DownloaderCURL::Impl::_threadProc end 0C44F1A4
+AssetsManagerEx : Fail to download version file, retry 0
+
+    DownloaderCURL: finish Task: Id(3) C:/Users/Admin/AppData/Local/MyLuaGame/patch/_temp/version.diff

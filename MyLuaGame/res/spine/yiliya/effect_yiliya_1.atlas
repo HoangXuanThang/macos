@@ -1,0 +1,104 @@
+
+effect_yiliya_1.png
+size: 355, 1064
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+skill/4/000
+  rotate: false
+  xy: 183, 200
+  size: 168, 97
+  orig: 240, 270
+  offset: 41, 70
+  index: -1
+skill/4/002
+  rotate: true
+  xy: 2, 2
+  size: 174, 124
+  orig: 240, 270
+  offset: 35, 66
+  index: -1
+skill/4/004
+  rotate: false
+  xy: 2, 178
+  size: 179, 132
+  orig: 240, 270
+  offset: 29, 68
+  index: -1
+skill/4/006
+  rotate: false
+  xy: 2, 312
+  size: 184, 143
+  orig: 240, 270
+  offset: 30, 64
+  index: -1
+skill/4/008
+  rotate: true
+  xy: 198, 444
+  size: 182, 149
+  orig: 240, 270
+  offset: 34, 47
+  index: -1
+skill/4/010
+  rotate: false
+  xy: 2, 747
+  size: 194, 162
+  orig: 240, 270
+  offset: 29, 47
+  index: -1
+skill/4/012
+  rotate: false
+  xy: 2, 911
+  size: 197, 151
+  orig: 240, 270
+  offset: 25, 57
+  index: -1
+skill/4/014
+  rotate: false
+  xy: 2, 607
+  size: 194, 138
+  orig: 240, 270
+  offset: 26, 68
+  index: -1
+skill/4/016
+  rotate: false
+  xy: 2, 457
+  size: 189, 148
+  orig: 240, 270
+  offset: 27, 63
+  index: -1
+skill/4/018
+  rotate: true
+  xy: 201, 881
+  size: 181, 151
+  orig: 240, 270
+  offset: 29, 63
+  index: -1
+skill/4/020
+  rotate: false
+  xy: 188, 299
+  size: 165, 143
+  orig: 240, 270
+  offset: 31, 69
+  index: -1
+skill/4/022
+  rotate: false
+  xy: 183, 56
+  size: 161, 142
+  orig: 240, 270
+  offset: 33, 72
+  index: -1
+skill/4/024
+  rotate: false
+  xy: 198, 628
+  size: 150, 125
+  orig: 240, 270
+  offset: 36, 75
+  index: -1
+skill/4/026
+  rotate: false
+  xy: 198, 755
+  size: 151, 124
+  orig: 240, 270
+  offset: 40, 78
+  index: -1

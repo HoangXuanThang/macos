@@ -1,0 +1,34 @@
+
+ghz_touxiang.png
+size: 701,397
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gd
+  rotate: false
+  xy: 375, 160
+  size: 325, 236
+  orig: 325, 236
+  offset: 0, 0
+  index: -1
+guanjuntubiao
+  rotate: true
+  xy: 1, 1
+  size: 395, 372
+  orig: 395, 372
+  offset: 0, 0
+  index: -1
+shuimo1
+  rotate: true
+  xy: 375, 4
+  size: 154, 222
+  orig: 154, 222
+  offset: 0, 0
+  index: -1
+shuimo2
+  rotate: false
+  xy: 599, 54
+  size: 91, 104
+  orig: 91, 104
+  offset: 0, 0
+  index: -1

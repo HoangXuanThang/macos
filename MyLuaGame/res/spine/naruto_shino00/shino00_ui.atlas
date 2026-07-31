@@ -1,0 +1,139 @@
+
+shino00_ui.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+zhinai_erduo
+  rotate: false
+  xy: 502, 179
+  size: 20, 36
+  orig: 20, 37
+  offset: 0, 1
+  index: -1
+zhinai_fa1
+  rotate: false
+  xy: 392, 383
+  size: 173, 123
+  orig: 173, 123
+  offset: 0, 0
+  index: -1
+zhinai_fa2
+  rotate: true
+  xy: 383, 129
+  size: 49, 86
+  orig: 50, 86
+  offset: 0, 0
+  index: -1
+zhinai_fa3
+  rotate: true
+  xy: 383, 82
+  size: 47, 70
+  orig: 47, 71
+  offset: 0, 1
+  index: -1
+zhinai_lian
+  rotate: false
+  xy: 199, 0
+  size: 90, 78
+  orig: 91, 80
+  offset: 1, 1
+  index: -1
+zhinai_lingzishang
+  rotate: false
+  xy: 392, 264
+  size: 168, 119
+  orig: 168, 119
+  offset: 0, 0
+  index: -1
+zhinai_lingzixia
+  rotate: false
+  xy: 392, 215
+  size: 163, 49
+  orig: 163, 49
+  offset: 0, 0
+  index: -1
+zhinai_meimao
+  rotate: false
+  xy: 382, 65
+  size: 57, 17
+  orig: 58, 18
+  offset: 1, 0
+  index: -1
+zhinai_toujing
+  rotate: false
+  xy: 878, 382
+  size: 121, 55
+  orig: 121, 55
+  offset: 0, 0
+  index: -1
+zhinai_tuibao
+  rotate: true
+  xy: 392, 178
+  size: 37, 110
+  orig: 38, 110
+  offset: 0, 0
+  index: -1
+zhinai_xiongqiang
+  rotate: false
+  xy: 0, 78
+  size: 288, 428
+  orig: 288, 428
+  offset: 0, 0
+  index: -1
+zhinai_yanjing
+  rotate: true
+  xy: 356, 6
+  size: 89, 26
+  orig: 89, 27
+  offset: 0, 0
+  index: -1
+zhinai_youbi1
+  rotate: true
+  xy: 878, 437
+  size: 69, 133
+  orig: 69, 133
+  offset: 0, 0
+  index: -1
+zhinai_youbi2
+  rotate: true
+  xy: 0, 5
+  size: 73, 199
+  orig: 73, 199
+  offset: 0, 0
+  index: -1
+zhinai_youduo
+  rotate: false
+  xy: 289, 2
+  size: 67, 93
+  orig: 67, 94
+  offset: 0, 1
+  index: -1
+zhinai_youtui1
+  rotate: true
+  xy: 725, 394
+  size: 112, 153
+  orig: 112, 153
+  offset: 0, 0
+  index: -1
+zhinai_zuobi
+  rotate: false
+  xy: 288, 206
+  size: 104, 300
+  orig: 104, 300
+  offset: 0, 0
+  index: -1
+zhinai_zuodou
+  rotate: false
+  xy: 288, 95
+  size: 95, 111
+  orig: 95, 111
+  offset: 0, 0
+  index: -1
+zhinai_zuotui
+  rotate: true
+  xy: 565, 392
+  size: 114, 160
+  orig: 114, 160
+  offset: 0, 0
+  index: -1

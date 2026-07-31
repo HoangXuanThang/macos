@@ -1,0 +1,146 @@
+
+loadingdog2.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+move2_001
+  rotate: true
+  xy: 76, 2
+  size: 67, 53
+  orig: 67, 53
+  offset: 0, 0
+  index: -1
+move2_004
+  rotate: true
+  xy: 76, 2
+  size: 67, 53
+  orig: 67, 53
+  offset: 0, 0
+  index: -1
+move2_007
+  rotate: true
+  xy: 76, 2
+  size: 67, 53
+  orig: 67, 53
+  offset: 0, 0
+  index: -1
+move2_002
+  rotate: true
+  xy: 295, 2
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+move2_003
+  rotate: true
+  xy: 450, 60
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+move2_006
+  rotate: true
+  xy: 450, 60
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+move2_009
+  rotate: true
+  xy: 450, 60
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+move2_005
+  rotate: true
+  xy: 194, 2
+  size: 65, 54
+  orig: 65, 54
+  offset: 0, 0
+  index: -1
+move2_008
+  rotate: true
+  xy: 194, 2
+  size: 65, 54
+  orig: 65, 54
+  offset: 0, 0
+  index: -1
+move2_010
+  rotate: true
+  xy: 349, 3
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+move2_011
+  rotate: true
+  xy: 250, 2
+  size: 73, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1
+move2_012
+  rotate: false
+  xy: 228, 77
+  size: 78, 49
+  orig: 78, 49
+  offset: 0, 0
+  index: -1
+move2_013
+  rotate: false
+  xy: 2, 67
+  size: 72, 59
+  orig: 72, 59
+  offset: 0, 0
+  index: -1
+move2_014
+  rotate: true
+  xy: 131, 2
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+move2_015
+  rotate: true
+  xy: 131, 2
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+move2_016
+  rotate: false
+  xy: 2, 10
+  size: 72, 55
+  orig: 72, 55
+  offset: 0, 0
+  index: -1
+move2_017
+  rotate: false
+  xy: 76, 71
+  size: 75, 55
+  orig: 75, 55
+  offset: 0, 0
+  index: -1
+move2_018
+  rotate: false
+  xy: 308, 69
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+move2_019
+  rotate: false
+  xy: 379, 71
+  size: 69, 55
+  orig: 69, 55
+  offset: 0, 0
+  index: -1
+move2_020
+  rotate: false
+  xy: 153, 72
+  size: 73, 54
+  orig: 73, 54
+  offset: 0, 0
+  index: -1

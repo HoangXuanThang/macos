@@ -1,0 +1,160 @@
+
+effect_sifengyuanyeyi_2.png
+size: 110, 379
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+et_huohua_a3
+  rotate: false
+  xy: 69, 318
+  size: 27, 26
+  orig: 32, 31
+  offset: 2, 2
+  index: -1
+feidao_h
+  rotate: true
+  xy: 68, 228
+  size: 41, 20
+  orig: 50, 25
+  offset: 6, 3
+  index: -1
+qiu_cai
+  rotate: false
+  xy: 68, 294
+  size: 22, 22
+  orig: 25, 25
+  offset: 2, 2
+  index: -1
+qiu_hei
+  rotate: false
+  xy: 68, 271
+  size: 21, 21
+  orig: 25, 25
+  offset: 2, 2
+  index: -1
+texiao/heiqub_00000
+  rotate: false
+  xy: 64, 163
+  size: 43, 46
+  orig: 54, 54
+  offset: 5, 6
+  index: -1
+texiao/heiqub_00001
+  rotate: true
+  xy: 57, 2
+  size: 47, 51
+  orig: 54, 54
+  offset: 3, 3
+  index: -1
+texiao/heiqub_00002
+  rotate: true
+  xy: 2, 6
+  size: 51, 53
+  orig: 54, 54
+  offset: 0, 1
+  index: -1
+texiao/heiqub_00003
+  rotate: false
+  xy: 59, 107
+  size: 49, 46
+  orig: 54, 54
+  offset: 0, 8
+  index: -1
+texiao/qwe_00000
+  rotate: true
+  xy: 69, 346
+  size: 31, 33
+  orig: 69, 78
+  offset: 15, 17
+  index: -1
+texiao/qwe_00001
+  rotate: true
+  xy: 2, 59
+  size: 45, 55
+  orig: 69, 78
+  offset: 12, 10
+  index: -1
+texiao/qwe_00004
+  rotate: true
+  xy: 2, 211
+  size: 53, 63
+  orig: 69, 78
+  offset: 9, 7
+  index: -1
+texiao/qwe_00008
+  rotate: true
+  xy: 2, 323
+  size: 54, 65
+  orig: 69, 78
+  offset: 8, 6
+  index: -1
+texiao/qwe_00009
+  rotate: true
+  xy: 2, 266
+  size: 55, 64
+  orig: 69, 78
+  offset: 8, 7
+  index: -1
+texiao/qwe_00011
+  rotate: true
+  xy: 2, 155
+  size: 54, 60
+  orig: 69, 78
+  offset: 10, 6
+  index: -1
+texiao/qwe_00013
+  rotate: false
+  xy: 59, 51
+  size: 48, 54
+  orig: 69, 78
+  offset: 14, 7
+  index: -1
+texiao/qwe_00014
+  rotate: true
+  xy: 2, 106
+  size: 47, 55
+  orig: 69, 78
+  offset: 14, 6
+  index: -1
+zwa01
+  rotate: false
+  xy: 98, 325
+  size: 8, 11
+  orig: 10, 12
+  offset: 1, 1
+  index: -1
+zwa04
+  rotate: true
+  xy: 101, 310
+  size: 5, 6
+  orig: 10, 12
+  offset: 3, 3
+  index: -1
+zwa07
+  rotate: true
+  xy: 98, 338
+  size: 6, 10
+  orig: 10, 12
+  offset: 1, 1
+  index: -1
+zwa09
+  rotate: false
+  xy: 101, 303
+  size: 5, 5
+  orig: 10, 12
+  offset: 2, 3
+  index: -1
+zwa10
+  rotate: true
+  xy: 92, 309
+  size: 6, 7
+  orig: 10, 12
+  offset: 2, 2
+  index: -1
+zwa14
+  rotate: true
+  xy: 98, 317
+  size: 6, 8
+  orig: 10, 12
+  offset: 2, 1
+  index: -1

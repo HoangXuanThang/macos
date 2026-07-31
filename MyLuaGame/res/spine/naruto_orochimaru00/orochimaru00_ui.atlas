@@ -1,0 +1,258 @@
+
+orochimaru00_ui.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+dashewan_biyan
+  rotate: false
+  xy: 644, 2
+  size: 83, 15
+  orig: 85, 15
+  offset: 1, 0
+  index: -1
+dashewan_fa1
+  rotate: false
+  xy: 814, 272
+  size: 117, 74
+  orig: 117, 74
+  offset: 0, 0
+  index: -1
+dashewan_fa2
+  rotate: true
+  xy: 245, 181
+  size: 40, 243
+  orig: 40, 245
+  offset: 0, 2
+  index: -1
+dashewan_fa3
+  rotate: true
+  xy: 229, 0
+  size: 39, 184
+  orig: 39, 184
+  offset: 0, 0
+  index: -1
+dashewan_fa4
+  rotate: true
+  xy: 807, 204
+  size: 22, 140
+  orig: 22, 140
+  offset: 0, 0
+  index: -1
+dashewan_fa4_xiacen
+  rotate: true
+  xy: 805, 179
+  size: 25, 103
+  orig: 25, 103
+  offset: 0, 0
+  index: -1
+dashewan_fa5
+  rotate: true
+  xy: 479, 239
+  size: 45, 239
+  orig: 45, 239
+  offset: 0, 0
+  index: -1
+dashewan_fa6
+  rotate: true
+  xy: 0, 0
+  size: 25, 139
+  orig: 25, 140
+  offset: 0, 1
+  index: -1
+dashewan_fa6_xiacen
+  rotate: true
+  xy: 805, 165
+  size: 14, 91
+  orig: 14, 91
+  offset: 0, 0
+  index: -1
+dashewan_fa_xiacen
+  rotate: false
+  xy: 0, 25
+  size: 148, 175
+  orig: 148, 175
+  offset: 0, 0
+  index: -1
+dashewan_lian
+  rotate: false
+  xy: 926, 370
+  size: 98, 142
+  orig: 98, 142
+  offset: 0, 0
+  index: -1
+dashewan_qunbai1
+  rotate: true
+  xy: 245, 292
+  size: 220, 333
+  orig: 220, 333
+  offset: 0, 0
+  index: -1
+dashewan_qunbai2
+  rotate: true
+  xy: 451, 146
+  size: 23, 206
+  orig: 23, 207
+  offset: 0, 1
+  index: -1
+dashewan_qunbai3
+  rotate: true
+  xy: 578, 346
+  size: 166, 348
+  orig: 166, 348
+  offset: 0, 0
+  index: -1
+dashewan_shouzhang
+  rotate: false
+  xy: 644, 17
+  size: 75, 79
+  orig: 75, 80
+  offset: 0, 0
+  index: -1
+dashewan_shouzhi1
+  rotate: true
+  xy: 657, 146
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+dashewan_shouzhi2
+  rotate: true
+  xy: 139, 0
+  size: 25, 51
+  orig: 25, 51
+  offset: 0, 0
+  index: -1
+dashewan_shouzhi3
+  rotate: false
+  xy: 781, 115
+  size: 23, 55
+  orig: 23, 56
+  offset: 0, 1
+  index: -1
+dashewan_shouzhi4
+  rotate: true
+  xy: 413, 23
+  size: 16, 44
+  orig: 16, 44
+  offset: 0, 0
+  index: -1
+dashewan_wuguan
+  rotate: false
+  xy: 718, 224
+  size: 89, 60
+  orig: 91, 60
+  offset: 2, 0
+  index: -1
+dashewan_xiongqiang
+  rotate: false
+  xy: 0, 200
+  size: 245, 312
+  orig: 245, 312
+  offset: 0, 0
+  index: -1
+dashewan_yaodai1
+  rotate: false
+  xy: 245, 221
+  size: 234, 71
+  orig: 234, 71
+  offset: 0, 0
+  index: -1
+dashewan_yaodai2
+  rotate: true
+  xy: 613, 96
+  size: 50, 67
+  orig: 50, 67
+  offset: 0, 0
+  index: -1
+dashewan_yaodai3
+  rotate: false
+  xy: 148, 28
+  size: 81, 172
+  orig: 81, 172
+  offset: 0, 0
+  index: -1
+dashewan_yaodai4
+  rotate: true
+  xy: 807, 226
+  size: 46, 117
+  orig: 46, 118
+  offset: 0, 0
+  index: -1
+dashewan_yaodai5
+  rotate: true
+  xy: 229, 39
+  size: 63, 230
+  orig: 63, 230
+  offset: 0, 0
+  index: -1
+dashewan_youbi1
+  rotate: false
+  xy: 459, 90
+  size: 154, 56
+  orig: 156, 56
+  offset: 1, 0
+  index: -1
+dashewan_youbi2
+  rotate: true
+  xy: 702, 170
+  size: 54, 103
+  orig: 54, 103
+  offset: 0, 0
+  index: -1
+dashewan_youtui
+  rotate: true
+  xy: 488, 169
+  size: 70, 214
+  orig: 70, 214
+  offset: 0, 0
+  index: -1
+dashewan_youxiu1
+  rotate: false
+  xy: 931, 243
+  size: 81, 127
+  orig: 81, 127
+  offset: 0, 0
+  index: -1
+dashewan_youxiu2
+  rotate: false
+  xy: 702, 124
+  size: 79, 46
+  orig: 79, 46
+  offset: 0, 0
+  index: -1
+dashewan_zuobi1
+  rotate: true
+  xy: 578, 284
+  size: 62, 236
+  orig: 62, 236
+  offset: 0, 0
+  index: -1
+dashewan_zuobi2
+  rotate: false
+  xy: 590, 0
+  size: 54, 90
+  orig: 54, 90
+  offset: 0, 0
+  index: -1
+dashewan_zuotui
+  rotate: true
+  xy: 229, 102
+  size: 79, 222
+  orig: 79, 222
+  offset: 0, 0
+  index: -1
+dashewan_zuoxiu1
+  rotate: true
+  xy: 459, 12
+  size: 78, 131
+  orig: 78, 132
+  offset: 0, 0
+  index: -1
+dashewan_zuoxiu2
+  rotate: false
+  xy: 947, 190
+  size: 77, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1

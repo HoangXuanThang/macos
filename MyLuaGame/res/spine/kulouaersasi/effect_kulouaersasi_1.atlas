@@ -1,0 +1,202 @@
+
+effect_kulouaersasi_1.png
+size: 1799, 597
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+effect/bing1
+  rotate: false
+  xy: 1681, 330
+  size: 92, 103
+  orig: 100, 112
+  offset: 5, 4
+  index: -1
+effect/bing2
+  rotate: true
+  xy: 1567, 2
+  size: 56, 52
+  orig: 70, 67
+  offset: 6, 7
+  index: -1
+effect/bing2l
+  rotate: false
+  xy: 1573, 319
+  size: 106, 114
+  orig: 150, 137
+  offset: 0, 4
+  index: -1
+effect/bing3
+  rotate: false
+  xy: 586, 22
+  size: 144, 227
+  orig: 150, 233
+  offset: 3, 2
+  index: -1
+effect/bing3l
+  rotate: false
+  xy: 333, 211
+  size: 175, 384
+  orig: 300, 456
+  offset: 58, 16
+  index: -1
+effect/bing4
+  rotate: false
+  xy: 510, 251
+  size: 144, 344
+  orig: 150, 354
+  offset: 3, 4
+  index: -1
+effect/bing4l
+  rotate: false
+  xy: 2, 106
+  size: 172, 489
+  orig: 300, 508
+  offset: 17, 8
+  index: -1
+effect/bing5
+  rotate: false
+  xy: 1098, 311
+  size: 124, 284
+  orig: 130, 293
+  offset: 3, 3
+  index: -1
+effect/bing5l
+  rotate: false
+  xy: 176, 163
+  size: 155, 432
+  orig: 230, 471
+  offset: 12, 19
+  index: -1
+effect/bing6
+  rotate: true
+  xy: 2, 9
+  size: 95, 180
+  orig: 100, 188
+  offset: 2, 2
+  index: -1
+effect/bing6l
+  rotate: true
+  xy: 1504, 152
+  size: 165, 273
+  orig: 200, 289
+  offset: 17, 16
+  index: -1
+effect/diqi
+  rotate: false
+  xy: 1638, 62
+  size: 79, 88
+  orig: 99, 118
+  offset: 10, 16
+  index: -1
+effect/qi
+  rotate: false
+  xy: 1567, 60
+  size: 69, 90
+  orig: 99, 118
+  offset: 11, 15
+  index: -1
+effect/suipian
+  rotate: false
+  xy: 1719, 91
+  size: 77, 59
+  orig: 98, 84
+  offset: 11, 12
+  index: -1
+effect/tiaowen
+  rotate: false
+  xy: 333, 178
+  size: 30, 31
+  orig: 50, 50
+  offset: 10, 9
+  index: -1
+effect/xuebaodian_00
+  rotate: false
+  xy: 1621, 9
+  size: 62, 49
+  orig: 300, 220
+  offset: 5, 7
+  index: -1
+effect/xuebaodian_01
+  rotate: false
+  xy: 1573, 435
+  size: 224, 160
+  orig: 300, 220
+  offset: 0, 3
+  index: -1
+effect/xuebaodian_02
+  rotate: true
+  xy: 1224, 315
+  size: 280, 200
+  orig: 300, 220
+  offset: 0, 1
+  index: -1
+effect/xuebaodian_03
+  rotate: true
+  xy: 954, 7
+  size: 290, 217
+  orig: 300, 220
+  offset: 0, 0
+  index: -1
+effect/xuebaodian_04
+  rotate: true
+  xy: 656, 299
+  size: 296, 219
+  orig: 300, 220
+  offset: 3, 0
+  index: -1
+effect/xuebaodian_05
+  rotate: true
+  xy: 877, 299
+  size: 296, 219
+  orig: 300, 220
+  offset: 4, 0
+  index: -1
+effect/xuebaodian_06
+  rotate: true
+  xy: 732, 6
+  size: 291, 220
+  orig: 300, 220
+  offset: 8, 0
+  index: -1
+effect/zha_00
+  rotate: true
+  xy: 463, 3
+  size: 206, 121
+  orig: 300, 166
+  offset: 7, 26
+  index: -1
+effect/zha_01
+  rotate: true
+  xy: 1426, 319
+  size: 276, 145
+  orig: 300, 166
+  offset: 9, 13
+  index: -1
+effect/zha_02
+  rotate: false
+  xy: 184, 4
+  size: 277, 157
+  orig: 300, 166
+  offset: 9, 7
+  index: -1
+effect/zha_03
+  rotate: true
+  xy: 1173, 28
+  size: 281, 161
+  orig: 300, 166
+  offset: 9, 5
+  index: -1
+effect/zha_04
+  rotate: true
+  xy: 1336, 33
+  size: 280, 166
+  orig: 300, 166
+  offset: 11, 0
+  index: -1
+effect/zha_05
+  rotate: false
+  xy: 1504, 13
+  size: 61, 137
+  orig: 300, 166
+  offset: 70, 3
+  index: -1

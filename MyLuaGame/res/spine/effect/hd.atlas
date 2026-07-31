@@ -1,0 +1,34 @@
+
+hd.png
+size: 1829,1344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g1
+  rotate: false
+  xy: 1, 820
+  size: 1786, 523
+  orig: 1786, 523
+  offset: 0, 0
+  index: -1
+g2
+  rotate: false
+  xy: 1009, 348
+  size: 599, 296
+  orig: 599, 296
+  offset: 0, 0
+  index: -1
+gd
+  rotate: false
+  xy: 1009, 646
+  size: 819, 172
+  orig: 819, 172
+  offset: 0, 0
+  index: -1
+xx
+  rotate: true
+  xy: 1, 1
+  size: 817, 1006
+  orig: 817, 1006
+  offset: 0, 0
+  index: -1

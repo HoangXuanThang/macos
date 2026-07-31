@@ -1,0 +1,167 @@
+
+jujian.png
+size: 1514,417
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/11lizi
+  rotate: false
+  xy: 1395, 166
+  size: 85, 61
+  orig: 85, 61
+  offset: 0, 0
+  index: -1
+TX/atk_li_zi_S_0027
+  rotate: true
+  xy: 1365, 21
+  size: 63, 74
+  orig: 133, 146
+  offset: 36, 0
+  index: -1
+TX/atk_li_zi_S_0029
+  rotate: false
+  xy: 1066, 65
+  size: 103, 140
+  orig: 146, 205
+  offset: 21, 11
+  index: -1
+TX/guangsu
+  rotate: false
+  xy: 986, 25
+  size: 78, 180
+  orig: 78, 180
+  offset: 0, 0
+  index: -1
+TX/guangyun
+  rotate: false
+  xy: 986, 207
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+TX/huochen_000
+  rotate: false
+  xy: 986, 1
+  size: 64, 22
+  orig: 77, 38
+  offset: 4, 0
+  index: -1
+TX/huochen_002
+  rotate: false
+  xy: 1292, 16
+  size: 71, 26
+  orig: 77, 38
+  offset: 4, 0
+  index: -1
+TX/huochen_004
+  rotate: false
+  xy: 1395, 135
+  size: 77, 29
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+TX/huochen_006
+  rotate: false
+  xy: 1214, 14
+  size: 76, 28
+  orig: 77, 38
+  offset: 1, 0
+  index: -1
+TX/huochen_008
+  rotate: true
+  xy: 1361, 139
+  size: 69, 32
+  orig: 77, 38
+  offset: 7, 0
+  index: -1
+TX/huochen_010
+  rotate: true
+  xy: 1441, 24
+  size: 60, 32
+  orig: 77, 38
+  offset: 13, 0
+  index: -1
+TX/huochen_012
+  rotate: true
+  xy: 1174, 15
+  size: 54, 38
+  orig: 77, 38
+  offset: 17, 0
+  index: -1
+TX/huochen_014
+  rotate: true
+  xy: 1475, 30
+  size: 54, 38
+  orig: 77, 38
+  offset: 17, 0
+  index: -1
+TX/huoxin
+  rotate: true
+  xy: 1395, 278
+  size: 138, 111
+  orig: 138, 111
+  offset: 0, 0
+  index: -1
+TX/qiliu
+  rotate: false
+  xy: 1197, 210
+  size: 196, 206
+  orig: 196, 206
+  offset: 0, 0
+  index: -1
+TX/wenli
+  rotate: true
+  xy: 1066, 13
+  size: 50, 106
+  orig: 50, 106
+  offset: 0, 0
+  index: -1
+TX/yanhuo002
+  rotate: false
+  xy: 1228, 44
+  size: 132, 51
+  orig: 146, 55
+  offset: 0, 0
+  index: -1
+TX/yanhuo003
+  rotate: false
+  xy: 1228, 154
+  size: 131, 54
+  orig: 146, 55
+  offset: 5, 0
+  index: -1
+TX/yanhuo005
+  rotate: true
+  xy: 1171, 71
+  size: 134, 55
+  orig: 146, 55
+  offset: 11, 0
+  index: -1
+TX/yanhuo006
+  rotate: false
+  xy: 1228, 97
+  size: 130, 55
+  orig: 146, 55
+  offset: 16, 0
+  index: -1
+TX/yanhuo007
+  rotate: false
+  xy: 1362, 86
+  size: 126, 47
+  orig: 146, 55
+  offset: 20, 0
+  index: -1
+TX/yanhuo008
+  rotate: false
+  xy: 1395, 229
+  size: 110, 47
+  orig: 146, 55
+  offset: 36, 0
+  index: -1
+jujian
+  rotate: true
+  xy: 1, 10
+  size: 406, 983
+  orig: 406, 983
+  offset: 0, 0
+  index: -1

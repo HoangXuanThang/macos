@@ -1,0 +1,41 @@
+
+kelingqu.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ke
+  rotate: false
+  xy: 185, 54
+  size: 101, 70
+  orig: 101, 70
+  offset: 0, 0
+  index: -1
+ling
+  rotate: false
+  xy: 288, 54
+  size: 79, 70
+  orig: 79, 70
+  offset: 0, 0
+  index: -1
+qu
+  rotate: false
+  xy: 2, 47
+  size: 181, 77
+  orig: 181, 77
+  offset: 0, 0
+  index: -1
+sandain
+  rotate: false
+  xy: 2, 2
+  size: 66, 43
+  orig: 66, 43
+  offset: 0, 0
+  index: -1
+xiaoxingxing
+  rotate: false
+  xy: 369, 70
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1

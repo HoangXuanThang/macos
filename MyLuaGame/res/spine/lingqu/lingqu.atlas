@@ -1,0 +1,27 @@
+
+lingqu.png
+size: 85,71
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lgg
+  rotate: true
+  xy: 2, 2
+  size: 9, 66
+  orig: 9, 66
+  offset: 0, 0
+  index: -1
+lq2
+  rotate: false
+  xy: 2, 13
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+w_xx2
+  rotate: false
+  xy: 60, 46
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1

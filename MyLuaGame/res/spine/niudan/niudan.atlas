@@ -1,0 +1,160 @@
+
+niudan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anjian_01
+  rotate: false
+  xy: 2, 2
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+anjian_03
+  rotate: true
+  xy: 925, 679
+  size: 108, 15
+  orig: 108, 15
+  offset: 0, 0
+  index: -1
+bashou1
+  rotate: true
+  xy: 723, 647
+  size: 30, 91
+  orig: 30, 91
+  offset: 0, 0
+  index: -1
+bashou2
+  rotate: false
+  xy: 216, 36
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+boli
+  rotate: false
+  xy: 563, 789
+  size: 384, 233
+  orig: 384, 233
+  offset: 0, 0
+  index: -1
+chukou_01
+  rotate: false
+  xy: 723, 679
+  size: 200, 108
+  orig: 200, 108
+  offset: 0, 0
+  index: -1
+chukou_02
+  rotate: false
+  xy: 2, 29
+  size: 212, 48
+  orig: 212, 48
+  offset: 0, 0
+  index: -1
+deng
+  rotate: true
+  xy: 949, 828
+  size: 194, 68
+  orig: 194, 68
+  offset: 0, 0
+  index: -1
+guandao
+  rotate: true
+  xy: 2, 79
+  size: 154, 258
+  orig: 154, 258
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 563, 630
+  size: 158, 157
+  orig: 158, 157
+  offset: 0, 0
+  index: -1
+gwy067
+  rotate: false
+  xy: 544, 374
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+niudanji_01
+  rotate: false
+  xy: 2, 489
+  size: 559, 533
+  orig: 559, 533
+  offset: 0, 0
+  index: -1
+niudanji_02
+  rotate: false
+  xy: 2, 235
+  size: 409, 252
+  orig: 409, 252
+  offset: 0, 0
+  index: -1
+qiu_01
+  rotate: false
+  xy: 262, 140
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+qiu_02
+  rotate: false
+  xy: 563, 535
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+qiu_05
+  rotate: false
+  xy: 658, 535
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+qiu_06
+  rotate: false
+  xy: 262, 45
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+qiu_07
+  rotate: false
+  xy: 357, 140
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+qiu_08
+  rotate: false
+  xy: 357, 45
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+qiu_10
+  rotate: false
+  xy: 563, 440
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+qiu_12
+  rotate: false
+  xy: 658, 440
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+qiu_13
+  rotate: true
+  xy: 413, 289
+  size: 198, 129
+  orig: 198, 129
+  offset: 0, 0
+  index: -1

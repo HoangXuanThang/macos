@@ -1,0 +1,9 @@
+﻿VariableName,bestPoolMaxTimes,bestPoolProb,common,huodongID,commonPoolID,bestPoolID,best,roundDrawTimes
+,0,0,{},0,{},{},{},0
+VariableName,bestPoolMaxTimes,bestPoolProb,common,huodongID,commonPoolID,bestPoolID,best,roundDrawTimes
+1,,,"{gold=1,209=12,402=10}",1001,{libs=<10121;10122;10123;10124>},,,1
+2,1,10,,1001,{libs=<10121;10122;10123;10124>},{libs=<10131;10132;10133;10134>},,2
+3,1,10,,1001,{libs=<10121;10122;10123;10124>},{libs=<10131;10132;10133;10134>},,3
+4,3,30,,1001,{libs=<10121;10122;10123;10124>},{libs=<10131;10132;10133;10134>},,4
+5,5,60,,1001,{libs=<10121;10122;10123;10124>},{libs=<10131;10132;10133;10134>},,5
+6,99999,100,,1001,{libs=<10121;10122;10123;10124>},{libs=<10131;10132;10133;10134>},"{gold=1,209=12,402=10}",6

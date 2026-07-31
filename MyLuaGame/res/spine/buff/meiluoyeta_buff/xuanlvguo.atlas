@@ -1,0 +1,90 @@
+
+xuanlvguo.png
+size: 690,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX_A_sj_0039
+  rotate: false
+  xy: 644, 178
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+ax_2
+  rotate: false
+  xy: 531, 71
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+ax_3
+  rotate: false
+  xy: 617, 3
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+fense
+  rotate: false
+  xy: 444, 68
+  size: 85, 153
+  orig: 85, 153
+  offset: 0, 0
+  index: -1
+gs_gh3
+  rotate: true
+  xy: 531, 106
+  size: 115, 111
+  orig: 115, 111
+  offset: 0, 0
+  index: -1
+gs_yf
+  rotate: true
+  xy: 314, 6
+  size: 40, 81
+  orig: 40, 84
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 205, 6
+  size: 107, 215
+  orig: 107, 215
+  offset: 0, 0
+  index: -1
+honhse
+  rotate: false
+  xy: 314, 48
+  size: 128, 173
+  orig: 128, 173
+  offset: 0, 0
+  index: -1
+wb_yf1
+  rotate: true
+  xy: 617, 54
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+wb_yf2
+  rotate: true
+  xy: 397, 5
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+xls_adad
+  rotate: true
+  xy: 1, 1
+  size: 220, 202
+  orig: 220, 202
+  offset: 0, 0
+  index: -1
+zise
+  rotate: true
+  xy: 474, 1
+  size: 65, 141
+  orig: 65, 141
+  offset: 0, 0
+  index: -1

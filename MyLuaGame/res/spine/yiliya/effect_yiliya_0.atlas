@@ -1,0 +1,48 @@
+
+effect_yiliya_0.png
+size: 316, 570
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pgbd_00004
+  rotate: false
+  xy: 2, 2
+  size: 155, 155
+  orig: 271, 264
+  offset: 56, 49
+  index: -1
+pgbd_00005
+  rotate: false
+  xy: 2, 159
+  size: 193, 192
+  orig: 271, 264
+  offset: 37, 31
+  index: -1
+pgbd_00006
+  rotate: false
+  xy: 2, 353
+  size: 211, 215
+  orig: 271, 264
+  offset: 28, 19
+  index: -1
+pgbd_00007
+  rotate: false
+  xy: 159, 24
+  size: 133, 133
+  orig: 271, 264
+  offset: 59, 56
+  index: -1
+pgbd_00008
+  rotate: true
+  xy: 197, 224
+  size: 127, 115
+  orig: 271, 264
+  offset: 60, 57
+  index: -1
+pgbd_00009
+  rotate: true
+  xy: 215, 450
+  size: 118, 99
+  orig: 271, 264
+  offset: 68, 59
+  index: -1

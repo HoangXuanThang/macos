@@ -1,0 +1,41 @@
+
+guizu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+piaodai
+  rotate: false
+  xy: 248, 133
+  size: 3, 3
+  orig: 76, 75
+  offset: 73, 0
+  index: -1
+taiyang
+  rotate: false
+  xy: 2, 54
+  size: 244, 171
+  orig: 244, 171
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 248, 138
+  size: 137, 87
+  orig: 137, 87
+  offset: 0, 0
+  index: -1
+wg
+  rotate: false
+  xy: 387, 222
+  size: 3, 3
+  orig: 84, 83
+  offset: 81, 0
+  index: -1
+xx
+  rotate: false
+  xy: 2, 2
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1

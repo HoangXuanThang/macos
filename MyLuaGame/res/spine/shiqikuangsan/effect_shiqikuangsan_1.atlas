@@ -1,0 +1,55 @@
+
+effect_shiqikuangsan_1.png
+size: 385, 559
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+images/0_00000
+  rotate: true
+  xy: 212, 2
+  size: 179, 171
+  orig: 455, 273
+  offset: 104, 38
+  index: -1
+images/0_00001
+  rotate: false
+  xy: 2, 9
+  size: 208, 182
+  orig: 455, 273
+  offset: 97, 36
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 2, 369
+  size: 231, 188
+  orig: 455, 273
+  offset: 92, 39
+  index: -1
+images/0_00005
+  rotate: false
+  xy: 2, 193
+  size: 231, 174
+  orig: 455, 273
+  offset: 94, 50
+  index: -1
+images/0_00007
+  rotate: false
+  xy: 235, 419
+  size: 147, 138
+  orig: 455, 273
+  offset: 179, 60
+  index: -1
+images/0_00009
+  rotate: false
+  xy: 235, 289
+  size: 144, 128
+  orig: 455, 273
+  offset: 186, 72
+  index: -1
+images/0_00011
+  rotate: false
+  xy: 235, 183
+  size: 129, 104
+  orig: 455, 273
+  offset: 191, 72
+  index: -1

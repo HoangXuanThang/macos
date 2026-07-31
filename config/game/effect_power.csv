@@ -1,0 +1,22 @@
+﻿VariableName,killAddMp1,triggerPoint,passiveSkill,passiveSkillKilledTarget,normalSpecialCheck,hpFixedDiscount,killAddMp1Fix,canAsTurnTarget,summonSpecialCheck,triggerPointKilledTarget,hpFormulaDiscount,needUnitID
+Defaults,1,{},{},{},1,1,1,1,1,{},,
+ID,击杀回复怒气,触发节点,被动技能,passiveSkillKilledTarget,normalSpecialCheck,hpFixedDiscount,killAddMp1Fix,canAsTurnTarget,summonSpecialCheck,triggerPointKilledTarget,hpFormulaDiscount,needUnitID
+1,,,,,,,,,,,,
+2,0,{23=0;13=0;12=0;11=0;7=0;8=0},{3=0;4=0;5=0;10=0},,,,,,,,,
+3,0,,,,,,,0,,,,
+4,0,,,{10=0},,,,0,,{11=0;15=0;37=0},,
+5,0,,,,0,0.4,,,0,,"findTarget and (less(findTarget:star(),8) and 1 or (findTarget:hasBuff(3623817) and 1 or (not findTarget:hasBuff(3623817) and 0.48 or 1))) or 1",3623
+6,,,,,0,0.08,0.334,,0,,"findTarget and (less(findTarget:star(),8) and 1 or (findTarget:hasBuff(3623817) and 1 or (not findTarget:hasBuff(3623817) and 0.48 or 1))) or 1",3623
+7,0,,,,0,,,,0,,"findTarget and (less(findTarget:star(),8) and 1 or (findTarget:hasBuff(3623817) and 1 or (not findTarget:hasBuff(3623817) and 0.48 or 1))) or 1",3623
+8,0,,,{10=0},,,,0,,{11=0;15=0;37=0},,2423
+9,0,,,{10=0},,,,0,,{11=0;15=0;37=0},,2425
+10,0,,,{10=0},,,,0,,{11=0;15=0;37=0},,2422
+11,0,,,,,,,0,,,,1966
+12,0,,,{10=0},,,,0,,{11=0;15=0;37=0},,2412
+13,0,,,{10=0},,,,0,,{11=0;15=0;37=0},,7016
+14,0,,,,,0,,0,,,,1966
+15,0,,,{10=0},,,,0,,{11=0;15=0;37=0},,4111
+16,0,,,{10=0},,,,0,,{11=0;15=0;37=0},,
+17,0,,,{10=0},,,,0,,{11=0;15=0;37=0},,
+18,0,,,{10=0},,,,0,,{11=0;15=0;37=0},,
+19,,,,,,,,0,,,,

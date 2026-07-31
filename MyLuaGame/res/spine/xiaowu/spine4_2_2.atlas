@@ -1,0 +1,97 @@
+
+spine4_2_2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 0, 1232
+  size: 1560, 720
+  orig: 1560, 720
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 1562, 1298
+  size: 96, 39
+  orig: 96, 39
+  offset: 0, 0
+  index: -1
+chibang1
+  rotate: true
+  xy: 0, 190
+  size: 468, 314
+  orig: 468, 314
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: true
+  xy: 1562, 1421
+  size: 531, 369
+  orig: 531, 369
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: false
+  xy: 650, 1120
+  size: 75, 110
+  orig: 75, 110
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 660
+  size: 441, 570
+  orig: 441, 570
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 443, 1032
+  size: 205, 198
+  orig: 205, 198
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 443, 881
+  size: 46, 149
+  orig: 46, 149
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 1838, 1384
+  size: 35, 85
+  orig: 35, 85
+  offset: 0, 0
+  index: -1
+xiong1
+  rotate: false
+  xy: 316, 542
+  size: 102, 116
+  orig: 102, 116
+  offset: 0, 0
+  index: -1
+xiong2
+  rotate: false
+  xy: 1933, 1822
+  size: 101, 130
+  orig: 101, 130
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 1562, 1339
+  size: 80, 274
+  orig: 80, 274
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 0, 0
+  size: 119, 188
+  orig: 119, 188
+  offset: 0, 0
+  index: -1

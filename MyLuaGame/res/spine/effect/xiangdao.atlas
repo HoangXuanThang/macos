@@ -1,0 +1,34 @@
+
+xiangdao.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xd_jb
+  rotate: false
+  xy: 543, 15
+  size: 181, 81
+  orig: 181, 81
+  offset: 0, 0
+  index: -1
+xd_jt
+  rotate: false
+  xy: 726, 47
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+ytle_di2
+  rotate: false
+  xy: 2, 2
+  size: 336, 94
+  orig: 336, 94
+  offset: 0, 0
+  index: -1
+ytle_di3
+  rotate: false
+  xy: 340, 31
+  size: 201, 65
+  orig: 201, 65
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+jinliao.png
+size: 394,79
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chih1
+  rotate: false
+  xy: 320, 6
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1
+daoguang_1
+  rotate: true
+  xy: 122, 46
+  size: 32, 120
+  orig: 32, 120
+  offset: 0, 0
+  index: -1
+guangmu
+  rotate: true
+  xy: 122, 12
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+guangyun1
+  rotate: false
+  xy: 181, 14
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+lizi6_4
+  rotate: true
+  xy: 244, 7
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+xian7_1
+  rotate: true
+  xy: 1, 1
+  size: 77, 119
+  orig: 90, 126
+  offset: 4, 7
+  index: -1
+zhiliao
+  rotate: false
+  xy: 213, 27
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1

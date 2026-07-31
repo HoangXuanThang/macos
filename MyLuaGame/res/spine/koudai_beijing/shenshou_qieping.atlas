@@ -1,0 +1,13 @@
+
+shenshou_qieping.png
+size: 26,17
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hei
+  rotate: false
+  xy: 1, 1
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1

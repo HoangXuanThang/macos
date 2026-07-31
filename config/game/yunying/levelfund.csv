@@ -1,0 +1,16 @@
+﻿VariableName,huodongID,needLevel,desc,desc_th,desc_en,desc_vn,desc_kr,award
+Defaults,0,1,"""""","""""","""""","""""","""""",{}
+ID,活动版本ID,要求等级,描述,描述,描述,描述_越南,描述_韩,可领奖励
+1,22001,15,Reach LV15, ถึงระดับ LV15,Reach LV15,Đạt LV15,,{502=3;12=10;gold=300000;rmb=300}
+2,22001,20,Reach LV20, ถึงระดับ LV20,Reach LV20,Đạt LV20,,{502=3;12=10;gold=300000;rmb=400}
+3,22001,25,Reach LV25, ถึงระดับ LV25,Reach LV25,Đạt LV25,,{502=3;12=10;gold=300000;rmb=500}
+4,22001,30,Reach LV30, ถึงระดับ LV30,Reach LV30,Đạt LV30,,{502=5;13=10;gold=300000;rmb=600}
+5,22001,35,Reach LV35, ถึงระดับ LV35,Reach LV35,Đạt LV35,,{502=5;13=10;gold=300000;rmb=700}
+6,22001,40,Reach LV40, ถึงระดับ LV40,Reach LV40,Đạt LV40,,{502=5;13=10;gold=600000;rmb=800}
+7,22001,45,Reach LV45, ถึงระดับ LV45,Reach LV45,Đạt LV45,,{502=7;13=10;gold=600000;rmb=1000}
+8,22001,50,Reach LV50, ถึงระดับ LV50,Reach LV50,Đạt LV50,,{502=7;13=10;gold=600000;rmb=1200}
+9,22001,55,Reach LV55, ถึงระดับ LV55,Reach LV55,Đạt LV55,,{502=7;gold=600000;14=10;rmb=1500}
+10,22001,60,Reach LV60, ถึงระดับ LV60,Reach LV60,Đạt LV60,,{502=7;gold=600000;14=10;rmb=1500}
+11,22001,70,Reach LV70, ถึงระดับ LV70,Reach LV70,Đạt LV70,,{502=10;gold=900000;14=10;rmb=2000}
+12,22001,80,Reach LV80, ถึงระดับ LV80,Reach LV80,Đạt LV80,,{502=10;gold=900000;14=10;rmb=2000}
+13,22001,90,Reach LV90, ถึงระดับ LV90,Reach LV90,Đạt LV90,,{502=10;gold=900000;14=10;rmb=2500}

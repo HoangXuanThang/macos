@@ -1,0 +1,34 @@
+
+haogan.png
+size: 409,339
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TX_S1_szgh_0052
+  rotate: true
+  xy: 267, 183
+  size: 154, 140
+  orig: 154, 140
+  offset: 0, 0
+  index: -1
+images/TX_xt_g_0017
+  rotate: false
+  xy: 267, 62
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+images/dimian
+  rotate: true
+  xy: 2, 2
+  size: 107, 217
+  orig: 107, 217
+  offset: 0, 0
+  index: -1
+images/haoganxin
+  rotate: false
+  xy: 2, 111
+  size: 263, 226
+  orig: 263, 226
+  offset: 0, 0
+  index: -1

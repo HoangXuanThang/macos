@@ -1,0 +1,27 @@
+
+shilianta_dianji.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bc_dk1
+  rotate: false
+  xy: 544, 124
+  size: 279, 254
+  orig: 279, 254
+  offset: 0, 0
+  index: -1
+kz
+  rotate: false
+  xy: 290, 46
+  size: 252, 332
+  orig: 252, 338
+  offset: 0, 3
+  index: -1
+tb_2_tx
+  rotate: false
+  xy: 2, 2
+  size: 286, 376
+  orig: 286, 419
+  offset: 0, 37
+  index: -1

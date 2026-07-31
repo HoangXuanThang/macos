@@ -1,0 +1,41 @@
+
+jinhuajiemian.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+danjiao
+  rotate: false
+  xy: 2, 2
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+guangzhu1
+  rotate: false
+  xy: 2, 36
+  size: 649, 445
+  orig: 649, 445
+  offset: 0, 0
+  index: -1
+huanyuan
+  rotate: true
+  xy: 653, 79
+  size: 194, 390
+  orig: 194, 390
+  offset: 0, 0
+  index: -1
+img_info1
+  rotate: false
+  xy: 653, 275
+  size: 434, 206
+  orig: 434, 206
+  offset: 0, 0
+  index: -1
+xing1
+  rotate: false
+  xy: 1089, 415
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1

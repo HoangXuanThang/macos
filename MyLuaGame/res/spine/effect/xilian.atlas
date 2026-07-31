@@ -1,0 +1,20 @@
+
+xilian.png
+size: 938,482
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cailiu
+  rotate: false
+  xy: 537, 19
+  size: 400, 462
+  orig: 400, 462
+  offset: 0, 0
+  index: -1
+liubiankuang
+  rotate: true
+  xy: 1, 1
+  size: 480, 534
+  orig: 480, 534
+  offset: 0, 0
+  index: -1

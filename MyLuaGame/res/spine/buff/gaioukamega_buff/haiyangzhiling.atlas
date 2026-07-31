@@ -1,0 +1,265 @@
+
+haiyangzhiling.png
+size: 1983,554
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/lizi
+  rotate: false
+  xy: 1445, 7
+  size: 256, 244
+  orig: 256, 244
+  offset: 0, 0
+  index: -1
+TX/shueihua2_0001
+  rotate: true
+  xy: 1890, 65
+  size: 100, 92
+  orig: 172, 115
+  offset: 37, 2
+  index: -1
+TX/shueihua2_0003
+  rotate: true
+  xy: 1810, 277
+  size: 136, 103
+  orig: 172, 115
+  offset: 10, 7
+  index: -1
+TX/shueihua2_0005
+  rotate: true
+  xy: 522, 9
+  size: 162, 115
+  orig: 172, 115
+  offset: 2, 0
+  index: -1
+TX/shueihua2_0007
+  rotate: true
+  xy: 258, 3
+  size: 168, 99
+  orig: 172, 115
+  offset: 4, 11
+  index: -1
+TX/shueihua2_0008
+  rotate: true
+  xy: 359, 3
+  size: 168, 98
+  orig: 172, 115
+  offset: 4, 12
+  index: -1
+TX/water_17_00001
+  rotate: false
+  xy: 1291, 9
+  size: 152, 219
+  orig: 672, 378
+  offset: 252, 35
+  index: -1
+TX/water_17_00002
+  rotate: true
+  xy: 1, 1
+  size: 164, 255
+  orig: 672, 378
+  offset: 247, 35
+  index: -1
+TX/water_17_00003
+  rotate: false
+  xy: 1629, 271
+  size: 179, 282
+  orig: 672, 378
+  offset: 242, 34
+  index: -1
+TX/water_17_00004
+  rotate: false
+  xy: 1138, 230
+  size: 187, 323
+  orig: 672, 378
+  offset: 235, 31
+  index: -1
+TX/water_17_00005
+  rotate: false
+  xy: 950, 223
+  size: 186, 330
+  orig: 672, 378
+  offset: 236, 28
+  index: -1
+TX/water_17_00006
+  rotate: false
+  xy: 546, 219
+  size: 194, 334
+  orig: 672, 378
+  offset: 231, 24
+  index: -1
+TX/water_17_00007
+  rotate: false
+  xy: 742, 223
+  size: 206, 330
+  orig: 672, 378
+  offset: 226, 18
+  index: -1
+TX/water_17_00008
+  rotate: true
+  xy: 675, 4
+  size: 213, 317
+  orig: 672, 378
+  offset: 222, 15
+  index: -1
+TX/water_17_00009
+  rotate: true
+  xy: 994, 1
+  size: 220, 295
+  orig: 672, 378
+  offset: 218, 11
+  index: -1
+chih1
+  rotate: true
+  xy: 170, 173
+  size: 380, 374
+  orig: 380, 374
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 1327, 253
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 1, 167
+  size: 386, 167
+  orig: 386, 167
+  offset: 0, 0
+  index: -1
+y_chi
+  rotate: false
+  xy: 1828, 220
+  size: 84, 55
+  orig: 84, 55
+  offset: 0, 0
+  index: -1
+y_shou
+  rotate: false
+  xy: 1810, 464
+  size: 156, 89
+  orig: 156, 89
+  offset: 0, 0
+  index: -1
+y_weiba01
+  rotate: true
+  xy: 1828, 8
+  size: 108, 57
+  orig: 108, 57
+  offset: 0, 0
+  index: -1
+y_weiba02
+  rotate: false
+  xy: 546, 175
+  size: 90, 42
+  orig: 90, 42
+  offset: 0, 0
+  index: -1
+y_weiba03
+  rotate: false
+  xy: 1828, 158
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+y_zhua01
+  rotate: true
+  xy: 638, 175
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+y_zhua02
+  rotate: true
+  xy: 639, 127
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+y_zhua03
+  rotate: true
+  xy: 639, 51
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+y_zhua04
+  rotate: true
+  xy: 639, 95
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 639, 34
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+z_chi
+  rotate: true
+  xy: 1914, 167
+  size: 101, 61
+  orig: 101, 61
+  offset: 0, 0
+  index: -1
+z_shou
+  rotate: true
+  xy: 1703, 31
+  size: 238, 123
+  orig: 238, 123
+  offset: 0, 0
+  index: -1
+z_weiba01
+  rotate: false
+  xy: 1828, 415
+  size: 138, 47
+  orig: 138, 47
+  offset: 0, 0
+  index: -1
+z_weiba02
+  rotate: true
+  xy: 459, 3
+  size: 168, 61
+  orig: 168, 61
+  offset: 0, 0
+  index: -1
+z_weiba03
+  rotate: true
+  xy: 1915, 317
+  size: 96, 65
+  orig: 96, 65
+  offset: 0, 0
+  index: -1
+z_zhua01
+  rotate: false
+  xy: 1828, 118
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+z_zhua02
+  rotate: false
+  xy: 1915, 270
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+z_zhua03
+  rotate: true
+  xy: 1887, 8
+  size: 55, 41
+  orig: 55, 41
+  offset: 0, 0
+  index: -1
+z_zhua04
+  rotate: false
+  xy: 1703, 5
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1

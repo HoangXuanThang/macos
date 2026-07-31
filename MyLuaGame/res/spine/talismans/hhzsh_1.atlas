@@ -1,0 +1,132 @@
+
+hhzsh_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/guangyun/0_0000
+  rotate: false
+  xy: 2, 670
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/guangyun/0_0002
+  rotate: false
+  xy: 2, 412
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/guangyun/0_0004
+  rotate: false
+  xy: 260, 670
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/guangyun/0_0006
+  rotate: false
+  xy: 2, 154
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/guangyun/0_0008
+  rotate: false
+  xy: 260, 412
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/guangyun/0_0010
+  rotate: false
+  xy: 518, 670
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/guangyun/0_0012
+  rotate: false
+  xy: 260, 154
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/guangyun/0_0014
+  rotate: false
+  xy: 518, 412
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/guangyun/0_0016
+  rotate: false
+  xy: 518, 154
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/xuanzhuanlizi/00000
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/xuanzhuanlizi/00002
+  rotate: false
+  xy: 776, 776
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/xuanzhuanlizi/00004
+  rotate: false
+  xy: 154, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/xuanzhuanlizi/00006
+  rotate: false
+  xy: 776, 624
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/xuanzhuanlizi/00008
+  rotate: false
+  xy: 306, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/xuanzhuanlizi/00010
+  rotate: false
+  xy: 776, 472
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/xuanzhuanlizi/00012
+  rotate: false
+  xy: 458, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/xuanzhuanlizi/00014
+  rotate: false
+  xy: 776, 320
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/xuanzhuanlizi/00016
+  rotate: false
+  xy: 610, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

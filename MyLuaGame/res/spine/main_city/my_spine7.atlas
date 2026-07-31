@@ -1,0 +1,62 @@
+
+my_spine7.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: true
+  xy: 121, 88
+  size: 18, 5
+  orig: 18, 5
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: false
+  xy: 119, 108
+  size: 7, 18
+  orig: 7, 18
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 28
+  size: 82, 98
+  orig: 82, 98
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 86, 91
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 2, 16
+  size: 10, 46
+  orig: 10, 46
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 86, 48
+  size: 14, 41
+  orig: 14, 41
+  offset: 0, 0
+  index: -1
+xiong1
+  rotate: false
+  xy: 102, 72
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+xiong2
+  rotate: true
+  xy: 2, 2
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1

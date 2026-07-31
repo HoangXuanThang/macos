@@ -1,0 +1,160 @@
+
+bingdong.png
+size: 732,291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bing2
+  rotate: false
+  xy: 1, 58
+  size: 154, 232
+  orig: 154, 232
+  offset: 0, 0
+  index: -1
+images/bingchen2_2
+  rotate: true
+  xy: 390, 47
+  size: 155, 114
+  orig: 164, 123
+  offset: 8, 6
+  index: -1
+images/bingchen4_2
+  rotate: false
+  xy: 157, 198
+  size: 189, 92
+  orig: 190, 109
+  offset: 0, 8
+  index: -1
+images/bingchen4_3
+  rotate: false
+  xy: 157, 107
+  size: 187, 89
+  orig: 190, 109
+  offset: 1, 8
+  index: -1
+images/bingchen4_4
+  rotate: false
+  xy: 348, 204
+  size: 186, 86
+  orig: 188, 102
+  offset: 1, 5
+  index: -1
+images/bingchen4_5
+  rotate: false
+  xy: 536, 205
+  size: 164, 85
+  orig: 188, 96
+  offset: 18, 4
+  index: -1
+images/bingchen4_7
+  rotate: true
+  xy: 506, 51
+  size: 151, 80
+  orig: 153, 85
+  offset: 2, 4
+  index: -1
+images/bingkuai1
+  rotate: false
+  xy: 667, 43
+  size: 50, 94
+  orig: 50, 94
+  offset: 0, 0
+  index: -1
+images/bingkuai2
+  rotate: false
+  xy: 588, 75
+  size: 77, 128
+  orig: 77, 131
+  offset: 0, 2
+  index: -1
+images/bingkuai2_5
+  rotate: true
+  xy: 1, 1
+  size: 55, 116
+  orig: 63, 118
+  offset: 8, 0
+  index: -1
+images/bingkuai3
+  rotate: false
+  xy: 466, 2
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+images/bingkuai3_1
+  rotate: false
+  xy: 157, 1
+  size: 112, 104
+  orig: 140, 140
+  offset: 6, 21
+  index: -1
+images/bingkuai3_2
+  rotate: false
+  xy: 271, 7
+  size: 117, 98
+  orig: 140, 140
+  offset: 5, 33
+  index: -1
+images/bingkuai4
+  rotate: true
+  xy: 586, 19
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1
+images/bingkuai5
+  rotate: false
+  xy: 119, 5
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+images/bingkuai6
+  rotate: false
+  xy: 564, 8
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+images/bingkuai7
+  rotate: true
+  xy: 506, 11
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+images/bingkuai8
+  rotate: false
+  xy: 346, 111
+  size: 36, 85
+  orig: 37, 85
+  offset: 0, 0
+  index: -1
+images/gaoguang1
+  rotate: true
+  xy: 588, 49
+  size: 24, 73
+  orig: 24, 73
+  offset: 0, 0
+  index: -1
+images/light_049
+  rotate: false
+  xy: 667, 139
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/xiaobingkuai1
+  rotate: true
+  xy: 390, 1
+  size: 44, 74
+  orig: 44, 74
+  offset: 0, 0
+  index: -1
+images/xiaopingkuai2
+  rotate: false
+  xy: 702, 229
+  size: 29, 61
+  orig: 29, 61
+  offset: 0, 0
+  index: -1

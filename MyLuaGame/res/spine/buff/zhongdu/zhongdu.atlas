@@ -1,0 +1,62 @@
+
+zhongdu.png
+size: 320,223
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/lightsoft_d2
+  rotate: false
+  xy: 1, 1
+  size: 221, 221
+  orig: 256, 256
+  offset: 19, 13
+  index: -1
+images/paopao
+  rotate: false
+  xy: 224, 153
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+images/water_03_00005
+  rotate: false
+  xy: 274, 65
+  size: 44, 37
+  orig: 77, 43
+  offset: 16, 2
+  index: -1
+images/water_03_00006
+  rotate: false
+  xy: 273, 24
+  size: 46, 39
+  orig: 77, 43
+  offset: 15, 1
+  index: -1
+images/water_03_00007
+  rotate: true
+  xy: 274, 104
+  size: 47, 41
+  orig: 77, 43
+  offset: 14, 0
+  index: -1
+images/water_03_00008
+  rotate: false
+  xy: 224, 109
+  size: 48, 42
+  orig: 77, 43
+  offset: 14, 0
+  index: -1
+images/water_03_00009
+  rotate: false
+  xy: 224, 65
+  size: 48, 42
+  orig: 77, 43
+  offset: 14, 0
+  index: -1
+images/water_03_00010
+  rotate: false
+  xy: 224, 21
+  size: 47, 42
+  orig: 77, 43
+  offset: 14, 0
+  index: -1

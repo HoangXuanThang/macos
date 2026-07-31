@@ -1,0 +1,69 @@
+
+my_spine8.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liuhai
+  rotate: false
+  xy: 178, 108
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+qian
+  rotate: false
+  xy: 84, 89
+  size: 80, 37
+  orig: 80, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 40
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 2
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 134, 64
+  size: 8, 23
+  orig: 8, 23
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 84, 48
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 42, 9
+  size: 9, 29
+  orig: 9, 29
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: false
+  xy: 166, 96
+  size: 10, 30
+  orig: 10, 30
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: false
+  xy: 84, 59
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1

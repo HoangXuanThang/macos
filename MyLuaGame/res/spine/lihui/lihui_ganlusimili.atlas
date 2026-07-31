@@ -1,0 +1,222 @@
+
+lihui_ganlusimili.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianzi1
+  rotate: false
+  xy: 421, 119
+  size: 468, 183
+  orig: 468, 183
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 750, 22
+  size: 150, 95
+  orig: 150, 95
+  offset: 0, 0
+  index: -1
+gebo1
+  rotate: true
+  xy: 1350, 8
+  size: 245, 322
+  orig: 245, 322
+  offset: 0, 0
+  index: -1
+hb1
+  rotate: false
+  xy: 1078, 446
+  size: 148, 58
+  orig: 148, 58
+  offset: 0, 0
+  index: -1
+hb2
+  rotate: true
+  xy: 1036, 17
+  size: 206, 160
+  orig: 206, 160
+  offset: 0, 0
+  index: -1
+hb3
+  rotate: true
+  xy: 891, 153
+  size: 70, 143
+  orig: 70, 143
+  offset: 0, 0
+  index: -1
+hb4
+  rotate: true
+  xy: 393, 18
+  size: 91, 209
+  orig: 91, 209
+  offset: 0, 0
+  index: -1
+hb5
+  rotate: true
+  xy: 1455, 1231
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+hb6
+  rotate: true
+  xy: 1078, 386
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+hb7
+  rotate: true
+  xy: 891, 225
+  size: 133, 306
+  orig: 133, 306
+  offset: 0, 0
+  index: -1
+jian1
+  rotate: true
+  xy: 1497, 714
+  size: 1332, 530
+  orig: 1332, 530
+  offset: 0, 0
+  index: -1
+jian2
+  rotate: true
+  xy: 1596, 383
+  size: 329, 437
+  orig: 329, 437
+  offset: 0, 0
+  index: -1
+liuhai1
+  rotate: true
+  xy: 604, 14
+  size: 103, 144
+  orig: 103, 144
+  offset: 0, 0
+  index: -1
+liuhai2
+  rotate: false
+  xy: 1198, 27
+  size: 150, 196
+  orig: 150, 196
+  offset: 0, 0
+  index: -1
+qunzi1
+  rotate: true
+  xy: 1228, 255
+  size: 249, 366
+  orig: 249, 366
+  offset: 0, 0
+  index: -1
+shangbanshen
+  rotate: false
+  xy: 2, 111
+  size: 417, 601
+  orig: 417, 601
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: false
+  xy: 2, 1276
+  size: 1493, 770
+  orig: 1493, 770
+  offset: 0, 0
+  index: -1
+tx1
+  rotate: true
+  xy: 204, 2
+  size: 107, 187
+  orig: 107, 187
+  offset: 0, 0
+  index: -1
+tx2
+  rotate: true
+  xy: 603, 315
+  size: 43, 245
+  orig: 43, 245
+  offset: 0, 0
+  index: -1
+tx4
+  rotate: false
+  xy: 2, 725
+  size: 417, 549
+  orig: 417, 549
+  offset: 0, 0
+  index: -1
+tx5
+  rotate: false
+  xy: 421, 700
+  size: 155, 574
+  orig: 155, 574
+  offset: 0, 0
+  index: -1
+tx6
+  rotate: true
+  xy: 603, 360
+  size: 144, 473
+  orig: 144, 473
+  offset: 0, 0
+  index: -1
+xiashen
+  rotate: false
+  xy: 604, 506
+  size: 849, 768
+  orig: 849, 768
+  offset: 0, 0
+  index: -1
+xiuzi3
+  rotate: true
+  xy: 1674, 16
+  size: 365, 368
+  orig: 365, 368
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 2, 5
+  size: 104, 200
+  orig: 104, 200
+  offset: 0, 0
+  index: -1
+zuoxiuzi2
+  rotate: false
+  xy: 421, 304
+  size: 180, 394
+  orig: 180, 394
+  offset: 0, 0
+  index: -1
+
+lihui_ganlusimili2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianzi2
+  rotate: false
+  xy: 738, 158
+  size: 427, 297
+  orig: 427, 297
+  offset: 0, 0
+  index: -1
+qunzi2
+  rotate: false
+  xy: 2, 2
+  size: 312, 453
+  orig: 312, 453
+  offset: 0, 0
+  index: -1
+tx3
+  rotate: false
+  xy: 316, 127
+  size: 420, 328
+  orig: 420, 328
+  offset: 0, 0
+  index: -1
+zuoxiuzi1
+  rotate: true
+  xy: 1167, 160
+  size: 295, 416
+  orig: 295, 416
+  offset: 0, 0
+  index: -1

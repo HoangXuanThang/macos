@@ -1,0 +1,41 @@
+
+wutai2.png
+size: 1278,350
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dabj
+  rotate: false
+  xy: 1, 31
+  size: 485, 318
+  orig: 485, 318
+  offset: 0, 0
+  index: -1
+mubu
+  rotate: false
+  xy: 999, 22
+  size: 216, 327
+  orig: 216, 327
+  offset: 0, 0
+  index: -1
+shanglian
+  rotate: true
+  xy: 1217, 95
+  size: 254, 60
+  orig: 254, 60
+  offset: 0, 0
+  index: -1
+taizi
+  rotate: false
+  xy: 488, 1
+  size: 509, 163
+  orig: 509, 163
+  offset: 0, 0
+  index: -1
+zuowei
+  rotate: false
+  xy: 488, 166
+  size: 502, 183
+  orig: 502, 183
+  offset: 0, 0
+  index: -1

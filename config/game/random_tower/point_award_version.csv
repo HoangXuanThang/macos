@@ -1,0 +1,4 @@
+﻿VariableName,version,languages,servers
+Defaults,0,<cn;in;tw;en;vn;kr;ma;ph;th>,{dev=<1;999999>;cn=<1;999999>;cn_qd=<1;999999>;th=<1;999999>;kr=<1;999999>;en=<1;999999>;xy=<1;999999>}
+ID,奖励版本号,语言区域,服务器
+1,,<cn;in;tw;en;vn;kr;ma;ph;th>,

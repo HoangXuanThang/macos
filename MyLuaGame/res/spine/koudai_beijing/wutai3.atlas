@@ -1,0 +1,139 @@
+
+wutai3.png
+size: 1918,966
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/xingkong_x
+  rotate: true
+  xy: 1560, 113
+  size: 237, 235
+  orig: 256, 256
+  offset: 11, 10
+  index: -1
+ZS/dashi1
+  rotate: true
+  xy: 722, 520
+  size: 160, 194
+  orig: 160, 194
+  offset: 0, 0
+  index: -1
+ZS/dashi2
+  rotate: false
+  xy: 1491, 640
+  size: 409, 291
+  orig: 409, 291
+  offset: 0, 0
+  index: -1
+ZS/dashi3
+  rotate: true
+  xy: 918, 379
+  size: 300, 401
+  orig: 300, 401
+  offset: 0, 0
+  index: -1
+ZS/dashi4
+  rotate: true
+  xy: 1257, 84
+  size: 266, 301
+  orig: 268, 305
+  offset: 0, 4
+  index: -1
+ZS/dashi5
+  rotate: false
+  xy: 1, 11
+  size: 313, 507
+  orig: 313, 507
+  offset: 0, 0
+  index: -1
+ZS/guangyun
+  rotate: true
+  xy: 989, 681
+  size: 250, 500
+  orig: 250, 500
+  offset: 0, 0
+  index: -1
+ZS/hei
+  rotate: false
+  xy: 1826, 957
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+ZS/shitou1
+  rotate: true
+  xy: 1797, 77
+  size: 113, 119
+  orig: 113, 119
+  offset: 0, 0
+  index: -1
+ZS/shitou2
+  rotate: true
+  xy: 1797, 192
+  size: 194, 120
+  orig: 194, 120
+  offset: 0, 0
+  index: -1
+ZS/shitou3
+  rotate: false
+  xy: 1560, 1
+  size: 143, 110
+  orig: 143, 110
+  offset: 0, 0
+  index: -1
+ZS/shu
+  rotate: true
+  xy: 1, 520
+  size: 160, 719
+  orig: 160, 719
+  offset: 0, 0
+  index: -1
+ZS/shuqing
+  rotate: true
+  xy: 855, 53
+  size: 324, 400
+  orig: 324, 400
+  offset: 0, 0
+  index: -1
+ZS/taizi1
+  rotate: false
+  xy: 1, 682
+  size: 986, 283
+  orig: 986, 283
+  offset: 0, 0
+  index: -1
+ZS/taizi2
+  rotate: false
+  xy: 1321, 352
+  size: 377, 286
+  orig: 377, 286
+  offset: 0, 0
+  index: -1
+ZS/taizi3
+  rotate: true
+  xy: 629, 46
+  size: 472, 224
+  orig: 472, 224
+  offset: 0, 0
+  index: -1
+ZS/taizi4
+  rotate: true
+  xy: 316, 76
+  size: 442, 311
+  orig: 442, 311
+  offset: 0, 0
+  index: -1
+ZS/toufa
+  rotate: true
+  xy: 989, 933
+  size: 32, 835
+  orig: 32, 835
+  offset: 0, 0
+  index: -1
+ZS/wenli
+  rotate: true
+  xy: 1700, 388
+  size: 250, 216
+  orig: 250, 216
+  offset: 0, 0
+  index: -1

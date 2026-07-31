@@ -1,0 +1,317 @@
+﻿VariableName,name,name_vn,name_en,name_th,name_in,name_ph,name_ma
+Defaults,"""""","""""","""""","""""","""""","""""",""""""
+ID,精灵名称,name_vn,name_en,name_th,name_in,name_ph,name_ma
+1,Miao Hoa Hoa,Miao Hoa Hoa,Miao Hua Hua  ,เหมียว ฮวา ฮวา  ,Miao Hua Hua  ,Miao Hua Hua  ,Miao Hua Hua  
+2,Siêu Miao Hoa Hoa,Siêu Miao Hoa Hoa,Super Miao Hua Hua  ,ซุปเปอร์ เหมียว ฮวา ฮวา  ,Super Miao Hua Hua  ,Super Miao Hua Hua  ,Super Miao Hua Hua  
+3,Tiểu Hỏa Long,Tiểu Hỏa Long,Little Fire Dragon  ,มังกรไฟน้อย  ,Naga Api Kecil  ,Munting Dragon ng Apoy  ,Naga Api Kecil  
+4,Hỏa Khủng Long,Hỏa Khủng Long,Fire Dinosaur  ,ไดโนเสาร์ไฟ  ,Dinosaurus Api  ,Dinosaur ng Apoy  ,Dinosaur Api  
+11,Phun Hỏa Long,Phun Hỏa Long,Flame Dragon  ,มังกรพ่นไฟ  ,Naga Penyembur Api  ,Dragon Tagas Apoy  ,Naga Penyembur Api  
+12,Siêu Phun Hỏa Long X,Siêu Phun Hỏa Long X,Super Flame Dragon X  ,ซุปเปอร์มังกรพ่นไฟ X  ,Super Naga Api X  ,Super Dragon Tagas Apoy X  ,Super Naga Api X  
+13,Siêu Phun Hỏa Long Y,Siêu Phun Hỏa Long Y,Super Flame Dragon Y  ,ซุปเปอร์มังกรพ่นไฟ Y  ,Super Naga Api Y  ,Super Dragon Tagas Apoy Y  ,Super Naga Api Y  
+14,Tiền Nghệ Quái,Tiền Nghệ Quái,Qian Yi Monster  ,สัตว์ประหลาดเฉียนอี้  ,Monster Qian Yi  ,Halimaw na Qian Yi  ,Raksasa Qian Yi  
+15,Cam Mị Quái,Cam Mị Quái,Orange Charm Monster  ,สัตว์ประหลาดเสน่ห์สีส้ม  ,Monster Pesona Jingga  ,Kaakit-akit na Halimaw Kahel  ,Raksasa Daya Tarikan Jingga  
+21,Thủy Tiễn Quái,Thủy Tiễn Quái,Water Arrow Monster  ,สัตว์ประหลาดลูกธนูน้ำ  ,Monster Panah Air  ,Halimaw ng Tubig Pana  ,Raksasa Anak Panah Air  
+22,Siêu Thủy Tiễn Quái,Siêu Thủy Tiễn Quái,Super Water Arrow Monster  ,ซุปเปอร์สัตว์ประหลาดลูกธนูน้ำ  ,Super Monster Panah Air  ,Super Halimaw ng Tubig Pana  ,Super Raksasa Anak Panah Air  
+23,Lục Mao Trùng,Lục Mao Trùng,Green Hair Bug  ,แมลงผมเขียว  ,Serangga Rambut Hijau  ,Bughaw na Buhok Insekto  ,Serangga Rambut Hijau  
+24,Ba Đại Điệp,Ba Đại Điệp,Three Big Butterflies  ,ผีเสื้อสามตัวใหญ่  ,Tiga Kupu-Kupu Besar  ,Tatlong Malalaking Paruparo  ,Tiga Rama-Rama Besar  
+31,Đại Châm Phong,Đại Châm Phong,Big Needle Bee  ,ผึ้งเข็มใหญ่  ,Lebah Jarum Besar  ,Malaking Bubuyog-Karang  ,Lebah Jarum Besar  
+33,Siêu Đại Châm Phong,Siêu Đại Châm Phong,Super Big Needle Bee  ,ซุปเปอร์ผึ้งเข็มใหญ่  ,Super Lebah Jarum Besar  ,Super Malaking Bubuyog-Karang  ,Super Lebah Jarum Besar  
+43,Bo Bo,Bo Bo,Bo Bo  ,โบ โบ  ,Bo Bo  ,Bo Bo  ,Bo Bo  
+44,Tỷ Tỷ Chim,Tỷ Tỷ Chim,Sister Bird  ,นกพี่สาว  ,Burung Kakak  ,Ate Ibon  ,Burung Kakak  
+51,Đại Tỷ Chim,Đại Tỷ Chim,Big Sister Bird  ,นกพี่สาวตัวใหญ่  ,Burung Kakak Besar  ,Ate Ibon Malaki  ,Burung Kakak Besar  
+52,Tiểu Lạp Đa,Tiểu Lạp Đa,Little Lapda  ,ลัปด้าตัวน้อย  ,Lapda Kecil  ,Munting Lapda  ,Lapda Kecil  
+53,Lạp Đa,Lạp Đa,Lapda  ,ลัปด้า  ,Lapda  ,Lapda  ,Lapda  
+61,Liệt Xuyến,Liệt Xuyến,Blazing Spinner  ,วงล้อเพลิง  ,Pemutar Api  ,Umiikot na Apoy  ,Pusingan Api  
+62,Đại Miệng Xuyến,Đại Miệng Xuyến,Big Mouth Spinner  ,วงล้อปากใหญ่  ,Pemutar Mulut Besar  ,Umiikot na Bibig Malaki  ,Pusingan Mulut Besar  
+71,Á Bá Xà,Á Bá Xà,Aba Snake  ,งูอาป้า  ,Ular Aba  ,Aba Ahas  ,Ular Aba  
+72,Á Bá Quái,Á Bá Quái,Aba Monster  ,สัตว์ประหลาดอาป้า  ,Monster Aba  ,Aba Halimaw  ,Raksasa Aba  
+81,Pi Châu,Pi Châu,Pi Pearl  ,ไข่มุกปี  ,Mutiara Pi  ,Pi Perlas  ,Mutiara Pi  
+82,Da đồi,Da đồi,Rock Skin  ,ผิวหิน  ,Kulit Batu  ,Balat-Bato  ,Kulit Batu  
+91,Pikachu,Pikachu,Pikachu  ,ปิกาจู  ,Pikachu  ,Pikachu  ,Pikachu  
+92,Lôi đồi,Lôi đồi,Electric Skin  ,ผิวสายฟ้า  ,Kulit Petir  ,Balat-Kidlat  ,Kulit Kilat  
+93,Xuyên Sơn Thử,Xuyên Sơn Thử,Mountain Mole  ,ตุ่นภูเขา  ,Tikus Gunung  ,Daga sa Bundok  ,Tikus Gunung  
+101,Xuyên Sơn Vương,Xuyên Sơn Vương,Mountain King Mole  ,ราชาตุ่นภูเขา  ,Raja Tikus Gunung  ,Hari ng Daga sa Bundok  ,Raja Tikus Gunung  
+102,Ni nhiều lan,Ni nhiều lan,Ni Niu Lan  ,หนี่หนิวหลาน  ,Ni Niu Lan  ,Ni Niu Lan  ,Ni Niu Lan  
+111,Ni nhiều na,Ni nhiều na,Ni Niu Na  ,หนี่หนิวน่า  ,Ni Niu Na  ,Ni Niu Na  ,Ni Niu Na  
+112,Ni nhiều sau,Ni nhiều sau,Ni Niu Sau  ,หนี่หนิวเซ่า  ,Ni Niu Sau  ,Ni Niu Sau  ,Ni Niu Sau  
+113,Ni nhiều lãng,Ni nhiều lãng,Ni Niu Lang  ,หนี่หนิวล่าง  ,Ni Niu Lang  ,Ni Niu Lang  ,Ni Niu Lang  
+121,Ni nhiều lực nặc,Ni nhiều lực nặc,Ni Niu Luenak  ,หนี่หนิ่วลวี่หน่า  ,Ni Niu Luenak  ,Ni Niu Luenak  ,Ni Niu Luenak  
+122,Ni nhiều vương,Ni nhiều vương,Ni Niu King  ,หนี่หนิ่วหวัง  ,Ni Niu Raja  ,Ni Niu Hari  ,Ni Niu Raja  
+123,Da Bảo Bảo,Da Bảo Bảo,Big Baby  ,ต้าปาวปาว  ,Si Bayi Besar  ,Baby Malaki  ,Bayi Besar  
+131,Bì Bì,Bì Bì,Bibi  ,ปีปี  ,Bibi  ,Bibi  ,Bibi  
+132,Da nhưng tây,Da nhưng tây,Western Rock Skin  ,หนังหินตะวันตก  ,Kulit Batu Barat  ,Bato-Kanluran Balat  ,Kulit Batu Barat  
+133,Bảo Bảo đinh,Bảo Bảo đinh,Baby Ding  ,เป่าปาวติง  ,Bayi Ding  ,Baby Ding  ,Bayi Ding  
+151,Béo đinh,Béo đinh,Fat Ding  ,อ้วนติง  ,Ding Gendut  ,Matabang Ding  ,Ding Gemuk  
+152,Béo nhưng đinh,Béo nhưng đinh,Fat Rock Ding  ,อ้วนหนังติง  ,Batu Gendut Ding  ,Matabang Bato Ding  ,Batu Ding Gemuk  
+153,Đi đường cỏ,Đi đường cỏ,Grass Path Walker  ,นักเดินทางบนหญ้า  ,Penjelajah Rumput  ,Naglalakad sa Damo  ,Penjejak Rumput  
+171,Xú xú hoa,Xú xú hoa,Stinky Flower  ,ดอกไม้เหม็น  ,Bunga Busuk  ,Bulaklak Mabaho  ,Bunga Busuk  
+172,Bá vương hoa,Bá vương hoa,Overlord Flower  ,ดอกไม้จอมพลัง  ,Bunga Raja  ,Bulaklak na Panginoon  ,Bunga Raja  
+173,Mao cầu,Mao cầu,Fur Ball  ,ลูกขน  ,Bola Bulu  ,Bola ng Balahibo  ,Bola Bulu  
+191,Ma lỗ nga,Ma lỗ nga,Malu Nga  ,มาหลู่หง่า  ,Malu Nga  ,Malu Nga  ,Malu Nga  
+192,Có thể đạt tới vịt,Có thể đạt tới vịt,Reachable Duck  ,เป็ดที่เข้าถึงได้  ,Bebek yang Bisa Dicapai  ,Maabot na Pato  ,Itik yang Boleh Dicapai  
+221,Ca đạt vịt,Ca đạt vịt,Kadak Duck  ,คาดักเป็ด  ,Kadak Bebek  ,Kadak na Pato  ,Kadak Itik  
+222,Khỉ quái,Khỉ quái,Monkey Monster  ,ลิงประหลาด  ,Monyet Monster  ,Halimaw na Unggoy  ,Monyet Ganas  
+231,Hỏa Bạo Hầu,Hỏa Bạo Hầu,Fire Blast Ape  ,ลิงเพลิงระเบิด  ,Kera Ledakan Api  ,Apoy Pumuputok na Unggoy  ,Bingit Api Monyet  
+232,Kathi chó,Kathi chó,Kathi Dog  ,หมาคาธี  ,Anjing Kathi  ,Aso ni Kathi  ,Anjing Kathi  
+241,Tốc độ gió chó,Tốc độ gió chó,Wind Speed Dog  ,หมาความเร็วลม  ,Anjing Kecepatan Angin  ,Aso ng Bilis ng Hangin  ,Anjing Laju Angin  
+242,Cathy,Cathy,Cathy  ,แคธี่  ,Cathy  ,Cathy  ,Cathy  
+261,Dũng Kira,Dũng Kira,Brave Kira  ,ผู้กล้าคิระ  ,Pemberani Kira  ,Matapang na Kira  ,Berani Kira  
+262,Hồ,Hồ,Hu  ,หู  ,Hu  ,Hu  ,Hu  
+263,Siêu cấp Hồ,Siêu cấp Hồ,Super Hu  ,ซูเปอร์หู  ,Super Hu  ,Super Hu  ,Super Hu  
+264,Bắp thịt,Bắp thịt,Muscle  ,กล้ามเนื้อ  ,Otot  ,Kalamanan  ,Otot  
+271,Hào lực,Hào lực,Powerful Strength  ,พลังกล้า  ,Kekuatan Hebat  ,Lakas Matindi  ,Tenaga Hebat  
+272,Quái lực,Quái lực,Monster Strength  ,พลังประหลาด  ,Kekuatan Monster  ,Lakas Halimaw  ,Kekuatan Raksasa  
+273,Loa mầm,Loa mầm,Sprout Horn  ,หน่อแตร  ,Tunas Bertanduk  ,Tangkay Sibol  ,Tunas Bertanduk  
+281,Ngây mồm hoa,Ngây mồm hoa,Dazed Flower  ,ดอกไม้เบลอ  ,Bunga Linglung  ,Bulaklak Tanga  ,Bunga Bingung  
+282,Đại thực hoa,Đại thực hoa,Big Eater Flower  ,ดอกไม้กินใหญ่  ,Bunga Pemakan Besar  ,Bulaklak Matakaw  ,Bunga Pemakan Besar  
+283,Tiểu Quyền Thạch,Tiểu Quyền Thạch,Little Rock Fist  ,หินหมัดเล็ก  ,Batu Tinju Kecil  ,Maliit na Batong Kamao  ,Batu Tumbuk Kecil  
+301,Ù ù thạch,Ù ù thạch,Oo Oo Rock  ,หินอู้ๆ  ,Batu Uu  ,Bato Oo Oo  ,Batu Oo Oo  
+302,Ù ù nham,Ù ù nham,Oo Oo Lava  ,ลาวาอู้ๆ  ,Lava Uu  ,Lava Oo Oo  ,Lava Oo Oo  
+303,Nhỏ từ quái,Nhỏ từ quái,Tiny Word Monster  ,อสูรคำตัวเล็ก  ,Monster Kata Mini  ,Halimaw ng Salita Maliit  ,Raksasa Kata Kecil  
+331,Ba hợp một từ quái,Ba hợp một từ quái,Triple Word Monster  ,อสูรรวมสามคำ  ,Tiga Jadi Satu Kata Monster  ,Tatlo-sa-Isang Salita Halimaw  ,Gabungan Tiga Kata Raksasa  
+332,Tự bạo từ quái,Tự bạo từ quái,Self-Destruct Word Monster  ,อสูรคำระเบิดตัวเอง  ,Monster Kata Meledak  ,Pumutok Sariling Salita Halimaw  ,Meletup Kata Raksasa  
+333,Hành tây vịt,Hành tây vịt,Onion Duck  ,หัวหอมเป็ด  ,Bebek Bawang  ,Pato Sibuyas  ,Itik Bawang  
+341,Tút tút,Tút tút,Toot Toot  ,ตู๊ด ตู๊ด  ,Tut Tut  ,Tut Tut  ,Tut Tut  
+351,Tút tút lợi,Tút tút lợi,Toot Toot Gum  ,ตู๊ด ตู๊ด เหงือก  ,Tut Tut Gusi  ,Tut Tut Gilagid  ,Tut Tut Gusi  
+352,Thối bùn,Thối bùn,Stinky Mud  ,โคลนเหม็น  ,Lumpur Busuk  ,Putik Mabaho  ,Lumpur Busuk  
+371,Xú xú bùn,Xú xú bùn,Stinky Mud Slime  ,โคลนเน่าเหม็น  ,Lumpur Bau  ,Putik Mabahong Amoy  ,Lumpur Berbau Busuk  
+372,Lưỡi to bối,Lưỡi to bối,Big Tongue Shell  ,หอยลิ้นโต  ,Kerang Lidah Besar  ,Kabibe Dila Malaki  ,Cengkerang Lidah Besar  
+381,Đâm giáp bối,Đâm giáp bối,Spiky Shell  ,หอยเกราะแหลม  ,Kerang Berduri  ,Kabibe May Tinik  ,Cengkerang Berduri  
+382,Quỷ tư,Quỷ tư,Ghost Si  ,ผี ซือ  ,Hantu Si  ,Multo Si  ,Hantu Si  
+391,Quỷ Stone,Quỷ Stone,Ghost Stone  ,ผีหิน  ,Hantu Batu  ,Bato Multo  ,Hantu Batu  
+392,Cảnh quỷ,Cảnh quỷ,Alert Ghost  ,ผียาม  ,Hantu Penjaga  ,Bantay Multo  ,Hantu Penjaga  
+393,Siêu cấp cảnh quỷ,Siêu cấp cảnh quỷ,Super Alert Ghost  ,ซูเปอร์ผียาม  ,Super Hantu Penjaga  ,Super Bantay Multo  ,Super Hantu Penjaga  
+394,Đại nham rắn,Đại nham rắn,Big Lava Snake  ,งูลาวาขนาดใหญ่  ,Ular Lava Besar  ,Ahas Lava Malaki  ,Ular Lava Besar  
+401,Lớn cương xà,Lớn cương xà,Steel Snake  ,งูเหล็ก  ,Ular Baja  ,Ahas Bakal  ,Ular Besi  
+402,Siêu cấp lớn cương xà,Siêu cấp lớn cương xà,Super Steel Snake  ,ซูเปอร์งูเหล็ก  ,Super Ular Baja  ,Super Ahas Bakal  ,Super Ular Besi  
+403,Tạp lạp Tạp lạp,Tạp lạp Tạp lạp,Zala Zala  ,ซาลา ซาลา  ,Zala Zala  ,Zala Zala  ,Zala Zala  
+451,Ầm ầm ầm ầm,Ầm ầm ầm ầm,Boom Boom Boom Boom  ,ตู้ม ตู้ม ตู้ม ตู้ม  ,Boom Boom Boom Boom  ,Boom Boom Boom Boom  ,Boom Boom Boom Boom  
+452,Không sợ tiểu tử,Không sợ tiểu tử,Fearless Kid  ,เด็กไม่กลัว  ,Anak Tak Takut  ,Batang Walang Takot  ,Budak Tak Takut  
+461,Phi cước lang,Phi cước lang,Flying Kick Wolf  ,หมาป่าถีบบิน  ,Serigala Tendangan Terbang  ,Wolf Sipa Lumilipad  ,Serigala Terajang Terbang  
+462,Khoái quyền lang,Khoái quyền lang,Fast Fist Wolf  ,หมาป่าหมัดเร็ว  ,Serigala Tinju Cepat  ,Wolf Kamao Mabilis  ,Serigala Tumbukan Pantas  
+463,Chiến múa lang,Chiến múa lang,Battle Dance Wolf  ,หมาป่ารำศึก  ,Serigala Tarian Perang  ,Wolf Sayaw Laban  ,Serigala Tarian Perang  
+464,Đầu lưỡi lớn,Đầu lưỡi lớn,Big Tongue Tip  ,ปลายลิ้นใหญ่  ,Ujung Lidah Besar  ,Dulo ng Dila Malaki  ,Hujung Lidah Besar  
+471,Lưỡi to liếm,Lưỡi to liếm,Big Tongue Licker  ,ลิ้นโตเลีย  ,Penjilat Lidah Besar  ,Dila Malaking Dumidila  ,Penjilat Lidah Besar  
+472,Gas đạn,Gas đạn,Gas Bomb  ,ระเบิดแก๊ส  ,Bom Gas  ,Gas na Bomba  ,Bom Gas  
+481,Song đạn gas,Song đạn gas,Double Gas Bomb  ,ระเบิดแก๊สคู่  ,Bom Gas Ganda  ,Bomba Gas Dalawa  ,Bom Gas Berganda  
+482,Độc giác tê giác,Độc giác tê giác,Poison Horn Rhino  ,แรดเขาอันตราย  ,Badak Bertanduk Racun  ,Rinocerong May Lason  ,Badak Bertanduk Racun  
+491,Chui tê giác thú,Chui tê giác thú,Charging Rhino Beast  ,สัตว์แรดพุ่ง  ,Binatang Badak Menyusup  ,Hayop Sungay Sunggab  ,Binatang Badak Menyusup  
+492,Siêu giáp cuồng tê,Siêu giáp cuồng tê,Super Armored Mad Rhino  ,แรดคลั่งเกราะเหล็ก  ,Badak Gila Berzirah Super  ,Super Badak Perisai Gila  ,Badak Gila Berperisai Super  
+493,Sừng cá vàng,Sừng cá vàng,Golden Fish Horn  ,เขาปลาทอง  ,Tanduk Ikan Emas  ,Sungay ng Isdang Ginto  ,Tanduk Ikan Emas  
+541,Cá vàng vương,Cá vàng vương,Goldfish King  ,ราชาปลาทอง  ,Raja Ikan Emas  ,Hari ng Isdang Ginto  ,Raja Ikan Emas  
+542,Hải tinh tinh,Hải tinh tinh,Sea Starling  ,ปลาดาวทะเล  ,Bintang Laut Kecil  ,Bituwin Dagat  ,Bintang Laut  
+551,Bảo thạch hải tinh,Bảo thạch hải tinh,Gem Sea Star  ,ปลาดาวอัญมณี  ,Bintang Laut Permata  ,Bituwin Dagat Alahas  ,Bintang Laut Permata  
+552,Phi Thiên Đường Lang,Phi Thiên Đường Lang,Sky Flying Praying Mantis  ,ตั๊กแตนสวรรค์บิน  ,Belalang Sembah Terbang  ,Langgam-Dasalan Lumilipad  ,Belalang Sembah Terbang  
+571,Cự kìm bọ ngựa,Cự kìm bọ ngựa,Giant Claw Mantis  ,ตั๊กแตนก้ามยักษ์  ,Belalang Sembah Cakar Raksasa  ,Belalang Gunting Raksasa  ,Belalang Sembah Cakar Besar  
+572,Điện giật quái,Điện giật quái,Electric Shock Monster  ,สัตว์ประหลาดไฟฟ้า  ,Monster Kejut Listrik  ,Halimaong Kuryente  ,Raksasa Kejutan Elektrik  
+591,Điện giật thú,Điện giật thú,Electric Shock Beast  ,สัตว์ไฟฟ้า  ,Binatang Kejut Listrik  ,Hayop ng Kuryente  ,Binatang Kejutan Elektrik  
+592,Điện giật ma thú,Điện giật ma thú,Electric Shock Demon Beast  ,อสูรไฟฟ้า  ,Iblis Kejut Listrik  ,Demonyong Hayop Kuryente  ,Iblis Kejutan Elektrik  
+593,Vịt miệng Bảo Bảo,Vịt miệng Bảo Bảo,Beaky Baby Duck  ,ลูกเป็ดปากแหลม  ,Bayi Bebek Bermulut  ,Bebeng Pato Nguso  ,Anak Itik Bermulut  
+601,Vịt miệng lửa thú,Vịt miệng lửa thú,Fire-Mouthed Duck Beast  ,สัตว์ปากเป็ดไฟ  ,Binatang Bebek Mulut Api  ,Hayop Pato Api  ,Binatang Itik Api  
+602,Vịt miệng viêm thú,Vịt miệng viêm thú,Flame-Mouth Duck Beast  ,สัตว์ปากเป็ดเพลิง  ,Binatang Bebek Mulut Api  ,Hayop Itik Apoy  ,Binatang Itik Mulut Api  
+603,Bạo Lý Long,Bạo Lý Long,Violent Tyranno  ,ไทแรนโนบ้าคลั่ง  ,Tyranno Ganas  ,Galit na Tyranno  ,Tyranno Ganas  
+632,Laplace,Laplace,Laplace  ,ลาพลาซ  ,Laplace  ,Laplace  ,Laplace  
+641,Hoá thạch nón trụ,Hoá thạch nón trụ,Fossil Cone  ,ฟอสซิลโคน  ,Fosil Kerucut  ,Fosil Kon  ,Fosil Kon  
+691,Liêm đao nón trụ,Liêm đao nón trụ,Scythe Cone  ,โคนเคียว  ,Kerucut Sabit  ,Kon na Karit  ,Kon Sabit  
+692,Hoá thạch Dực Long,Hoá thạch Dực Long,Fossil Winged Dragon  ,ฟอสซิลมังกรปีก  ,Fosil Naga Bersayap  ,Fosil Dragon Pakpak  ,Fosil Naga Bersayap  
+701,Nhỏ thẻ so thú,Nhỏ thẻ so thú,Mini Scan Beast  ,สัตว์สแกนจิ๋ว  ,Beast Pemindai Mini  ,Maliit na Beast Scanner  ,Beast Imbas Mini  
+711,Thẻ so thú,Thẻ so thú,Scan Beast  ,สัตว์สแกน  ,Beast Pemindai  ,Beast Scanner  ,Beast Imbas  
+712,Cấp đống chim,Cấp đống chim,Stacked Bird  ,นกกองซ้อน  ,Burung Bertumpuk  ,Ibon Nakatumpok  ,Burung Bertindih  
+721,Thiểm Điện điểu,Thiểm Điện điểu,Lightning Bird  ,นกสายฟ้า  ,Burung Petir  ,Ibon Kidlat  ,Burung Kilat  
+731,Hỏa Diễm Điểu,Hỏa Diễm Điểu,Flame Bird  ,นกไฟ  ,Burung Api  ,Ibon Apoy  ,Burung Api  
+741,Rồng tí hon,Rồng tí hon,Tiny Dragon  ,มังกรตัวเล็ก  ,Naga Mini  ,Maliit na Dragon  ,Naga Kecil  
+751,Hag rồng,Hag rồng,Baby Dragon  ,เบบี้ดราก้อน  ,Naga Bayi  ,Dragon Baby  ,Bayi Naga  
+752,Nhanh rồng,Nhanh rồng,Swift Dragon  ,มังกรไว  ,Naga Cepat  ,Dragon Mabilis  ,Naga Pantas  
+753,Siêu mộng,Siêu mộng,Super Dream  ,ซูเปอร์ดรีม  ,Super Mimpi  ,Super Panaginip  ,Mimpi Super  
+761,Mộng ảo,Mộng ảo,Dream Illusion  ,ภาพลวงดรีม  ,Mimpi Ilusi  ,Panaginip Ilusyon  ,Ilusi Mimpi  
+771,Cúc cây cỏ,Cúc cây cỏ,Daisy Grass  ,เดซี่หญ้า  ,Rumput Daisy  ,Damo Daisy  ,Rumput Daisy  
+781,Nguyệt quế lá,Nguyệt quế lá,Laurel Leaf  ,ใบลอเรล  ,Daun Laurel  ,Dahon Laurel  ,Daun Laurel  
+782,Lớn trúc quỳ,Lớn trúc quỳ,Big Bamboo Turtle  ,เต่าไผ่ใหญ่  ,Kura Bambu Besar  ,Pagong Kawayan Malaki  ,Penyu Buluh Besar  
+783,Hỏa cầu chuột,Hỏa cầu chuột,Fireball Mouse  ,หนูไฟบอล  ,Tikus Bola Api  ,Daga Bola Apoy  ,Tikus Bola Api  
+791,Lửa nham chuột,Lửa nham chuột,Lava Mouse  ,หนูลาวา  ,Tikus Lava  ,Daga Lava  ,Tikus Lava  
+792,Hỏa bạo thú,Hỏa bạo thú,Blazing Beast  ,สัตว์ไฟระเบิด  ,Binatang Ledakan Api  ,Hayop Putok Apoy  ,Binatang Letupan Api  
+793,Nhỏ cưa ngạc,Nhỏ cưa ngạc,Little Saw Jaw  ,ขากรรไกรเลื่อยจิ๋ว  ,Rahang Gergaji Kecil  ,Panga Lagari Maliit  ,Rahang Gergaji Kecil  
+801,Lam ngạc,Lam ngạc,Blue Jaw  ,ขากรรไกรน้ำเงิน  ,Rahang Biru  ,Panga Asul  ,Rahang Biru  
+802,Đại lực ngạc,Đại lực ngạc,Strong Jaw  ,ขากรรไกรพลังสูง  ,Rahang Kuat  ,Panga Kuat  ,Rahang Kuat  
+803,Be lợi dê,Be lợi dê,Soft Sheep  ,แพะนิ่ม  ,Domba Lembut  ,Kambing Lembut  ,Kambing Lembut  
+881,Mượt mà dê,Mượt mà dê,Smooth Goat  ,แพะเรียบลื่น  ,Kambing Halus  ,Kambing Makinis  ,Kambing Licin  
+882,Điện Long,Điện Long,Electric Dragon  ,มังกรไฟฟ้า  ,Naga Listrik  ,Dragon Elektrik  ,Naga Elektrik  
+883,Lộ lực lệ,Lộ lực lệ,Rolu Lei  ,โรลูเล่  ,Rolu Lei  ,Rolu Lei  ,Rolu Lei  
+891,Mã lực lộ,Mã lực lộ,Horsepower Ro  ,ม้าพลังโร  ,Tenaga Kuda Ro  ,Kabayo Power Ro  ,Kuda Kuasa Ro  
+892,Mã lực lộ lệ,Mã lực lộ lệ,Horsepower Rolu  ,ม้าพลังโรลู  ,Tenaga Kuda Rolu  ,Kabayo Power Rolu  ,Kuda Kuasa Rolu  
+893,Hera Kroos,Hera Kroos,Heracross  ,เฮราครอส  ,Heracross  ,Heracross  ,Heracross  
+1071,Nữu kéo,Nữu kéo,Pull Nyu  ,ดึงหนิว  ,Tarik Nyu  ,Hila Nyu  ,Tarik Nyu  
+1081,Mã nữu kéo,Mã nữu kéo,Horse Pull Nyu  ,ม้าดึงหนิว  ,Tarik Kuda Nyu  ,Kabayo Hila Nyu  ,Kuda Tarik Nyu  
+1082,Mang Rewby,Mang Rewby,Mang Rewby  ,แมงรูบี้  ,Mang Rewby  ,Mang Rewby  ,Mang Rewby  
+1171,Hắc Lỗ thêm,Hắc Lỗ thêm,Black Hole Plus  ,หลุมดำพลัส  ,Lubang Hitam Plus  ,Itim na Butas Plus  ,Lubang Hitam Tambahan  
+1172,Lôi Công,Lôi Công,Thunder God  ,เทพสายฟ้า  ,Dewa Petir  ,Diyos ng Kidlat  ,Dewa Guruh  
+1221,Viêm Đế,Viêm Đế,Flame Emperor  ,จักรพรรดิไฟ  ,Kaisar Api  ,Emperador ng Apoy  ,Maharaja Api  
+1231,Thủy quân,Thủy quân,Water Trooper  ,ทหารน้ำ  ,Prajurit Air  ,Mandirigma ng Tubig  ,Prajurit Air  
+1241,Ấu Kira tư,Ấu Kira tư,Baby Kirath  ,คิระตัวน้อย  ,Kirath Kecil  ,Munting Kirath  ,Kirath Kecil  
+1251,Cát Kira tư,Cát Kira tư,Sand Kirath  ,คิระทราย  ,Kirath Pasir  ,Kirath ng Buhangin  ,Kirath Pasir  
+1252,Ban Kira tư,Ban Kira tư,Spot Kirath  ,คิระลายจุด  ,Kirath Bercorak  ,Kirath na May Bakat  ,Kirath Bercorak  
+1253,Lạc Kỳ á,Lạc Kỳ á,Lucky A  ,ลัคกี้ เอ  ,Si Beruntung A  ,Maswerteng A  ,Bertuah A  
+1261,Phượng vương,Phượng vương,Phoenix King  ,ราชาฟีนิกซ์  ,Raja Phoenix  ,Hari ng Phoenix  ,Raja Phoenix  
+1271,Mộc thạch sùng,Mộc thạch sùng,Wood Rock Bug  ,แมลงหินไม้  ,Serangga Batu Kayu  ,Insekto ng Bato-Kahoy  ,Serangga Batu Kayu  
+1291,Rừng rậm thằn lằn,Rừng rậm thằn lằn,Jungle Lizard  ,กิ้งก่าในป่า  ,Kadal Hutan  ,Butiking Gubat  ,Cicak Hutan  
+1292,Thằn lằn vương,Thằn lằn vương,Lizard King  ,ราชากิ้งก่า  ,Raja Kadal  ,Hari ng Butiki  ,Raja Cicak  
+1293,Hỏa Trĩ gà,Hỏa Trĩ gà,Fire Pheasant  ,ไก่ไฟฟ้า  ,Ayam Api  ,Manok Apoy  ,Ayam Api  
+1301,Khỏe mạnh cường tráng gà,Khỏe mạnh cường tráng gà,Strong Rooster  ,ไก่แข็งแรง  ,Ayam Perkasa  ,Manok Matatag  ,Ayam Gagah  
+1302,Hỏa diễm gà,Hỏa diễm gà,Flame Chicken  ,ไก่เพลิง  ,Ayam Api Menyala  ,Manok na Nagniningas  ,Ayam Berapi  
+1303,Nước vọt cá,Nước vọt cá,Water Jet Fish  ,ปลาพุ่งน้ำ  ,Ikan Sembur Air  ,Isdang Sirit Tubig  ,Ikan Pancutan Air  
+1311,Chiểu vọt cá,Chiểu vọt cá,Swamp Jet Fish  ,ปลาพุ่งหนองน้ำ  ,Ikan Sembur Rawa  ,Isdang Sirit Lawa  ,Ikan Pancutan Rawa  
+1312,Cự chiểu quái,Cự chiểu quái,Giant Swamp Monster  ,อสูรหนองน้ำยักษ์  ,Monster Rawa Raksasa  ,Halimaw Lawa Higante  ,Raksasa Rawa Besar  
+1313,Sen Diệp Đồng tử,Sen Diệp Đồng tử,Lotus Leaf Boy  ,เด็กชายใบบัว  ,Bocah Daun Teratai  ,Batang Dahon Lotus  ,Budak Daun Teratai  
+1351,Sen mũ tiểu đồng,Sen mũ tiểu đồng,Lotus Hat Kid  ,เด็กหมวกบัว  ,Anak Topi Teratai  ,Batang Sombrero Lotus  ,Budak Topi Teratai  
+1352,Vui Thiên Hà đồng,Vui Thiên Hà đồng,Happy Galaxy Kid  ,เด็กแห่งทางช้างเผือก  ,Anak Galaksi Ceria  ,Batang Kalawakan Masaya  ,Budak Galaksi Ceria  
+1353,Kéo lỗ kéo,Kéo lỗ kéo,Pull Kelo Pull  ,เคโลเคลอ  ,Tarik Kelo Tarik  ,Hilahin Kelo Hilahin  ,Tarik Kelo Tarik  
+1391,Kỳ Lỗ lỵ an,Kỳ Lỗ lỵ an,Kilorian  ,คิโลเรียน  ,Kilorian  ,Kilorian  ,Kilorian  
+1392,Chanay đóa,Chanay đóa,Chanay Flower  ,ดอกชานาย  ,Bunga Chanay  ,Bulaklak Chanay  ,Bunga Chanay  
+1393,Ngải đường lôi đóa,Ngải đường lôi đóa,Aloe Thunder Bloom  ,ดอกว่านสายฟ้า  ,Bunga Lidah Petir  ,Bulaklak Kidlat Aloe  ,Bunga Lidah Guruh  
+1394,Người lười rái cá,Người lười rái cá,Lazy Otter  ,ตัวนากขี้เกียจ  ,Berang-berang Malas  ,Tamad na Otter  ,Berang-berang Malas  
+1421,Qua động vượn,Qua động vượn,Tunnel Ape  ,ลิงถ้ำ  ,Monyet Terowongan  ,Unggoy ng Yungib  ,Monyet Terowong  
+1422,Xin phép nghỉ vương,Xin phép nghỉ vương,Request Leave King  ,ราชาขอลา  ,Raja Cuti  ,Hari ng Leave  ,Raja Cuti  
+1423,Cô Nữu Nữu,Cô Nữu Nữu,Miss Nyunyu  ,คุณหนูนิว  ,Nona Nyunyu  ,Miss Nyunyu  ,Cik Nyu-Nyu  
+1441,Rống bạo đạn,Rống bạo đạn,Roaring Bomb  ,ระเบิดคำราม  ,Bom Mengaum  ,Sumisigaw na Bomba  ,Bom Mengaum  
+1442,Tiếng nổ quái,Tiếng nổ quái,Boom Monster  ,สัตว์ระเบิด  ,Monster Ledakan  ,Halimaw ng Pagsabog  ,Raksasa Letupan  
+1443,Nhưng có thể nhiều kéo,Nhưng có thể nhiều kéo,May Pull a Lot  ,อาจดึงได้เยอะ  ,Bisa Tarik Banyak  ,Maaring Hilahin Marami  ,Boleh Tarik Banyak  
+1501,Nhưng nhiều kéo,Nhưng nhiều kéo,Many Pull  ,ดึงได้เยอะ  ,Tarik Banyak  ,Maraming Hila  ,Tarik Banyak  
+1502,Sóng sĩ nhưng nhiều kéo,Sóng sĩ nhưng nhiều kéo,Wave Master Puller  ,เจ้านายแห่งการดึง  ,Penarik Gelombang  ,Master Hila ng Alon  ,Penarik Ombak  
+1503,Ngốc lửa còng,Ngốc lửa còng,Fire Dummy Crab  ,ปูโง่ไฟ  ,Kepiting Api Bodoh  ,Crab Apoy Bobo  ,Ketam Api Dungu  
+1611,Phun lửa còng,Phun lửa còng,Flame Spitting Crab  ,ปูพ่นไฟ  ,Kepiting Sembur Api  ,Crab Sumisinga Apoy  ,Ketam Sembur Api  
+1612,Oán ảnh bé con,Oán ảnh bé con,Grudge Shadow Kid  ,เงาอาฆาตน้อย  ,Bayangan Dendam Kecil  ,Batang Anino ng Hinanakit  ,Bayangan Dendam Kecil  
+1801,Nguyền rủa bé con,Nguyền rủa bé con,Little Curse  ,คำสาปน้อย  ,Kutukan Kecil  ,Maliit na Sumpa  ,Sumpahan Kecil  
+1802,Đêm tuần linh,Đêm tuần linh,Spirit Night  ,คืนวิญญาณ  ,Malam Arwah  ,Gabi ng Kaluluwa  ,Malam Roh  
+1811,Bàng hoàng dạ linh,Bàng hoàng dạ linh,Startled Night Spirit  ,วิญญาณค่ำตกใจ  ,Arwah Malam Terkaget  ,Nagulat na Espiritu ng Gabi  ,Roh Malam Terkejut  
+1812,Đêm tối ma linh,Đêm tối ma linh,Dark Phantom Night  ,ปีศาจราตรีมืด  ,Malam Hantu Gelap  ,Maitim na Kaluluwang Gabi  ,Malam Hantu Gelap  
+1813,A đột nhiên toa lỗ,A đột nhiên toa lỗ,Sudden A-Toa  ,อะโทอาปุบปับ  ,Tiba-tiba A-Toa  ,Biglang A-Toa  ,Tiba-Tiba A-Toa  
+1841,Tuyết Đồng tử,Tuyết Đồng tử,Snow Child  ,เด็กหิมะ  ,Anak Salju  ,Anak ng Niyebe  ,Anak Salji  
+1851,Băng quỷ hộ,Băng quỷ hộ,Ice Demon Guard  ,ผู้พิทักษ์น้ำแข็ง  ,Penjaga Iblis Es  ,Tagapagtanggol ng Yelo  ,Penjaga Ais  
+1852,Tuyết yêu nữ,Tuyết yêu nữ,Snow Enchantress  ,นางหิมะ  ,Putri Salju  ,Mang-aakit ng Niyebe  ,Puteri Salji  
+1853,Báo biển cầu,Báo biển cầu,Sea Leopard Ball  ,เสือลูกบอลทะเล  ,Bola Macan Laut  ,Bola ng Leopardo Dagat  ,Bola Harimau Laut  
+1861,Hải Ma sư,Hải Ma sư,Ocean Mage  ,จอมเวททะเล  ,Penyihir Laut  ,Mangkukulam ng Karagatan  ,Ahli Sihir Laut  
+1862,Đế răng sư tử biển,Đế răng sư tử biển,Emperor Sea Lion  ,ราชาสิงโตทะเล  ,Raja Singa Laut  ,Hari ng Leon Dagat  ,Raja Singa Laut  
+1863,Bảo bối rồng,Bảo bối rồng,Dragon Treasure  ,สมบัติมังกร  ,Harta Naga  ,Kayamanan ng Dragon  ,Harta Naga  
+1891,Giáp xác rồng,Giáp xác rồng,Armored Dragon  ,มังกรหุ้มเกราะ  ,Naga Berlapis Baja  ,Dragon na May Armor  ,Naga Perisai  
+1892,Bạo Phi Long,Bạo Phi Long,Violent Flying Dragon  ,มังกรบินพิโรธ  ,Naga Terbang Ganas  ,Mabangis na Lumilipad Dragon  ,Naga Terbang Ganas  
+1893,Sắt tạ tay,Sắt tạ tay,Iron Dumbbell  ,ดัมเบลเหล็ก  ,Dumbel Besi  ,Bakal na Dumbbell  ,Dumbel Besi  
+1901,Kim loại quái,Kim loại quái,Metal Monster  ,สัตว์โลหะ  ,Monster Logam  ,Metal na Halimaw  ,Raksasa Logam  
+1902,Cự kim quái,Cự kim quái,Giant Metal Beast  ,อสูรเหล็กยักษ์  ,Monster Logam Raksasa  ,Higanteng Metal na Halimaw  ,Raksasa Besi Gergasi  
+1903,Lôi Cát Locke,Lôi Cát Locke,Thunder Cat Locke  ,ล็อคแมวสายฟ้า  ,Kucing Petir Locke  ,Kuryente Pusa Locke  ,Kucing Kilat Locke  
+1911,Lôi Cát Ace,Lôi Cát Ace,Thunder Cat Ace  ,เอซแมวสายฟ้า  ,Kucing Petir Ace  ,Kuryente Pusa Ace  ,Kucing Kilat Ace  
+1921,Régis Kỳ Lỗ,Régis Kỳ Lỗ,Regis Kilor  ,เรจิสคิโลร์  ,Regis Kilor  ,Regis Kilor  ,Regis Kilor  
+1931,Latias,Latias,Latias  ,ลาเทียส  ,Latias  ,Latias  ,Latias  
+1941,Kéo đế Oars,Kéo đế Oars,Oars Puller  ,คนลากพาย  ,Penarik Dayung  ,Tagahila ng Sagwan  ,Penarik Dayung  
+1951,Đóng Âu thẻ,Đóng Âu thẻ,Europe Seal  ,ตรายุโรป  ,Segel Eropa  ,Tatak Europa  ,Cop Eropah  
+1961,Cố kéo nhiều,Cố kéo nhiều,Forceful Pull  ,ดึงแรง  ,Tarikan Kuat  ,Hilang Lakas Hila  ,Tarik Kuat  
+1971,Liệt không tòa,Liệt không tòa,Sky Burst Fortress  ,ป้อมระเบิดท้องฟ้า  ,Benteng Ledak Langit  ,Kuta ng Langit Sumabog  ,Kubu Letupan Langit  
+1981,Cỏ mầm rùa,Cỏ mầm rùa,Sprout Turtle  ,เต่างอกหญ้า  ,Tunas Kura-Kura  ,Tuklaw na Pagong  ,Anak Benih Kura-Kura  
+2011,Rừng cây rùa,Rừng cây rùa,Forest Turtle  ,เต่าป่า  ,Kura-Kura Hutan  ,Pagong Gubat  ,Kura-Kura Hutan  
+2012,Đài đất rùa,Đài đất rùa,Earth Platform Turtle  ,เต่าดินแท่น  ,Kura-Kura Tanah Tinggi  ,Pagong ng Lupa  ,Kura-Kura Dataran Tinggi  
+2013,Mèo con quái,Mèo con quái,Kitten Monster  ,สัตว์ประหลาดแมวน้อย  ,Monster Anak Kucing  ,Halimaw Kuting  ,Raksasa Anak Kucing  
+2071,Siết khắc mèo,Siết khắc mèo,Scratch Cat  ,แมวข่วน  ,Kucing Cakar  ,Kamot Pusa  ,Kucing Cakar  
+2072,Mèo Điện,Mèo Điện,Electric Cat  ,แมวไฟฟ้า  ,Kucing Listrik  ,Kuryente Pusa  ,Kucing Elektrik  
+2073,Cá Mập Đất,Cá Mập Đất,Land Shark  ,ฉลามบก  ,Hiu Darat  ,Pating Lupa  ,Jerung Darat  
+2231,Cá Mập Lưỡi Kiếm,Cá Mập Lưỡi Kiếm,Sword Blade Shark  ,ฉลามใบมีด  ,Hiu Bilah Pedang  ,Pating Talamit  ,Jerung Pedang  
+2232,Cá Mập Hỏa Tiễn,Cá Mập Hỏa Tiễn,Missile Shark  ,ฉลามจรวด  ,Hiu Roket  ,Pating Misil  ,Jerung Peluru Berpandu  
+2233,Linh Cẩu Nhỏ,Linh Cẩu Nhỏ,Little Hyena  ,ไฮยีน่าน้อย  ,Hiena Kecil  ,Munting Hyena  ,Hiena Kecil  
+2241,Linh Cẩu Kiếm,Linh Cẩu Kiếm,Sword Hyena  ,ไฮยีน่าดาบ  ,Hiena Pedang  ,Hyena Espada  ,Hiena Pedang  
+2242,Ếch Độc,Ếch Độc,Poison Frog  ,กบพิษ  ,Katak Racun  ,Palakang Lason  ,Katak Beracun  
+2271,Ếch Độc Vương,Ếch Độc Vương,Poison Frog King  ,ราชากบพิษ  ,Raja Katak Racun  ,Hari ng Palakang Lason  ,Raja Katak Beracun  
+2272,Cây Tuyết,Cây Tuyết,Snow Tree  ,ต้นไม้หิมะ  ,Pohon Salju  ,Punong Niyebe  ,Pokok Salji  
+2301,Quái Vật Tuyết,Quái Vật Tuyết,Snow Monster  ,สัตว์ประหลาดหิมะ  ,Monster Salju  ,Halimaw ng Niyebe  ,Raksasa Salji  
+2302,Siêu Quái Vật Tuyết,Siêu Quái Vật Tuyết,Super Snow Monster  ,ซูเปอร์สัตว์ประหลาดหิมะ  ,Monster Salju Super  ,Super Halimaw ng Niyebe  ,Raksasa Salji Super  
+2303,Thần Thời Gian,Thần Thời Gian,Time God  ,เทพเจ้าแห่งเวลา  ,Dewa Waktu  ,Diyos ng Panahon  ,Tuhan Masa  
+2351,Thần Không Gian,Thần Không Gian,Space God  ,เทพเจ้าแห่งอวกาศ  ,Dewa Ruang  ,Diyos ng Kalawakan  ,Tuhan Angkasa  
+2361,Người Khổng Lồ Huyền Thoại,Người Khổng Lồ Huyền Thoại,Legendary Giant  ,ยักษ์ในตำนาน  ,Raksasa Legendaris  ,Higante ng Alamat  ,Gergasi Lagenda  
+2381,Rồng Bóng Tối,Rồng Bóng Tối,Dark Dragon  ,มังกรแห่งความมืด  ,Naga Kegelapan  ,Dragon ng Kadiliman  ,Naga Kegelapan  
+2391,Rồng Bóng Tối - Hình Thức Gốc,Rồng Bóng Tối - Hình Thức Gốc,Dark Dragon - Original Form  ,มังกรแห่งความมืด - ร่างต้น  ,Naga Kegelapan - Bentuk Asli  ,Dragon ng Kadiliman - Orihinal na Anyo  ,Naga Kegelapan - Bentuk Asal  
+2392,Thần Ác Mộng,Thần Ác Mộng,Nightmare God  ,เทพเจ้าแห่งฝันร้าย  ,Dewa Mimpi Buruk  ,Diyos ng Bangungot  ,Tuhan Mimpi Buruk  
+2431,Thần Cỏ - Dạng Đất,Thần Cỏ - Dạng Đất,Grass God - Ground Form  ,เทพหญ้า - ร่างดิน  ,Dewa Rumput - Bentuk Tanah  ,Diyos ng Damo - Anyo ng Lupa  ,Tuhan Rumput - Bentuk Tanah  
+2441,Thần Cỏ - Dạng Trời,Thần Cỏ - Dạng Trời,Grass God - Sky Form  ,เทพหญ้า - ร่างท้องฟ้า  ,Dewa Rumput - Bentuk Langit  ,Diyos ng Damo - Anyo ng Langit  ,Tuhan Rumput - Bentuk Langit  
+2442,Rắn Cỏ,Rắn Cỏ,Grass Snake  ,งูหญ้า  ,Ular Rumput  ,Ahas Damo  ,Ular Rumput  
+2471,Rắn Lá,Rắn Lá,Leaf Snake  ,งูใบไม้  ,Ular Daun  ,Ahas Dahon  ,Ular Daun  
+2472,Rắn Hoàng Gia,Rắn Hoàng Gia,Royal Snake  ,งูราชา  ,Ular Kerajaan  ,Ahas Maharlika  ,Ular Diraja  
+2473,Lợn Lửa,Lợn Lửa,Fire Pig  ,หมูไฟ  ,Babi Api  ,Baboy Apoy  ,Babi Api  
+2481,Lợn Lửa Chiến Binh,Lợn Lửa Chiến Binh,Fire Pig Warrior  ,นักรบหมูไฟ  ,Prajurit Babi Api  ,Mandirigmang Baboy Apoy  ,Pahlawan Babi Api  
+2482,Lợn Lửa Dũng Sĩ,Lợn Lửa Dũng Sĩ,Fire Pig Hero  ,วีรบุรุษหมูไฟ  ,Pahlawan Babi Api  ,Bayani ng Baboy Apoy  ,Wira Babi Api  
+2483,Đá Tròn,Đá Tròn,Round Rock  ,หินกลม  ,Batu Bulat  ,Bato Bilog  ,Batu Bulat  
+2591,Đá Núi,Đá Núi,Mountain Rock  ,หินภูเขา  ,Batu Gunung  ,Bato Bundok  ,Batu Gunung  
+2592,Quái Vật Đá,Quái Vật Đá,Rock Monster  ,สัตว์ประหลาดหิน  ,Monster Batu  ,Halimaw Bato  ,Raksasa Batu  
+2593,Chuột Chũi Khoan,Chuột Chũi Khoan,Drill Mole  ,ตุ่นเจาะ  ,Tikus Mondok Bor  ,Mole na May Drill  ,Tikus Penggali  
+2611,Chuột Chũi Rồng,Chuột Chũi Rồng,Dragon Mole  ,ตุ่นมังกร  ,Tikus Mondok Naga  ,Mole Naga  ,Tikus Naga  
+2612,Thợ Nhỏ Vận Chuyển,Thợ Nhỏ Vận Chuyển,Little Transporter  ,พนักงานขนส่งน้อย  ,Pengangkut Kecil  ,Tagadala Maliit  ,Pengangkut Kecil  
+2631,Chiến Binh Đất Sắt,Chiến Binh Đất Sắt,Iron Earth Warrior  ,นักรบดินเหล็ก  ,Prajurit Besi Tanah  ,Mandirigmang Lupa Bakal  ,Pahlawan Tanah Besi  
+2632,Thợ Xây Lão Luyện,Thợ Xây Lão Luyện,Veteran Builder  ,ช่างก่อสร้างผู้ช่ำชอง  ,Tukang Bangunan Berpengalaman  ,Manggagawang Beterano  ,Pembina Berpengalaman  
+2633,Rết Trăm Chân,Rết Trăm Chân,Centipede  ,ตะขาบ  ,Kelabang  ,Alupihan  ,Lipan  
+2681,Bóng Xe,Bóng Xe,Wheel Shadow  ,เงาล้อ  ,Bayangan Roda  ,Anino ng Gulong  ,Bayang Roda  
+2682,Vua Rết,Vua Rết,Centipede King  ,ราชาตะขาบ  ,Raja Kelabang  ,Hari ng Alupihan  ,Raja Lipan  
+2683,Cá Sấu Đen,Cá Sấu Đen,Black Crocodile  ,จระเข้อดำ  ,Buaya Hitam  ,Buwayang Itim  ,Buaya Hitam  
+2721,Cá Sấu Du Côn,Cá Sấu Du Côn,Rogue Crocodile  ,จระเข้อันธพาล  ,Buaya Nakal  ,Buwayang Pilyo  ,Buaya Nakal  
+2722,Cá Sấu Lưu Manh,Cá Sấu Lưu Manh,Gangster Crocodile  ,จระเข้อันธพาลใหญ่  ,Buaya Gengster  ,Buwayang Salbahe  ,Buaya Ganas  
+2723,Cáo Ảo Ảnh,Cáo Ảo Ảnh,Illusion Fox  ,จิ้งจอกมายา  ,Rubah Ilusi  ,Soro ng Ilusyon  ,Rubah Ilusi  
+2821,Vua Cáo Ảo Ảnh,Vua Cáo Ảo Ảnh,Illusion Fox King  ,ราชาจิ้งจอกมายา  ,Raja Rubah Ilusi  ,Hari ng Soro ng Ilusyon  ,Raja Rubah Ilusi  
+2822,Búp Bê Gothic,Búp Bê Gothic,Gothic Doll  ,ตุ๊กตาโกธิค  ,Boneka Gotik  ,Gothic na Manika  ,Anak Patung Gothic  
+2841,Bé Gái Gothic,Bé Gái Gothic,Gothic Girl  ,สาวก็อตธิค  ,Gadis Gotik  ,Batang Gothic  ,Gadis Gothic  
+2842,Tiểu Thư Gothic,Tiểu Thư Gothic,Gothic Lady  ,คุณหนูก็อตธิค  ,Nona Gotik  ,Binibining Gothic  ,Tuan Puteri Gothic  
+2843,Băng Nhỏ,Băng Nhỏ,Mini Ice  ,น้ำแข็งน้อย  ,Es Kecil  ,Maliit na Yelo  ,Ais Kecil  
+2871,Băng Đôi,Băng Đôi,Twin Ice  ,น้ำแข็งคู่  ,Es Kembar  ,Yelong Kambal  ,Ais Kembar  
+2872,Băng Đôi Lớn,Băng Đôi Lớn,Big Twin Ice  ,น้ำแข็งคู่ใหญ่  ,Es Kembar Besar  ,Malaking Yelong Kambal  ,Ais Kembar Besar  
+2873,Sóc Điện,Sóc Điện,Electric Squirrel  ,กระรอกไฟฟ้า  ,Tupai Listrik  ,Kuryenteng Ardilya  ,Tupai Elektrik  
+2891,Bóng Bay Nhẹ - Cái,Bóng Bay Nhẹ - Cái,Light Balloon - Female  ,ลูกโป่งเบา - ตัวเมีย  ,Balon Ringan - Betina  ,Magaan na Lobo - Babae  ,Belon Ringan - Betina  
+2921,Bóng Bay Nhẹ - Đực,Bóng Bay Nhẹ - Đực,Light Balloon - Male  ,ลูกโป่งเบา - ตัวผู้  ,Balon Ringan - Jantan  ,Magaan na Lobo - Lalaki  ,Belon Ringan - Jantan  
+2922,Béo Mập - Cái,Béo Mập - Cái,Chubby - Female  ,ตุ้ยนุ้ย - ตัวเมีย  ,Gendut - Betina  ,Mataba - Babae  ,Gemuk - Betina  
+2923,Béo Mập - Đực,Béo Mập - Đực,Chubby - Male  ,ตุ้ยนุ้ย - ตัวผู้  ,Gendut - Jantan  ,Mataba - Lalaki  ,Gemuk - Jantan  
+2924,Bánh Răng,Bánh Răng,Gear  ,เฟือง  ,Roda Gigi  ,Gulong ng Ngipin  ,Gear  
+2961,Nhóm Bánh Răng,Nhóm Bánh Răng,Gear Group  ,กลุ่มเฟือง  ,Kelompok Roda Gigi  ,Grupo ng Gulong  ,Kumpulan Gear  
+2962,Quái Vật Bánh Răng,Quái Vật Bánh Răng,Gear Monster  ,สัตว์ประหลาดเฟือง  ,Monster Roda Gigi  ,Halimaw Gulong  ,Raksasa Gear  
+2963,Linh Hồn Nến,Linh Hồn Nến,Candle Spirit  ,วิญญาณเทียน  ,Roh Lilin  ,Kaluluwa ng Kandila  ,Roh Lilin  
+2991,Ma Lửa,Ma Lửa,Fire Ghost  ,ผีไฟ  ,Hantu Api  ,Multo ng Apoy  ,Hantu Api  
+2992,Đèn Chùm Ma Lửa,Đèn Chùm Ma Lửa,Fire Chandelier  ,โคมไฟผีไฟ  ,Lampu Gantung Api  ,Chandelier ng Apoy  ,Candelier Api  
+2993,Rồng Răng Nhỏ,Rồng Răng Nhỏ,Little Fang Dragon  ,มังกรฟันเล็ก  ,Naga Gigi Kecil  ,Maliit na Ngangang Dragon  ,Naga Gigi Kecil  
+3001,Rồng Răng Rìu,Rồng Răng Rìu,Axe Fang Dragon  ,มังกรฟันขวาน  ,Naga Gigi Kapak  ,Dragon na May Palakol  ,Naga Gigi Kapak  
+3002,Chiến Binh Rồng,Chiến Binh Rồng,Dragon Warrior  ,นักรบมังกร  ,Prajurit Naga  ,Mandirigmang Dragon  ,Pahlawan Naga  
+3003,Rồng Răng Đôi,Rồng Răng Đôi,Twin Fang Dragon  ,มังกรฟันคู่  ,Naga Gigi Ganda  ,Dragon na May Dalawang Ngangang  ,Naga Gigi Berkembar  
+3011,Gấu Lãnh Nguyên,Gấu Lãnh Nguyên,Tundra Bear  ,หมีทุนดรา  ,Beruang Tundra  ,Oso ng Tundra  ,Beruang Tundra  
+3012,Hoa Tuyết Hình Học,Hoa Tuyết Hình Học,Geometric Snowflake  ,เกล็ดหิมะเรขาคณิต  ,Salju Geometris  ,Geometrikong Niyebe  ,Salji Geometri  
+3021,Rồng Một Đầu,Rồng Một Đầu,One-Headed Dragon  ,มังกรหัวเดียว  ,Naga Berkepala Satu  ,Isang Ulong Dragon  ,Naga Satu Kepala  
+3141,Khủng Long Hai Đầu,Khủng Long Hai Đầu,Two-Headed Dinosaur  ,ไดโนเสาร์สองหัว  ,Dinosaurus Dua Kepala  ,Dalawang Ulong Dinosaur  ,Dinosaur Dua Kepala  
+3142,Rồng Ba Đầu,Rồng Ba Đầu,Three-Headed Dragon  ,มังกรสามหัว  ,Naga Tiga Kepala  ,Tatlong Ulong Dragon  ,Naga Tiga Kepala  
+3143,Sâu Lửa,Sâu Lửa,Fire Worm  ,หนอนไฟ  ,Ulat Api  ,Uod ng Apoy  ,Ulat Api  
+3151,Moth Lửa,Moth Lửa,Fire Moth  ,ผีเสื้อไฟ  ,Ngengat Api  ,Apoy na Gamu-gamo  ,Rama-Rama Api  
+3152,Zekrom,Zekrom,Zekrom  ,Zekrom  ,Zekrom  ,Zekrom  ,Zekrom  
+3221,Hạt Dẻ,Hạt Dẻ,Chestnut  ,เกาลัด  ,Biji Kastanye  ,Kastanyas  ,Biji Berangan  
+3281,Hạt Dẻ Béo,Hạt Dẻ Béo,Fat Chestnut  ,เกาลัดตุ้ยนุ้ย  ,Biji Kastanye Gendut  ,Matabang Kastanyas  ,Berangan Gemuk  
+3282,Brikalon,Brikalon,Brikalon  ,Brikalon  ,Brikalon  ,Brikalon  ,Brikalon  
+3283,Cáo Lửa,Cáo Lửa,Fire Fox  ,สุนัขจิ้งจอกไฟ  ,Rubah Api  ,Apoy na Soro  ,Rubah Api  
+3291,Cáo Lửa Đuôi Dài,Cáo Lửa Đuôi Dài,Long-Tailed Fire Fox  ,สุนัขจิ้งจอกไฟหางยาว  ,Rubah Api Ekor Panjang  ,Apoy na Soro na Mahabang Buntot  ,Rubah Api Berekor Panjang  
+3292,Cáo Lửa Ma Quái,Cáo Lửa Ma Quái,Ghostly Fire Fox  ,สุนัขจิ้งจอกไฟภูต  ,Rubah Api Berhantu  ,Multong Apoy na Soro  ,Rubah Api Hantu  
+3293,Ếch Bọt,Ếch Bọt,Bubble Frog  ,กบบับเบิ้ล  ,Katak Gelembung  ,Palakang Bula  ,Katak Buih  
+3301,Ếch Đầu Lớn,Ếch Đầu Lớn,Big-Headed Frog  ,กบหัวโต  ,Katak Kepala Besar  ,Palakang Malaking Ulo  ,Katak Kepala Besar  
+3302,Ninja Eel,Ninja Eel,Ninja Eel  ,ปลาไหลนินจา  ,Belut Ninja  ,Ninja Eel  ,Belut Ninja  
+3303,Sư Tử Nhỏ,Sư Tử Nhỏ,Little Lion  ,สิงโตน้อย  ,Singa Kecil  ,Munting Leon  ,Singa Kecil  
+3341,Sư Tử Lửa,Sư Tử Lửa,Fire Lion  ,สิงโตไฟ  ,Singa Api  ,Apoy na Leon  ,Singa Api  
+3342,Hoa Bông,Hoa Bông,Cotton Flower  ,ดอกฝ้าย  ,Bunga Kapas  ,Bulaklak na Kotton  ,Bunga Kapas  
+3351,Hoa Lá,Hoa Lá,Leaf Flower  ,ดอกไม้ใบไม้  ,Bunga Daun  ,Bulaklak ng Dahon  ,Bunga Daun  
+3352,Quý Phu Nhân Hoa,Quý Phu Nhân Hoa,Lady Flower  ,คุณหญิงดอกไม้  ,Nyonya Bunga  ,Ginang na Bulaklak  ,Puan Bunga  
+3353,Kiếm Độc,Kiếm Độc,Poison Sword  ,ดาบพิษ  ,Pedang Racun  ,Lason na Espada  ,Pedang Beracun  
+3411,Kiếm Đôi,Kiếm Đôi,Twin Swords  ,ดาบคู่  ,Pedang Kembar  ,Espadang Kambal  ,Pedang Berkembar  
+3412,Quái Vật Kiếm Cứng - Khiên,Quái Vật Kiếm Cứng - Khiên,Hard Sword Monster - Shield  ,สัตว์ประหลาดดาบแข็ง - โล่  ,Monster Pedang Keras - Perisai  ,Halimaw ng Matigas na Espada - Kalasag  ,Raksasa Pedang Keras - Perisai  
+3413,Bông Bông,Bông Bông,Fluffy  ,ฟูฟู  ,Bulu Lembut  ,Malambot  ,Gebu  
+3431,Cô Nàng Béo Ngọt,Cô Nàng Béo Ngọt,Sweet Fat Lady  ,สาวตุ้ยนุ้ยหวาน  ,Nona Manis Gendut  ,Matamis na Matabang Ginang  ,Wanita Manis Gemuk  
+3432,Tôm Tí Hon,Tôm Tí Hon,Tiny Shrimp  ,กุ้งตัวจิ๋ว  ,Udang Kecil  ,Hipon na Maliit  ,Udang Kecil  
+3471,Tôm Pháo,Tôm Pháo,Cannon Shrimp  ,กุ้งปืนใหญ่  ,Udang Meriam  ,Hipon na Kanyon  ,Udang Meriam  
+3472,Rồng Tuyết,Rồng Tuyết,Snow Dragon  ,มังกรหิมะ  ,Naga Salju  ,Dragon ng Niyebe  ,Naga Salji  
+3501,Rồng Tuyết Khổng Lồ,Rồng Tuyết Khổng Lồ,Giant Snow Dragon  ,มังกรหิมะยักษ์  ,Naga Salju Raksasa  ,Higanteng Dragon ng Niyebe  ,Naga Salji Gergasi  
+3502,Đại Bàng Đấu Vật,Đại Bàng Đấu Vật,Wrestling Eagle  ,นกอินทรีนักมวยปล้ำ  ,Elang Gulat  ,Agilang Wrestler  ,Helang Gusti  
+3511,Bảo Bảo Dính,Bảo Bảo Dính,Sticky Baby  ,ลูกเหนียว  ,Bayi Lengket  ,Malagkit na Sanggol  ,Bayi Melekit  
+3541,Mỹ Nữ Dính,Mỹ Nữ Dính,Sticky Beauty  ,สาวสวยเหนียว  ,Gadis Lengket  ,Magandang Malagkit  ,Gadis Melekit  
+3542,Rồng Dính Mỹ,Rồng Dính Mỹ,Sticky Dragon Beauty  ,มังกรสาวเหนียว  ,Naga Cantik Lengket  ,Magandang Dragon na Malagkit  ,Naga Melekit Jelita  
+3543,Cây Cổ Thụ Nhỏ,Cây Cổ Thụ Nhỏ,Small Ancient Tree  ,ต้นไม้โบราณน้อย  ,Pohon Kuno Kecil  ,Puno ng Sinaunang Panahon  ,Pokok Purba Kecil  
+3561,Quái Thụ Mục Nát,Quái Thụ Mục Nát,Rotten Tree Monster  ,สัตว์ประหลาดต้นไม้เน่า  ,Monster Pohon Busuk  ,Haliging Bulok  ,Raksasa Pokok Busuk  
+3562,Tiến Hương,Tiến Hương,Incense Forward  ,ธูปมุ่งหน้า  ,Dupa Maju  ,Insenso Pasulong  ,Dupa Maju  
+3631,Giải Phóng Hupa,Giải Phóng Hupa,Hupa Unleashed  ,ฮูป้าปลดปล่อย  ,Hupa Terlepas  ,Pinalaya si Hupa  ,Hupa Dilepaskan  
+3642,Sao Tốt Xấu,Sao Tốt Xấu,Good Bad Star  ,ดาวดีร้าย  ,Bintang Baik Buruk  ,Mabuti Masamang Bituin  ,Bintang Baik Jahat  
+3771,Sao Siêu Xấu,Sao Siêu Xấu,Super Bad Star  ,ดาวร้ายขั้นสุด  ,Bintang Sangat Buruk  ,Bituing Super Sama  ,Bintang Super Jahat  
+3772,Solgaleo,Solgaleo,Solgaleo  ,โซลกาเลโอ  ,Solgaleo  ,Solgaleo  ,Solgaleo  
+4023,Solgaleo,Solgaleo,Solgaleo  ,โซลกาเลโอ  ,Solgaleo  ,Solgaleo  ,Solgaleo  

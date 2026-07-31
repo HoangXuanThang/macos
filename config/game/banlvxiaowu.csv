@@ -1,0 +1,4 @@
+﻿VariableName,name,clothattr,videoattr,chipnum,blessing,attrType,attrNum,cardID,clothCost,videoCost,sort,randLib,chattext1,chattext2,chattext3,roleConfig,chtaTextConfig
+Defaults,,{},{},,,,,,{},{},,,,,,,
+ID,name,clothattr,videoattr,chipnum,blessing,attrType,attrNum,cardID,clothCost,videoCost,sort,randLib,chattext1,chattext2,chattext3,roleConfig,chtaTextConfig
+1,Tứ Phong Viện Dạ Nhất,"{1=""2%"";2=""2%""}","{1=""2%"";2=""2%"";3=""2%""}",28,Vật công,7,5%,1293,{31=10},{30=10},1,130,"So với Thi Hồn Giới, nơi này cũng không tệ lắm nhỉ~",Hôm nay có nhớ chị không nào~,? (??o? ?)????,{x=620;y=365;offsety=30},{x=-100;y=140;scale=1}

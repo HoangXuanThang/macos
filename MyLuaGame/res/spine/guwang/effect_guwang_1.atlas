@@ -1,0 +1,125 @@
+
+effect_guwang_1.png
+size: 572, 1063
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+images/1/0_00000
+  rotate: false
+  xy: 456, 280
+  size: 114, 115
+  orig: 320, 263
+  offset: 111, 88
+  index: -1
+images/1/0_00001
+  rotate: true
+  xy: 460, 397
+  size: 117, 98
+  orig: 320, 263
+  offset: 108, 96
+  index: -1
+images/1/0_00002
+  rotate: true
+  xy: 2, 2
+  size: 141, 115
+  orig: 320, 263
+  offset: 96, 85
+  index: -1
+images/1/0_00003
+  rotate: true
+  xy: 240, 100
+  size: 166, 137
+  orig: 320, 263
+  offset: 82, 70
+  index: -1
+images/1/0_00004
+  rotate: false
+  xy: 2, 276
+  size: 191, 148
+  orig: 320, 263
+  offset: 69, 64
+  index: -1
+images/1/0_00005
+  rotate: false
+  xy: 239, 268
+  size: 215, 166
+  orig: 320, 263
+  offset: 56, 52
+  index: -1
+images/1/0_00006
+  rotate: false
+  xy: 2, 648
+  size: 240, 185
+  orig: 320, 263
+  offset: 43, 40
+  index: -1
+images/1/0_00007
+  rotate: false
+  xy: 272, 641
+  size: 250, 209
+  orig: 320, 263
+  offset: 39, 28
+  index: -1
+images/1/0_00008
+  rotate: false
+  xy: 272, 852
+  size: 259, 209
+  orig: 320, 263
+  offset: 34, 26
+  index: -1
+images/1/0_00009
+  rotate: false
+  xy: 2, 835
+  size: 268, 226
+  orig: 320, 263
+  offset: 35, 11
+  index: -1
+images/1/0_00010
+  rotate: false
+  xy: 2, 426
+  size: 235, 220
+  orig: 320, 263
+  offset: 57, 23
+  index: -1
+images/1/0_00011
+  rotate: false
+  xy: 239, 436
+  size: 219, 203
+  orig: 320, 263
+  offset: 61, 44
+  index: -1
+images/1/0_00012
+  rotate: true
+  xy: 379, 5
+  size: 135, 162
+  orig: 320, 263
+  offset: 111, 68
+  index: -1
+images/1/0_00013
+  rotate: true
+  xy: 379, 142
+  size: 124, 164
+  orig: 320, 263
+  offset: 122, 72
+  index: -1
+images/1/0_00014
+  rotate: true
+  xy: 2, 145
+  size: 129, 168
+  orig: 320, 263
+  offset: 110, 75
+  index: -1
+images/1/0_00015
+  rotate: true
+  xy: 119, 4
+  size: 139, 119
+  orig: 320, 263
+  offset: 100, 84
+  index: -1
+images/1/0_00016
+  rotate: false
+  xy: 460, 516
+  size: 102, 123
+  orig: 320, 263
+  offset: 95, 78
+  index: -1

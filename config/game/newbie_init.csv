@@ -1,0 +1,4 @@
+﻿VariableName,cards,defaultCards,items,vip_level,gold,rmb,figures
+Defaults,<>,<>,{},0,0,0,<>
+ID,选择卡牌,初始卡牌,道具,vip level,金币,钻石,形象选其一
+1,<{nvalue={defence=16;specialDefence=16;damage=16;hp=16;specialDamage=16;speed=16};character=5;id=333}>,,{11=10;30101=1;5000=5},7,50000,,<52>

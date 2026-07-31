@@ -1,0 +1,118 @@
+
+icon_tx_2351.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0/流水 竹简 0001
+  rotate: false
+  xy: 2, 21
+  size: 118, 296
+  orig: 118, 296
+  offset: 0, 0
+  index: -1
+0/流水 竹简 0002
+  rotate: true
+  xy: 387, 387
+  size: 118, 296
+  orig: 118, 296
+  offset: 0, 0
+  index: -1
+0/流水 竹简 0003
+  rotate: false
+  xy: 122, 21
+  size: 118, 296
+  orig: 118, 296
+  offset: 0, 0
+  index: -1
+0/流水 竹简 0004
+  rotate: true
+  xy: 685, 387
+  size: 118, 296
+  orig: 118, 296
+  offset: 0, 0
+  index: -1
+0/流水 竹简 0005
+  rotate: false
+  xy: 242, 21
+  size: 118, 296
+  orig: 118, 296
+  offset: 0, 0
+  index: -1
+0/流水 竹简 0006
+  rotate: true
+  xy: 983, 387
+  size: 118, 296
+  orig: 118, 296
+  offset: 0, 0
+  index: -1
+0/流水 竹简 0007
+  rotate: true
+  xy: 1281, 387
+  size: 118, 296
+  orig: 118, 296
+  offset: 0, 0
+  index: -1
+0/流水 竹简 0008
+  rotate: true
+  xy: 1579, 387
+  size: 118, 296
+  orig: 118, 296
+  offset: 0, 0
+  index: -1
+0/流水 竹简 0009
+  rotate: true
+  xy: 387, 267
+  size: 118, 296
+  orig: 118, 296
+  offset: 0, 0
+  index: -1
+0/流水 竹简 0010
+  rotate: true
+  xy: 685, 267
+  size: 118, 296
+  orig: 118, 296
+  offset: 0, 0
+  index: -1
+0/流水 竹简 0011
+  rotate: true
+  xy: 983, 267
+  size: 118, 296
+  orig: 118, 296
+  offset: 0, 0
+  index: -1
+0/流水 竹简 0012
+  rotate: true
+  xy: 1281, 267
+  size: 118, 296
+  orig: 118, 296
+  offset: 0, 0
+  index: -1
+0/雾0002
+  rotate: false
+  xy: 2, 319
+  size: 383, 186
+  orig: 383, 186
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 1877, 377
+  size: 134, 128
+  orig: 134, 128
+  offset: 0, 0
+  index: -1
+ye1
+  rotate: false
+  xy: 2, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+ye2
+  rotate: false
+  xy: 2013, 479
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1

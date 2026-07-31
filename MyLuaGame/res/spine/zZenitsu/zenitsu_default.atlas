@@ -1,0 +1,132 @@
+
+zenitsu_default.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 47
+  size: 357, 457
+  orig: 357, 457
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 874, 114
+  size: 57, 97
+  orig: 57, 97
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 2, 2
+  size: 43, 103
+  orig: 43, 103
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 3226, 332
+  size: 176, 172
+  orig: 176, 172
+  offset: 0, 0
+  index: -1
+13_1
+  rotate: true
+  xy: 361, 70
+  size: 241, 511
+  orig: 241, 511
+  offset: 0, 0
+  index: -1
+13_2
+  rotate: true
+  xy: 3747, 412
+  size: 92, 148
+  orig: 92, 148
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 361, 313
+  size: 191, 604
+  orig: 191, 604
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 967, 337
+  size: 167, 543
+  orig: 167, 543
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 2830, 289
+  size: 215, 219
+  orig: 215, 219
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 3051, 322
+  size: 173, 182
+  orig: 173, 182
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 1512, 269
+  size: 235, 424
+  orig: 235, 424
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2318, 285
+  size: 283, 219
+  orig: 283, 219
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 3596, 381
+  size: 123, 149
+  orig: 123, 149
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 2603, 286
+  size: 218, 225
+  orig: 218, 225
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 1938, 279
+  size: 225, 378
+  orig: 225, 378
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 3404, 382
+  size: 122, 190
+  orig: 122, 190
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 3897, 449
+  size: 55, 103
+  orig: 55, 103
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 874, 213
+  size: 66, 98
+  orig: 66, 98
+  offset: 0, 0
+  index: -1

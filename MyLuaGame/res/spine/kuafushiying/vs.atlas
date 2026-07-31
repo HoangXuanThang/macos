@@ -1,0 +1,48 @@
+
+vs.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 320, 124
+  size: 111, 112
+  orig: 111, 112
+  offset: 0, 0
+  index: -1
+S
+  rotate: false
+  xy: 320, 356
+  size: 114, 117
+  orig: 114, 117
+  offset: 0, 0
+  index: -1
+V
+  rotate: false
+  xy: 320, 237
+  size: 114, 117
+  orig: 114, 117
+  offset: 0, 0
+  index: -1
+fh
+  rotate: false
+  xy: 2, 2
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 2, 159
+  size: 316, 314
+  orig: 316, 314
+  offset: 0, 0
+  index: -1
+icon_pk
+  rotate: false
+  xy: 2, 30
+  size: 280, 127
+  orig: 280, 127
+  offset: 0, 0
+  index: -1

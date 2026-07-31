@@ -1,0 +1,258 @@
+
+lihui_chitong.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: true
+  xy: 4029, 3576
+  size: 162, 44
+  orig: 162, 44
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: true
+  xy: 2, 2
+  size: 84, 164
+  orig: 84, 164
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 3076
+  size: 1215, 992
+  orig: 1215, 992
+  offset: 0, 0
+  index: -1
+shipin
+  rotate: true
+  xy: 1488, 108
+  size: 28, 57
+  orig: 28, 57
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 2974, 1548
+  size: 283, 184
+  orig: 283, 184
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 3448, 3740
+  size: 628, 328
+  orig: 628, 328
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 3448, 3484
+  size: 579, 254
+  orig: 579, 254
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: false
+  xy: 2016, 202
+  size: 348, 131
+  orig: 348, 131
+  offset: 0, 0
+  index: -1
+toufa5
+  rotate: false
+  xy: 1488, 138
+  size: 526, 195
+  orig: 526, 195
+  offset: 0, 0
+  index: -1
+toufa6
+  rotate: false
+  xy: 2974, 1891
+  size: 418, 346
+  orig: 418, 346
+  offset: 0, 0
+  index: -1
+toufa7
+  rotate: false
+  xy: 3394, 2126
+  size: 128, 111
+  orig: 128, 111
+  offset: 0, 0
+  index: -1
+toufa8
+  rotate: false
+  xy: 2974, 2239
+  size: 590, 335
+  orig: 590, 335
+  offset: 0, 0
+  index: -1
+toufa9
+  rotate: true
+  xy: 3566, 2327
+  size: 247, 147
+  orig: 247, 147
+  offset: 0, 0
+  index: -1
+yijiao
+  rotate: false
+  xy: 3448, 3323
+  size: 292, 159
+  orig: 292, 159
+  offset: 0, 0
+  index: -1
+youshoubi
+  rotate: false
+  xy: 1219, 3126
+  size: 254, 195
+  orig: 254, 195
+  offset: 0, 0
+  index: -1
+zuoshoubi
+  rotate: false
+  xy: 2974, 1734
+  size: 345, 155
+  orig: 345, 155
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10001
+  rotate: false
+  xy: 2, 2329
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10002
+  rotate: false
+  xy: 1219, 3323
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10003
+  rotate: false
+  xy: 2, 1582
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10004
+  rotate: false
+  xy: 1962, 3323
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10005
+  rotate: false
+  xy: 2, 835
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10006
+  rotate: false
+  xy: 2705, 3323
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10007
+  rotate: false
+  xy: 2, 88
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10008
+  rotate: false
+  xy: 745, 2329
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10009
+  rotate: false
+  xy: 745, 1582
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10010
+  rotate: false
+  xy: 745, 835
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10011
+  rotate: false
+  xy: 745, 88
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10012
+  rotate: false
+  xy: 1488, 2576
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10013
+  rotate: false
+  xy: 1488, 1829
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10014
+  rotate: false
+  xy: 2231, 2576
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10015
+  rotate: false
+  xy: 1488, 1082
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10016
+  rotate: false
+  xy: 2231, 1829
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10017
+  rotate: false
+  xy: 1488, 335
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10018
+  rotate: false
+  xy: 2231, 1082
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10019
+  rotate: false
+  xy: 2231, 335
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1
+红色烟雾/元件 10020
+  rotate: false
+  xy: 2974, 2576
+  size: 741, 745
+  orig: 741, 745
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+wenyi.png
+size: 482,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/mm_dq
+  rotate: false
+  xy: 1, 75
+  size: 199, 197
+  orig: 199, 197
+  offset: 0, 0
+  index: -1
+images/paopao
+  rotate: false
+  xy: 392, 69
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+images/sf2
+  rotate: false
+  xy: 392, 183
+  size: 89, 89
+  orig: 95, 92
+  offset: 0, 0
+  index: -1
+images/sf3
+  rotate: true
+  xy: 221, 5
+  size: 78, 85
+  orig: 95, 92
+  offset: 6, 0
+  index: -1
+images/sf4
+  rotate: false
+  xy: 392, 92
+  size: 81, 89
+  orig: 95, 92
+  offset: 5, 0
+  index: -1
+images/sf6
+  rotate: true
+  xy: 1, 1
+  size: 72, 76
+  orig: 95, 92
+  offset: 10, 9
+  index: -1
+images/sf7
+  rotate: true
+  xy: 79, 1
+  size: 72, 73
+  orig: 95, 92
+  offset: 11, 13
+  index: -1
+images/sf8
+  rotate: true
+  xy: 154, 7
+  size: 66, 65
+  orig: 95, 92
+  offset: 10, 21
+  index: -1
+images/sf9
+  rotate: false
+  xy: 308, 8
+  size: 75, 75
+  orig: 95, 92
+  offset: 7, 17
+  index: -1
+images/shouji14_2
+  rotate: false
+  xy: 202, 85
+  size: 188, 187
+  orig: 188, 187
+  offset: 0, 0
+  index: -1

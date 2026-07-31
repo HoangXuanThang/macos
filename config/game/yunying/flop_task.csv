@@ -1,0 +1,101 @@
+﻿VariableName,huodongID,times,taskType,taskParam,taskSpecialParam,desc_cn,desc_tw,desc,desc_vn,desc_kr,award,jumpTo
+Defaults,0,1,0,9999,{},"""""","""""","""""","""""","""""",0,""""""
+ID,活动版本ID,可完成次数,任务类型,任务参数,任务特殊参数,任务描述,任务描述,任务描述,任务描述,任务描述,任务次数奖励,跳转目标
+101,1001,,30,3,,困难副本挑战3次,困難副本挑戰3次,,Thử thách Ải Khó 3 lần,하드 던전 3회 도전,1,20000
+102,1001,,18,3,,聚宝3次,聚寶3次,Join Fortune 3 times,Tham gia Tụ bảo 3 lần,보물단지 3회,1,gainGold
+103,1001,,32,4,,日常副本通关4次,日常副本通關4次,Clear Daily Dungeon 4 times,Vượt Phụ bản hàng ngày 4 lần,일일 던전 4회 클리어,1,activityGate
+104,1001,,41,5,,进行5次竞技场挑战,進行5次競技場挑戰,Challenge in the Arena 5 times,Thử thách trong Đấu trường 5 lần,아레나 도전 5회 진행,1,arena
+105,1001,,26,2,,购买2次体力,購買2次體力,Purchase Stamina 2 times,Mua Năng lượng 2 lần,체력 2회 구매,1,gainStamina
+106,1001,5,22,60,,每充值60钻，可完成5次,每充值60鑽，可完成5次,"Every 60 diamonds purchased, up to 5 times",Mỗi lần nạp 60 Kim cương. tối đa 5 lần,60다이아 충전할 때마다 5회 완료 가능,1,recharge
+111,1002,10,22,60,,每充值60钻，可完成10次,每充值60鑽，可完成10次,"Top-up 60 diamonds, up to 10 times",Nạp 60 Kim cương. tối đa 10 lần,60다이아 충전할 때마다 10회 완료 가능,1,recharge
+112,1002,3,21,200,,每消耗200钻，可完成3次,每消耗200鑽，可完成3次,"Consume 200 diamonds, up to 3 times",Tiêu hao 200 Kim cương. tối đa 3 lần,200다이아 충전할 때마다 3회 완료 가능,1,
+113,1002,,18,5,,聚宝5次,聚寶5次,Join Fortune 5 times,Tham gia Tụ bảo 5 lần,보물단지 5회,1,gainGold
+114,1002,,29,30,,普通副本通关30次,普通副本通關30次,Clear Common Dungeon 30 times,Hoàn thành Vượt Ải 30 lần,일반 던전 30회 클리어,1,10000
+115,1002,,41,5,,进行5次竞技场挑战,進行5次競技場挑戰,Challenge in the Arena 5 times,Thử thách trong Đấu trường 5 lần,아레나 도전 5회 진행,1,arena
+116,1002,,26,2,,购买2次体力,購買2次體力,Purchase Stamina 2 times,Mua Năng lượng 2 lần,체력 2회 구매,1,gainStamina
+121,1003,10,22,60,,每充值60钻，可完成10次,每充值60鑽，可完成10次,"Top-up 60 diamonds, up to 10 times",Nạp 60 Kim cương. tối đa 10 lần,60다이아 충전할 때마다 10회 완료 가능,1,recharge
+122,1003,3,21,200,,每消耗200钻，可完成3次,每消耗200鑽，可完成3次,"Consume 200 diamonds, up to 3 times",Tiêu hao 200 Kim cương. tối đa 3 lần,200다이아 충전할 때마다 3회 완료 가능,1,
+123,1003,,18,5,,聚宝5次,聚寶5次,Join Fortune 5 times,Tham gia Tụ bảo 5 lần,보물단지 5회,1,gainGold
+124,1003,,29,30,,普通副本通关30次,普通副本通關30次,Clear Common Dungeon 30 times,Hoàn thành Vượt Ải 30 lần,일반 던전 30회 클리어,1,10000
+125,1003,,41,5,,进行5次竞技场挑战,進行5次競技場挑戰,Challenge in the Arena 5 times,Thử thách trong Đấu trường 5 lần,아레나 도전 5회 진행,1,arena
+126,1003,,26,2,,购买2次体力,購買2次體力,Purchase Stamina 2 times,Mua Năng lượng 2 lần,체력 2회 구매,1,gainStamina
+131,1004,100,22,75,,每充值60钻，可完成10次,每充值60鑽，可完成10次,"Top-up 60 diamonds, up to 10 times",Nạp 75 Nguyên Bảo. tối đa 100 lần,60다이아 충전할 때마다 10회 완료 가능,1,recharge
+132,1004,3,21,200,,每消耗200钻，可完成3次,每消耗200鑽，可完成3次,"Consume 200 diamonds, up to 3 times",Tiêu hao 200 Kim cương. tối đa 3 lần,200다이아 충전할 때마다 3회 완료 가능,1,
+133,1004,,18,5,,聚宝5次,聚寶5次,Join Fortune 5 times,Tham gia Tụ bảo 5 lần,보물단지 5회,1,gainGold
+134,1004,,29,30,,普通副本通关30次,普通副本通關30次,Clear Common Dungeon 30 times,Hoàn thành Vượt Ải 30 lần,일반 던전 30회 클리어,1,10000
+135,1004,,41,5,,进行5次竞技场挑战,進行5次競技場挑戰,Challenge in the Arena 5 times,Thử thách trong Đấu trường 5 lần,아레나 도전 5회 진행,1,arena
+136,1004,,26,2,,购买2次体力,購買2次體力,Purchase Stamina 2 times,Mua Năng lượng 2 lần,체력 2회 구매,1,gainStamina
+141,1005,100,22,75,,每充值60钻，可完成10次,每充值60鑽，可完成10次,"Top-up 60 diamonds, up to 10 times",Nạp 75 Nguyên Bảo. tối đa 100 lần,60다이아 충전할 때마다 10회 완료 가능,1,recharge
+142,1005,3,21,200,,每消耗200钻，可完成3次,每消耗200鑽，可完成3次,"Consume 200 diamonds, up to 3 times",Tiêu hao 200 Kim cương. tối đa 3 lần,200다이아 충전할 때마다 3회 완료 가능,1,
+143,1005,,18,5,,聚宝5次,聚寶5次,Join Fortune 5 times,Tham gia Tụ bảo 5 lần,보물단지 5회,1,gainGold
+144,1005,,29,30,,普通副本通关30次,普通副本通關30次,Clear Common Dungeon 30 times,Hoàn thành Vượt Ải 30 lần,일반 던전 30회 클리어,1,10000
+145,1005,,41,5,,进行5次竞技场挑战,進行5次競技場挑戰,Challenge in the Arena 5 times,Thử thách trong Đấu trường 5 lần,아레나 도전 5회 진행,1,arena
+146,1005,,26,2,,购买2次体力,購買2次體力,Purchase Stamina 2 times,Mua Năng lượng 2 lần,체력 2회 구매,1,gainStamina
+147,1006,100,22,75,,每充值60钻，可完成10次,每充值60鑽，可完成10次,"Top-up 60 diamonds, up to 10 times",Nạp 75 Nguyên Bảo. tối đa 100 lần,60다이아 충전할 때마다 10회 완료 가능,1,recharge
+148,1006,3,21,200,,每消耗200钻，可完成3次,每消耗200鑽，可完成3次,"Consume 200 diamonds, up to 3 times",Tiêu hao 200 Kim cương. tối đa 3 lần,200다이아 충전할 때마다 3회 완료 가능,1,
+149,1006,,18,5,,聚宝5次,聚寶5次,Join Fortune 5 times,Tham gia Tụ bảo 5 lần,보물단지 5회,1,gainGold
+150,1006,,29,30,,普通副本通关30次,普通副本通關30次,Clear Common Dungeon 30 times,Hoàn thành Vượt Ải 30 lần,일반 던전 30회 클리어,1,10000
+151,1006,,41,5,,进行5次竞技场挑战,進行5次競技場挑戰,Challenge in the Arena 5 times,Thử thách trong Đấu trường 5 lần,아레나 도전 5회 진행,1,arena
+152,1006,,26,2,,购买2次体力,購買2次體力,Purchase Stamina 2 times,Mua Năng lượng 2 lần,체력 2회 구매,1,gainStamina
+153,1007,100,22,75,,每充值60钻，可完成10次,每充值60鑽，可完成10次,"Top-up 60 diamonds, up to 10 times",Nạp 75 Nguyên Bảo. tối đa 100 lần,60다이아 충전할 때마다 10회 완료 가능,1,recharge
+154,1007,3,21,200,,每消耗200钻，可完成3次,每消耗200鑽，可完成3次,"Consume 200 diamonds, up to 3 times",Tiêu hao 200 Kim cương. tối đa 3 lần,200다이아 충전할 때마다 3회 완료 가능,1,
+155,1007,,18,5,,聚宝5次,聚寶5次,Join Fortune 5 times,Tham gia Tụ bảo 5 lần,보물단지 5회,1,gainGold
+156,1007,,29,30,,普通副本通关30次,普通副本通關30次,Clear Common Dungeon 30 times,Hoàn thành Vượt Ải 30 lần,일반 던전 30회 클리어,1,10000
+157,1007,,41,5,,进行5次竞技场挑战,進行5次競技場挑戰,Challenge in the Arena 5 times,Thử thách trong Đấu trường 5 lần,아레나 도전 5회 진행,1,arena
+158,1007,,26,2,,购买2次体力,購買2次體力,Purchase Stamina 2 times,Mua Năng lượng 2 lần,체력 2회 구매,1,gainStamina
+,,,,,,,,,,,,
+159,1008,100,22,75,,每充值60钻，可完成10次,每充值60鑽，可完成10次,"Top-up 60 diamonds, up to 10 times",Nạp 75 Nguyên Bảo. tối đa 100 lần,60다이아 충전할 때마다 10회 완료 가능,1,recharge
+160,1008,3,21,200,,每消耗200钻，可完成3次,每消耗200鑽，可完成3次,"Consume 200 diamonds, up to 3 times",Tiêu hao 200 Kim cương. tối đa 3 lần,200다이아 충전할 때마다 3회 완료 가능,1,
+161,1008,,18,5,,聚宝5次,聚寶5次,Join Fortune 5 times,Tham gia Tụ bảo 5 lần,보물단지 5회,1,gainGold
+162,1008,,29,30,,普通副本通关30次,普通副本通關30次,Clear Common Dungeon 30 times,Hoàn thành Vượt Ải 30 lần,일반 던전 30회 클리어,1,10000
+163,1008,,41,5,,进行5次竞技场挑战,進行5次競技場挑戰,Challenge in the Arena 5 times,Thử thách trong Đấu trường 5 lần,아레나 도전 5회 진행,1,arena
+164,1008,,26,2,,购买2次体力,購買2次體力,Purchase Stamina 2 times,Mua Năng lượng 2 lần,체력 2회 구매,1,gainStamina
+,,,,,,,,,,,,
+166,1009,100,22,75,,每充值60钻，可完成10次,每充值60鑽，可完成10次,"Top-up 60 diamonds, up to 10 times",Nạp 75 Nguyên Bảo. tối đa 100 lần,60다이아 충전할 때마다 10회 완료 가능,1,recharge
+167,1009,3,21,200,,每消耗200钻，可完成3次,每消耗200鑽，可完成3次,"Consume 200 diamonds, up to 3 times",Tiêu hao 200 Kim cương. tối đa 3 lần,200다이아 충전할 때마다 3회 완료 가능,1,
+168,1009,,18,5,,聚宝5次,聚寶5次,Join Fortune 5 times,Tham gia Tụ bảo 5 lần,보물단지 5회,1,gainGold
+169,1009,,29,30,,普通副本通关30次,普通副本通關30次,Clear Common Dungeon 30 times,Hoàn thành Vượt Ải 30 lần,일반 던전 30회 클리어,1,10000
+170,1009,,41,5,,进行5次竞技场挑战,進行5次競技場挑戰,Challenge in the Arena 5 times,Thử thách trong Đấu trường 5 lần,아레나 도전 5회 진행,1,arena
+171,1009,,26,2,,购买2次体力,購買2次體力,Purchase Stamina 2 times,Mua Năng lượng 2 lần,체력 2회 구매,1,gainStamina
+,,,,,,,,,,,,
+173,1010,100,22,75,,每充值60钻，可完成10次,每充值60鑽，可完成10次,"Top-up 60 diamonds, up to 10 times",Nạp 75 Nguyên Bảo. tối đa 100 lần,60다이아 충전할 때마다 10회 완료 가능,1,recharge
+174,1010,3,21,200,,每消耗200钻，可完成3次,每消耗200鑽，可完成3次,"Consume 200 diamonds, up to 3 times",Tiêu hao 200 Kim cương. tối đa 3 lần,200다이아 충전할 때마다 3회 완료 가능,1,
+175,1010,,18,5,,聚宝5次,聚寶5次,Join Fortune 5 times,Tham gia Tụ bảo 5 lần,보물단지 5회,1,gainGold
+176,1010,,29,30,,普通副本通关30次,普通副本通關30次,Clear Common Dungeon 30 times,Hoàn thành Vượt Ải 30 lần,일반 던전 30회 클리어,1,10000
+177,1010,,41,5,,进行5次竞技场挑战,進行5次競技場挑戰,Challenge in the Arena 5 times,Thử thách trong Đấu trường 5 lần,아레나 도전 5회 진행,1,arena
+178,1010,,26,2,,购买2次体力,購買2次體力,Purchase Stamina 2 times,Mua Năng lượng 2 lần,체력 2회 구매,1,gainStamina
+,,,,,,,,,,,,
+180,1011,100,22,75,,每充值60钻，可完成10次,每充值60鑽，可完成10次,"Top-up 60 diamonds, up to 10 times",Nạp 75 Nguyên Bảo. tối đa 100 lần,60다이아 충전할 때마다 10회 완료 가능,1,recharge
+181,1011,3,21,200,,每消耗200钻，可完成3次,每消耗200鑽，可完成3次,"Consume 200 diamonds, up to 3 times",Tiêu hao 200 Kim cương. tối đa 3 lần,200다이아 충전할 때마다 3회 완료 가능,1,
+182,1011,,18,5,,聚宝5次,聚寶5次,Join Fortune 5 times,Tham gia Tụ bảo 5 lần,보물단지 5회,1,gainGold
+183,1011,,29,30,,普通副本通关30次,普通副本通關30次,Clear Common Dungeon 30 times,Hoàn thành Vượt Ải 30 lần,일반 던전 30회 클리어,1,10000
+184,1011,,41,5,,进行5次竞技场挑战,進行5次競技場挑戰,Challenge in the Arena 5 times,Thử thách trong Đấu trường 5 lần,아레나 도전 5회 진행,1,arena
+185,1011,,26,2,,购买2次体力,購買2次體力,Purchase Stamina 2 times,Mua Năng lượng 2 lần,체력 2회 구매,1,gainStamina
+,,,,,,,,,,,,
+187,1012,100,22,75,,每充值60钻，可完成10次,每充值60鑽，可完成10次,"Top-up 60 diamonds, up to 10 times",Nạp 75 Nguyên Bảo. tối đa 100 lần,60다이아 충전할 때마다 10회 완료 가능,1,recharge
+188,1012,3,21,200,,每消耗200钻，可完成3次,每消耗200鑽，可完成3次,"Consume 200 diamonds, up to 3 times",Tiêu hao 200 Kim cương. tối đa 3 lần,200다이아 충전할 때마다 3회 완료 가능,1,
+189,1012,,18,5,,聚宝5次,聚寶5次,Join Fortune 5 times,Tham gia Tụ bảo 5 lần,보물단지 5회,1,gainGold
+190,1012,,29,30,,普通副本通关30次,普通副本通關30次,Clear Common Dungeon 30 times,Hoàn thành Vượt Ải 30 lần,일반 던전 30회 클리어,1,10000
+191,1012,,41,5,,进行5次竞技场挑战,進行5次競技場挑戰,Challenge in the Arena 5 times,Thử thách trong Đấu trường 5 lần,아레나 도전 5회 진행,1,arena
+192,1012,,26,2,,购买2次体力,購買2次體力,Purchase Stamina 2 times,Mua Năng lượng 2 lần,체력 2회 구매,1,gainStamina
+,,,,,,,,,,,,
+194,1013,100,22,75,,每充值60钻，可完成10次,每充值60鑽，可完成10次,"Top-up 60 diamonds, up to 10 times",Nạp 75 Nguyên Bảo. tối đa 100 lần,60다이아 충전할 때마다 10회 완료 가능,1,recharge
+195,1013,3,21,200,,每消耗200钻，可完成3次,每消耗200鑽，可完成3次,"Consume 200 diamonds, up to 3 times",Tiêu hao 200 Kim cương. tối đa 3 lần,200다이아 충전할 때마다 3회 완료 가능,1,
+196,1013,,18,5,,聚宝5次,聚寶5次,Join Fortune 5 times,Tham gia Tụ bảo 5 lần,보물단지 5회,1,gainGold
+197,1013,,29,30,,普通副本通关30次,普通副本通關30次,Clear Common Dungeon 30 times,Hoàn thành Vượt Ải 30 lần,일반 던전 30회 클리어,1,10000
+198,1013,,41,5,,进行5次竞技场挑战,進行5次競技場挑戰,Challenge in the Arena 5 times,Thử thách trong Đấu trường 5 lần,아레나 도전 5회 진행,1,arena
+199,1013,,26,2,,购买2次体力,購買2次體力,Purchase Stamina 2 times,Mua Năng lượng 2 lần,체력 2회 구매,1,gainStamina
+,,,,,,,,,,,,
+201,1014,100,22,75,,每充值60钻，可完成10次,每充值60鑽，可完成10次,"Top-up 60 diamonds, up to 10 times",Nạp 75 Nguyên Bảo. tối đa 100 lần,60다이아 충전할 때마다 10회 완료 가능,1,recharge
+202,1014,3,21,200,,每消耗200钻，可完成3次,每消耗200鑽，可完成3次,"Consume 200 diamonds, up to 3 times",Tiêu hao 200 Kim cương. tối đa 3 lần,200다이아 충전할 때마다 3회 완료 가능,1,
+203,1014,,18,5,,聚宝5次,聚寶5次,Join Fortune 5 times,Tham gia Tụ bảo 5 lần,보물단지 5회,1,gainGold
+204,1014,,29,30,,普通副本通关30次,普通副本通關30次,Clear Common Dungeon 30 times,Hoàn thành Vượt Ải 30 lần,일반 던전 30회 클리어,1,10000
+205,1014,,41,5,,进行5次竞技场挑战,進行5次競技場挑戰,Challenge in the Arena 5 times,Thử thách trong Đấu trường 5 lần,아레나 도전 5회 진행,1,arena
+206,1014,,26,2,,购买2次体力,購買2次體力,Purchase Stamina 2 times,Mua Năng lượng 2 lần,체력 2회 구매,1,gainStamina
+,,,,,,,,,,,,
+208,1015,100,22,75,,每充值60钻，可完成10次,每充值60鑽，可完成10次,"Top-up 60 diamonds, up to 10 times",Nạp 75 Nguyên Bảo. tối đa 100 lần,60다이아 충전할 때마다 10회 완료 가능,1,recharge
+209,1015,3,21,200,,每消耗200钻，可完成3次,每消耗200鑽，可完成3次,"Consume 200 diamonds, up to 3 times",Tiêu hao 200 Kim cương. tối đa 3 lần,200다이아 충전할 때마다 3회 완료 가능,1,
+210,1015,,18,5,,聚宝5次,聚寶5次,Join Fortune 5 times,Tham gia Tụ bảo 5 lần,보물단지 5회,1,gainGold
+211,1015,,29,30,,普通副本通关30次,普通副本通關30次,Clear Common Dungeon 30 times,Hoàn thành Vượt Ải 30 lần,일반 던전 30회 클리어,1,10000
+212,1015,,41,5,,进行5次竞技场挑战,進行5次競技場挑戰,Challenge in the Arena 5 times,Thử thách trong Đấu trường 5 lần,아레나 도전 5회 진행,1,arena
+213,1015,,26,2,,购买2次体力,購買2次體力,Purchase Stamina 2 times,Mua Năng lượng 2 lần,체력 2회 구매,1,gainStamina

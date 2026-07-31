@@ -1,0 +1,90 @@
+
+icon_tx_10.png
+size: 373, 144
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+dt
+  rotate: true
+  xy: 289, 103
+  size: 39, 75
+  orig: 160, 160
+  offset: 105, 21
+  index: -1
+hy
+  rotate: false
+  xy: 336, 68
+  size: 33, 33
+  orig: 160, 160
+  offset: 27, 108
+  index: -1
+k
+  rotate: true
+  xy: 120, 25
+  size: 117, 116
+  orig: 160, 160
+  offset: 20, 22
+  index: -1
+txx
+  rotate: true
+  xy: 2, 17
+  size: 125, 116
+  orig: 160, 160
+  offset: 19, 18
+  index: -1
+ys1
+  rotate: true
+  xy: 289, 35
+  size: 18, 50
+  orig: 160, 160
+  offset: 123, 45
+  index: -1
+ys2
+  rotate: false
+  xy: 244, 4
+  size: 49, 19
+  orig: 160, 160
+  offset: 57, 22
+  index: -1
+ys3
+  rotate: true
+  xy: 295, 8
+  size: 25, 36
+  orig: 160, 160
+  offset: 28, 33
+  index: -1
+yw1
+  rotate: true
+  xy: 238, 25
+  size: 117, 49
+  orig: 160, 160
+  offset: 23, 20
+  index: -1
+yw2
+  rotate: false
+  xy: 186, 2
+  size: 56, 21
+  orig: 160, 160
+  offset: 40, 19
+  index: -1
+yw3
+  rotate: true
+  xy: 289, 55
+  size: 46, 45
+  orig: 160, 160
+  offset: 97, 77
+  index: -1
+yw4
+  rotate: false
+  xy: 120, 2
+  size: 64, 21
+  orig: 160, 160
+  offset: 56, 120
+  index: -1
+yw5
+  rotate: false
+  xy: 341, 11
+  size: 30, 55
+  orig: 160, 160
+  offset: 16, 59
+  index: -1

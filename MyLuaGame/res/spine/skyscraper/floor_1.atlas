@@ -1,0 +1,41 @@
+
+floor_1.png
+size: 689,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng1
+  rotate: true
+  xy: 582, 66
+  size: 173, 106
+  orig: 173, 106
+  offset: 0, 0
+  index: -1
+deng2
+  rotate: false
+  xy: 294, 128
+  size: 286, 111
+  orig: 286, 111
+  offset: 0, 0
+  index: -1
+deng3
+  rotate: false
+  xy: 294, 1
+  size: 252, 125
+  orig: 252, 125
+  offset: 0, 0
+  index: -1
+deng4
+  rotate: false
+  xy: 548, 11
+  size: 48, 53
+  orig: 49, 53
+  offset: 1, 0
+  index: -1
+lou1
+  rotate: false
+  xy: 1, 16
+  size: 291, 223
+  orig: 291, 223
+  offset: 0, 0
+  index: -1

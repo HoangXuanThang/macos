@@ -1,0 +1,132 @@
+﻿Build started 4/21/2025 5:05:25 PM.
+     1>Project "E:\Pokemon\Scarlet\MyLuaGame\frameworks\cocos2d-x\cocos\editor-support\spine\proj.win32\libSpine.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"E:\Pokemon\Scarlet\MyLuaGame\frameworks\cocos2d-x\cocos\2d\..\..\\" /I"E:\Pokemon\Scarlet\MyLuaGame\frameworks\cocos2d-x\cocos\2d\..\..\cocos\editor-support" /I"E:\Pokemon\Scarlet\MyLuaGame\frameworks\cocos2d-x\cocos\2d\..\..\extensions" /I"E:\Pokemon\Scarlet\MyLuaGame\frameworks\cocos2d-x\cocos\2d\..\..\cocos" /I"E:\Pokemon\Scarlet\MyLuaGame\frameworks\cocos2d-x\cocos\2d\..\..\cocos/editor-support" /I"E:\Pokemon\Scarlet\MyLuaGame\frameworks\cocos2d-x\cocos\2d\..\..\external\glfw3\include\win32" /I"E:\Pokemon\Scarlet\MyLuaGame\frameworks\cocos2d-x\cocos\2d\..\..\external\win32-specific\gles\include\OGLES" /I"E:\Pokemon\Scarlet\MyLuaGame\frameworks\cocos2d-x\cocos\2d\..\..\external\freetype2\include\win32\freetype2" /I"E:\Pokemon\Scarlet\MyLuaGame\frameworks\cocos2d-x\cocos\2d\..\..\external\freetype2\include\win32\\" /I"E:\Pokemon\Scarlet\MyLuaGame\frameworks\cocos2d-x\cocos\2d\..\..\external" /I"E:\Pokemon\Scarlet\MyLuaGame\frameworks\cocos2d-x\cocos\2d\..\..\external\openssl\include\win32" /ZI /nologo /W3 /WX- /MP /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _LIB /D COCOS2DXWIN32_EXPORTS /D GL_GLEXT_PROTOTYPES /D COCOS2D_DEBUG=1 /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS /D _VARIADIC_MAX=10 /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug.win32\\" /Fd"Debug.win32\vc120.pdb" /Gd /TC /wd4267 /wd4251 /wd4244 /analyze- /errorReport:prompt ..\Animation.c ..\AnimationState.c ..\AnimationStateData.c ..\Array.c ..\Atlas.c ..\AtlasAttachmentLoader.c ..\Attachment.c ..\AttachmentLoader.c ..\Bone.c ..\BoneData.c ..\BoundingBoxAttachment.c ..\ClippingAttachment.c ..\Color.c ..\Event.c ..\EventData.c ..\extension.c ..\IkConstraint.c ..\IkConstraintData.c ..\Json.c ..\MeshAttachment.c ..\PathAttachment.c ..\PathConstraint.c ..\PathConstraintData.c ..\PointAttachment.c ..\RegionAttachment.c ..\Skeleton.c ..\SkeletonBinary.c ..\SkeletonBounds.c ..\SkeletonClipping.c ..\SkeletonData.c ..\SkeletonJson.c ..\Skin.c ..\Slot.c ..\SlotData.c ..\TransformConstraint.c ..\TransformConstraintData.c ..\Triangulator.c ..\VertexAttachment.c ..\VertexEffect.c
+         Animation.c
+         AnimationState.c
+         AnimationStateData.c
+         Array.c
+         Atlas.c
+         AtlasAttachmentLoader.c
+         Attachment.c
+         AttachmentLoader.c
+         Bone.c
+         BoneData.c
+         BoundingBoxAttachment.c
+         ClippingAttachment.c
+         Color.c
+         Event.c
+         EventData.c
+         extension.c
+         IkConstraint.c
+         IkConstraintData.c
+         Json.c
+         MeshAttachment.c
+         PathAttachment.c
+         PathConstraint.c
+         PathConstraintData.c
+         PointAttachment.c
+         RegionAttachment.c
+         Skeleton.c
+         SkeletonBinary.c
+         SkeletonBounds.c
+         SkeletonClipping.c
+         SkeletonData.c
+         SkeletonJson.c
+         Skin.c
+         Slot.c
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\editor-support\spine\skeletonbinary.c(330): warning C4018: '<' : signed/unsigned mismatch
+         SlotData.c
+         TransformConstraint.c
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\editor-support\spine\skeletonbinary.c(393): warning C4018: '<' : signed/unsigned mismatch
+         TransformConstraintData.c
+         Triangulator.c
+         VertexAttachment.c
+         VertexEffect.c
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\editor-support\spine\skeletonjson.c(96): warning C4018: '>=' : signed/unsigned mismatch
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\editor-support\spine\skeletonbinary.c(505): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\editor-support\spine\skeletonbinary.c(670): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\editor-support\spine\skeletonbinary.c(673): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\editor-support\spine\skeletonbinary.c(944): warning C4101: 'a' : unreferenced local variable
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\editor-support\spine\skeletonbinary.c(944): warning C4101: 'b' : unreferenced local variable
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\editor-support\spine\skeletonbinary.c(944): warning C4101: 'g' : unreferenced local variable
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\editor-support\spine\skeletonbinary.c(944): warning C4101: 'r' : unreferenced local variable
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"E:\Pokemon\Scarlet\MyLuaGame\frameworks\cocos2d-x\cocos\2d\..\..\\" /I"E:\Pokemon\Scarlet\MyLuaGame\frameworks\cocos2d-x\cocos\2d\..\..\cocos\editor-support" /I"E:\Pokemon\Scarlet\MyLuaGame\frameworks\cocos2d-x\cocos\2d\..\..\extensions" /I"E:\Pokemon\Scarlet\MyLuaGame\frameworks\cocos2d-x\cocos\2d\..\..\cocos" /I"E:\Pokemon\Scarlet\MyLuaGame\frameworks\cocos2d-x\cocos\2d\..\..\cocos/editor-support" /I"E:\Pokemon\Scarlet\MyLuaGame\frameworks\cocos2d-x\cocos\2d\..\..\external\glfw3\include\win32" /I"E:\Pokemon\Scarlet\MyLuaGame\frameworks\cocos2d-x\cocos\2d\..\..\external\win32-specific\gles\include\OGLES" /I"E:\Pokemon\Scarlet\MyLuaGame\frameworks\cocos2d-x\cocos\2d\..\..\external\freetype2\include\win32\freetype2" /I"E:\Pokemon\Scarlet\MyLuaGame\frameworks\cocos2d-x\cocos\2d\..\..\external\freetype2\include\win32\\" /I"E:\Pokemon\Scarlet\MyLuaGame\frameworks\cocos2d-x\cocos\2d\..\..\external" /I"E:\Pokemon\Scarlet\MyLuaGame\frameworks\cocos2d-x\cocos\2d\..\..\external\openssl\include\win32" /ZI /nologo /W3 /WX- /MP /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _LIB /D COCOS2DXWIN32_EXPORTS /D GL_GLEXT_PROTOTYPES /D COCOS2D_DEBUG=1 /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS /D _VARIADIC_MAX=10 /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug.win32\\" /Fd"Debug.win32\vc120.pdb" /Gd /TP /wd4267 /wd4251 /wd4244 /analyze- /errorReport:prompt ..\AttachmentVertices.cpp ..\Cocos2dAttachmentLoader.cpp ..\SkeletonAnimation.cpp ..\SkeletonBatch.cpp ..\SkeletonRenderer.cpp ..\SkeletonTwoColorBatch.cpp "..\spine-cocos2dx.cpp"
+         AttachmentVertices.cpp
+         Cocos2dAttachmentLoader.cpp
+         SkeletonAnimation.cpp
+         SkeletonBatch.cpp
+         SkeletonRenderer.cpp
+         SkeletonTwoColorBatch.cpp
+         spine-cocos2dx.cpp
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\base\allocator\tjallocator.h(158): warning C4146: unary minus operator applied to unsigned type, result still unsigned (..\AttachmentVertices.cpp)
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\base\allocator\tjallocator.h(254): warning C4146: unary minus operator applied to unsigned type, result still unsigned (..\AttachmentVertices.cpp)
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\base\allocator\tjallocator.h(158): warning C4146: unary minus operator applied to unsigned type, result still unsigned (..\SkeletonBatch.cpp)
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\base\allocator\tjallocator.h(254): warning C4146: unary minus operator applied to unsigned type, result still unsigned (..\SkeletonBatch.cpp)
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\base\allocator\tjallocator.h(158): warning C4146: unary minus operator applied to unsigned type, result still unsigned (..\spine-cocos2dx.cpp)
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\base\allocator\tjallocator.h(254): warning C4146: unary minus operator applied to unsigned type, result still unsigned (..\spine-cocos2dx.cpp)
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\base\allocator\tjallocator.h(158): warning C4146: unary minus operator applied to unsigned type, result still unsigned (..\SkeletonAnimation.cpp)
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\base\allocator\tjallocator.h(254): warning C4146: unary minus operator applied to unsigned type, result still unsigned (..\SkeletonAnimation.cpp)
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\base\allocator\tjallocator.h(158): warning C4146: unary minus operator applied to unsigned type, result still unsigned (..\Cocos2dAttachmentLoader.cpp)
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\base\allocator\tjallocator.h(254): warning C4146: unary minus operator applied to unsigned type, result still unsigned (..\Cocos2dAttachmentLoader.cpp)
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\base\allocator\tjallocator.h(158): warning C4146: unary minus operator applied to unsigned type, result still unsigned (..\SkeletonTwoColorBatch.cpp)
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\base\allocator\tjallocator.h(254): warning C4146: unary minus operator applied to unsigned type, result still unsigned (..\SkeletonTwoColorBatch.cpp)
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\base\allocator\tjallocator.h(158): warning C4146: unary minus operator applied to unsigned type, result still unsigned (..\SkeletonRenderer.cpp)
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\base\allocator\tjallocator.h(254): warning C4146: unary minus operator applied to unsigned type, result still unsigned (..\SkeletonRenderer.cpp)
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\editor-support\spine\skeletontwocolorbatch.cpp(284): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\editor-support\spine\skeletontwocolorbatch.cpp(319): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\editor-support\spine\skeletontwocolorbatch.cpp(355): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\pokemon\scarlet\myluagame\frameworks\cocos2d-x\cocos\editor-support\spine\skeletontwocolorbatch.cpp(603): warning C4018: '<' : signed/unsigned mismatch
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"E:\Pokemon\Scarlet\MyLuaGame\frameworks\runtime-src\proj.win32\Debug.win32\libSpine.lib" /NOLOGO Debug.win32\Animation.obj
+         Debug.win32\AnimationState.obj
+         Debug.win32\AnimationStateData.obj
+         Debug.win32\Array.obj
+         Debug.win32\Atlas.obj
+         Debug.win32\AtlasAttachmentLoader.obj
+         Debug.win32\Attachment.obj
+         Debug.win32\AttachmentLoader.obj
+         Debug.win32\AttachmentVertices.obj
+         Debug.win32\Bone.obj
+         Debug.win32\BoneData.obj
+         Debug.win32\BoundingBoxAttachment.obj
+         Debug.win32\ClippingAttachment.obj
+         Debug.win32\Cocos2dAttachmentLoader.obj
+         Debug.win32\Color.obj
+         Debug.win32\Event.obj
+         Debug.win32\EventData.obj
+         Debug.win32\extension.obj
+         Debug.win32\IkConstraint.obj
+         Debug.win32\IkConstraintData.obj
+         Debug.win32\Json.obj
+         Debug.win32\MeshAttachment.obj
+         Debug.win32\PathAttachment.obj
+         Debug.win32\PathConstraint.obj
+         Debug.win32\PathConstraintData.obj
+         Debug.win32\PointAttachment.obj
+         Debug.win32\RegionAttachment.obj
+         Debug.win32\Skeleton.obj
+         Debug.win32\SkeletonAnimation.obj
+         Debug.win32\SkeletonBatch.obj
+         Debug.win32\SkeletonBinary.obj
+         Debug.win32\SkeletonBounds.obj
+         Debug.win32\SkeletonClipping.obj
+         Debug.win32\SkeletonData.obj
+         Debug.win32\SkeletonJson.obj
+         Debug.win32\SkeletonRenderer.obj
+         Debug.win32\SkeletonTwoColorBatch.obj
+         Debug.win32\Skin.obj
+         Debug.win32\Slot.obj
+         Debug.win32\SlotData.obj
+         "Debug.win32\spine-cocos2dx.obj"
+         Debug.win32\TransformConstraint.obj
+         Debug.win32\TransformConstraintData.obj
+         Debug.win32\Triangulator.obj
+         Debug.win32\VertexAttachment.obj
+         Debug.win32\VertexEffect.obj
+         libSpine.vcxproj -> E:\Pokemon\Scarlet\MyLuaGame\frameworks\runtime-src\proj.win32\Debug.win32\libSpine.lib
+     1>Done Building Project "E:\Pokemon\Scarlet\MyLuaGame\frameworks\cocos2d-x\cocos\editor-support\spine\proj.win32\libSpine.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:15.58

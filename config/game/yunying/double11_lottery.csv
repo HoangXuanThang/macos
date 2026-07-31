@@ -1,0 +1,11 @@
+﻿VariableName,huodongID,prize,name,name_th,name_en,name_vn,name_kr,award,weight
+Defaults,0,0,"""""","""""","""""","""""","""""",{},0
+ID,活动版本ID,奖品等级,名称,名称,名称,名称,名称,奖品道具,中奖概率
+1,1,1,First Prize,รางวัลที่หนึ่ง,404,Giải nhất,404,{gold=1680000;521=4;rmb=288;503=6},1
+2,1,2,Second Prize,รางวัลที่สอง,404,Giải nhì,404,{gold=1080000;521=2;rmb=168;503=4},4
+3,1,3,Third Prize,รางวัลที่สาม,404,Giải ba,404,{502=3;gold=680000;rmb=88;503=2},20
+4,1,4,Lucky Prize,รางวัลโชคดี,404,Chúc  may mắn,404,{502=1;gold=280000;rmb=38;503=1},75
+11,2,1,First Prize,รางวัลที่หนึ่ง,404,Giải nhất,404,{gold=1680000;521=4;rmb=288;503=6},1
+12,2,2,Second Prize,รางวัลที่สอง,404,Giải nhì,404,{gold=1080000;521=2;rmb=168;503=4},4
+13,2,3,Third Prize,รางวัลที่สาม,404,Giải ba,404,{502=3;gold=680000;rmb=88;503=2},20
+14,2,4,Lucky Prize,รางวัลโชคดี,404,Chúc  may mắn,404,{502=1;gold=280000;rmb=38;503=1},75

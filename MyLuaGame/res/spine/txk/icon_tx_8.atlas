@@ -1,0 +1,83 @@
+
+icon_tx_8.png
+size: 296, 262
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+baojian
+  rotate: false
+  xy: 120, 58
+  size: 58, 69
+  orig: 161, 162
+  offset: 92, 22
+  index: -1
+dikuang
+  rotate: false
+  xy: 2, 10
+  size: 116, 116
+  orig: 161, 162
+  offset: 22, 23
+  index: -1
+huangguan
+  rotate: true
+  xy: 120, 2
+  size: 54, 56
+  orig: 161, 162
+  offset: 17, 93
+  index: -1
+hzz
+  rotate: false
+  xy: 113, 159
+  size: 100, 101
+  orig: 160, 160
+  offset: 43, 17
+  index: -1
+liuguang1
+  rotate: true
+  xy: 113, 129
+  size: 28, 65
+  orig: 161, 162
+  offset: 20, 65
+  index: -1
+liuguang2
+  rotate: false
+  xy: 180, 13
+  size: 58, 62
+  orig: 161, 162
+  offset: 90, 16
+  index: -1
+sidai1
+  rotate: false
+  xy: 180, 77
+  size: 114, 80
+  orig: 161, 162
+  offset: 20, 14
+  index: -1
+sidai2
+  rotate: true
+  xy: 215, 196
+  size: 64, 71
+  orig: 161, 162
+  offset: 75, 76
+  index: -1
+sidai3
+  rotate: true
+  xy: 215, 164
+  size: 30, 45
+  orig: 161, 162
+  offset: 103, 27
+  index: -1
+xing
+  rotate: false
+  xy: 262, 168
+  size: 25, 26
+  orig: 29, 29
+  offset: 2, 1
+  index: -1
+zz
+  rotate: true
+  xy: 2, 128
+  size: 132, 109
+  orig: 160, 160
+  offset: 9, 31
+  index: -1

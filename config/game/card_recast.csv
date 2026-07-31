@@ -1,0 +1,10 @@
+﻿VariableName,lockNum,costItems
+Defaults,0,{}
+ID,锁定数量,洗炼消耗
+1,,{19=1;rmb=0;gold=10000}
+2,1,{19=1;rmb=50;gold=10000}
+3,2,{19=1;rmb=120;gold=10000}
+4,3,{19=1;rmb=200;gold=10000}
+5,4,{19=1;rmb=350;gold=10000}
+6,5,{19=1;rmb=550;gold=10000}
+7,6,{19=1;rmb=550;gold=10000}

@@ -1,0 +1,90 @@
+
+jx_guanghuan.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 604
+  size: 402, 299
+  orig: 402, 299
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 303
+  size: 402, 299
+  orig: 402, 299
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 406, 604
+  size: 402, 299
+  orig: 402, 299
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 2, 2
+  size: 402, 299
+  orig: 402, 299
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 406, 303
+  size: 402, 299
+  orig: 402, 299
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 810, 604
+  size: 402, 299
+  orig: 402, 299
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 406, 2
+  size: 402, 299
+  orig: 402, 299
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 810, 303
+  size: 402, 299
+  orig: 402, 299
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 1214, 604
+  size: 402, 299
+  orig: 402, 299
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 810, 2
+  size: 402, 299
+  orig: 402, 299
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 1214, 303
+  size: 402, 299
+  orig: 402, 299
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 1618, 604
+  size: 402, 299
+  orig: 402, 299
+  offset: 0, 0
+  index: -1

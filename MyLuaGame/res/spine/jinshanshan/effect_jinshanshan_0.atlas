@@ -1,0 +1,48 @@
+
+effect_jinshanshan_0.png
+size: 1296, 201
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 962, 4
+  size: 190, 195
+  orig: 500, 500
+  offset: 157, 161
+  index: -1
+images/0_00001
+  rotate: false
+  xy: 2, 8
+  size: 253, 191
+  orig: 500, 500
+  offset: 104, 159
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 257, 2
+  size: 237, 197
+  orig: 500, 500
+  offset: 120, 158
+  index: -1
+images/0_00005
+  rotate: false
+  xy: 735, 11
+  size: 225, 188
+  orig: 500, 500
+  offset: 132, 162
+  index: -1
+images/0_00007
+  rotate: false
+  xy: 496, 16
+  size: 237, 183
+  orig: 500, 500
+  offset: 124, 167
+  index: -1
+images/0_00009
+  rotate: true
+  xy: 1154, 39
+  size: 160, 140
+  orig: 500, 500
+  offset: 163, 170
+  index: -1

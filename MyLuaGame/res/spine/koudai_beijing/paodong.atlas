@@ -1,0 +1,48 @@
+
+paodong.png
+size: 978,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangyun1
+  rotate: false
+  xy: 892, 251
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+h
+  rotate: true
+  xy: 970, 516
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+h2
+  rotate: true
+  xy: 812, 177
+  size: 354, 78
+  orig: 354, 78
+  offset: 0, 0
+  index: -1
+suducanying
+  rotate: true
+  xy: 892, 304
+  size: 227, 76
+  orig: 248, 108
+  offset: 0, 18
+  index: -1
+wuxianbeijing
+  rotate: false
+  xy: 1, 1
+  size: 809, 530
+  orig: 809, 530
+  offset: 0, 0
+  index: -1
+xian5_2
+  rotate: false
+  xy: 812, 103
+  size: 65, 72
+  orig: 65, 72
+  offset: 0, 0
+  index: -1

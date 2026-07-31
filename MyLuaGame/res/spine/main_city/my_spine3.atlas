@@ -1,0 +1,90 @@
+
+my_spine3.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 139, 49
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: false
+  xy: 167, 72
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+qian
+  rotate: false
+  xy: 2, 15
+  size: 67, 28
+  orig: 67, 28
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 45
+  size: 81, 135
+  orig: 81, 135
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 119, 33
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 93, 8
+  size: 6, 18
+  orig: 6, 18
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 177, 94
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: true
+  xy: 2, 5
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: -1
+toufa5
+  rotate: true
+  xy: 71, 28
+  size: 15, 46
+  orig: 15, 46
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 71, 2
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+xiong01
+  rotate: false
+  xy: 139, 59
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+xiong02
+  rotate: false
+  xy: 139, 91
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1

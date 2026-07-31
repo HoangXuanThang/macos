@@ -1,0 +1,27 @@
+
+icon_tx_2381.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: true
+  xy: 2, 2
+  size: 71, 131
+  orig: 71, 131
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 167, 101
+  size: 71, 131
+  orig: 71, 131
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 75
+  size: 163, 157
+  orig: 163, 157
+  offset: 0, 0
+  index: -1

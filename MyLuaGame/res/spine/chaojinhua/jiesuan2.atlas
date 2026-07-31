@@ -1,0 +1,62 @@
+
+jiesuan2.png
+size: 1952,896
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/guangyun
+  rotate: false
+  xy: 2, 98
+  size: 796, 796
+  orig: 796, 796
+  offset: 0, 0
+  index: -1
+beiguang
+  rotate: false
+  xy: 800, 324
+  size: 970, 570
+  orig: 970, 570
+  offset: 0, 0
+  index: -1
+cjhcg
+  rotate: true
+  xy: 1772, 189
+  size: 705, 178
+  orig: 705, 178
+  offset: 0, 0
+  index: -1
+dna
+  rotate: false
+  xy: 800, 8
+  size: 119, 179
+  orig: 119, 179
+  offset: 0, 0
+  index: -1
+lanxing1
+  rotate: false
+  xy: 98, 34
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+quan1
+  rotate: false
+  xy: 1259, 40
+  size: 282, 282
+  orig: 282, 282
+  offset: 0, 0
+  index: -1
+xing1
+  rotate: false
+  xy: 2, 2
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+yuan1
+  rotate: false
+  xy: 921, 3
+  size: 336, 319
+  orig: 336, 319
+  offset: 0, 0
+  index: -1

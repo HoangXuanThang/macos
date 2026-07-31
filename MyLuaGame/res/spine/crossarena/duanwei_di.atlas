@@ -1,0 +1,27 @@
+
+duanwei_di.png
+size: 961,242
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bjtex1
+  rotate: false
+  xy: 381, 50
+  size: 394, 191
+  orig: 394, 395
+  offset: 0, 0
+  index: -1
+bjtex2
+  rotate: false
+  xy: 1, 1
+  size: 378, 240
+  orig: 378, 240
+  offset: 0, 0
+  index: -1
+qtz2
+  rotate: false
+  xy: 777, 58
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1

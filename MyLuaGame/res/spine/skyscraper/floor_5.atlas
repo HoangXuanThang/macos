@@ -1,0 +1,76 @@
+
+floor_5.png
+size: 759,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biao
+  rotate: false
+  xy: 431, 4
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+biaopan
+  rotate: false
+  xy: 299, 2
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+chuanghu
+  rotate: true
+  xy: 299, 42
+  size: 115, 106
+  orig: 115, 106
+  offset: 0, 0
+  index: -1
+hengliang1
+  rotate: false
+  xy: 475, 1
+  size: 203, 16
+  orig: 203, 16
+  offset: 0, 0
+  index: -1
+hengliang2
+  rotate: false
+  xy: 475, 56
+  size: 283, 101
+  orig: 283, 101
+  offset: 0, 0
+  index: -1
+qi
+  rotate: true
+  xy: 475, 19
+  size: 35, 74
+  orig: 35, 74
+  offset: 0, 0
+  index: -1
+tiao
+  rotate: true
+  xy: 680, 40
+  size: 14, 71
+  orig: 14, 71
+  offset: 0, 0
+  index: -1
+zhaopai
+  rotate: false
+  xy: 407, 48
+  size: 63, 109
+  orig: 63, 109
+  offset: 0, 0
+  index: -1
+zhongbiao
+  rotate: false
+  xy: 1, 4
+  size: 296, 153
+  orig: 296, 153
+  offset: 0, 0
+  index: -1
+zu
+  rotate: true
+  xy: 339, 4
+  size: 36, 90
+  orig: 36, 90
+  offset: 0, 0
+  index: -1

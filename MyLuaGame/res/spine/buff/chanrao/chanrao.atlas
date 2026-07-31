@@ -1,0 +1,41 @@
+
+chanrao.png
+size: 752,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1_4_0005
+  rotate: true
+  xy: 373, 1
+  size: 138, 124
+  orig: 141, 130
+  offset: 2, 6
+  index: -1
+skill1_4_0007
+  rotate: true
+  xy: 499, 12
+  size: 127, 125
+  orig: 141, 130
+  offset: 14, 5
+  index: -1
+skill1_4_0009
+  rotate: true
+  xy: 626, 12
+  size: 127, 125
+  orig: 141, 130
+  offset: 14, 5
+  index: -1
+tengman
+  rotate: true
+  xy: 1, 45
+  size: 94, 370
+  orig: 94, 370
+  offset: 0, 0
+  index: -1
+yezizz1
+  rotate: false
+  xy: 1, 12
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1

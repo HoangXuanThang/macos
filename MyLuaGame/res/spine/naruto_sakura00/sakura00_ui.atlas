@@ -1,0 +1,132 @@
+
+sakura00_ui.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+11003101_lihui_bao
+  rotate: false
+  xy: 496, 87
+  size: 66, 96
+  orig: 66, 97
+  offset: 0, 0
+  index: -1
+11003101_lihui_biyan
+  rotate: false
+  xy: 873, 383
+  size: 86, 23
+  orig: 90, 23
+  offset: 3, 0
+  index: -1
+11003101_lihui_daizi
+  rotate: false
+  xy: 540, 199
+  size: 137, 36
+  orig: 137, 36
+  offset: 0, 0
+  index: -1
+11003101_lihui_houtoufa
+  rotate: false
+  xy: 168, 12
+  size: 173, 188
+  orig: 173, 188
+  offset: 0, 0
+  index: -1
+11003101_lihui_lian
+  rotate: true
+  xy: 0, 43
+  size: 103, 157
+  orig: 103, 157
+  offset: 0, 0
+  index: -1
+11003101_lihui_qunbai1
+  rotate: false
+  xy: 168, 200
+  size: 174, 302
+  orig: 174, 302
+  offset: 0, 0
+  index: -1
+11003101_lihui_shou1
+  rotate: false
+  xy: 960, 437
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+11003101_lihui_shou2
+  rotate: false
+  xy: 427, 26
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+11003101_lihui_shoubi1
+  rotate: false
+  xy: 342, 183
+  size: 198, 52
+  orig: 198, 52
+  offset: 0, 0
+  index: -1
+11003101_lihui_shoubi2
+  rotate: false
+  xy: 427, 75
+  size: 69, 108
+  orig: 69, 108
+  offset: 0, 0
+  index: -1
+11003101_lihui_shoubi3
+  rotate: false
+  xy: 0, 0
+  size: 155, 43
+  orig: 155, 43
+  offset: 0, 0
+  index: -1
+11003101_lihui_st_1
+  rotate: true
+  xy: 342, 235
+  size: 141, 320
+  orig: 141, 320
+  offset: 0, 0
+  index: -1
+11003101_lihui_st_2
+  rotate: false
+  xy: 0, 146
+  size: 168, 356
+  orig: 168, 357
+  offset: 0, 0
+  index: -1
+11003101_lihui_st_3
+  rotate: true
+  xy: 678, 377
+  size: 29, 195
+  orig: 29, 196
+  offset: 0, 1
+  index: -1
+11003101_lihui_toufa1
+  rotate: false
+  xy: 341, 12
+  size: 37, 171
+  orig: 37, 172
+  offset: 0, 0
+  index: -1
+11003101_lihui_toufa2
+  rotate: false
+  xy: 378, 25
+  size: 49, 158
+  orig: 49, 158
+  offset: 0, 0
+  index: -1
+11003101_lihui_tui
+  rotate: true
+  xy: 342, 376
+  size: 126, 336
+  orig: 126, 336
+  offset: 0, 0
+  index: -1
+11003101_lihui_tui2
+  rotate: true
+  xy: 678, 406
+  size: 96, 282
+  orig: 96, 282
+  offset: 0, 0
+  index: -1

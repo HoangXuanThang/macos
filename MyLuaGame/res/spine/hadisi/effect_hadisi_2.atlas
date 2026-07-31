@@ -1,0 +1,286 @@
+
+effect_hadisi_2.png
+size: 2030, 772
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+images/superskill_hit 2/0_00000
+  rotate: true
+  xy: 1166, 2
+  size: 32, 126
+  orig: 200, 500
+  offset: 84, 120
+  index: -1
+images/superskill_hit 2/0_00001
+  rotate: true
+  xy: 1826, 288
+  size: 68, 184
+  orig: 200, 500
+  offset: 72, 113
+  index: -1
+images/superskill_hit 2/0_00002
+  rotate: false
+  xy: 1231, 243
+  size: 106, 224
+  orig: 200, 500
+  offset: 52, 120
+  index: -1
+images/superskill_hit 2/0_00004
+  rotate: true
+  xy: 1322, 120
+  size: 114, 228
+  orig: 200, 500
+  offset: 44, 120
+  index: -1
+images/superskill_hit 2/0_00006
+  rotate: true
+  xy: 1322, 10
+  size: 108, 231
+  orig: 200, 500
+  offset: 47, 120
+  index: -1
+images/superskill_hit 2/0_00008
+  rotate: true
+  xy: 1599, 390
+  size: 95, 235
+  orig: 200, 500
+  offset: 52, 120
+  index: -1
+images/superskill_hit 2/0_00010
+  rotate: true
+  xy: 1339, 236
+  size: 94, 239
+  orig: 200, 500
+  offset: 53, 120
+  index: -1
+images/superskill_hit 2/0_00012
+  rotate: true
+  xy: 2, 5
+  size: 85, 242
+  orig: 200, 500
+  offset: 56, 120
+  index: -1
+images/superskill_hit 2/0_00014
+  rotate: true
+  xy: 1589, 305
+  size: 83, 235
+  orig: 200, 500
+  offset: 55, 127
+  index: -1
+images/superskill_hit 2/0_00015
+  rotate: true
+  xy: 1580, 225
+  size: 78, 231
+  orig: 200, 500
+  offset: 56, 131
+  index: -1
+images/superskill_hit 2/0_00016
+  rotate: true
+  xy: 1552, 151
+  size: 72, 228
+  orig: 200, 500
+  offset: 59, 135
+  index: -1
+images/superskill_hit 2/0_00017
+  rotate: true
+  xy: 1782, 144
+  size: 39, 225
+  orig: 200, 500
+  offset: 64, 138
+  index: -1
+images/superskill_hit 2/0_00018
+  rotate: true
+  xy: 1010, 213
+  size: 12, 14
+  orig: 200, 500
+  offset: 68, 229
+  index: -1
+images/superskill_hit 3/0_00000
+  rotate: false
+  xy: 1010, 255
+  size: 219, 212
+  orig: 500, 500
+  offset: 141, 79
+  index: -1
+images/superskill_hit 3/0_00002
+  rotate: false
+  xy: 2, 414
+  size: 340, 356
+  orig: 500, 500
+  offset: 86, 42
+  index: -1
+images/superskill_hit 3/0_00004
+  rotate: false
+  xy: 2, 92
+  size: 336, 320
+  orig: 500, 500
+  offset: 85, 46
+  index: -1
+images/superskill_hit 3/0_00006
+  rotate: false
+  xy: 344, 457
+  size: 330, 313
+  orig: 500, 500
+  offset: 86, 56
+  index: -1
+images/superskill_hit 3/0_00008
+  rotate: false
+  xy: 676, 465
+  size: 323, 305
+  orig: 500, 500
+  offset: 90, 65
+  index: -1
+images/superskill_hit 3/0_00010
+  rotate: false
+  xy: 1001, 469
+  size: 302, 301
+  orig: 500, 500
+  offset: 105, 68
+  index: -1
+images/superskill_hit 3/0_00012
+  rotate: false
+  xy: 1305, 482
+  size: 292, 288
+  orig: 500, 500
+  offset: 110, 74
+  index: -1
+images/superskill_hit 3/0_00014
+  rotate: false
+  xy: 1599, 487
+  size: 294, 283
+  orig: 500, 500
+  offset: 110, 76
+  index: -1
+images/superskill_hit 3/0_00016
+  rotate: false
+  xy: 344, 187
+  size: 285, 268
+  orig: 500, 500
+  offset: 121, 91
+  index: -1
+images/superskill_hit 3/0_00018
+  rotate: true
+  xy: 631, 175
+  size: 280, 218
+  orig: 500, 500
+  offset: 127, 134
+  index: -1
+images/superskill_hit 3/0_00020
+  rotate: true
+  xy: 1166, 36
+  size: 205, 154
+  orig: 500, 500
+  offset: 203, 190
+  index: -1
+images/superskill_hit 3/0_00022
+  rotate: true
+  xy: 884, 4
+  size: 192, 140
+  orig: 500, 500
+  offset: 210, 196
+  index: -1
+images/superskill_hit 3/0_00024
+  rotate: false
+  xy: 246, 25
+  size: 53, 65
+  orig: 500, 500
+  offset: 213, 256
+  index: -1
+images/superskill_hit 3/0_00026
+  rotate: false
+  xy: 1982, 228
+  size: 43, 58
+  orig: 500, 500
+  offset: 218, 257
+  index: -1
+images/superskill_hit 3/0_00028
+  rotate: true
+  xy: 1010, 227
+  size: 26, 14
+  orig: 500, 500
+  offset: 230, 296
+  index: -1
+images/superskill_hit1/0_00000
+  rotate: false
+  xy: 1895, 475
+  size: 130, 79
+  orig: 300, 200
+  offset: 85, 60
+  index: -1
+images/superskill_hit1/0_00001
+  rotate: false
+  xy: 1755, 43
+  size: 165, 99
+  orig: 300, 200
+  offset: 68, 50
+  index: -1
+images/superskill_hit1/0_00002
+  rotate: false
+  xy: 1836, 358
+  size: 192, 115
+  orig: 300, 200
+  offset: 54, 42
+  index: -1
+images/superskill_hit1/0_00003
+  rotate: true
+  xy: 1895, 556
+  size: 214, 129
+  orig: 300, 200
+  offset: 43, 35
+  index: -1
+images/superskill_hit1/0_00005
+  rotate: true
+  xy: 1026, 22
+  size: 231, 138
+  orig: 300, 200
+  offset: 35, 30
+  index: -1
+images/superskill_hit1/0_00007
+  rotate: false
+  xy: 1339, 332
+  size: 248, 148
+  orig: 300, 200
+  offset: 27, 25
+  index: -1
+images/superskill_hit1/0_00009
+  rotate: true
+  xy: 851, 198
+  size: 265, 157
+  orig: 300, 200
+  offset: 18, 21
+  index: -1
+images/superskill_hit1/0_00011
+  rotate: false
+  xy: 340, 18
+  size: 280, 167
+  orig: 300, 200
+  offset: 11, 16
+  index: -1
+images/superskill_hit1/0_00013
+  rotate: false
+  xy: 622, 17
+  size: 260, 156
+  orig: 300, 200
+  offset: 19, 21
+  index: -1
+images/superskill_hit1/0_00015
+  rotate: false
+  xy: 1555, 29
+  size: 198, 120
+  orig: 300, 200
+  offset: 51, 39
+  index: -1
+images/superskill_hit1/0_00016
+  rotate: false
+  xy: 1813, 185
+  size: 167, 101
+  orig: 300, 200
+  offset: 66, 49
+  index: -1
+images/superskill_hit1/0_00017
+  rotate: true
+  xy: 1922, 4
+  size: 138, 83
+  orig: 300, 200
+  offset: 80, 58
+  index: -1

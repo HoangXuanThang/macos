@@ -1,0 +1,34 @@
+
+buzhen2.png
+size: 952,493
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/TX_xt_g_0017
+  rotate: false
+  xy: 652, 1
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: -1
+TX/sg1
+  rotate: true
+  xy: 652, 202
+  size: 290, 299
+  orig: 312, 311
+  offset: 10, 7
+  index: -1
+TX/xing1
+  rotate: false
+  xy: 853, 134
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+guangzhu1
+  rotate: false
+  xy: 1, 47
+  size: 649, 445
+  orig: 649, 445
+  offset: 0, 0
+  index: -1

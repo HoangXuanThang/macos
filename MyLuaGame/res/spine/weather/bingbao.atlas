@@ -1,0 +1,34 @@
+
+bingbao.png
+size: 1410,447
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/20024537_135839466137_2
+  rotate: false
+  xy: 1226, 234
+  size: 183, 212
+  orig: 189, 218
+  offset: 3, 2
+  index: -1
+images/TX_a_yan_0023
+  rotate: false
+  xy: 623, 8
+  size: 601, 438
+  orig: 626, 458
+  offset: 25, 0
+  index: -1
+images/TX_a_yan_0025
+  rotate: false
+  xy: 1, 1
+  size: 620, 445
+  orig: 626, 458
+  offset: 6, 0
+  index: -1
+images/hei
+  rotate: false
+  xy: 1226, 217
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,12 @@
+﻿VariableName,name_cn,name,name_vn,name_en,name_th,name_in,name_ph,name_ma,icon,attrType1,attrType2,attrValue,levelMax,upCost,trainerLevel,totalAttrLevel,desc
+Defaults,"""""","""""","""""","""""","""""","""""","""""","""""","""""",,,"""""",10,{},1,0,""""""
+ID,显示名字,显示名字,name_vn,name_en,name_th,name_in,name_ph,name_ma,技能图标,属性类型1,属性类型2,每级属性加成（数值百分比都支持）,最大等级(-1：无上限),升级消耗,解锁条件（训练家等级）,解锁条件（技能属性累计等级）,技能描述
+1,,Life,Sinh mệnh,Life,ชีวิต,Nyawa,Buhay,Hidup,,1,,260,200,{453=50},12,,
+2,,Physical Attack,Tấn công vật lý,Physical Attack,การโจมตีทางกายภาพ,Serangan Fisik,Pananalakay sa Pisikal,Serangan Fizikal,,7,,96,200,{453=50},12,,
+3,,Magic Attack,Tấn công pháp thuật,Magic Attack,การโจมตีเวทมนตร์,Serangan Sihir,Pananalakay sa Mahika,Serangan Magik,,8,,96,200,{453=50},12,,
+4,,Physical Defense,Phòng thủ vật lý,Physical Defense,การป้องกันทางกายภาพ,Pertahanan Fisik,Depensa sa Pisikal,Pertahanan Fizikal,,9,,38,200,{453=50},12,,
+5,,Magic Defense,Phòng thủ pháp thuật,Magic Defense,การป้องกันเวทมนตร์,Pertahanan Sihir,Depensa sa Mahika,Pertahanan Magik,,10,,38,200,{453=50},12,,
+7,,Critical Rate,Tỉ lệ chí mạng,Critical Rate,อัตราคริติคอล,Tingkat Kritis,Porsyento ng Kritikal,Kadar Kritikal,,14,,10,50,{453=120},12,150,
+8,,Critical Resistance,Kháng chí mạng,Critical Resistance,การต้านทานคริติคอล,Resistensi Kritis,Resistensya sa Kritikal,Resistensi Kritikal,,16,,10,50,{453=120},12,150,
+9,,PVP Damage Increase,Tăng sát thương PVP,PVP Damage Increase,เพิ่มความเสียหาย PVP,Peningkatan Kerusakan PVP,Pagtaas ng Pinsala sa PVP,Peningkatan Kerusakan PVP,,92,,10,50,{453=150},12,200,
+10,,PVP Damage Reduction,Giảm sát thương PVP,PVP Damage Reduction,ลดความเสียหาย PVP,Pengurangan Kerusakan PVP,Pagbawas ng Pinsala sa PVP,Pengurangan Kerusakan PVP,,93,,10,50,{453=150},12,200,

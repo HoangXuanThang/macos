@@ -1,0 +1,97 @@
+
+dushi.png
+size: 950,565
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj1
+  rotate: false
+  xy: 1, 366
+  size: 510, 198
+  orig: 510, 198
+  offset: 0, 0
+  index: -1
+chuang1
+  rotate: true
+  xy: 690, 55
+  size: 72, 79
+  orig: 72, 79
+  offset: 0, 0
+  index: -1
+chuang2
+  rotate: true
+  xy: 558, 2
+  size: 68, 116
+  orig: 68, 116
+  offset: 0, 0
+  index: -1
+chuang3
+  rotate: false
+  xy: 92, 1
+  size: 82, 104
+  orig: 82, 104
+  offset: 0, 0
+  index: -1
+dimian
+  rotate: false
+  xy: 513, 363
+  size: 436, 201
+  orig: 436, 201
+  offset: 0, 0
+  index: -1
+fangding2
+  rotate: false
+  xy: 454, 211
+  size: 282, 150
+  orig: 282, 150
+  offset: 0, 0
+  index: -1
+fangzi_1_c
+  rotate: true
+  xy: 738, 129
+  size: 232, 181
+  orig: 232, 181
+  offset: 0, 0
+  index: -1
+fangzi_1_z
+  rotate: true
+  xy: 187, 14
+  size: 173, 249
+  orig: 173, 249
+  offset: 0, 0
+  index: -1
+fangzi_2_z
+  rotate: false
+  xy: 1, 107
+  size: 184, 257
+  orig: 185, 257
+  offset: 0, 0
+  index: -1
+fangzi_3_z
+  rotate: true
+  xy: 187, 189
+  size: 175, 265
+  orig: 175, 265
+  offset: 0, 0
+  index: -1
+men1
+  rotate: false
+  xy: 1, 6
+  size: 89, 99
+  orig: 93, 103
+  offset: 4, 4
+  index: -1
+men2
+  rotate: true
+  xy: 438, 2
+  size: 68, 118
+  orig: 68, 119
+  offset: 0, 0
+  index: -1
+men3
+  rotate: true
+  xy: 454, 72
+  size: 137, 234
+  orig: 137, 236
+  offset: 0, 2
+  index: -1

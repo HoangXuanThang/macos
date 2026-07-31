@@ -1,0 +1,20 @@
+
+fanpai_gy.png
+size: 244,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di4
+  rotate: false
+  xy: 129, 13
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+wfg
+  rotate: false
+  xy: 1, 1
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1

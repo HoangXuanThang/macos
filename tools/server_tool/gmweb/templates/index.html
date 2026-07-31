@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <style>
+.demo { width: 700px; margin: 0 auto;}
+.demo h2 { margin-bottom:  15px; padding-bottom: 8px; border-bottom: 1px solid #ccc; font: 18px "Microsoft Yahei"; text-align: center;}
+.loading { width: 152px; height: 152px; margin: 0 auto;position:relative;  top:250px;}
+.myns > div { box-shadow: 0 0 6px black, inset 0 0 6px black;}
+hr { margin: 50px 0;}
+</style>
+    <meta charset="utf-8">
+    <title>Responsive Nav &middot; Advanced Left Navigation Demo</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+<link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+   <link rel="stylesheet" href="./static/styles.css">
+   <link rel="stylesheet" href="./static/blue/style.css">
+     <script src="http://cdn.bootcss.com/jquery/1.11.3/jquery.min.js">
+    <script src="./static/responsive-nav.js"></script>
+    <script src="./static/jquery.tablesorter.js"></script>
+    <script src="./static/jquery.shCircleLoader.js"></script>
+    <script type="text/javascript">
+        $(function() {
+            $("#result-table").tablesorter();
+        });
+        </script>
+
+  </head>
+  <body>
+
+    <div role="navigation" id="foo" class="nav-collapse">
+      <ul id="side-select">
+        <li class="active"><a href="#" id="all-data">基础数据汇总</a></li>
+        <li><a href="#" id="base-data">基础数据</a></li>
+        <li><a href="#" id="income-server">分服收入</a></li>
+        <li><a href="#" id="player-retention">用户留存</a></li>
+        <li><a href="#" id="active-player">数据修复慎用</a></li>
+        <li><a href="#" id="level-dis">等级分布</a></li>
+        <li><a href="#" id="payment">充值记录</a></li>
+        <li><a href="#" id="union-manage">工会管理</a></li>
+        <li><a href="#" id="player-info">玩家信息</a></li>
+      </ul>
+    </div>
+
+    <div role="main" class="main">
+      
+      <div id="right-header" class="row">
+        
+        <h1 id="type-title">..</h1>
+        <div class="btn-group" id="btn-searchtype">
+              <button type="button" class="btn btn-default dropdown-toggle btn-lg" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="btn-drop-type">
+                新增用户 <span class="caret"></span>
+              </button>
+              <ul class="dropdown-menu" id="searchType-list">
+                <li><a href="#" id="allAccountNew">新增用户</a></li>
+                <li><a href="#" id="allIncome">收入统计</a></li>
+                <li><a href="#" id="allActive">活跃用户</a></li>
+              </ul>
+          </div><br/><br/><br/>
+
+        <table class="table table-bordered table-striped">
+          <tr>
+            <td >
+              服务器名称
+            </td>
+            <td class="args-0">
+              平台(ios/android)
+            </td>
+            <td class="args-1">
+              渠道
+            </td>
+            <td class="args-2">
+              起始日期
+            </td>
+            <td class="args-3">
+              结束日期
+            </td>
+          </tr>
+          <tr>
+            <td>
+            <div class="btn-group" id="btn-servername">
+              <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="btn-drop-server">
+                All <span class="caret"></span>
+              </button>
+              <ul class="dropdown-menu" id="serverName-list">
+              {%for server in serverList%}
+              <li><a href="#">{{server}}</a></li>
+              {%end%}
+  
+              </ul>
+            </div>
+            </td>
+            <td class='args-0'>
+              <input type="text" class="form-control" id="platform" placeholder="platform不用填">
+            </td>
+            <td class="args-1">
+              <input type="text" class="form-control" id="channel" placeholder="channel" value="ALL" data-toggle="modal" data-target="#myModal">
+            </td>
+             <td class="args-2">
+              <input type="text" class="form-control" id="startDate" placeholder="startDate" value="{{date}}">
+            </td>
+            <td class="args-3">
+              <input type="text" class="form-control" id="endDate" placeholder="endDate" value="{{date}}">
+            </td>
+
+          </tr>
+
+          <tr>
+            <td class="args-4">用户ID</td>
+            <td class="args-5">订单ID</td>
+            <td class="args-6">工会ID</td>
+            <td class="args-7">用户名</td>
+          </tr>
+          <tr>
+            <td class="args-4"><input type="text" class="form-control" id="playerID" placeholder="playerID"></td>
+            <td class="args-5"><input type="text" class="form-control" id="orderID" placeholder="orderID"></td>
+            <td class="args-6"><input type="text" class="form-control" id="unionID" placeholder="unionID(可选)"></td>
+            <td class="args-7"><input type="text" class="form-control" id="playerName" placeholder="playerName">
+</td>
+          </tr>
+
+        </table>
+
+
+        <form class="form-inline" >   
+          <button type="submit" class="btn btn-default" id="btn-search">search</button>
+        </form>
+
+
+
+      </div>
+      <div id="result-container" class="row">
+       
+        <h2 id="result-total">asdf</h2>
+        <table id="result-table" class="table table-hover table-bordered tablesorter">
+        <thead>
+
+        </thead>
+        <tbody>
+        </tbody>
+          
+        </table>
+      </div>
+    </div>
+    
+
+      
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">选择一个渠道</h4>
+      </div>
+      <div class="modal-body">
+        <button type="submit" class="btn btn-default" id="ALL">ALL</button>
+        <button type="submit" class="btn btn-default" id="360">360</button>
+        <button type="submit" class="btn btn-default" id="mi">mi</button>
+        <button type="submit" class="btn btn-default" id="uc">uc</button>
+        <button type="submit" class="btn btn-default" id="baidu">baidu</button>
+        <button type="submit" class="btn btn-default" id="coolpad">coolpad</button>
+        <button type="submit" class="btn btn-default" id="oppo">oppo</button>
+        <button type="submit" class="btn btn-default" id="huawei">huawei</button>
+        <button type="submit" class="btn btn-default" id="lenovo">lenovo</button>
+        <button type="submit" class="btn btn-default" id="gionee">gionee</button>
+        <button type="submit" class="btn btn-default" id="sina">sina</button>
+        <button type="submit" class="btn btn-default" id="ouwan">ouwan</button>
+        <button type="submit" class="btn btn-default" id="vivo">vivo</button>
+        <button type="submit" class="btn btn-default" id="ouwan">ouwan</button>
+        <button type="submit" class="btn btn-default" id="tencent">腾讯汇总</button>
+
+        <button type="submit" class="btn btn-default" id="mz">mz</button>
+        <button type="submit" class="btn btn-default" id="tt">tt</button>
+        <button type="submit" class="btn btn-default" id="lb">lb</button>
+        <button type="submit" class="btn btn-default" id="ls">ls</button>
+        <button type="submit" class="btn btn-default" id="yw">益玩</button>
+        <button type="submit" class="btn btn-default" id="tc">tc</button>
+
+        <button type="submit" class="btn btn-default" id="lj">棱镜汇总</button>
+        <button type="submit" class="btn btn-default" id="yijie">易接汇总</button>
+        <button type="submit" class="btn btn-default" id="yijie_paojiao">泡椒</button>
+        <button type="submit" class="btn btn-default" id="yijie_guopan">果盘</button>
+        <button type="submit" class="btn btn-default" id="yijie_pyw">易接朋友玩</button>
+        <button type="submit" class="btn btn-default" id="yijie_07073">07073</button>
+        <button type="submit" class="btn btn-default" id="yijie_xunlei">迅雷</button>
+        <button type="submit" class="btn btn-default" id="yijie_49you">49游</button>
+        <button type="submit" class="btn btn-default" id="yijie_youlong">游龙</button>
+        <button type="submit" class="btn btn-default" id="yijie_chongchong">虫虫</button>
+        <button type="submit" class="btn btn-default" id="yijie_pps">pps</button>
+        <button type="submit" class="btn btn-default" id="yijie_kugoo">酷狗</button>
+        <button type="submit" class="btn btn-default" id="yijie_dangle">当乐</button>
+        <button type="submit" class="btn btn-default" id="yijie_wandoujia">豌豆荚</button>
+
+        <button type="submit" class="btn btn-default" id="quick">quick</button>
+
+        <button type="submit" class="btn btn-default" id="mofang_iy">魔方IOS英文</button>
+        <button type="submit" class="btn btn-default" id="mofang_if">魔方IOS繁体</button>
+        <button type="submit" class="btn btn-default" id="mofang_ay">魔方Android英文</button>
+        <button type="submit" class="btn btn-default" id="mofang_af">魔方Android繁体</button>
+
+      </div>
+     
+    </div>
+  </div>
+</div>
+    
+<div class="demo">
+  <div class="loading loading1"></div>
+</div>
+
+  </body>
+</script>
+
+<!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+<script src="http://cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+<script type="text/javascript">
+  var searchTypeMap = { 
+                        "all-data":["allAccountNew", "allIncome", "allActive"],
+                        "base-data":["accountNew", "income", "active"],
+                        "player-retention":["retention"],
+                        "active-player":[ "activePlayerLine"],
+                        "level-dis":["levelDistributed"],
+                        "payment":["playerOrders", "orderByID","paymentRank"],
+                        "union-manage":["unionInfo"],
+                        "player-info":["playerInfo"],
+                        "income-server":["incomeByServer"]
+                      }
+
+  var argsMap = {
+    "allAccountNew":{"describe":"查询日期内，指定区服、渠道的新增用户", "args":[1,1,1,1,0,0,0,0],"title":"新增用户"},
+    "allIncome":{"describe":"查询日期内，指定区服、渠道的收入情况", "args":[1,1,1,1,0,0,0,0],"title":"收入统计"},
+    "allActive":{"describe":"查询日期内，指定区服、渠道的活跃用户", "args":[1,1,1,1,0,0,0,0],"title":"活跃用户"},
+    "accountNew":{"describe":"查询日期内，指定区服、渠道的新增用户", "args":[1,1,1,1,0,0,0,0],"title":"新增用户"},
+    "income":{"describe":"查询日期内，指定区服、渠道的收入情况", "args":[1,1,1,1,0,0,0,0],"title":"收入统计"},
+    "active":{"describe":"查询日期内，指定区服、渠道的活跃用户", "args":[1,1,1,1,0,0,0,0],"title":"活跃用户"},
+    "retention":{"describe":"查询日期内，指定区服、渠道的用户留存", "args":[1,1,1,1,0,0,0,0],"title":"用户留存"},
+    "activePlayerLine":{"describe":"请从数据不准确的第一天开始，在startdate按格式 输入日期。点击search开始修复，时间较长，慎用！一次只能修复一天，按日期 从前到后，依次输入，不支持区间修复", "args":[1,1,1,1,0,0,0,0],"title":"修复新增和收入 慎用！！"},
+    "levelDistributed":{"describe":"指定区服的等级分布情况", "args":[0,0,0,0,0,0,0,0],"title":"等级分布"},
+    "playerOrders":{"describe":"根据用户id(account.id)查询订单情况", "args":[0,0,0,0,1,0,0,0],"title":"用户订单情况"},
+    "orderByID":{"describe":"根据订单id查询订单情况", "args":[0,0,0,0,0,1,0,0],"title":"订单查询"},
+    "paymentRank":{"describe":"指定区服的用户消费排名", "args":[0,0,0,0,0,0,0,0],"title":"消费排名"},
+    "unionInfo":{"describe":"根据工会id查询工会信息，不填返回所用工会简略信息", "args":[0,0,0,0,0,0,1,0],"title":"工会信息"},
+    "playerInfo":{"describe":"根据用户id(role.id)查询用户信息", "args":[0,0,0,0,1,0,0,0],"title":"用户信息"},
+    "incomeByServer": {"describe":"分服分渠道查询收入","args":[1,1,1,1,0,0,0,0],"title":"分服收入"}
+  }
+
+  var searchType = null;
+  var str = $("#searchType-list li a")[0].innerHTML;
+
+  $("#btn-drop-type").html(str+' <span class="caret"></span>');
+  searchType = $("#searchType-list li a")[0].id;
+  $('#type-title').html(argsMap[searchType].describe);
+  for (i in argsMap[searchType].args){
+          if (argsMap[searchType].args[i] == 0){
+            $('.args-'+i.toString()).hide();
+          }
+          else{
+            $('.args-'+i.toString()).show();
+          }
+        }
+
+  $(document).ready(function() {
+    $('.loading1').shCircleLoader();
+    $('.loading1').hide();
+    $('.modal-body button').click(function(){
+      console.log(this.id);
+      $('#channel').val(this.id);
+    })
+
+    $("#searchType-list li a").click(function(){
+        console.log(this.innerHTML);
+        var str = this.innerHTML;
+        $("#btn-drop-type").html(str+' <span class="caret"></span>');
+        searchType = this.id;
+        console.log(this.id);
+
+        for (i in argsMap[this.id].args){
+          if (argsMap[this.id].args[i] == 0){
+            $('.args-'+i.toString()).hide();
+          }
+          else{
+            $('.args-'+i.toString()).show();
+          }
+        }
+
+        $('#type-title').html(argsMap[this.id].describe);
+      });
+
+    $("#serverName-list li a").click(function(){
+        console.log(this.innerHTML);
+        var str = this.innerHTML;
+        $("#btn-drop-server").html(str+' <span class="caret"></span>');
+      });
+
+    // body...
+    $("#side-select li a").click(function(){
+      searchType = null;
+      $("#result-table thead").children().remove();
+      $("#result-table tbody").children().remove();
+      $("#result-total").html('');
+      console.log(this.id);
+      title = this.id;
+      searchTypes = searchTypeMap[this.id];
+      $("#searchType-list").children().remove();
+      var str = ""
+      for(i in searchTypes){
+        str += '<li><a href="#" id="' + searchTypes[i] +'">' + argsMap[searchTypes[i]].title + '</a></li>';    
+
+      }
+      $("#searchType-list").append(str);
+      
+      $("#btn-drop-type").html('searchType <span class="caret"></span>');
+      //搜索类型 下拉按钮点击事件：改变描述和输入框
+      $("#searchType-list li a").click(function(){
+        console.log(this.innerHTML);
+        var str = this.innerHTML;
+        $("#btn-drop-type").html(str+' <span class="caret"></span>');
+        searchType = this.id;
+        console.log(this.id);
+
+        for (i in argsMap[this.id].args){
+          if (argsMap[this.id].args[i] == 0){
+            $('.args-'+i.toString()).hide();
+          }
+          else{
+            $('.args-'+i.toString()).show();
+          }
+        }
+        $('#type-title').html(argsMap[this.id].describe);
+      });
+
+      //默认选第一个
+      var str = $("#searchType-list li a")[0].innerHTML;
+      $("#btn-drop-type").html(str+' <span class="caret"></span>');
+      searchType = $("#searchType-list li a")[0].id;
+      $('#type-title').html(argsMap[searchType].describe);
+      for (i in argsMap[searchType].args){
+          if (argsMap[searchType].args[i] == 0){
+            $('.args-'+i.toString()).hide();
+          }
+          else{
+            $('.args-'+i.toString()).show();
+          }
+        }
+    });
+
+    $("#btn-search").click(function(){
+      if (!searchType){
+        alert("choose search type first!");
+        return;
+      }
+      $('.loading1').show();
+      serverName = $("#btn-drop-server").html().split(" ")[0];
+      var inputList = $("table input");
+      var args = "searchType="+searchType+"&serverName="+serverName;
+      for (i in inputList){
+        var id = inputList[i].id;
+        if (id){
+
+          args += '&'+id + '=' + $("#"+id).val();
+        }
+
+      }
+      url = "/"+searchType+"?"+args;
+      console.log(args);
+
+      $.get(url, function(result){
+        $('.loading1').hide();
+        $("#result-table thead").children().remove();
+        $("#result-table tbody").children().remove();
+        if (result.status == 0){
+          alert(result.total);
+          return;
+        }
+
+        $("#result-total").html(result.total);
+        resultList = result.resultList;
+        if(!resultList || resultList.length <= 0){
+          return;
+        }
+        r1 = resultList[0];
+        // 判断有没有order
+        var hasOrder = false;
+        for (k in r1){
+          if (typeof(r1[k])=='object'){
+            hasOrder = true;
+          }
+          break;
+        }
+
+        if (hasOrder){
+          titles = Object.keys(r1).sort(function(a,b){return r1[a]['order']-r1[b]['order']});
+          console.log(titles); //有序数组
+          var tableHead = "<tr>";
+          for (k in titles){
+            tableHead += "<th>"+titles[k]+"</th>";
+          }
+          tableHead += "</tr>";
+          $("#result-table thead").append(tableHead);
+          resultStr = "";
+          for (var i in resultList){
+            result = resultList[i];
+            var row = "<tr>";
+            for (var k in titles){
+              if (titles[k] in result){
+                row += "<td>" + result[titles[k]]['value'] + "</td>";
+              }
+              else{
+                row += "<td> </td>";
+              }
+              
+            }
+            row+="</tr>";
+            resultStr += row;
+          }
+
+          $("#result-table tbody").append(resultStr);
+
+        }
+        else{
+          var tableHead = "<tr>";
+          for (k in r1){
+            tableHead += "<th>"+k+"</th>";
+          }
+          tableHead += "</tr>";
+          $("#result-table thead").append(tableHead);
+          resultStr = "";
+          for (var i in resultList){
+            result = resultList[i];
+            var row = "<tr>";
+            for (var k in result){
+              row += "<td>" + result[k] + "</td>";
+            }
+            row+="</tr>";
+            resultStr += row;
+          }
+
+          $("#result-table tbody").append(resultStr);
+        }
+                
+        //here...
+        console.log('why it not work...')
+        $('#result-table').tablesorter();
+
+      });
+      
+    });
+    
+  });
+
+</script>
+</html>

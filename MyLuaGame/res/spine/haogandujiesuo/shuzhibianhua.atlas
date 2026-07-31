@@ -1,0 +1,20 @@
+
+shuzhibianhua.png
+size: 263,135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/dimian
+  rotate: true
+  xy: 2, 2
+  size: 131, 217
+  orig: 131, 217
+  offset: 0, 0
+  index: -1
+TX/xing1
+  rotate: false
+  xy: 221, 93
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1

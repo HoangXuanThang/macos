@@ -1,0 +1,41 @@
+
+kuafu_yun.png
+size: 1504,445
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dayun1
+  rotate: false
+  xy: 1, 41
+  size: 853, 403
+  orig: 854, 403
+  offset: 0, 0
+  index: -1
+y4a
+  rotate: false
+  xy: 856, 52
+  size: 479, 103
+  orig: 479, 103
+  offset: 0, 0
+  index: -1
+y8a
+  rotate: false
+  xy: 856, 157
+  size: 647, 89
+  orig: 647, 89
+  offset: 0, 0
+  index: -1
+ydi
+  rotate: true
+  xy: 1, 1
+  size: 38, 754
+  orig: 38, 754
+  offset: 0, 0
+  index: -1
+yun2
+  rotate: false
+  xy: 856, 248
+  size: 587, 196
+  orig: 587, 196
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+luanliu.png
+size: 936,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/2chen
+  rotate: false
+  xy: 586, 1
+  size: 169, 109
+  orig: 169, 109
+  offset: 0, 0
+  index: -1
+images/TX_yan_0040
+  rotate: false
+  xy: 1, 75
+  size: 583, 191
+  orig: 583, 191
+  offset: 0, 0
+  index: -1
+images/cq_1
+  rotate: false
+  xy: 586, 112
+  size: 222, 154
+  orig: 222, 154
+  offset: 0, 0
+  index: -1
+images/hei
+  rotate: true
+  xy: 519, 59
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+images/qiliu7_000
+  rotate: false
+  xy: 1, 1
+  size: 258, 72
+  orig: 259, 72
+  offset: 1, 0
+  index: -1
+images/qiliu7_001
+  rotate: true
+  xy: 810, 7
+  size: 259, 69
+  orig: 259, 72
+  offset: 0, 1
+  index: -1
+images/qiliu7_002
+  rotate: false
+  xy: 261, 15
+  size: 256, 58
+  orig: 259, 72
+  offset: 3, 10
+  index: -1
+images/qiliu7_003
+  rotate: true
+  xy: 881, 7
+  size: 259, 54
+  orig: 259, 72
+  offset: 0, 10
+  index: -1

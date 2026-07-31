@@ -1,0 +1,62 @@
+
+shabao.png
+size: 1967,338
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/2chen
+  rotate: false
+  xy: 1331, 155
+  size: 282, 182
+  orig: 282, 182
+  offset: 0, 0
+  index: -1
+images/TX_yan_0040
+  rotate: false
+  xy: 1, 19
+  size: 971, 318
+  orig: 971, 318
+  offset: 0, 0
+  index: -1
+images/hei
+  rotate: false
+  xy: 1, 2
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+images/sg0074
+  rotate: false
+  xy: 974, 1
+  size: 355, 336
+  orig: 355, 336
+  offset: 0, 0
+  index: -1
+images/shuihua_0011
+  rotate: true
+  xy: 1831, 151
+  size: 186, 135
+  orig: 257, 155
+  offset: 71, 4
+  index: -1
+images/shuihua_0012
+  rotate: false
+  xy: 1615, 65
+  size: 207, 128
+  orig: 257, 155
+  offset: 50, 7
+  index: -1
+images/shuihua_0013
+  rotate: false
+  xy: 1331, 18
+  size: 238, 135
+  orig: 257, 155
+  offset: 19, 8
+  index: -1
+images/shuihua_0014
+  rotate: false
+  xy: 1615, 195
+  size: 214, 142
+  orig: 257, 155
+  offset: 28, 8
+  index: -1

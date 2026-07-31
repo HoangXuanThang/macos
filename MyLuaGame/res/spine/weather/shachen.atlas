@@ -1,0 +1,62 @@
+
+shachen.png
+size: 1185,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/2chen
+  rotate: false
+  xy: 801, 94
+  size: 169, 109
+  orig: 169, 109
+  offset: 0, 0
+  index: -1
+images/TX_yan_0040
+  rotate: false
+  xy: 1, 12
+  size: 583, 191
+  orig: 583, 191
+  offset: 0, 0
+  index: -1
+images/hei
+  rotate: false
+  xy: 1, 1
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+images/sg0074
+  rotate: false
+  xy: 586, 1
+  size: 213, 202
+  orig: 213, 202
+  offset: 0, 0
+  index: -1
+images/shuihua_0011
+  rotate: true
+  xy: 1102, 91
+  size: 112, 82
+  orig: 154, 93
+  offset: 42, 2
+  index: -1
+images/shuihua_0012
+  rotate: false
+  xy: 972, 38
+  size: 124, 78
+  orig: 154, 93
+  offset: 30, 3
+  index: -1
+images/shuihua_0013
+  rotate: false
+  xy: 801, 9
+  size: 142, 83
+  orig: 154, 93
+  offset: 12, 4
+  index: -1
+images/shuihua_0014
+  rotate: false
+  xy: 972, 118
+  size: 128, 85
+  orig: 154, 93
+  offset: 16, 4
+  index: -1

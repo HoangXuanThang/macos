@@ -1,0 +1,202 @@
+
+hiruzen00_ui.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+beishi
+  rotate: true
+  xy: 0, 31
+  size: 44, 151
+  orig: 44, 155
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 0, 8
+  size: 77, 23
+  orig: 78, 23
+  offset: 0, 0
+  index: -1
+maozi1
+  rotate: false
+  xy: 395, 52
+  size: 131, 125
+  orig: 131, 125
+  offset: 0, 0
+  index: -1
+maozi2
+  rotate: false
+  xy: 954, 154
+  size: 51, 130
+  orig: 51, 130
+  offset: 0, 0
+  index: -1
+maozi3
+  rotate: false
+  xy: 966, 353
+  size: 51, 159
+  orig: 51, 161
+  offset: 0, 1
+  index: -1
+maozi4
+  rotate: true
+  xy: 211, 0
+  size: 76, 61
+  orig: 76, 61
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: true
+  xy: 0, 397
+  size: 115, 689
+  orig: 115, 689
+  offset: 0, 0
+  index: -1
+piaodai2
+  rotate: false
+  xy: 0, 317
+  size: 574, 80
+  orig: 574, 80
+  offset: 0, 0
+  index: -1
+shangbanshen
+  rotate: true
+  xy: 689, 284
+  size: 228, 277
+  orig: 228, 277
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 574, 229
+  size: 107, 168
+  orig: 107, 168
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 0, 245
+  size: 489, 72
+  orig: 489, 72
+  offset: 0, 0
+  index: -1
+wuqi2
+  rotate: false
+  xy: 0, 177
+  size: 484, 68
+  orig: 484, 68
+  offset: 0, 0
+  index: -1
+xiabanshen
+  rotate: true
+  xy: 681, 98
+  size: 186, 188
+  orig: 186, 188
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: true
+  xy: 407, 2
+  size: 50, 85
+  orig: 50, 85
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: false
+  xy: 211, 76
+  size: 184, 101
+  orig: 184, 101
+  offset: 0, 0
+  index: -1
+youshouzhang
+  rotate: true
+  xy: 526, 21
+  size: 83, 92
+  orig: 83, 92
+  offset: 0, 0
+  index: -1
+youshouzhi
+  rotate: true
+  xy: 966, 287
+  size: 66, 57
+  orig: 68, 59
+  offset: 2, 1
+  index: -1
+youxiaobi
+  rotate: false
+  xy: 272, 7
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: true
+  xy: 339, 0
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: false
+  xy: 869, 109
+  size: 85, 175
+  orig: 85, 175
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: true
+  xy: 0, 75
+  size: 102, 211
+  orig: 102, 211
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 489, 223
+  size: 94, 85
+  orig: 94, 85
+  offset: 0, 0
+  index: -1
+zuoshou001
+  rotate: false
+  xy: 613, 168
+  size: 36, 61
+  orig: 36, 62
+  offset: 0, 0
+  index: -1
+zuoshou002
+  rotate: false
+  xy: 613, 115
+  size: 29, 53
+  orig: 34, 53
+  offset: 4, 0
+  index: -1
+zuoshou003
+  rotate: false
+  xy: 954, 118
+  size: 29, 36
+  orig: 29, 39
+  offset: 0, 3
+  index: -1
+zuoshou004
+  rotate: false
+  xy: 492, 22
+  size: 27, 30
+  orig: 28, 38
+  offset: 0, 8
+  index: -1
+zuoshou005
+  rotate: true
+  xy: 151, 33
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+zuoxsiaobi
+  rotate: false
+  xy: 526, 104
+  size: 87, 119
+  orig: 87, 120
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,174 @@
+
+huoyankuang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/_Navigation Fire_00017
+  rotate: false
+  xy: 161, 57
+  size: 52, 75
+  orig: 52, 75
+  offset: 0, 0
+  index: -1
+TX/_Navigation Fire_00019
+  rotate: true
+  xy: 700, 457
+  size: 53, 83
+  orig: 53, 83
+  offset: 0, 0
+  index: -1
+TX/_Navigation Fire_00021
+  rotate: true
+  xy: 872, 462
+  size: 48, 86
+  orig: 48, 86
+  offset: 0, 0
+  index: -1
+TX/_Navigation Fire_00023
+  rotate: false
+  xy: 215, 64
+  size: 49, 69
+  orig: 49, 69
+  offset: 0, 0
+  index: -1
+TX/_Navigation Fire_00025
+  rotate: false
+  xy: 315, 70
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+TX/_Navigation Fire_00027
+  rotate: true
+  xy: 377, 147
+  size: 53, 78
+  orig: 53, 78
+  offset: 0, 0
+  index: -1
+TX/_Navigation Fire_00029
+  rotate: true
+  xy: 785, 459
+  size: 51, 85
+  orig: 51, 85
+  offset: 0, 0
+  index: -1
+TX/_Navigation Fire_00031
+  rotate: false
+  xy: 266, 64
+  size: 47, 69
+  orig: 47, 69
+  offset: 0, 0
+  index: -1
+TX/_Navigation Fire_00622
+  rotate: false
+  xy: 2, 2
+  size: 76, 57
+  orig: 76, 57
+  offset: 0, 0
+  index: -1
+TX/_Navigation Fire_00624
+  rotate: false
+  xy: 297, 140
+  size: 78, 60
+  orig: 78, 60
+  offset: 0, 0
+  index: -1
+TX/_Navigation Fire_00626
+  rotate: false
+  xy: 214, 135
+  size: 81, 65
+  orig: 81, 65
+  offset: 0, 0
+  index: -1
+TX/_Navigation Fire_00628
+  rotate: true
+  xy: 459, 356
+  size: 81, 67
+  orig: 81, 67
+  offset: 0, 0
+  index: -1
+TX/_Navigation Fire_00630
+  rotate: false
+  xy: 541, 443
+  size: 81, 67
+  orig: 81, 67
+  offset: 0, 0
+  index: -1
+TX/_Navigation Fire_00632
+  rotate: false
+  xy: 624, 443
+  size: 74, 67
+  orig: 74, 67
+  offset: 0, 0
+  index: -1
+TX/_Navigation Fire_00634
+  rotate: true
+  xy: 459, 279
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+TX/_Navigation Fire_00636
+  rotate: false
+  xy: 2, 61
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+TX/_Navigation Fire_00638
+  rotate: false
+  xy: 459, 439
+  size: 80, 71
+  orig: 80, 71
+  offset: 0, 0
+  index: -1
+TX/_Navigation Fire_00640
+  rotate: false
+  xy: 83, 62
+  size: 76, 70
+  orig: 76, 70
+  offset: 0, 0
+  index: -1
+TX/_Navigation Fire_00642
+  rotate: false
+  xy: 459, 207
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+daguangqiu
+  rotate: false
+  xy: 960, 477
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+faguangkaung
+  rotate: false
+  xy: 306, 202
+  size: 151, 308
+  orig: 314, 312
+  offset: 8, 0
+  index: -1
+lvhuo
+  rotate: false
+  xy: 2, 134
+  size: 210, 66
+  orig: 271, 86
+  offset: 27, 20
+  index: -1
+waikuang
+  rotate: false
+  xy: 2, 202
+  size: 302, 308
+  orig: 314, 312
+  offset: 8, 0
+  index: -1
+xiaolvqiu
+  rotate: false
+  xy: 995, 485
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+fushi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shockwavezi
+  rotate: false
+  xy: 2, 2
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+dianwen
+  rotate: false
+  xy: 383, 734
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 2, 613
+  size: 379, 377
+  orig: 379, 377
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 2, 315
+  size: 330, 296
+  orig: 330, 296
+  offset: 0, 0
+  index: -1
+tubiao_g
+  rotate: false
+  xy: 2, 117
+  size: 237, 196
+  orig: 237, 196
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 641, 840
+  size: 162, 150
+  orig: 162, 150
+  offset: 0, 0
+  index: -1
+xian_g
+  rotate: false
+  xy: 805, 840
+  size: 162, 150
+  orig: 162, 150
+  offset: 0, 0
+  index: -1
+xian_yuanben
+  rotate: false
+  xy: 641, 688
+  size: 162, 150
+  orig: 162, 150
+  offset: 0, 0
+  index: -1
+zbt_d1
+  rotate: true
+  xy: 383, 649
+  size: 83, 223
+  orig: 83, 223
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+cloud.png
+size: 417,1030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dimian
+  rotate: true
+  xy: 1, 205
+  size: 360, 141
+  orig: 360, 141
+  offset: 0, 0
+  index: -1
+effect/daoguang_red
+  rotate: false
+  xy: 358, 729
+  size: 54, 300
+  orig: 54, 300
+  offset: 0, 0
+  index: -1
+effect/dz_sj3
+  rotate: false
+  xy: 306, 304
+  size: 71, 244
+  orig: 71, 244
+  offset: 0, 0
+  index: -1
+effect/guangyun
+  rotate: true
+  xy: 144, 129
+  size: 128, 257
+  orig: 128, 257
+  offset: 0, 0
+  index: -1
+effect/hd
+  rotate: true
+  xy: 398, 86
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+effect/yy2
+  rotate: true
+  xy: 144, 259
+  size: 289, 160
+  orig: 289, 160
+  offset: 0, 0
+  index: -1
+tiankong
+  rotate: true
+  xy: 339, 51
+  size: 76, 57
+  orig: 76, 57
+  offset: 0, 0
+  index: -1
+yun01
+  rotate: true
+  xy: 1, 1
+  size: 202, 114
+  orig: 202, 114
+  offset: 0, 0
+  index: -1
+yun02
+  rotate: true
+  xy: 1, 567
+  size: 462, 162
+  orig: 462, 162
+  offset: 0, 0
+  index: -1
+yun04
+  rotate: true
+  xy: 165, 701
+  size: 328, 191
+  orig: 328, 191
+  offset: 0, 0
+  index: -1
+yun05
+  rotate: false
+  xy: 117, 12
+  size: 134, 39
+  orig: 134, 39
+  offset: 0, 0
+  index: -1
+yun06
+  rotate: false
+  xy: 117, 53
+  size: 220, 74
+  orig: 220, 75
+  offset: 0, 0
+  index: -1
+yun07
+  rotate: true
+  xy: 382, 591
+  size: 136, 27
+  orig: 136, 27
+  offset: 0, 0
+  index: -1
+yun08
+  rotate: true
+  xy: 379, 395
+  size: 153, 17
+  orig: 153, 17
+  offset: 0, 0
+  index: -1
+yun_b1
+  rotate: false
+  xy: 165, 550
+  size: 215, 149
+  orig: 215, 149
+  offset: 0, 0
+  index: -1

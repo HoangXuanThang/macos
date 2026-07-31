@@ -1,0 +1,707 @@
+report url http://163.223.12.142:1104
+win x86 4 4 4
+13:39:26 Updater UI working...
+13:39:26 [INFO] 
+13:39:26 [INFO] # DEBUG                        = 2
+13:39:26 [INFO] #
+13:39:26 [INFO] # device.platform              = windows
+13:39:26 [INFO] # device.model                 = unknown
+13:39:26 [INFO] # device.language              = en
+13:39:26 [INFO] # device.writablePath          = ./simulator/win32/
+13:39:26 [INFO] # device.directorySeparator    = \
+13:39:26 [INFO] # device.pathSeparator         = ;
+13:39:26 [INFO] #
+13:39:26 [INFO] # design resolution size       = {width = 2560.00, height = 1440.00}
+13:39:26 [INFO] # design resolution autoscale  = FIXED_HEIGHT
+13:39:26 [INFO] # display.sizeInPixels         = {width = 1280.00, height = 720.00}
+13:39:26 [INFO] # display.sizeInView           = {width = 2560.00, height = 1440.00}
+13:39:26 [INFO] # display.size                 = {width = 2560.00, height = 1440.00}
+13:39:26 [INFO] # display.sizeInViewRect       = {x = 0.00, y = 0.00, width = 2560.00, height = 1440.00}
+13:39:26 [INFO] # display.maxWidth             = 3120.00
+13:39:26 [INFO] # display.board_left           = 0.00
+13:39:26 [INFO] # display.board_right          = 2560.00
+13:39:26 [INFO] # display.contentScaleFactor   = 1.00
+13:39:26 [INFO] # display.width                = 2560.00
+13:39:26 [INFO] # display.height               = 1440.00
+13:39:26 [INFO] # display.cx                   = 1280.00
+13:39:26 [INFO] # display.cy                   = 720.00
+13:39:26 [INFO] # display.left                 = 0.00
+13:39:26 [INFO] # display.right                = 2560.00
+13:39:26 [INFO] # display.top                  = 1440.00
+13:39:26 [INFO] # display.bottom               = 0.00
+13:39:26 [INFO] # display.c_left               = -1280.00
+13:39:26 [INFO] # display.c_right              = 1280.00
+13:39:26 [INFO] # display.c_top                = 720.00
+13:39:26 [INFO] # display.c_bottom             = -720.00
+13:39:26 [INFO] # display.center               = {x = 1280.00, y = 720.00}
+13:39:26 [INFO] # display.left_top             = {x = 0.00, y = 1440.00}
+13:39:26 [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+13:39:26 [INFO] # display.left_center          = {x = 0.00, y = 720.00}
+13:39:26 [INFO] # display.right_top            = {x = 2560.00, y = 1440.00}
+13:39:26 [INFO] # display.right_bottom         = {x = 2560.00, y = 0.00}
+13:39:26 [INFO] # display.right_center         = {x = 2560.00, y = 720.00}
+13:39:26 [INFO] # display.top_center           = {x = 1280.00, y = 1440.00}
+13:39:26 [INFO] # display.bottom_center        = {x = 1280.00, y = 0.00}
+13:39:26 [INFO] # display.uiOrigin             = {x = -0.00, y = 0.00}
+13:39:26 [INFO] # display.uiOriginMax          = {x = -0.00, y = 0.00}
+13:39:26 [INFO] # display.fullScreenSafeArea   = 114
+13:39:26 [INFO] # display.fullScreenDiffX      = 148
+13:39:26 [INFO] # display.notchSceenSafeArea   = 0
+13:39:26 [INFO] # display.notchSceenDiffX      = 0
+13:39:26 [INFO] # director:getSafeAreaRect     = {x = 0.00, y = 0.00, width = 2560.00, height = 1440.00}
+13:39:26 [INFO] #
+13:39:26 [INFO] cc.register() - register module event
+13:39:26 LOCAL_LANGUAGE	vn
+13:39:26 APP_CHANNEL	none
+13:39:26 [audio] setMusicVolume() - volume: 0.28
+13:39:26 [audio] setSoundsVolume() - volume: 0.4
+13:39:26 [audio] stopMusic() - isReleaseData: false
+13:39:26 [audio] playMusic() - filename: login.mp3, isLoop: true
+13:39:26 [audio] setMusicVolume() - volume: 0.28
+13:39:26 [INFO] check ip not Shenhe
+update closed mode in win32 with .noupdate
+13:39:26 Game Main working...
+13:39:26 jit off
+13:39:26 [INFO] 
+13:39:26 [INFO] # DEBUG                        = 1
+13:39:26 [INFO] #
+13:39:26 [INFO] # device.platform              = windows
+13:39:26 [INFO] # device.model                 = unknown
+13:39:26 [INFO] # device.language              = en
+13:39:26 [INFO] # device.writablePath          = ./simulator/win32/
+13:39:26 [INFO] # device.directorySeparator    = \
+13:39:26 [INFO] # device.pathSeparator         = ;
+13:39:26 [INFO] #
+13:39:26 [INFO] in dev mode path: dev/xxx
+13:39:26 [INFO] dev/xxx/cocos/?.lua;dev/xxx/src/?.lua;dev/pokemon_battle/?.lua;;cocos/?.lua;src/?.lua
+13:39:26 [INFO] # design resolution size       = {width = 2560.00, height = 1440.00}
+13:39:26 [INFO] # design resolution autoscale  = FIXED_HEIGHT
+13:39:26 [INFO] # display.sizeInPixels         = {width = 1280.00, height = 720.00}
+13:39:26 [INFO] # display.sizeInView           = {width = 2560.00, height = 1440.00}
+13:39:26 [INFO] # display.size                 = {width = 2560.00, height = 1440.00}
+13:39:26 [INFO] # display.sizeInViewRect       = {x = 0.00, y = 0.00, width = 2560.00, height = 1440.00}
+13:39:26 [INFO] # display.maxWidth             = 3120.00
+13:39:26 [INFO] # display.board_left           = 0.00
+13:39:26 [INFO] # display.board_right          = 2560.00
+13:39:26 [INFO] # display.contentScaleFactor   = 1.00
+13:39:26 [INFO] # display.width                = 2560.00
+13:39:26 [INFO] # display.height               = 1440.00
+13:39:26 [INFO] # display.cx                   = 1280.00
+13:39:26 [INFO] # display.cy                   = 720.00
+13:39:26 [INFO] # display.left                 = 0.00
+13:39:26 [INFO] # display.right                = 2560.00
+13:39:26 [INFO] # display.top                  = 1440.00
+13:39:26 [INFO] # display.bottom               = 0.00
+13:39:26 [INFO] # display.c_left               = -1280.00
+13:39:26 [INFO] # display.c_right              = 1280.00
+13:39:26 [INFO] # display.c_top                = 720.00
+13:39:26 [INFO] # display.c_bottom             = -720.00
+13:39:26 [INFO] # display.center               = {x = 1280.00, y = 720.00}
+13:39:26 [INFO] # display.left_top             = {x = 0.00, y = 1440.00}
+13:39:26 [INFO] # display.left_bottom          = {x = 0.00, y = 0.00}
+13:39:26 [INFO] # display.left_center          = {x = 0.00, y = 720.00}
+13:39:26 [INFO] # display.right_top            = {x = 2560.00, y = 1440.00}
+13:39:26 [INFO] # display.right_bottom         = {x = 2560.00, y = 0.00}
+13:39:26 [INFO] # display.right_center         = {x = 2560.00, y = 720.00}
+13:39:26 [INFO] # display.top_center           = {x = 1280.00, y = 1440.00}
+13:39:26 [INFO] # display.bottom_center        = {x = 1280.00, y = 0.00}
+13:39:26 [INFO] # display.uiOrigin             = {x = -0.00, y = 0.00}
+13:39:26 [INFO] # display.uiOriginMax          = {x = -0.00, y = 0.00}
+13:39:26 [INFO] # display.fullScreenSafeArea   = 114
+13:39:26 [INFO] # display.fullScreenDiffX      = 148
+13:39:26 [INFO] # display.notchSceenSafeArea   = 0
+13:39:26 [INFO] # display.notchSceenDiffX      = 0
+13:39:26 [INFO] # director:getSafeAreaRect     = {x = 0.00, y = 0.00, width = 2560.00, height = 1440.00}
+13:39:26 [INFO] #
+13:39:26 [INFO] cc.register() - register module event
+13:39:26 table lib override for protected
+13:39:26 [INFO] idlerdebug enable
+13:39:26 [INFO] cc.register() - register module asyncload
+13:39:26 [INFO] cc.register() - register module schedule
+13:39:26 [INFO] cc.register() - register module message
+13:39:26 [INFO] cc.load() - load module "packages.components.init"
+13:39:26 cow.isEnable
+13:39:26 [INFO] cc.load() - load module "packages.mvc.init"
+13:39:26 [INFO] PATCH_MIN_VERSION 1
+13:39:26 [INFO] PATCH_VERSION 1
+13:39:26 [INFO] LOCAL_LANGUAGE vn
+13:39:26 [INFO] LOCAL_LANGUAGE load2 vn
+13:39:26 [INFO] UNIVERSAL_TIMEDELTA 7 hours
+13:39:26 [INFO] versionPlist.versionUrl http://163.223.12.142:18080/version?fake=false
+13:39:26 [INFO] REPORT_CONF_URL http://163.223.12.142:1104
+13:39:26 [INFO] APP_VERSION 2.1.0.0
+13:39:26 [INFO] APP_CHANNEL none
+13:39:26 [INFO] APP_TAG none
+13:39:26 [INFO] LOCAL_LANGUAGE loaded vn
+.fake not valid file path
+13:39:26 [INFO] FAKE_APP true
+13:39:26 [INFO] none
+13:39:26 [INFO] none
+13:39:26 DYNAMIC_ENABLE	true
+13:39:26 DYNAMIC_INDEX_ENABLE	true
+13:39:26 [INFO] config_defines - loadfile 4008.568359 KB
+13:39:26 [DBG] lazy_require csv config.zawake.levels cost 22322.16KB 0.096s
+13:39:26 [DBG] preload csv.zawake.levels table: 0x15aa1690 16130
+13:39:26 [INFO] config_defines - csv loaded 26438.476563 KB
+13:39:26 [DBG] lazy_require csv config.language cost 5958.85KB 0.019s
+13:39:26 [DBG] lazy_require csv config.random_tower.tower cost 128.41KB 0.002s
+13:39:26 [DBG] lazy_require csv config.fix_shop cost 196.61KB 0.002s
+13:39:26 [DBG] lazy_require csv config.union.union_shop cost 146.54KB 0.002s
+13:39:26 [DBG] lazy_require csv config.frag_shop cost 27.24KB 0.001s
+13:39:26 [DBG] lazy_require csv config.pwshop cost 19.37KB 0.001s
+13:39:26 [DBG] lazy_require csv config.explorer.explorer_shop cost 26.22KB 0.001s
+13:39:26 [DBG] lazy_require csv config.random_tower.shop cost 96.91KB 0.002s
+13:39:26 [DBG] lazy_require csv config.craft.shop cost 13.88KB 0.002s
+13:39:26 [DBG] lazy_require csv config.equip_shop cost 33.45KB 0.001s
+13:39:26 [DBG] lazy_require csv config.union_fight.shop cost 21.53KB 0.002s
+13:39:26 [DBG] lazy_require csv config.cross.craft.shop cost 15.53KB 0.001s
+13:39:27 [DBG] lazy_require csv config.cross.arena.shop cost 19.74KB 0.001s
+13:39:27 [DBG] lazy_require csv config.fishing.shop cost 35.49KB 0.001s
+13:39:27 [DBG] lazy_require csv config.cross.online_fight.shop cost 20.52KB 0.001s
+13:39:27 [DBG] lazy_require csv config.cross.mine.shop cost 20.09KB 0.001s
+13:39:27 [DBG] lazy_require csv config.cross.hunting.shop cost 18.67KB 0.001s
+13:39:27 [DBG] lazy_require csv config.cross.supremacy.shop cost 20.87KB 0.001s
+13:39:27 [INFO] curSvrTag NONE
+13:39:27 [DBG] lazy_require csv config.server.merge cost 5.52KB 0.002s
+13:39:27 [INFO] config_defines - index and cache 47002.527344 KB
+13:39:27 [INFO] config_defines - after collect 17729.843750 KB
+13:39:27 [DBG] config_defines - index gHandbookCsv
+13:39:27 [DBG] lazy_require csv config.pokedex cost 99.34KB 0.002s
+13:39:27 [DBG] config_defines - proxy index gHandbookCsv
+13:39:27 [DBG] lazy_require csv config.cards cost 953.56KB 0.005s
+13:39:27 [DBG] lazy_require csv config.items cost 5454.25KB 0.021s
+13:39:27 [DBG] lazy_require csv config.unit cost 4717.57KB 0.024s
+13:39:27 [INFO] lz4 little-endian
+13:39:27 [INFO] TLoginCheck task be register /login/check for login
+13:39:27 [INFO] TLoginConfirm task be register /login/confirm for login
+13:39:27 [INFO] TLoginEnterServer task be register /login/enter_server for login
+13:39:27 [INFO] TLoginEnterOK task be register /login/ok for login
+13:39:27 [INFO] TGamePush task be register /game/push for game
+13:39:27 [INFO] TOnlineFightLogin task be register /onlinefight/login for onlinefight
+13:39:27 [INFO] TOnlineFightPush task be register /onlinefight/push for onlinefight
+13:39:27 [INFO] TOnlineFightInput task be register /onlinefight/input for onlinefight
+13:39:27 [INFO] TOnlineFightAttack task be register /onlinefight/attack for onlinefight
+13:39:27 [INFO] TOnlineFightNetTest task be register /onlinefight/net/test for onlinefight
+13:39:27 [INFO] TOnlineFightControl task be register /onlinefight/control for onlinefight
+13:39:27 [DBG] lazy_require csv config.equips cost 511.10KB 0.004s
+13:39:27 [DBG] lazy_require csv config.fragments cost 589.19KB 0.004s
+13:39:27 [DBG] lazy_require csv config.held_item.items cost 211.00KB 0.002s
+13:39:27 [DBG] lazy_require csv config.gem.gem cost 640.22KB 0.005s
+13:39:27 [DBG] lazy_require csv config.zawake.zawake_fragments cost 122.17KB 0.002s
+13:39:27 [DBG] lazy_require csv config.chip.chips cost 561.91KB 0.004s
+13:39:27 app guarder init
+can not get file data of src/kofi.lua
+[LUA] ADD script schedule: 4, entryID: 1
+13:39:27 DEBUG	2
+13:39:27 <LOG>	log is enabled
+13:39:27 [DBG] printDebug is enabled
+13:39:27 [INFO] printInfo is enabled
+13:39:27 gc stop	0
+13:39:27 [INFO] SearchPaths 1 C:/Users/chau5/AppData/Local/MyLuaGame/debugruntime/
+13:39:27 [INFO] SearchPaths 2 E:/Download/[MOBILE] BÁ VƯƠNG ĐẠI CHIẾN/Client/MyLuaGame/simulator/win32/
+13:39:27 [INFO] SearchPaths 3 
+13:39:27 [INFO] SearchResolutionsOrder 1 
+13:39:27 [INFO] SearchResolutionsOrder 2 dev/xxx/res/
+13:39:27 [INFO] SearchResolutionsOrder 3 dev/xxx/res/uijson/
+13:39:27 [INFO] SearchResolutionsOrder 4 dev/xxx/res/resources_vn/
+13:39:27 [INFO] SearchResolutionsOrder 5 dev/xxx/res/resources/
+13:39:27 [INFO] SearchResolutionsOrder 6 dev/xxx/res/spine_vn/
+13:39:27 [INFO] SearchResolutionsOrder 7 dev/xxx/res/spine/
+13:39:27 [INFO] SearchResolutionsOrder 8 dev/xxx/res/sound_vn/
+13:39:27 [INFO] SearchResolutionsOrder 9 dev/xxx/res/sound/
+13:39:27 [INFO] SearchResolutionsOrder 10 dev/xxx/res/video_vn/
+13:39:27 [INFO] SearchResolutionsOrder 11 dev/xxx/res/video/
+13:39:27 [INFO] SearchResolutionsOrder 12 res/
+13:39:27 [INFO] SearchResolutionsOrder 13 res/uijson/
+13:39:27 [INFO] SearchResolutionsOrder 14 res/resources_vn/
+13:39:27 [INFO] SearchResolutionsOrder 15 res/resources/
+13:39:27 [INFO] SearchResolutionsOrder 16 res/spine_vn/
+13:39:27 [INFO] SearchResolutionsOrder 17 res/spine/
+13:39:27 [INFO] SearchResolutionsOrder 18 res/sound_vn/
+13:39:27 [INFO] SearchResolutionsOrder 19 res/sound/
+13:39:27 [INFO] SearchResolutionsOrder 20 res/video_vn/
+13:39:27 [INFO] SearchResolutionsOrder 21 res/video/
+13:39:27 [INFO] WritablePath ./simulator/win32/
+13:39:27 [DBG] lazy_require csv config.new_guide cost 417.23KB 0.028s
+13:39:27 [DBG] lazy_require csv config.new_guide_local cost 19.85KB 0.026s
+cocos2d: fullPathForFilename: No file found at common/icon/tag_digital8.png. Possible missing file.
+13:39:28 [DBG] lazy_require csv config.banlvxiaowu cost 7.29KB 0.024s
+cocos2d: fullPathForFilename: No file found at ./simulator/win32/package/video/house/1_2.mp4. Possible missing file.
+13:39:28 [INFO] not found file clear temp
+cocos2d: fullPathForFilename: No file found at ./simulator/win32/package/_temp/1_2. Possible missing file.
+cocos2d: fullPathForFilename: No file found at ./simulator/win32/package/video/house/1_3.mp4. Possible missing file.
+13:39:28 [INFO] not found file clear temp
+cocos2d: fullPathForFilename: No file found at ./simulator/win32/package/_temp/1_3. Possible missing file.
+13:39:28 ---- shaderInit ----
+[LUA] ADD script schedule: 126, entryID: 2
+[LUA] ADD script schedule: 127, entryID: 3
+13:39:29 [audio] setMusicVolume() - volume: 0.28
+13:39:29 [audio] setSoundsVolume() - volume: 0.4
+can not get file data of src/battle/app_views/login/view.lua
+13:39:29 [INFO] battleComponents.register() - register module Event
+cocos2d: fullPathForFilename: No file found at GUI/image.png. Possible missing file.
+cocos2d: fullPathForFilename: No file found at GUI/image.png. Possible missing file.
+cocos2d: fullPathForFilename: No file found at GUI/image.png. Possible missing file.
+13:39:31 [INFO] ------ Editor init ------
+13:39:31 editor:init	nil	nil
+13:39:31 iupeditor:init
+13:39:31 [INFO] ------------
+13:39:31 [DBG] gc count 42569.083007813 KB before create LoginView: 0x1533a5f8
+13:39:31 [DBG] ViewBase:onCreate_ start LoginView: 0x1533a5f8
+13:39:31 APP_CHANNEL:	none
+13:39:31 aniRes:	login/login.skel
+13:39:32 [DBG] config_defines - index gSoundCsv
+13:39:32 [DBG] lazy_require csv config.sound_config cost 19.05KB 0.027s
+13:39:32 [DBG] config_defines - proxy index gSoundCsv
+13:39:32 [DBG] gc count 42648.921875 KB before create simpleView: 0x16292458
+13:39:32 [DBG] ViewBase:onCreate_ start simpleView: 0x16292458
+13:39:32 [DBG] ViewBase:onCreate_ end simpleView: 0x16292458 0.00099999999999945
+cocos2d: fullPathForFilename: No file found at serverStatus. Possible missing file.
+13:39:32 [DBG] ViewBase:onCreate_ end LoginView: 0x1533a5f8 0.221
+Destruct DownloaderCURL 0E01CE10
+Destruct DownloaderCURL::Impl 0E01CEFC 0
+13:39:34 [audio] preloadSound() - filename: advance_suc.mp3
+13:39:35 [audio] preloadSound() - filename: item_gain.mp3
+13:39:36 [audio] playSound() - filename: click_1.mp3, isLoop: false
+13:39:36 [DBG] UI Modal Push connecting 1 ccui.Layout: 0x16838a98
+In the constructor of HttpClient!
+13:39:36 [DBG] UI Modal Pop [1] connecting 0 ccui.Layout: 0x16838a98
+13:39:36 Login API response:	
+{"status":0,"msg":"Login thành công"}
+13:39:36 JSON decode ok:	true	result:	{status=0, msg=Login thành công}
+13:39:36 result.status:	0	type:	number
+13:39:36 Login success:	nghiadz
+13:39:36 requestServerCustom:	login
+13:39:36 [DBG] UI Modal Push connecting 1 ccui.Layout: 0x16838a98
+13:39:36 [INFO] doRequest 1 login 
+13:39:36 [INFO] LoginSession: 0x14ead630 1 start to connect 163.223.12.142 16666
+13:39:36 [DBG] select 1 w event
+13:39:36 [INFO] LoginSession: 0x14ead630 1 connected 163.223.12.142:16666
+13:39:36 [INFO] LoginSession: 0x14ead630 1 login to 163.223.12.142:16666
+13:39:36 login channel	none
+cocos2d: fullPathForFilename: No file found at src/app.guarder.init. Possible missing file.
+13:39:36 [INFO] FILE_MD5 src/app/guarder/init.lua 1602 1eb5e1d9279795061149d37baeaf8652 sign 3f07d95ff191967b8cf67fd4bf380416
+13:39:36 [INFO] FILE_MD5 res/img/helper/70ba7e14140b0097.jpg 7 2c0c1b0931674b58a580afcd502c6116 sign eaf92613d6c94c98713fa59895717d68
+13:39:36 [DBG] aes pwd LoginSession: 0x14ead630 746a7368756d61303831363130383838
+13:39:36 ------------------------------>>>>
+13:39:36 [SEND]	url = /login/check, synID = 1, len = 160
+13:39:36 
++patch [number 1]
++tag [string none]
++minpatch [number 1]
++channel [string none]
++fake [boolean true]
++platform [string windows]
++app [string 2.1.0]
++guarder [string eaf92613d6c94c98713fa59895717d68]
++name [string nghiadz]
++language [string vn]
+13:39:36 ------------------------------>>>>
+13:39:36 [DBG] LoginSession: 0x14ead630 1 send packet len=189
+13:39:36 [DBG] LoginSession: 0x14ead630 1 sending len=189 last=1 index=189 pindex=nil err=nil
+13:39:36 [DBG] LoginSession: 0x14ead630 1 states 0 189 0.056425094604492
+13:39:36 [audio] preloadSound() - filename: iconpopup.mp3
+13:39:36 [DBG] select 1 r event
+13:39:36 [DBG] LoginSession: 0x14ead630 1 recving len=1 err=nil
+13:39:36 [DBG] LoginSession: 0x14ead630 1 recving len=11 err=nil
+13:39:36 [DBG] LoginSession: 0x14ead630 1 recving len=1 err=nil
+13:39:36 [DBG] LoginSession: 0x14ead630 1 recving len=16 err=nil
+13:39:36 [DBG] LoginSession: 0x14ead630 1 recving len=368 err=nil
+13:39:36 [DBG] LoginSession: 0x14ead630 1 recving len=0 err=timeout
+13:39:36 [INFO] login packet true
+13:39:36 [DBG] aes pwd LoginSession: 0x14ead630 8baebb2190733f665d30430f6832adb4
+13:39:36 [DBG] LoginSession: 0x14ead630 1 send packet len=45
+13:39:36 [DBG] LoginSession: 0x14ead630 1 sending len=45 last=1 index=45 pindex=nil err=nil
+13:39:36 [DBG] LoginSession: 0x14ead630 1 states 397 234 0.096134185791016
+13:39:36 [DBG] select 1 r event
+13:39:36 [DBG] LoginSession: 0x14ead630 1 recving len=1 err=nil
+13:39:36 [DBG] LoginSession: 0x14ead630 1 recving len=11 err=nil
+13:39:36 [DBG] LoginSession: 0x14ead630 1 recving len=1 err=nil
+13:39:36 [DBG] LoginSession: 0x14ead630 1 recving len=16 err=nil
+13:39:36 [DBG] LoginSession: 0x14ead630 1 recving len=144 err=nil
+13:39:36 [DBG] LoginSession: 0x14ead630 1 recving len=0 err=timeout
+13:39:36 [INFO] login confirm packet ack
+13:39:36 [INFO] LoginSession: 0x14ead630 1 login ok 163.223.12.142:16666
+13:39:36 [INFO] doRequest 1 login, ret=true err=nil, rtt time cost 0.146 s
+13:39:36 [DBG] UI Modal Pop [1] connecting 0 ccui.Layout: 0x16838a98
+cocos2d: fullPathForFilename: No file found at [Hot]. Possible missing file.
+13:39:36 [DBG] config_defines - index gDestServer
+13:39:36 [DBG] config_defines - proxy index gDestServer
+13:39:36 [DBG] ViewBase:onClose simpleView: 0x16292458
+13:39:36 [DBG] ViewBase:onExit simpleView: 0x16292458
+13:39:36 [DBG] ViewBase:onCleanup simpleView: 0x16292458 nil login_input.json
+13:39:37 [audio] preloadSound() - filename: golden.mp3
+13:39:38 [audio] preloadSound() - filename: card_gain.mp3
+13:39:38 [audio] playSound() - filename: click_1.mp3, isLoop: false
+13:39:38 selected server	1	{addr=163.223.12.142:9001, id=1, status=1, key=game.vn.1, name=NARUTO}
+13:39:38 requestServerCustom:	/login/enter_server
+13:39:38 [DBG] UI Modal Push connecting 1 ccui.Layout: 0x16838a98
+13:39:38 [INFO] doRequest 2 /login/enter_server 
+13:39:38 [DBG] aes pwd LoginSession: 0x14ead630 8baebb2190733f665d30430f6832adb4
+13:39:38 ------------------------------>>>>
+13:39:38 [SEND]	url = /login/enter_server, synID = 3, len = 80
+13:39:38 
++addr [string 163.223.12.142:9001]
++id [number 1]
++status [number 1]
++key [string game.vn.1]
++name [string NARUTO]
+13:39:38 ------------------------------>>>>
+13:39:38 [DBG] LoginSession: 0x14ead630 1 send packet len=125
+13:39:38 [DBG] LoginSession: 0x14ead630 1 sending len=125 last=1 index=125 pindex=nil err=nil
+13:39:38 [DBG] LoginSession: 0x14ead630 1 states 570 359 2.7375240325928
+13:39:38 [DBG] select 1 r event
+13:39:38 [DBG] LoginSession: 0x14ead630 1 recving len=1 err=nil
+13:39:38 [DBG] LoginSession: 0x14ead630 1 recving len=11 err=nil
+13:39:38 [DBG] LoginSession: 0x14ead630 1 recving len=1 err=nil
+13:39:38 [DBG] LoginSession: 0x14ead630 1 recving len=32 err=nil
+13:39:38 [DBG] LoginSession: 0x14ead630 1 recving len=64 err=nil
+13:39:38 [DBG] LoginSession: 0x14ead630 1 recving len=0 err=timeout
+13:39:38 [INFO] login enter server ack ok
+13:39:38 [INFO] doRequest 2 /login/enter_server, ret=true err=nil, rtt time cost 0.065000000000001 s
+13:39:38 [DBG] UI Modal Pop [1] connecting 0 ccui.Layout: 0x16838a98
+13:39:38 [INFO] GameSession: 0x14e3d190 2 start to connect 163.223.12.142 9001
+13:39:38 requestServerCustom:	/game/login
+13:39:38 [DBG] UI Modal Push connecting 1 ccui.Layout: 0x16838a98
+13:39:38 [INFO] doRequest 3 /game/login 
+13:39:38 [DBG] aes pwd GameSession: 0x14e3d190 746a7368756d61303831363130383838
+13:39:38 ------------------------------>>>>
+13:39:38 [SEND]	url = /game/login, synID = 4, len = 144
+13:39:38 
++channel [string none]
++tag [string none]
++language [string vn]
+13:39:38 ------------------------------>>>>
+13:39:38 [DBG] select 2 w event
+13:39:38 [INFO] GameSession: 0x14e3d190 2 connected 163.223.12.142:9001
+13:39:39 [INFO] GameSession: 0x14e3d190 2 ok 163.223.12.142:9001
+13:39:39 [DBG] GameSession: 0x14e3d190 2 send packet len=173
+13:39:39 [DBG] GameSession: 0x14e3d190 2 sending len=173 last=1 index=173 pindex=nil err=nil
+13:39:39 [DBG] GameSession: 0x14e3d190 2 states 0 173 0.081926345825195
+13:39:39 [audio] preloadSound() - filename: role_levelup.mp3
+13:39:39 aniRes:	naruto_effect/loadingdog2.skel
+13:39:39 [DBG] select 2 r event
+13:39:39 [DBG] GameSession: 0x14e3d190 2 recving len=1 err=nil
+13:39:39 [DBG] GameSession: 0x14e3d190 2 recving len=13 err=nil
+13:39:39 [DBG] GameSession: 0x14e3d190 2 recving len=1 err=nil
+13:39:39 [DBG] GameSession: 0x14e3d190 2 recving len=16 err=nil
+13:39:39 [DBG] GameSession: 0x14e3d190 2 recving len=328950 err=timeout
+13:39:39 [DBG] select 2 r event
+13:39:39 [DBG] GameSession: 0x14e3d190 2 recving len=160506 err=nil
+13:39:40 [DBG] GameSession: 0x14e3d190 2 recving len=0 err=timeout
+13:39:40 csv sync version	0	385297179
+13:39:40 [WARN] idlers: 0xe(Role: 0x15585e30) old msg {1={idler=idlertable: 0xf(yy_endtime), val={}, key=yy_endtime, event=add}}, new msg {idler=idlertable: 0x10(active_logos), val={}, key=active_logos, event=add}
+13:39:40 [DBG] config_defines - index gRoleLogoCsv
+13:39:40 [DBG] lazy_require csv config.role_logo cost 336.62KB 0.028s
+13:39:40 [DBG] config_defines - proxy index gRoleLogoCsv
+13:39:40 [WARN] idlers: 0xe(Role: 0x15585e30) old msg {1={idler=idlertable: 0xf(yy_endtime), val={}, key=yy_endtime, event=add}, 2={idler=idlertable: 0x10(active_logos), val={}, key=active_logos, event=add}}, new msg {idler=idlertable: 0x11(buy_recharge), val={}, key=buy_recharge, event=add}
+13:39:40 [WARN] no any data in model Shop: 0x155dd058?
+13:39:40 {}
+13:39:40 [WARN] no any data in model Shop: 0x155dd8c0?
+13:39:40 {}
+13:39:40 [WARN] no any data in model Union: 0x15629058?
+13:39:40 {}
+13:39:40 [WARN] no any data in model Shop: 0x1557bf58?
+13:39:40 {}
+13:39:40 [WARN] no any data in model Shop: 0x153e3318?
+13:39:40 {}
+13:39:40 [WARN] no any data in model Shop: 0x153e3670?
+13:39:40 {}
+13:39:40 [DBG] lazy_require csv config.tasks cost 763.01KB 0.029s
+13:39:40 [WARN] idlers: 0xe(Role: 0x15585e30) old msg {1={idler=idlertable: 0xf(yy_endtime), val={}, key=yy_endtime, event=add}, 2={idler=idlertable: 0x10(active_logos), val={}, key=active_logos, event=add}, 3={idler=idlertable: 0x11(buy_recharge), val={}, key=buy_recharge, event=add}}, new msg {idler=idlertable: 0x147(yy_open), val={1=2, 2=5, 3=6, 4=8, 5=11, 6=12, 7=14, 8=622, 9=43, 10=44, 11=45, 12=46, 13=47, 14=683, 15=75, 16=76, 17=71006, 18=651, 19=101, 20=102, 21=107, 22=125}, key=yy_open, event=add}
+13:39:40 [DBG] aes pwd LoginSession: 0x14ead630 8baebb2190733f665d30430f6832adb4
+13:39:40 ------------------------------>>>>
+13:39:40 [SEND]	url = /login/ok, synID = 5, len = 16
+13:39:40 
+
+13:39:40 ------------------------------>>>>
+13:39:40 [INFO] doRequest 3 /game/login, ret=true err=nil, rtt time cost 1.488 s
+13:39:40 [DBG] UI Modal Pop [1] connecting 0 ccui.Layout: 0x16838a98
+13:39:40 sdk commitRoleInfo and go to city
+13:39:40 [DBG] ViewBase:onClose LoginView: 0x1533a5f8
+13:39:40 [DBG] ViewBase:onExit LoginView: 0x1533a5f8
+13:39:40 [DBG] ViewBase:onCleanup LoginView: 0x1533a5f8 nil login.view
+13:39:40 [DBG] gc count 61738.861328125 KB after cleanup LoginView: 0x1533a5f8
+can not get file data of cocos/battle/app_views/city/view.lua
+13:39:40 [DBG] config_defines - index gCommonConfigCsv
+13:39:40 [DBG] lazy_require csv config.common_config cost 93.33KB 0.026s
+13:39:40 [DBG] config_defines - proxy index gCommonConfigCsv
+cocos2d: fullPathForFilename: No file found at /__halfCircleImage. Possible missing file.
+cocos2d: fullPathForFilename: No file found at /__bodyImage. Possible missing file.
+13:39:41 [DBG] check full style userdata: 0x1c7f6280 city.view CityView {height=1440, width=2560} {} false
+13:39:41 [INFO] UI Stack Push city.view 1 CityView: 0x1c7f6280
+13:39:41 [DBG] gc count 63437.008789063 KB before create CityView: 0x1c7f6280
+13:39:41 [DBG] ViewBase:onCreate_ start CityView: 0x1c7f6280
+can not get file data of cocos/battle/app_views/topui/views/city.lua
+13:39:41 [DBG] gc count 63681.513671875 KB before create TopuiCityView: 0x1d9ba108
+13:39:41 [DBG] ViewBase:onCreate_ start TopuiCityView: 0x1d9ba108
+13:39:41 [DBG] config_defines - index gRoleLevelCsv
+13:39:41 [DBG] lazy_require csv config.base_attribute.role_level cost 117.22KB 0.028s
+13:39:41 [DBG] config_defines - proxy index gRoleLevelCsv
+13:39:41 [DBG] config_defines - index gUnlockCsv
+13:39:41 [DBG] lazy_require csv config.unlock cost 100.47KB 0.027s
+13:39:41 [DBG] config_defines - proxy index gUnlockCsv
+13:39:41 [DBG] lazy_require csv config.trainer.trainer_level cost 34.87KB 0.027s
+13:39:41 [DBG] gc count 65026.743164063 KB before create simpleView: 0x1db48de8
+13:39:41 [DBG] ViewBase:onCreate_ start simpleView: 0x1db48de8
+13:39:41 [DBG] ViewBase:onCreate_ end simpleView: 0x1db48de8 0
+13:39:41 [DBG] config_defines - index gVipCsv
+13:39:41 [DBG] lazy_require csv config.vip cost 113.15KB 0.026s
+13:39:41 [DBG] config_defines - proxy index gVipCsv
+13:39:41 >>> PANEL:	skinCardPanel
+13:39:41 >>> PANEL:	goldPanel
+13:39:41 >>> PANEL:	diamondPanel
+13:39:41 >>> PANEL:	staminaPanel
+13:39:41  Gửi packet get-user-info qua backend
+13:39:41 requestServerCustom:	/game/get-user-info
+13:39:41 [DBG] UI Modal Push connecting 1 ccui.Layout: 0x16838a98
+13:39:41 [INFO] doRequest 4 /game/get-user-info 
+13:39:41 [DBG] aes pwd GameSession: 0x14e3d190 8baebb2190733f665d30430f6832adb4
+13:39:41 ------------------------------>>>>
+13:39:41 [SEND]	url = /game/get-user-info, synID = 6, len = 160
+13:39:41 
++device [number 3]
++token [string ]
++username [string nghiadz]
+13:39:41 ------------------------------>>>>
+13:39:41 requestServerCustom:	/game/update-device-info
+13:39:41 gold
+13:39:41 [DBG] ViewBase:onCreate_ end TopuiCityView: 0x1d9ba108 0.146
+13:39:41 aniRes:	main_city/zhujiemian.skel
+13:39:41 aniRes:	main_city/qianjing.skel
+13:39:41 aniRes:	richangzhushou/richangzhushou.json
+13:39:41 [DBG] lazy_require csv config.scene_conf cost 3929.62KB 0.042s
+13:39:41 [DBG] lazy_require csv config.huodong cost 39.03KB 0.026s
+13:39:41 [DBG] lazy_require csv config.online_gift cost 6.41KB 0.026s
+13:39:41 [DBG] config_defines - index gEmojiCsv
+13:39:41 [DBG] lazy_require csv config.chat_emoji cost 47.54KB 0.027s
+13:39:41 [DBG] config_defines - proxy index gEmojiCsv
+13:39:41 [DBG] lazy_require csv config.color cost 6.28KB 0.025s
+13:39:41 [DBG] config_defines - index gGrowGuideCsv
+13:39:41 [DBG] lazy_require csv config.grow_guide cost 83.77KB 0.027s
+13:39:41 [DBG] config_defines - proxy index gGrowGuideCsv
+13:39:41 [DBG] lazy_require csv config.pvpandpve cost -247.33KB 0.026s
+13:39:41 [DBG] lazy_require csv config.craft.base cost -16.89KB 0.026s
+13:39:41 aniRes:	effect/xiangdao.skel
+13:39:41 [DBG] lazy_require csv config.citysound cost -10.49KB 0.026s
+13:39:41 [audio] stopMusic() - isReleaseData: false
+13:39:41 [audio] playMusic() - filename: city.mp3, isLoop: true
+13:39:42 [audio] setMusicVolume() - volume: 0.28
+13:39:42 [DBG] lazy_require csv config.sysopen cost -72.54KB 0.026s
+13:39:42 aniRes:	huodongtixing/huodongtixing.skel
+13:39:42 [DBG] lazy_require csv config.cross.horse_race.base cost -6.07KB 0.026s
+13:39:42 [INFO] listview be loaded in easy.bind.extend.listview
+can not get file data of cocos/easy/bind/extend/red_hint.lua
+13:39:42 [INFO] red_hint be loaded in app.easy.bind.extend.red_hint
+can not get file data of cocos/easy/bind/extend/marquee.lua
+13:39:42 [DBG] lazy_require csv config.marquee cost -13.65KB 0.031s
+13:39:42 [INFO] marquee be loaded in app.easy.bind.extend.marquee
+13:39:42 [INFO] tableview be loaded in easy.bind.extend.tableview
+can not get file data of cocos/easy/bind/extend/role_logo.lua
+13:39:42 [INFO] role_logo be loaded in app.easy.bind.extend.role_logo
+13:39:42 [DBG] config_defines - index gRoleFrameCsv
+13:39:42 [DBG] lazy_require csv config.role_frame cost 232.70KB 0.028s
+13:39:42 [DBG] config_defines - proxy index gRoleFrameCsv
+13:39:42 aniRes:	txk/tx_jejms.json
+can not get file data of cocos/easy/bind/extend/cutdown_label.lua
+13:39:42 [INFO] cutdown_label be loaded in app.easy.bind.extend.cutdown_label
+13:39:42 [DBG] ViewBase:onCreate_ end CityView: 0x1c7f6280 1.723
+13:39:42 [INFO] UI Switch city.view From login.view  city.view
+13:39:42 [WARN] onSwitchUI but requesting from login.view to city.view
+13:39:42 [DBG] lazy_require csv config.pwrank_award cost 13.73KB 0.027s
+13:39:42 [DBG] lazy_require csv config.talent_tree cost 13.55KB 0.026s
+13:39:42 [DBG] lazy_require csv config.talent_cost cost 28.34KB 0.026s
+13:39:42 [DBG] lazy_require csv config.talent cost 282.58KB 0.027s
+13:39:43 [DBG] lazy_require csv config.explorer.explorer cost 43.21KB 0.026s
+13:39:43 [DBG] lazy_require csv config.explorer.component cost 132.29KB 0.027s
+13:39:43 [DBG] lazy_require csv config.explorer.component_level cost 462.12KB 0.028s
+13:39:43 [DBG] config_defines - index gCardsMega
+13:39:43 [DBG] config_defines - proxy index gCardsMega
+13:39:43 [DBG] lazy_require csv config.card_mega cost 16.50KB 0.028s
+13:39:43 [DBG] lazy_require csv config.achievement.achievement_task cost 1030.55KB 0.031s
+13:39:43 [DBG] lazy_require csv config.achievement.achievement_level cost 76.22KB 0.028s
+13:39:43 [DBG] lazy_require csv config.base_attribute.equip_awake cost 73.05KB 0.028s
+13:39:43 [DBG] config_defines - index gGoodFeelCsv
+13:39:43 [DBG] lazy_require csv config.good_feel cost 1810.25KB 0.030s
+13:39:43 [DBG] config_defines - proxy index gGoodFeelCsv
+13:39:43 [DBG] LoginSession: 0x14ead630 1 send packet len=45
+13:39:43 [DBG] LoginSession: 0x14ead630 1 sending len=45 last=1 index=45 pindex=nil err=nil
+13:39:43 [DBG] LoginSession: 0x14ead630 1 states 679 404 7.0979290008545
+13:39:43 [INFO] LoginSession: 0x14ead630 1 sleep 163.223.12.142:16666
+13:39:43 [INFO] LoginSession: 0x14ead630 1 close nil:16666
+13:39:43 [INFO] onLoginOK
+13:39:43 [DBG] GameSession: 0x14e3d190 2 send packet len=205
+13:39:43 [DBG] GameSession: 0x14e3d190 2 sending len=205 last=1 index=205 pindex=nil err=nil
+13:39:43 [DBG] GameSession: 0x14e3d190 2 states 489487 378 4.2992095947266
+13:39:43 [INFO] select 1 delete
+13:39:43 [WARN] LoginSession: 0x14ead630 1 recv err=closed
+13:39:43 [audio] preloadSound() - filename: popupopen.mp3
+13:39:43 [DBG] lazy_require csv config.mystery_shop_config cost 2.52KB 0.034s
+13:39:43 [DBG] select 2 r event
+13:39:43 [DBG] GameSession: 0x14e3d190 2 recving len=1 err=nil
+13:39:43 [DBG] GameSession: 0x14e3d190 2 recving len=0 err=timeout
+13:39:43 [DBG] select 2 r event
+13:39:43 [DBG] GameSession: 0x14e3d190 2 recving len=11 err=nil
+13:39:43 [DBG] GameSession: 0x14e3d190 2 recving len=1 err=nil
+13:39:43 [DBG] GameSession: 0x14e3d190 2 recving len=32 err=nil
+13:39:43 [DBG] GameSession: 0x14e3d190 2 recving len=320 err=nil
+13:39:43 [DBG] GameSession: 0x14e3d190 2 recving len=0 err=timeout
+13:39:43 [INFO] doRequest 4 /game/get-user-info, ret=nil err={ret=false, err=Call mangawar error: [Errno 111] Connection refused}, rtt time cost 1.907 s
+13:39:43 [DBG] UI Modal Pop [1] connecting 0 ccui.Layout: 0x16838a98
+13:39:43 [WARN] doRequest 4 /game/get-user-info server_err=Call mangawar error: [Errno 111] Connection refused
+13:39:43 Lỗi backend (KHÔNG show popup):	Call mangawar error: [Errno 111] Connection refused
+13:39:43 [INFO] doRequest 5 /game/update-device-info slient
+13:39:43 [DBG] aes pwd GameSession: 0x14e3d190 8baebb2190733f665d30430f6832adb4
+13:39:43 ------------------------------>>>>
+13:39:43 [SEND]	url = /game/update-device-info, synID = 7, len = 160
+13:39:43 
++device [number 3]
++token [string ]
++username [string nghiadz]
+13:39:43 ------------------------------>>>>
+13:39:43 [DBG] GameSession: 0x14e3d190 2 send packet len=205
+13:39:43 [DBG] GameSession: 0x14e3d190 2 sending len=205 last=1 index=205 pindex=nil err=nil
+13:39:43 [DBG] GameSession: 0x14e3d190 2 states 489852 583 4.4316577911377
+13:39:43 [DBG] select 2 r event
+13:39:43 [DBG] GameSession: 0x14e3d190 2 recving len=1 err=nil
+13:39:43 [DBG] GameSession: 0x14e3d190 2 recving len=0 err=timeout
+13:39:43 [DBG] select 2 r event
+13:39:43 [DBG] GameSession: 0x14e3d190 2 recving len=11 err=nil
+13:39:43 [DBG] GameSession: 0x14e3d190 2 recving len=1 err=nil
+13:39:43 [DBG] GameSession: 0x14e3d190 2 recving len=32 err=nil
+13:39:43 [DBG] GameSession: 0x14e3d190 2 recving len=128 err=nil
+13:39:43 [DBG] GameSession: 0x14e3d190 2 recving len=0 err=timeout
+13:39:43 [INFO] doRequest 5 /game/update-device-info, ret=nil err={ret=false, err=Token missing}, rtt time cost 0.097000000000001 s
+13:39:43 [WARN] doRequest 5 /game/update-device-info server_err=Token missing
+13:39:43 Lỗi backend (KHÔNG show popup):	Token missing
+13:39:43 [audio] preloadSound() - filename: popupclose.mp3
+13:39:45 [audio] preloadSound() - filename: click_1.mp3
+13:39:45 [audio] preloadSound() - filename: click_2.mp3
+13:39:46 [audio] preloadSound() - filename: click_3.mp3
+cocos2d: TextureCache: removing long time unused texture: res/resources/login/login/bg1.png
+cocos2d: TextureCache: removing long time unused texture: res/resources/login/logo_red.png
+cocos2d: TextureCache: removing long time unused texture: res/resources/login/icon_pikachu@.png
+cocos2d: TextureCache: removing long time unused texture: res/resources/login/login/btn_enter.png
+cocos2d: TextureCache: removing long time unused texture: res/resources/login/login/logo.png
+cocos2d: TextureCache: removing long time unused texture: res/resources/login/login/btn_zhanghao.png
+cocos2d: TextureCache: removing long time unused texture: res/resources/login/login/changeServer.png
+cocos2d: TextureCache: removing long time unused texture: res/resources/login/login/btn_gonggao.png
+cocos2d: TextureCache: removing long time unused texture: res/resources/login/login/btn_kefu.png
+cocos2d: TextureCache: removing long time unused texture: res/resources/login/box_selserver.png
+cocos2d: TextureCache: removing long time unused texture: res/spine/login/login.png
+13:39:47 [INFO] remove 11 textures after close login.view in onSwitchUI
+13:39:47 [audio] preloadSound() - filename: newbie_finish.mp3
+cocos2d: fullPathForFilename: No file found at newbie_finish.mp3. Possible missing file.
+13:39:48 [audio] preloadSound() - filename: drawcard_one.mp3
+13:39:49 [audio] preloadSound() - filename: drawcard_one2.mp3
+13:39:50 [audio] preloadSound() - filename: drawcard_ten.mp3
+13:39:51 [audio] preloadSound() - filename: drawcard_ten2.mp3
+13:39:52 [audio] preloadSound() - filename: zaixianlibao.mp3
+13:39:53 [audio] preloadSound() - filename: evolution.mp3
+13:39:54 [audio] playSound() - filename: click_1.mp3, isLoop: false
+13:39:54 [DBG] config_defines - index gUnionFeatureCsv
+13:39:54 [DBG] lazy_require csv config.union.union_level cost 81.04KB 0.027s
+13:39:54 [DBG] config_defines - proxy index gUnionFeatureCsv
+13:39:54 =========================================================
+13:39:54 GameUI:stackUI	city.daily_assistant.view
+13:39:54 =========================================================
+can not get file data of cocos/battle/app_views/city/daily_assistant/view.lua
+can not get file data of cocos/battle/app_views/city/daily_assistant/view.lua
+13:39:54 [DBG] check full style userdata: 0x1e5319d0 city.daily_assistant.view DailyAssistantView {height=1440, width=2560} {full=true} false
+13:39:54 [INFO] UI Stack Push city.daily_assistant.view 2 DailyAssistantView: 0x1e5319d0
+13:39:54 [DBG] gc count 67687.620117188 KB before create DailyAssistantView: 0x1e5319d0
+13:39:54 [DBG] ViewBase:onCreate_ start DailyAssistantView: 0x1e5319d0
+can not get file data of cocos/battle/app_views/topui/views/default.lua
+13:39:54 [DBG] gc count 67726.548828125 KB before create TopuiDefaultView: 0x1e53d500
+13:39:54 [DBG] ViewBase:onCreate_ start TopuiDefaultView: 0x1e53d500
+13:39:54 [DBG] gc count 67829.864257813 KB before create simpleView: 0x199f00e8
+13:39:54 [DBG] ViewBase:onCreate_ start simpleView: 0x199f00e8
+13:39:54 [DBG] ViewBase:onCreate_ end simpleView: 0x199f00e8 0
+13:39:54 [DBG] ViewBase:onCreate_ end TopuiDefaultView: 0x1e53d500 0.02
+13:39:54 [DBG] config_defines - index gDailyAssistantCsv
+13:39:54 [DBG] lazy_require csv config.daily_assistant cost 29.08KB 0.026s
+13:39:54 [DBG] config_defines - proxy index gDailyAssistantCsv
+13:39:54 [DBG] config_defines - index gCostCsv
+13:39:54 [DBG] lazy_require csv config.cost cost 45.21KB 0.025s
+13:39:54 [DBG] config_defines - proxy index gCostCsv
+13:39:54 [DBG] lazy_require csv config.endless_tower_scene cost 2236.13KB 0.034s
+13:39:54 [DBG] ViewBase:onCreate_ end DailyAssistantView: 0x1e5319d0 0.215
+13:39:55 [DBG] lazy_require csv config.cross.craft.base cost 7.30KB 0.027s
+can not get file data of cocos/easy/bind/extend/icon_key.lua
+13:39:55 [INFO] icon_key be loaded in app.easy.bind.extend.icon_key
+13:39:55 [audio] preloadSound() - filename: gem_draw_1.mp3
+13:39:55 [audio] preloadSound() - filename: gem_gold_10.mp3
+13:39:56 [audio] preloadSound() - filename: gem_diamond_10.mp3
+[LUA] DEL script schedule 127, entryID: 3
+[LUA] Remove event handler: 127
+13:39:59 [audio] playSound() - filename: click_1.mp3, isLoop: false
+13:39:59 requestServerCustom:	/game/daily/assistant/onekey
+13:39:59 [DBG] UI Modal Push connecting 1 ccui.Layout: 0x16838a98
+13:39:59 [INFO] doRequest 6 /game/daily/assistant/onekey 
+13:39:59 [DBG] aes pwd GameSession: 0x14e3d190 8baebb2190733f665d30430f6832adb4
+13:39:59 ------------------------------>>>>
+13:39:59 [SEND]	url = /game/daily/assistant/onekey, synID = 8, len = 144
+13:39:59 
++type [number 4]
++flags+402 [number 0]
+13:39:59 ------------------------------>>>>
+13:39:59 [DBG] GameSession: 0x14e3d190 2 send packet len=189
+13:39:59 [DBG] GameSession: 0x14e3d190 2 sending len=189 last=1 index=189 pindex=nil err=nil
+13:39:59 [DBG] GameSession: 0x14e3d190 2 states 490025 772 20.95739364624
+13:40:00 [DBG] select 2 r event
+13:40:00 [DBG] GameSession: 0x14e3d190 2 recving len=1 err=nil
+13:40:00 [DBG] GameSession: 0x14e3d190 2 recving len=0 err=timeout
+13:40:00 [DBG] select 2 r event
+13:40:00 [DBG] GameSession: 0x14e3d190 2 recving len=11 err=nil
+13:40:00 [DBG] GameSession: 0x14e3d190 2 recving len=1 err=nil
+13:40:00 [DBG] GameSession: 0x14e3d190 2 recving len=32 err=nil
+13:40:00 [DBG] GameSession: 0x14e3d190 2 recving len=528 err=nil
+13:40:00 [DBG] GameSession: 0x14e3d190 2 recving len=0 err=timeout
+13:40:00 [INFO] doRequest 6 /game/daily/assistant/onekey, ret=true err=nil, rtt time cost 0.228 s
+13:40:00 [DBG] UI Modal Pop [1] connecting 0 ccui.Layout: 0x16838a98
+13:40:00 =========================================================
+13:40:00 GameUI:stackUI	city.gate.sweep
+13:40:00 =========================================================
+can not get file data of cocos/battle/app_views/city/gate/sweep.lua
+can not get file data of cocos/battle/app_views/city/gate/sweep.lua
+13:40:00 [DBG] check full style userdata: 0x1f893dc0 city.gate.sweep GateSweepView {height=1440, width=2560} {backGlass=true} true
+13:40:00 [INFO] UI Stack Push city.gate.sweep 3 GateSweepView: 0x1f893dc0
+13:40:00 [DBG] gc count 74373.64453125 KB before create GateSweepView: 0x1f893dc0
+13:40:00 [DBG] ViewBase:onCreate_ start GateSweepView: 0x1f893dc0
+13:40:00 [audio] playSound() - filename: popupopen.mp3, isLoop: false
+13:40:00 [WARN] bind(self.isDouble) is nil, self is GateSweepView: 0x1f893dc0
+13:40:00 [DBG] ViewBase:onCreate_ end GateSweepView: 0x1f893dc0 0.0050000000000026
+LabelTextFormatter error: can't find letter definition in font file for letter: 0x20
+13:40:00 aniRes:	level/saodangchenggong.skel
+LabelTextFormatter error: can't find letter definition in font file for letter: 0x20
+13:40:01 [audio] playSound() - filename: click_1.mp3, isLoop: false
+13:40:01 [audio] playSound() - filename: popupclose.mp3, isLoop: false
+13:40:02 [DBG] ViewBase:onClose GateSweepView: 0x1f893dc0
+13:40:02 [INFO] UI Stack Pop [3] city.gate.sweep 3 GateSweepView: 0x1f893dc0
+13:40:02 [DBG] ViewBase:onExit GateSweepView: 0x1f893dc0
+13:40:02 [DBG] ViewBase:onCleanup GateSweepView: 0x1f893dc0 nil city.gate.sweep
+13:40:02 [DBG] gc count 75338.651367188 KB after cleanup GateSweepView: 0x1f893dc0
+13:40:04 [audio] playSound() - filename: click_1.mp3, isLoop: false
+13:40:04 [DBG] ViewBase:onClose DailyAssistantView: 0x1e5319d0
+13:40:04 [DBG] ViewBase:onExit simpleView: 0x199f00e8
+13:40:04 [DBG] ViewBase:onExit TopuiDefaultView: 0x1e53d500
+13:40:04 [INFO] UI Stack Pop [2] city.daily_assistant.view 2 DailyAssistantView: 0x1e5319d0
+13:40:04 [DBG] ViewBase:onExit DailyAssistantView: 0x1e5319d0
+13:40:04 [DBG] ViewBase:onCleanup DailyAssistantView: 0x1e5319d0 nil city.daily_assistant.view
+13:40:04 [DBG] gc count 75511.047851563 KB after cleanup DailyAssistantView: 0x1e5319d0
+13:40:04 [DBG] ViewBase:onCleanup TopuiDefaultView: 0x1e53d500 nil topui.views.default
+13:40:04 [DBG] gc count 75511.686523438 KB after cleanup TopuiDefaultView: 0x1e53d500
+13:40:04 [DBG] ViewBase:onCleanup simpleView: 0x199f00e8 nil topui_stamina_recover.json
+13:40:07 [DBG] ViewBase:onExit simpleView: 0x1db48de8
+13:40:07 [DBG] ViewBase:onExit TopuiCityView: 0x1d9ba108
+13:40:07 [INFO] UI Stack Pop [1] city.view 1 CityView: 0x1c7f6280
+13:40:07 [DBG] ViewBase:onExit CityView: 0x1c7f6280
+13:40:07 [DBG] ViewBase:onCleanup CityView: 0x1c7f6280 nil city.view
+13:40:07 [DBG] gc count 75834.158203125 KB after cleanup CityView: 0x1c7f6280
+13:40:07 [DBG] ViewBase:onCleanup TopuiCityView: 0x1d9ba108 nil topui.views.city
+13:40:07 [DBG] gc count 75836.229492188 KB after cleanup TopuiCityView: 0x1d9ba108
+13:40:07 [DBG] ViewBase:onCleanup simpleView: 0x1db48de8 nil topui_stamina_recover.json
+[LUA] DEL script schedule 4, entryID: 1
+[LUA] Remove event handler: 4
+[LUA] DEL script schedule 126, entryID: 2
+[LUA] Remove event handler: 126

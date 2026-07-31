@@ -1,0 +1,18 @@
+Executable : D:\android-ndk-r16b\ndk-build.cmd
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=E:\cnkdjx\Client\MyLuaGame\frameworks\pokemon_proj_tc_qd\proj.android\app\jni\Android.mk
+NDK_APPLICATION_MK=E:\cnkdjx\Client\MyLuaGame\frameworks\pokemon_proj_tc_qd\proj.android\app\jni\Application.mk
+APP_ABI=arm64-v8a
+NDK_ALL_ABIS=arm64-v8a
+NDK_DEBUG=0
+APP_PLATFORM=android-21
+NDK_OUT=E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/build/intermediates/ndkBuild/release/obj
+NDK_LIBS_OUT=E:\cnkdjx\Client\MyLuaGame\frameworks\pokemon_proj_tc_qd\proj.android\app\build\intermediates\ndkBuild\release\lib
+NDK_TOOLCHAIN_VERSION=clang
+-j8
+NDK_MODULE_PATH=E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/cocos2d;E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/cocos2d/cocos;E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/cocos2d/external
+NDK_DEBUG=0
+E:/cnkdjx/Client/MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android/app/build/intermediates/ndkBuild/release/obj/local/arm64-v8a/libcocos2dlua.so
+jvmArgs : 
+

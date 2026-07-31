@@ -1,0 +1,531 @@
+
+zhujiemian.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bowen
+  rotate: false
+  xy: 2, 543
+  size: 1468, 530
+  orig: 1468, 530
+  offset: 0, 0
+  index: -1
+deng1
+  rotate: false
+  xy: 3483, 3353
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+deng10
+  rotate: false
+  xy: 1936, 2039
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+deng11
+  rotate: false
+  xy: 1593, 1421
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+deng12
+  rotate: false
+  xy: 1310, 15
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+deng13
+  rotate: true
+  xy: 1963, 2057
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+deng14
+  rotate: false
+  xy: 3008, 3104
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+deng15
+  rotate: false
+  xy: 1733, 1579
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+deng16
+  rotate: false
+  xy: 1479, 1388
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+deng21
+  rotate: false
+  xy: 1479, 1388
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+deng17
+  rotate: false
+  xy: 3522, 3584
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+deng18
+  rotate: false
+  xy: 1769, 1678
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+deng19
+  rotate: false
+  xy: 1794, 1699
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+deng2
+  rotate: false
+  xy: 1733, 1599
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+deng20
+  rotate: false
+  xy: 4001, 4060
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+deng22
+  rotate: false
+  xy: 3008, 3083
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+deng23
+  rotate: false
+  xy: 2006, 2102
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+deng3
+  rotate: false
+  xy: 1566, 1420
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+deng4
+  rotate: false
+  xy: 1936, 2057
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+deng5
+  rotate: false
+  xy: 1769, 1699
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+deng6
+  rotate: false
+  xy: 2, 2
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+deng7
+  rotate: false
+  xy: 3226, 3200
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+deng8
+  rotate: false
+  xy: 3070, 2213
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+deng9
+  rotate: false
+  xy: 3483, 3335
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+maincity_night_1
+  rotate: false
+  xy: 2, 3079
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+maincity_night_2
+  rotate: false
+  xy: 2, 2077
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+maincity_night_3
+  rotate: false
+  xy: 1004, 3079
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+maincity_renderOut_1_1
+  rotate: false
+  xy: 2, 1075
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+maincity_renderOut_2_1
+  rotate: false
+  xy: 1004, 2077
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+maincity_renderOut_3_1
+  rotate: false
+  xy: 2006, 3079
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+shitou
+  rotate: false
+  xy: 1004, 1408
+  size: 560, 208
+  orig: 560, 208
+  offset: 0, 0
+  index: -1
+tiankong
+  rotate: false
+  xy: 2, 176
+  size: 1617, 365
+  orig: 1617, 365
+  offset: 0, 0
+  index: -1
+wuqi1
+  rotate: false
+  xy: 3008, 3374
+  size: 509, 191
+  orig: 509, 191
+  offset: 0, 0
+  index: -1
+wuqi2
+  rotate: false
+  xy: 1004, 1618
+  size: 763, 457
+  orig: 763, 457
+  offset: 0, 0
+  index: -1
+yun1
+  rotate: false
+  xy: 3008, 3567
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+yun2
+  rotate: false
+  xy: 2006, 2230
+  size: 1257, 380
+  orig: 1257, 380
+  offset: 0, 0
+  index: -1
+yun3
+  rotate: false
+  xy: 2006, 2612
+  size: 1233, 465
+  orig: 1233, 465
+  offset: 0, 0
+  index: -1
+zhedang1
+  rotate: false
+  xy: 2006, 2123
+  size: 212, 105
+  orig: 212, 105
+  offset: 0, 0
+  index: -1
+zhedang2
+  rotate: false
+  xy: 3008, 3125
+  size: 216, 91
+  orig: 216, 91
+  offset: 0, 0
+  index: -1
+水流波纹/shuiliubowen_0001
+  rotate: false
+  xy: 1769, 1898
+  size: 165, 177
+  orig: 165, 177
+  offset: 0, 0
+  index: -1
+水流波纹/shuiliubowen_0002
+  rotate: false
+  xy: 1566, 1439
+  size: 165, 177
+  orig: 165, 177
+  offset: 0, 0
+  index: -1
+水流波纹/shuiliubowen_0003
+  rotate: true
+  xy: 1004, 1085
+  size: 165, 177
+  orig: 165, 177
+  offset: 0, 0
+  index: -1
+水流波纹/shuiliubowen_0004
+  rotate: false
+  xy: 3834, 3902
+  size: 165, 177
+  orig: 165, 177
+  offset: 0, 0
+  index: -1
+水流波纹/shuiliubowen_0005
+  rotate: false
+  xy: 1769, 1719
+  size: 165, 177
+  orig: 165, 177
+  offset: 0, 0
+  index: -1
+水流波纹/shuiliubowen_0006
+  rotate: true
+  xy: 1183, 1085
+  size: 165, 177
+  orig: 165, 177
+  offset: 0, 0
+  index: -1
+水流波纹/shuiliubowen_0007
+  rotate: false
+  xy: 3834, 3723
+  size: 165, 177
+  orig: 165, 177
+  offset: 0, 0
+  index: -1
+水流波纹/shuiliubowen_0008
+  rotate: true
+  xy: 952, 9
+  size: 165, 177
+  orig: 165, 177
+  offset: 0, 0
+  index: -1
+水流波纹/shuiliubowen_0009
+  rotate: true
+  xy: 1131, 9
+  size: 165, 177
+  orig: 165, 177
+  offset: 0, 0
+  index: -1
+水面波纹/bowen_0001
+  rotate: false
+  xy: 1310, 36
+  size: 168, 138
+  orig: 168, 138
+  offset: 0, 0
+  index: -1
+水面波纹/bowen_0002
+  rotate: true
+  xy: 1362, 1082
+  size: 168, 138
+  orig: 168, 138
+  offset: 0, 0
+  index: -1
+水面波纹/bowen_0003
+  rotate: false
+  xy: 3834, 3583
+  size: 168, 138
+  orig: 168, 138
+  offset: 0, 0
+  index: -1
+水面波纹/bowen_0004
+  rotate: false
+  xy: 1480, 36
+  size: 168, 138
+  orig: 168, 138
+  offset: 0, 0
+  index: -1
+水面波纹/bowen_0005
+  rotate: false
+  xy: 2220, 2090
+  size: 168, 138
+  orig: 168, 138
+  offset: 0, 0
+  index: -1
+水面波纹/bowen_0006
+  rotate: false
+  xy: 2390, 2090
+  size: 168, 138
+  orig: 168, 138
+  offset: 0, 0
+  index: -1
+水面波纹/bowen_0007
+  rotate: false
+  xy: 2560, 2090
+  size: 168, 138
+  orig: 168, 138
+  offset: 0, 0
+  index: -1
+水面波纹/bowen_0008
+  rotate: false
+  xy: 2730, 2090
+  size: 168, 138
+  orig: 168, 138
+  offset: 0, 0
+  index: -1
+水面波纹/bowen_0009
+  rotate: false
+  xy: 2900, 2090
+  size: 168, 138
+  orig: 168, 138
+  offset: 0, 0
+  index: -1
+瀑布流水/~20001
+  rotate: true
+  xy: 2, 20
+  size: 154, 473
+  orig: 154, 473
+  offset: 0, 0
+  index: -1
+瀑布流水/~20002
+  rotate: true
+  xy: 2, 20
+  size: 154, 473
+  orig: 154, 473
+  offset: 0, 0
+  index: -1
+瀑布流水/~20003
+  rotate: true
+  xy: 2, 20
+  size: 154, 473
+  orig: 154, 473
+  offset: 0, 0
+  index: -1
+瀑布流水/~20004
+  rotate: false
+  xy: 3522, 3606
+  size: 154, 473
+  orig: 154, 473
+  offset: 0, 0
+  index: -1
+瀑布流水/~20005
+  rotate: false
+  xy: 3522, 3606
+  size: 154, 473
+  orig: 154, 473
+  offset: 0, 0
+  index: -1
+瀑布流水/~20006
+  rotate: false
+  xy: 3522, 3606
+  size: 154, 473
+  orig: 154, 473
+  offset: 0, 0
+  index: -1
+瀑布流水/~20007
+  rotate: true
+  xy: 1004, 1252
+  size: 154, 473
+  orig: 154, 473
+  offset: 0, 0
+  index: -1
+瀑布流水/~20008
+  rotate: true
+  xy: 1004, 1252
+  size: 154, 473
+  orig: 154, 473
+  offset: 0, 0
+  index: -1
+瀑布流水/~20009
+  rotate: true
+  xy: 1004, 1252
+  size: 154, 473
+  orig: 154, 473
+  offset: 0, 0
+  index: -1
+瀑布流水/~20010
+  rotate: true
+  xy: 3008, 3218
+  size: 154, 473
+  orig: 154, 473
+  offset: 0, 0
+  index: -1
+瀑布流水/~20011
+  rotate: true
+  xy: 3008, 3218
+  size: 154, 473
+  orig: 154, 473
+  offset: 0, 0
+  index: -1
+瀑布流水/~20012
+  rotate: true
+  xy: 3008, 3218
+  size: 154, 473
+  orig: 154, 473
+  offset: 0, 0
+  index: -1
+瀑布流水/~20013
+  rotate: true
+  xy: 477, 20
+  size: 154, 473
+  orig: 154, 473
+  offset: 0, 0
+  index: -1
+瀑布流水/~20014
+  rotate: true
+  xy: 477, 20
+  size: 154, 473
+  orig: 154, 473
+  offset: 0, 0
+  index: -1
+瀑布流水/~20015
+  rotate: true
+  xy: 477, 20
+  size: 154, 473
+  orig: 154, 473
+  offset: 0, 0
+  index: -1
+瀑布流水/~20016
+  rotate: false
+  xy: 3678, 3606
+  size: 154, 473
+  orig: 154, 473
+  offset: 0, 0
+  index: -1
+瀑布流水/~20017
+  rotate: false
+  xy: 3678, 3606
+  size: 154, 473
+  orig: 154, 473
+  offset: 0, 0
+  index: -1
+瀑布流水/~20018
+  rotate: false
+  xy: 3678, 3606
+  size: 154, 473
+  orig: 154, 473
+  offset: 0, 0
+  index: -1

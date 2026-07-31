@@ -1,0 +1,125 @@
+
+effect_yubanmeiqin.png
+size: 464, 289
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+images/glow_78
+  rotate: false
+  xy: 402, 59
+  size: 41, 42
+  orig: 43, 43
+  offset: 1, 0
+  index: -1
+images/qiya_brust1
+  rotate: false
+  xy: 403, 103
+  size: 59, 67
+  orig: 110, 110
+  offset: 26, 19
+  index: -1
+images/qiya_brust10
+  rotate: false
+  xy: 314, 199
+  size: 98, 88
+  orig: 110, 110
+  offset: 12, 12
+  index: -1
+images/qiya_brust12
+  rotate: false
+  xy: 315, 111
+  size: 86, 86
+  orig: 110, 110
+  offset: 14, 13
+  index: -1
+images/qiya_brust14
+  rotate: false
+  xy: 208, 73
+  size: 83, 81
+  orig: 110, 110
+  offset: 16, 16
+  index: -1
+images/qiya_brust2
+  rotate: false
+  xy: 108, 70
+  size: 98, 105
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+images/qiya_brust3
+  rotate: false
+  xy: 108, 177
+  size: 100, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+images/qiya_brust4
+  rotate: false
+  xy: 2, 177
+  size: 104, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+images/qiya_brust6
+  rotate: false
+  xy: 2, 65
+  size: 104, 110
+  orig: 110, 110
+  offset: 2, 0
+  index: -1
+images/qiya_brust8
+  rotate: false
+  xy: 210, 193
+  size: 102, 94
+  orig: 110, 110
+  offset: 5, 6
+  index: -1
+images/skill_pg0
+  rotate: false
+  xy: 378, 7
+  size: 22, 56
+  orig: 63, 128
+  offset: 21, 46
+  index: -1
+images/skill_pg11
+  rotate: true
+  xy: 210, 156
+  size: 35, 103
+  orig: 63, 128
+  offset: 8, 12
+  index: -1
+images/skill_pg2
+  rotate: true
+  xy: 293, 65
+  size: 44, 103
+  orig: 63, 128
+  offset: 17, 6
+  index: -1
+images/skill_pg3
+  rotate: true
+  xy: 128, 9
+  size: 59, 124
+  orig: 63, 128
+  offset: 3, 4
+  index: -1
+images/skill_pg4
+  rotate: true
+  xy: 254, 7
+  size: 56, 122
+  orig: 63, 128
+  offset: 2, 2
+  index: -1
+images/skill_pg5
+  rotate: true
+  xy: 2, 2
+  size: 61, 124
+  orig: 63, 128
+  offset: 2, 4
+  index: -1
+images/skill_pg8
+  rotate: false
+  xy: 414, 172
+  size: 46, 115
+  orig: 63, 128
+  offset: 7, 3
+  index: -1

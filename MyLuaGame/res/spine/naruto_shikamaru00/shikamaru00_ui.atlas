@@ -1,0 +1,230 @@
+
+shikamaru00_ui.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+1
+  rotate: true
+  xy: 758, 445
+  size: 67, 236
+  orig: 67, 241
+  offset: 0, 5
+  index: -1
+2
+  rotate: true
+  xy: 514, 411
+  size: 101, 244
+  orig: 101, 244
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 212, 33
+  size: 127, 59
+  orig: 127, 63
+  offset: 0, 4
+  index: -1
+5
+  rotate: false
+  xy: 478, 225
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+biyancc
+  rotate: false
+  xy: 0, 9
+  size: 93, 26
+  orig: 96, 30
+  offset: 1, 4
+  index: -1
+dsfds
+  rotate: false
+  xy: 0, 200
+  size: 197, 312
+  orig: 197, 312
+  offset: 0, 0
+  index: -1
+huepiaodaix
+  rotate: true
+  xy: 447, 211
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+maweids
+  rotate: false
+  xy: 646, 312
+  size: 93, 99
+  orig: 93, 99
+  offset: 0, 0
+  index: -1
+renjudai
+  rotate: true
+  xy: 552, 254
+  size: 46, 91
+  orig: 46, 91
+  offset: 0, 0
+  index: -1
+toux
+  rotate: false
+  xy: 212, 92
+  size: 127, 167
+  orig: 127, 167
+  offset: 0, 0
+  index: -1
+touxmm
+  rotate: true
+  xy: 197, 224
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+touxmm2
+  rotate: true
+  xy: 975, 405
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: false
+  xy: 646, 302
+  size: 17, 10
+  orig: 19, 11
+  offset: 1, 0
+  index: -1
+xiabanshen
+  rotate: false
+  xy: 0, 35
+  size: 212, 165
+  orig: 212, 165
+  offset: 0, 0
+  index: -1
+xiuzi1cc
+  rotate: false
+  xy: 552, 300
+  size: 94, 111
+  orig: 94, 111
+  offset: 0, 0
+  index: -1
+xiuzi2xx
+  rotate: false
+  xy: 474, 263
+  size: 78, 118
+  orig: 78, 118
+  offset: 0, 0
+  index: -1
+xiuzi3cx
+  rotate: true
+  xy: 739, 309
+  size: 80, 91
+  orig: 80, 91
+  offset: 0, 0
+  index: -1
+xiuzi4cas
+  rotate: false
+  xy: 830, 303
+  size: 85, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+youdabifdc
+  rotate: true
+  xy: 758, 389
+  size: 56, 115
+  orig: 56, 115
+  offset: 0, 0
+  index: -1
+youdatuizz
+  rotate: true
+  xy: 197, 381
+  size: 131, 317
+  orig: 131, 317
+  offset: 0, 0
+  index: -1
+youshoudf
+  rotate: false
+  xy: 339, 28
+  size: 62, 60
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+youxiaotui1a
+  rotate: true
+  xy: 197, 259
+  size: 122, 277
+  orig: 122, 277
+  offset: 0, 0
+  index: -1
+youyanbaivcx
+  rotate: true
+  xy: 197, 200
+  size: 24, 8
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+youyanzhuxz
+  rotate: true
+  xy: 205, 213
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+yuoxiaobicc
+  rotate: true
+  xy: 339, 88
+  size: 171, 53
+  orig: 171, 53
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: true
+  xy: 514, 381
+  size: 30, 10
+  orig: 32, 11
+  offset: 1, 1
+  index: -1
+zuiv
+  rotate: true
+  xy: 994, 470
+  size: 42, 27
+  orig: 54, 27
+  offset: 10, 0
+  index: -1
+zuodabidd
+  rotate: true
+  xy: 873, 391
+  size: 54, 102
+  orig: 54, 102
+  offset: 0, 0
+  index: -1
+zuoshousd
+  rotate: false
+  xy: 915, 308
+  size: 68, 83
+  orig: 68, 83
+  offset: 0, 0
+  index: -1
+zuoxiaobide
+  rotate: true
+  xy: 392, 100
+  size: 159, 55
+  orig: 159, 55
+  offset: 0, 0
+  index: -1
+zuoyanbaiff
+  rotate: false
+  xy: 0, 0
+  size: 28, 9
+  orig: 28, 9
+  offset: 0, 0
+  index: -1
+zuoyanzhudd
+  rotate: false
+  xy: 739, 405
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,538 @@
+
+shuizhu.png
+size: 602,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/6e301bf2bd7cdaae94f3ca712ff0b58c
+  rotate: false
+  xy: 412, 345
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+TX/shouji2_001
+  rotate: false
+  xy: 137, 4
+  size: 97, 97
+  orig: 132, 122
+  offset: 0, 21
+  index: -1
+TX/shouji2_004
+  rotate: true
+  xy: 203, 601
+  size: 128, 120
+  orig: 132, 122
+  offset: 0, 2
+  index: -1
+TX/shouji2_007
+  rotate: false
+  xy: 288, 460
+  size: 132, 121
+  orig: 132, 122
+  offset: 0, 1
+  index: -1
+TX/shouji2_010
+  rotate: false
+  xy: 153, 340
+  size: 124, 122
+  orig: 132, 122
+  offset: 8, 0
+  index: -1
+TX/shouji2_013
+  rotate: false
+  xy: 153, 221
+  size: 117, 117
+  orig: 132, 122
+  offset: 8, 5
+  index: -1
+TX/shouji2_016
+  rotate: false
+  xy: 239, 103
+  size: 115, 116
+  orig: 132, 122
+  offset: 7, 4
+  index: -1
+TX/shouji2_019
+  rotate: false
+  xy: 120, 103
+  size: 117, 116
+  orig: 132, 122
+  offset: 7, 4
+  index: -1
+TX/shuiquan1_004
+  rotate: false
+  xy: 148, 464
+  size: 138, 135
+  orig: 138, 135
+  offset: 0, 0
+  index: -1
+TX/water_ripples_sheet_detail_004
+  rotate: false
+  xy: 51, 3
+  size: 20, 21
+  orig: 38, 38
+  offset: 10, 9
+  index: -1
+TX/water_ripples_sheet_detail_005
+  rotate: false
+  xy: 27, 2
+  size: 22, 22
+  orig: 38, 38
+  offset: 9, 9
+  index: -1
+TX/water_ripples_sheet_detail_006
+  rotate: true
+  xy: 1, 1
+  size: 23, 24
+  orig: 38, 38
+  offset: 9, 7
+  index: -1
+TX/water_ripples_sheet_detail_007
+  rotate: false
+  xy: 575, 254
+  size: 26, 25
+  orig: 38, 38
+  offset: 8, 7
+  index: -1
+TX/water_ripples_sheet_detail_008
+  rotate: false
+  xy: 481, 598
+  size: 29, 28
+  orig: 38, 38
+  offset: 7, 5
+  index: -1
+TX/water_ripples_sheet_detail_009
+  rotate: false
+  xy: 560, 50
+  size: 29, 29
+  orig: 38, 38
+  offset: 7, 4
+  index: -1
+TX/water_ripples_sheet_detail_010
+  rotate: false
+  xy: 369, 51
+  size: 30, 31
+  orig: 38, 38
+  offset: 7, 3
+  index: -1
+TX/water_ripples_sheet_detail_011
+  rotate: true
+  xy: 120, 221
+  size: 29, 31
+  orig: 38, 38
+  offset: 9, 3
+  index: -1
+TX/water_ripples_sheet_detail_012
+  rotate: true
+  xy: 547, 341
+  size: 29, 31
+  orig: 38, 38
+  offset: 9, 3
+  index: -1
+TX/water_ripples_sheet_detail_013
+  rotate: false
+  xy: 560, 114
+  size: 29, 31
+  orig: 38, 38
+  offset: 9, 3
+  index: -1
+TX/water_ripples_sheet_detail_014
+  rotate: false
+  xy: 560, 81
+  size: 29, 31
+  orig: 38, 38
+  offset: 9, 3
+  index: -1
+TX/water_ripples_sheet_detail_015
+  rotate: false
+  xy: 560, 20
+  size: 29, 28
+  orig: 38, 38
+  offset: 9, 4
+  index: -1
+hei
+  rotate: true
+  xy: 272, 331
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+sk2/fx_enrage_dust_new_sheet_002
+  rotate: true
+  xy: 356, 111
+  size: 120, 47
+  orig: 154, 77
+  offset: 11, 0
+  index: -1
+sk2/fx_enrage_dust_new_sheet_003
+  rotate: true
+  xy: 422, 448
+  size: 133, 52
+  orig: 154, 77
+  offset: 3, 0
+  index: -1
+sk2/fx_enrage_dust_new_sheet_004
+  rotate: true
+  xy: 508, 818
+  size: 133, 54
+  orig: 154, 77
+  offset: 8, 0
+  index: -1
+sk2/fx_enrage_dust_new_sheet_005
+  rotate: true
+  xy: 450, 775
+  size: 136, 56
+  orig: 154, 77
+  offset: 12, 0
+  index: -1
+sk2/fx_enrage_dust_new_sheet_006
+  rotate: false
+  xy: 1, 26
+  size: 134, 56
+  orig: 154, 77
+  offset: 16, 0
+  index: -1
+sk2/fx_enrage_dust_new_sheet_007
+  rotate: false
+  xy: 236, 45
+  size: 131, 56
+  orig: 154, 77
+  offset: 20, 0
+  index: -1
+sk2/fx_enrage_dust_new_sheet_008
+  rotate: false
+  xy: 272, 265
+  size: 128, 47
+  orig: 154, 77
+  offset: 24, 0
+  index: -1
+sk2/fx_enrage_dust_new_sheet_009
+  rotate: false
+  xy: 411, 296
+  size: 116, 47
+  orig: 154, 77
+  offset: 36, 0
+  index: -1
+sk2/fx_enrage_dust_new_sheet_010
+  rotate: false
+  xy: 236, 1
+  size: 92, 42
+  orig: 154, 77
+  offset: 44, 0
+  index: -1
+sk2/fx_enrage_dust_new_sheet_011
+  rotate: false
+  xy: 330, 1
+  size: 89, 42
+  orig: 154, 77
+  offset: 48, 0
+  index: -1
+sk2/fx_rocks_debris_sheet2_000
+  rotate: false
+  xy: 450, 748
+  size: 28, 25
+  orig: 38, 38
+  offset: 5, 5
+  index: -1
+sk2/fx_rocks_debris_sheet2_001
+  rotate: true
+  xy: 369, 84
+  size: 25, 34
+  orig: 38, 38
+  offset: 7, 2
+  index: -1
+sk2/fx_rocks_debris_sheet2_002
+  rotate: true
+  xy: 575, 281
+  size: 30, 26
+  orig: 38, 38
+  offset: 4, 5
+  index: -1
+sk2/fx_rocks_debris_sheet2_003
+  rotate: true
+  xy: 401, 56
+  size: 26, 18
+  orig: 38, 38
+  offset: 7, 7
+  index: -1
+sk2/guangyun
+  rotate: false
+  xy: 1, 731
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+sk2/hailongjuan0005
+  rotate: false
+  xy: 505, 953
+  size: 93, 78
+  orig: 93, 78
+  offset: 0, 0
+  index: -1
+sk2/shouji1_001
+  rotate: false
+  xy: 279, 346
+  size: 131, 112
+  orig: 206, 138
+  offset: 41, 0
+  index: -1
+sk2/shouji1_003
+  rotate: true
+  xy: 325, 583
+  size: 161, 122
+  orig: 206, 138
+  offset: 13, 9
+  index: -1
+sk2/shouji1_005
+  rotate: false
+  xy: 1, 603
+  size: 200, 126
+  orig: 206, 138
+  offset: 3, 12
+  index: -1
+sk2/shouji1_007
+  rotate: false
+  xy: 303, 913
+  size: 200, 118
+  orig: 206, 138
+  offset: 5, 14
+  index: -1
+sk2/shouji1_009
+  rotate: true
+  xy: 1, 260
+  size: 174, 124
+  orig: 206, 138
+  offset: 0, 10
+  index: -1
+sk2/shouji1_011
+  rotate: true
+  xy: 1, 84
+  size: 174, 117
+  orig: 206, 138
+  offset: 0, 17
+  index: -1
+sk2/shui1
+  rotate: true
+  xy: 127, 252
+  size: 182, 24
+  orig: 182, 24
+  offset: 0, 0
+  index: -1
+sk2/shui2
+  rotate: false
+  xy: 402, 277
+  size: 139, 17
+  orig: 139, 17
+  offset: 0, 0
+  index: -1
+sk2/shuidan03_006
+  rotate: true
+  xy: 547, 372
+  size: 87, 30
+  orig: 150, 30
+  offset: 0, 0
+  index: -1
+sk2/shuidan03_007
+  rotate: true
+  xy: 515, 364
+  size: 95, 30
+  orig: 150, 30
+  offset: 0, 0
+  index: -1
+sk2/shuidan03_008
+  rotate: false
+  xy: 476, 493
+  size: 106, 30
+  orig: 150, 30
+  offset: 0, 0
+  index: -1
+sk2/shuidan03_009
+  rotate: false
+  xy: 405, 93
+  size: 120, 30
+  orig: 150, 30
+  offset: 0, 0
+  index: -1
+sk2/shuidan03_010
+  rotate: false
+  xy: 272, 233
+  size: 132, 30
+  orig: 150, 30
+  offset: 0, 0
+  index: -1
+sk2/shuidan03_011
+  rotate: true
+  xy: 564, 808
+  size: 143, 30
+  orig: 150, 30
+  offset: 0, 0
+  index: -1
+sk2/shuidan03_012
+  rotate: true
+  xy: 481, 628
+  size: 145, 30
+  orig: 150, 30
+  offset: 4, 0
+  index: -1
+sk2/shuidan03_013
+  rotate: true
+  xy: 449, 598
+  size: 146, 30
+  orig: 150, 30
+  offset: 4, 0
+  index: -1
+sk2/shuidan03_014
+  rotate: false
+  xy: 279, 314
+  size: 130, 30
+  orig: 150, 30
+  offset: 19, 0
+  index: -1
+sk2/shuidan03_015
+  rotate: false
+  xy: 406, 245
+  size: 129, 30
+  orig: 150, 30
+  offset: 21, 0
+  index: -1
+sk2/shuidan03_016
+  rotate: false
+  xy: 406, 213
+  size: 129, 30
+  orig: 150, 30
+  offset: 21, 0
+  index: -1
+sk2/shuidan03_017
+  rotate: true
+  xy: 528, 12
+  size: 111, 30
+  orig: 150, 30
+  offset: 39, 0
+  index: -1
+sk2/shuidan03_018
+  rotate: false
+  xy: 476, 461
+  size: 100, 30
+  orig: 150, 30
+  offset: 45, 0
+  index: -1
+sk2/shuidan03_019
+  rotate: true
+  xy: 496, 1
+  size: 90, 30
+  orig: 150, 30
+  offset: 55, 0
+  index: -1
+sk2/shuidan03_020
+  rotate: true
+  xy: 543, 228
+  size: 83, 30
+  orig: 150, 30
+  offset: 63, 0
+  index: -1
+sk2/shuidan03_021
+  rotate: true
+  xy: 556, 147
+  size: 79, 30
+  orig: 150, 30
+  offset: 66, 0
+  index: -1
+sk2/shuidan03_022
+  rotate: false
+  xy: 529, 313
+  size: 71, 26
+  orig: 150, 30
+  offset: 74, 0
+  index: -1
+sk2/shuidan03_023
+  rotate: true
+  xy: 476, 525
+  size: 71, 29
+  orig: 150, 30
+  offset: 75, 1
+  index: -1
+sk2/shuidan03_024
+  rotate: false
+  xy: 528, 1
+  size: 29, 9
+  orig: 150, 30
+  offset: 118, 10
+  index: -1
+sk2/shuidan03_025
+  rotate: false
+  xy: 288, 592
+  size: 28, 7
+  orig: 150, 30
+  offset: 119, 11
+  index: -1
+sk2/shuidan03_026
+  rotate: false
+  xy: 288, 583
+  size: 27, 7
+  orig: 150, 30
+  offset: 120, 11
+  index: -1
+sk2/shuidi_011
+  rotate: false
+  xy: 1, 436
+  size: 145, 165
+  orig: 145, 165
+  offset: 0, 0
+  index: -1
+sk2/shuidi_012
+  rotate: false
+  xy: 303, 746
+  size: 145, 165
+  orig: 145, 165
+  offset: 0, 0
+  index: -1
+sk2/shuizhu1
+  rotate: false
+  xy: 481, 125
+  size: 73, 86
+  orig: 75, 86
+  offset: 0, 0
+  index: -1
+sk2/shuizhu2
+  rotate: false
+  xy: 421, 5
+  size: 73, 86
+  orig: 75, 86
+  offset: 2, 0
+  index: -1
+sk2/shuizhu3
+  rotate: true
+  xy: 515, 665
+  size: 68, 86
+  orig: 75, 86
+  offset: 2, 0
+  index: -1
+sk2/shuizhu4
+  rotate: true
+  xy: 515, 735
+  size: 71, 86
+  orig: 75, 86
+  offset: 0, 0
+  index: -1
+sk2/shuizhu5
+  rotate: true
+  xy: 515, 595
+  size: 68, 86
+  orig: 75, 86
+  offset: 2, 0
+  index: -1
+sk2/shuizhu6
+  rotate: true
+  xy: 515, 525
+  size: 68, 86
+  orig: 75, 86
+  offset: 2, 0
+  index: -1
+sk2/shuizhu7
+  rotate: false
+  xy: 405, 125
+  size: 74, 86
+  orig: 75, 86
+  offset: 0, 0
+  index: -1

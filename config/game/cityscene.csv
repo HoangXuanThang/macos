@@ -1,0 +1,6 @@
+﻿VariableName,path,name,name_vn,name_ma,name_en,name_th,name_in,name_ph
+Defaults,"""""",默认场景,默认场景,默認場景,默认场景,默认场景,默认场景,默认场景
+ID,资源路径,场景名字,场景名字,場景名字,场景名字,场景名字,场景名字,场景名字
+1,00ShuMa/CITY_res/bg.jpg,Default scene,Mặc định cảnh tượng,Pemandangan lalai,Default scene,ฉากเริ่มต้นเริ่มต้น,Pemandangan default,Default na tanawin
+2,00ShuMa/XTSZ_res/bj01.jpg,Green fairyland,Vùng đất thần tiên xanh,Tanah ajaib hijau,Green fairyland,ดินแดนมหัศจรรย์สีเขียว,Tanah dongeng hijau,Luntiang mahiwagang lupain
+3,00ShuMa/XTSZ_res/bj02.jpg,Singing night forest,Rừng đêm hát ca,Hutan malam bernyanyi,Singing night forest,ป่าร้องเพลงยามค่ำคืน,Hutan malam bernyanyi,Gubat na kumakanta sa gabi

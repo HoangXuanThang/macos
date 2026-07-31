@@ -1,0 +1,125 @@
+
+lihui_xiaoyuan.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: true
+  xy: 1836, 400
+  size: 147, 55
+  orig: 147, 55
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: true
+  xy: 1893, 694
+  size: 64, 143
+  orig: 64, 143
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 10
+  size: 1318, 1012
+  orig: 1318, 1012
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 1708, 149
+  size: 70, 235
+  orig: 70, 235
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 1550, 370
+  size: 142, 246
+  orig: 142, 246
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 1322, 618
+  size: 383, 404
+  orig: 383, 404
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: false
+  xy: 1707, 549
+  size: 168, 159
+  orig: 168, 159
+  offset: 0, 0
+  index: -1
+toufa5
+  rotate: true
+  xy: 1322, 16
+  size: 89, 228
+  orig: 89, 228
+  offset: 0, 0
+  index: -1
+toufa6
+  rotate: false
+  xy: 1707, 710
+  size: 184, 312
+  orig: 184, 312
+  offset: 0, 0
+  index: -1
+toufa7
+  rotate: true
+  xy: 1322, 107
+  size: 509, 226
+  orig: 509, 226
+  offset: 0, 0
+  index: -1
+xiong01
+  rotate: false
+  xy: 1877, 571
+  size: 120, 121
+  orig: 120, 121
+  offset: 0, 0
+  index: -1
+xiong02
+  rotate: true
+  xy: 1656, 3
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+yifu1
+  rotate: false
+  xy: 1694, 386
+  size: 140, 161
+  orig: 140, 161
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: true
+  xy: 1552, 2
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 1550, 146
+  size: 222, 156
+  orig: 222, 156
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: true
+  xy: 1780, 221
+  size: 163, 71
+  orig: 163, 71
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 1893, 760
+  size: 262, 125
+  orig: 262, 125
+  offset: 0, 0
+  index: -1

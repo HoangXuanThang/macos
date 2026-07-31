@@ -1,0 +1,62 @@
+
+maincityrole.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+90001_idle_1nrtindex_0000
+  rotate: true
+  xy: 623, 159
+  size: 96, 281
+  orig: 96, 281
+  offset: 0, 0
+  index: -1
+90001_idle_1nrtindex_0005
+  rotate: true
+  xy: 622, 61
+  size: 96, 281
+  orig: 96, 281
+  offset: 0, 0
+  index: -1
+90001_idle_1nrtindex_0009
+  rotate: true
+  xy: 338, 2
+  size: 96, 281
+  orig: 96, 281
+  offset: 0, 0
+  index: -1
+90001_idle_1nrtindex_0064
+  rotate: true
+  xy: 623, 257
+  size: 98, 281
+  orig: 98, 281
+  offset: 0, 0
+  index: -1
+90001_idle_1nrtindex_0067
+  rotate: true
+  xy: 338, 100
+  size: 105, 282
+  orig: 105, 282
+  offset: 0, 0
+  index: -1
+90001_idle_1nrtindex_0070
+  rotate: true
+  xy: 338, 207
+  size: 148, 283
+  orig: 148, 283
+  offset: 0, 0
+  index: -1
+90001_idle_1nrtindex_0073
+  rotate: false
+  xy: 171, 73
+  size: 165, 282
+  orig: 165, 282
+  offset: 0, 0
+  index: -1
+90001_idle_1nrtindex_0082
+  rotate: false
+  xy: 2, 72
+  size: 167, 283
+  orig: 167, 283
+  offset: 0, 0
+  index: -1

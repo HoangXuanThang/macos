@@ -1,0 +1,90 @@
+
+effect_heiandashei_1.png
+size: 846, 886
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bianshen/bian_00007
+  rotate: true
+  xy: 562, 2
+  size: 276, 282
+  orig: 284, 320
+  offset: 0, 0
+  index: -1
+bianshen/bian_00008
+  rotate: true
+  xy: 280, 7
+  size: 273, 280
+  orig: 284, 320
+  offset: 0, 0
+  index: -1
+bianshen/bian_00009
+  rotate: true
+  xy: 2, 53
+  size: 229, 276
+  orig: 284, 320
+  offset: 32, 2
+  index: -1
+bianshen/bian_00010
+  rotate: true
+  xy: 2, 487
+  size: 198, 280
+  orig: 284, 320
+  offset: 44, 4
+  index: -1
+bianshen/bian_00011
+  rotate: true
+  xy: 2, 284
+  size: 201, 276
+  orig: 284, 320
+  offset: 42, 4
+  index: -1
+bianshen/bian_00012
+  rotate: true
+  xy: 283, 687
+  size: 197, 278
+  orig: 284, 320
+  offset: 46, 5
+  index: -1
+bianshen/bian_00013
+  rotate: true
+  xy: 562, 280
+  size: 204, 279
+  orig: 284, 320
+  offset: 42, 4
+  index: -1
+bianshen/bian_00014
+  rotate: true
+  xy: 280, 282
+  size: 202, 280
+  orig: 284, 320
+  offset: 45, 4
+  index: -1
+bianshen/bian_00015
+  rotate: true
+  xy: 2, 688
+  size: 196, 279
+  orig: 284, 320
+  offset: 45, 3
+  index: -1
+bianshen/bian_00016
+  rotate: true
+  xy: 284, 486
+  size: 199, 277
+  orig: 284, 320
+  offset: 44, 4
+  index: -1
+bianshen/bian_00017
+  rotate: true
+  xy: 563, 486
+  size: 199, 276
+  orig: 284, 320
+  offset: 44, 4
+  index: -1
+bianshen/bian_00018
+  rotate: true
+  xy: 563, 687
+  size: 197, 277
+  orig: 284, 320
+  offset: 46, 4
+  index: -1

@@ -1,0 +1,160 @@
+
+dghz.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bing
+  rotate: false
+  xy: 718, 907
+  size: 138, 102
+  orig: 138, 102
+  offset: 0, 0
+  index: -1
+bing2
+  rotate: false
+  xy: 2, 16
+  size: 138, 102
+  orig: 138, 102
+  offset: 0, 0
+  index: -1
+bk1
+  rotate: false
+  xy: 2, 321
+  size: 182, 363
+  orig: 182, 363
+  offset: 0, 0
+  index: -1
+bk2
+  rotate: true
+  xy: 2, 120
+  size: 199, 198
+  orig: 199, 198
+  offset: 0, 0
+  index: -1
+cao
+  rotate: false
+  xy: 186, 582
+  size: 138, 102
+  orig: 138, 102
+  offset: 0, 0
+  index: -1
+cao2
+  rotate: false
+  xy: 501, 724
+  size: 138, 102
+  orig: 138, 102
+  offset: 0, 0
+  index: -1
+du
+  rotate: false
+  xy: 858, 907
+  size: 138, 102
+  orig: 138, 102
+  offset: 0, 0
+  index: -1
+du2
+  rotate: false
+  xy: 186, 478
+  size: 138, 102
+  orig: 138, 102
+  offset: 0, 0
+  index: -1
+e
+  rotate: false
+  xy: 186, 374
+  size: 138, 102
+  orig: 138, 102
+  offset: 0, 0
+  index: -1
+e2
+  rotate: false
+  xy: 718, 803
+  size: 138, 102
+  orig: 138, 102
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: true
+  xy: 357, 828
+  size: 181, 359
+  orig: 181, 359
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 2, 2
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+huo
+  rotate: false
+  xy: 858, 803
+  size: 138, 102
+  orig: 138, 102
+  offset: 0, 0
+  index: -1
+huo2
+  rotate: true
+  xy: 202, 234
+  size: 138, 102
+  orig: 138, 102
+  offset: 0, 0
+  index: -1
+long
+  rotate: true
+  xy: 202, 94
+  size: 138, 102
+  orig: 138, 102
+  offset: 0, 0
+  index: -1
+long2
+  rotate: false
+  xy: 501, 620
+  size: 138, 102
+  orig: 138, 102
+  offset: 0, 0
+  index: -1
+particle02
+  rotate: false
+  xy: 357, 688
+  size: 142, 138
+  orig: 142, 138
+  offset: 0, 0
+  index: -1
+shui
+  rotate: true
+  xy: 326, 546
+  size: 138, 102
+  orig: 138, 102
+  offset: 0, 0
+  index: -1
+shui2
+  rotate: true
+  xy: 326, 406
+  size: 138, 102
+  orig: 138, 102
+  offset: 0, 0
+  index: -1
+skill1_quan_ADD
+  rotate: false
+  xy: 2, 686
+  size: 353, 323
+  orig: 353, 323
+  offset: 0, 0
+  index: -1
+yao
+  rotate: false
+  xy: 430, 516
+  size: 138, 102
+  orig: 138, 102
+  offset: 0, 0
+  index: -1
+yao2
+  rotate: false
+  xy: 430, 412
+  size: 138, 102
+  orig: 138, 102
+  offset: 0, 0
+  index: -1

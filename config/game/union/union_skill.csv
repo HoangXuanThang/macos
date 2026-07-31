@@ -1,0 +1,20 @@
+﻿VariableName,name_cn,name_tw,name_vn,name,name_en,name_th,name_in,name_ph,name_ma,icon,sort,preSkill,needGuildLv,attrNatureType,attrType
+Defaults,"""""","""""","""""","""""","""""","""""","""""","""""","""""",config/item/icon_bsdmz.png,1,<>,0,0,1
+修炼组ID,修炼名称,修炼名称,name_vn,修炼名称,name_en,name_th,name_in,name_ph,name_ma,修炼的图标显示,排序,前置修炼,需要公会等级,自然卡牌加成目标,加成项目
+1,,,Nguồn sức sống,Source of vitality  ,Source of vitality  ,ต้นกำลังชีวิต  ,Sumber vitalitas  ,Pinagmulan ng sigla  ,Sumber tenaga hidup  ,common/icon/union_skill/icon_sm.png,,,,,
+2,,,Học công kích vật lý,Learn physical attack  ,Learn physical attack  ,เรียนรู้การโจมตีทางกายภาพ  ,Belajar serangan fisik  ,Matutong umatake ng pisikal  ,Belajar serangan fizikal  ,common/icon/union_skill/icon_bs.png,2,,,,7
+3,,,Học công kích pháp thuật,Learn magic attack  ,Learn magic attack  ,เรียนรู้การโจมตีด้วยเวทมนตร์  ,Belajar serangan sihir  ,Matutong umatake gamit ang mahika  ,Belajar serangan sihir  ,common/icon/union_skill/icon_bj.png,3,,,,8
+4,,,Tăng cường phòng thủ vật lý,Enhance physical defense  ,Enhance physical defense  ,เสริมพลังป้องกันทางกายภาพ  ,Tingkatkan pertahanan fisik  ,Palakasin ang pisikal na depensa  ,Tingkatkan pertahanan fizikal  ,common/icon/union_skill/icon_wf.png,4,,,,9
+5,,,Tăng cường phòng thủ pháp thuật,Enhance magic defense  ,Enhance magic defense  ,เสริมพลังป้องกันเวทมนตร์  ,Tingkatkan pertahanan sihir  ,Palakasin ang mahikang depensa  ,Tingkatkan pertahanan sihir  ,common/icon/union_skill/icon_tf.png,5,,,,10
+6,,,Đào tạo thể lực,Stamina training  ,Stamina training  ,ฝึกฝนความอึด  ,Latihan stamina  ,Ehersisyo para sa tibay  ,Latihan stamina  ,common/icon/union_skill/icon_sm.png,6,<1;10>,6,,
+7,,,Rèn luyện sức mạnh,Strength training  ,Strength training  ,ฝึกฝนพละกำลัง  ,Latihan kekuatan  ,Ehersisyo para sa lakas  ,Latihan kekuatan  ,common/icon/union_skill/icon_bs.png,7,<2;10>,6,,7
+8,,,Mài giũa ý chí,Sharpen willpower  ,Sharpen willpower  ,ขัดเกลาจิตใจ  ,Asah tekad  ,Patibayin ang isipan  ,Asah keazaman  ,common/icon/union_skill/icon_bj.png,8,<3;10>,6,,8
+9,,,Tập thể hình,Body workout  ,Body workout  ,ออกกำลังกาย  ,Latihan tubuh  ,Ehersisyo ng katawan  ,Senaman badan  ,common/icon/union_skill/icon_wf.png,9,<4;10>,6,,9
+10,,,Tu luyện tinh thần,Spiritual cultivation  ,Spiritual cultivation  ,ฝึกฝนจิตวิญญาณ  ,Latihan spiritual  ,Pagpapalakas ng espiritu  ,Latihan rohani  ,common/icon/union_skill/icon_tf.png,10,<5;10>,6,,10
+11,,,Đào tạo phòng ngự,Defense training  ,Defense training  ,ฝึกฝนการป้องกัน  ,Latihan pertahanan  ,Pagsasanay sa depensa  ,Latihan pertahanan  ,common/icon/union_skill/icon_tg.png,11,,8,,17
+12,,,Tăng cường phòng ngự,Defense enhancement  ,Defense enhancement  ,เพิ่มประสิทธิภาพการป้องกัน  ,Peningkatan pertahanan  ,Pagsasaayos ng depensa  ,Peningkatan pertahanan  ,common/icon/union_skill/icon_tg.png,12,,8,,19
+13,,,Cải thiện hiệu quả chữa trị,Improve healing effect  ,Improve healing effect  ,เพิ่มประสิทธิภาพการฟื้นฟู  ,Tingkatkan efek penyembuhan  ,Pagbutihin ang paggaling  ,Tingkatkan keberkesanan penyembuhan  ,common/icon/union_skill/icon_sm.png,14,,8,,28
+14,,,Tăng cường chí mạng,Increase critical rate  ,Increase critical rate  ,เพิ่มอัตราคริติคอล  ,Tingkatkan peluang kritikal  ,Dagdagan ang tsansa ng critical  ,Tingkatkan kadar kritikal  ,common/icon/union_skill/icon_wg.png,15,,8,,14
+15,,,Tăng cường sát thương chí mạng,Increase critical damage  ,Increase critical damage  ,เพิ่มความเสียหายคริติคอล  ,Tingkatkan kerusakan kritikal  ,Dagdagan ang critical damage  ,Tingkatkan kerosakan kritikal  ,common/icon/union_skill/icon_wg.png,16,,8,,15
+16,,,Tăng cường kháng chí mạng,Increase critical resistance  ,Increase critical resistance  ,เพิ่มการต้านทานคริติคอล  ,Tingkatkan resistensi kritikal  ,Dagdagan ang resistensya sa critical  ,Tingkatkan rintangan kritikal  ,common/icon/union_skill/icon_tf.png,17,,8,,16
+17,,,Phá vỡ phòng ngự,Break defense,Break defense,เจาะเกราะป้องกัน,Hancurkan pertahanan,Wasakin ang depensa,Pecahkan pertahanan,common/icon/union_skill/icon_bs.png,13,,8,,18

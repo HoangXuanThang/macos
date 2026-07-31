@@ -1,0 +1,382 @@
+
+lufei_ui.png
+size: 2039, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+shou2
+  rotate: false
+  xy: 1628, 2
+  size: 104, 100
+  orig: 106, 103
+  offset: 1, 1
+  index: -1
+shoubi3
+  rotate: false
+  xy: 1183, 35
+  size: 294, 89
+  orig: 296, 91
+  offset: 1, 1
+  index: -1
+toufa3
+  rotate: true
+  xy: 1479, 10
+  size: 114, 147
+  orig: 114, 147
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: true
+  xy: 1734, 16
+  size: 86, 111
+  orig: 86, 111
+  offset: 0, 0
+  index: -1
+toufa5
+  rotate: true
+  xy: 1847, 33
+  size: 69, 137
+  orig: 69, 137
+  offset: 0, 0
+  index: -1
+toufa6
+  rotate: false
+  xy: 1574, 668
+  size: 60, 97
+  orig: 60, 97
+  offset: 0, 0
+  index: -1
+toufa7
+  rotate: true
+  xy: 1574, 571
+  size: 95, 58
+  orig: 95, 58
+  offset: 0, 0
+  index: -1
+toufa8
+  rotate: true
+  xy: 1574, 450
+  size: 119, 46
+  orig: 119, 46
+  offset: 0, 0
+  index: -1
+tx/Fire_10
+  rotate: false
+  xy: 1636, 104
+  size: 381, 652
+  orig: 588, 804
+  offset: 73, 62
+  index: -1
+tx/Fire_11
+  rotate: false
+  xy: 1641, 1390
+  size: 381, 656
+  orig: 588, 804
+  offset: 69, 49
+  index: -1
+tx/Fire_14
+  rotate: false
+  xy: 1641, 758
+  size: 396, 630
+  orig: 588, 804
+  offset: 64, 42
+  index: -1
+tx/Fire_8
+  rotate: false
+  xy: 1183, 126
+  size: 389, 639
+  orig: 588, 804
+  offset: 79, 84
+  index: -1
+x1
+  rotate: false
+  xy: 2, 767
+  size: 1637, 1279
+  orig: 1643, 1301
+  offset: 5, 10
+  index: -1
+x2
+  rotate: false
+  xy: 2, 25
+  size: 1179, 740
+  orig: 1189, 762
+  offset: 1, 11
+  index: -1
+
+lufei_ui_2.png
+size: 1959, 1939
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+jiao1
+  rotate: true
+  xy: 1366, 1504
+  size: 240, 315
+  orig: 242, 317
+  offset: 1, 1
+  index: -1
+jiao2
+  rotate: false
+  xy: 2, 1619
+  size: 241, 204
+  orig: 244, 206
+  offset: 1, 1
+  index: -1
+kua
+  rotate: false
+  xy: 407, 435
+  size: 470, 383
+  orig: 470, 383
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 684, 1221
+  size: 324, 301
+  orig: 324, 301
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 2, 938
+  size: 440, 345
+  orig: 442, 347
+  offset: 1, 1
+  index: -1
+maozi2
+  rotate: false
+  xy: 2, 1871
+  size: 91, 66
+  orig: 93, 68
+  offset: 1, 1
+  index: -1
+shou
+  rotate: false
+  xy: 981, 1524
+  size: 383, 234
+  orig: 385, 236
+  offset: 1, 1
+  index: -1
+shoubi1
+  rotate: true
+  xy: 1652, 1746
+  size: 191, 222
+  orig: 193, 224
+  offset: 1, 1
+  index: -1
+shoubi2
+  rotate: true
+  xy: 1040, 1782
+  size: 155, 167
+  orig: 158, 169
+  offset: 2, 1
+  index: -1
+shoubi4
+  rotate: false
+  xy: 1209, 1760
+  size: 188, 177
+  orig: 190, 180
+  offset: 1, 1
+  index: -1
+toufa1
+  rotate: true
+  xy: 266, 1803
+  size: 134, 175
+  orig: 134, 175
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 95, 1825
+  size: 112, 169
+  orig: 112, 169
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 1390, 1165
+  size: 329, 425
+  orig: 329, 425
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: true
+  xy: 2, 554
+  size: 382, 403
+  orig: 384, 405
+  offset: 1, 1
+  index: -1
+tui3
+  rotate: false
+  xy: 1683, 1496
+  size: 274, 248
+  orig: 277, 250
+  offset: 2, 1
+  index: -1
+tui4
+  rotate: false
+  xy: 574, 1554
+  size: 405, 233
+  orig: 407, 235
+  offset: 1, 1
+  index: -1
+tx/Fire_0
+  rotate: false
+  xy: 443, 1799
+  size: 244, 138
+  orig: 588, 804
+  offset: 304, 608
+  index: -1
+tx/Fire_1
+  rotate: false
+  xy: 245, 1583
+  size: 327, 214
+  orig: 588, 804
+  offset: 208, 525
+  index: -1
+tx/Fire_12
+  rotate: true
+  xy: 1249, 788
+  size: 375, 653
+  orig: 588, 804
+  offset: 68, 45
+  index: -1
+tx/Fire_13
+  rotate: true
+  xy: 879, 402
+  size: 384, 637
+  orig: 588, 804
+  offset: 66, 42
+  index: -1
+tx/Fire_17
+  rotate: true
+  xy: 1193, 2
+  size: 389, 543
+  orig: 588, 804
+  offset: 81, 43
+  index: -1
+tx/Fire_18
+  rotate: true
+  xy: 650, 13
+  size: 387, 541
+  orig: 588, 804
+  offset: 86, 40
+  index: -1
+tx/Fire_19
+  rotate: true
+  xy: 833, 820
+  size: 372, 414
+  orig: 588, 804
+  offset: 102, 38
+  index: -1
+tx/Fire_2
+  rotate: false
+  xy: 1010, 1194
+  size: 378, 308
+  orig: 588, 804
+  offset: 150, 429
+  index: -1
+tx/Fire_20
+  rotate: true
+  xy: 274, 1285
+  size: 267, 408
+  orig: 588, 804
+  offset: 113, 38
+  index: -1
+tx/Fire_21
+  rotate: true
+  xy: 2, 1320
+  size: 261, 270
+  orig: 588, 804
+  offset: 123, 38
+  index: -1
+tx/Fire_22
+  rotate: false
+  xy: 1399, 1747
+  size: 251, 190
+  orig: 588, 804
+  offset: 133, 40
+  index: -1
+tx/Fire_23
+  rotate: false
+  xy: 866, 1789
+  size: 172, 148
+  orig: 588, 804
+  offset: 140, 45
+  index: -1
+tx/Fire_24
+  rotate: false
+  xy: 689, 1793
+  size: 175, 144
+  orig: 588, 804
+  offset: 143, 48
+  index: -1
+tx/Fire_3
+  rotate: false
+  xy: 444, 853
+  size: 387, 366
+  orig: 588, 804
+  offset: 130, 369
+  index: -1
+tx/Fire_4
+  rotate: true
+  xy: 1518, 393
+  size: 393, 425
+  orig: 588, 804
+  offset: 117, 307
+  index: -1
+tx/Fire_9
+  rotate: true
+  xy: 2, 49
+  size: 384, 646
+  orig: 588, 804
+  offset: 76, 72
+  index: -1
+
+lufei_ui_3.png
+size: 1536, 977
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+qugan
+  rotate: true
+  xy: 2, 456
+  size: 519, 510
+  orig: 519, 510
+  offset: 0, 0
+  index: -1
+tx/Fire_15
+  rotate: true
+  xy: 2, 60
+  size: 394, 626
+  orig: 588, 804
+  offset: 66, 42
+  index: -1
+tx/Fire_16
+  rotate: false
+  xy: 630, 27
+  size: 393, 551
+  orig: 588, 804
+  offset: 76, 44
+  index: -1
+tx/Fire_5
+  rotate: true
+  xy: 1025, 2
+  size: 395, 508
+  orig: 588, 804
+  offset: 105, 221
+  index: -1
+tx/Fire_6
+  rotate: false
+  xy: 1129, 399
+  size: 405, 576
+  orig: 588, 804
+  offset: 87, 152
+  index: -1
+tx/Fire_7
+  rotate: true
+  xy: 514, 580
+  size: 395, 613
+  orig: 588, 804
+  offset: 82, 113
+  index: -1

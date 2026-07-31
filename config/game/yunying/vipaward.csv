@@ -1,0 +1,18 @@
+﻿VariableName,huodongID,needLevel,desc,desc_tw,desc_en,desc_vn,desc_kr,award
+Defaults,0,1,"""""","""""","""""","""""","""""",{}
+ID,活动版本ID,要求等级,描述,描述,描述,描述_越南,描述_韩,奖励
+1,8001,,vip1可领取,vip1可領取,VIP 1 can claim,VIP 2 có thể nhận,VIP1 수령 가능,{52=100;gold=10000;21006=100;card=30041}
+2,8001,2,vip2可领取,vip2可領取,VIP 2 can claim,VIP 3 có thể nhận,VIP2 수령 가능,{52=100;gold=10000;21006=100;card=30041}
+3,8001,3,vip3可领取,vip3可領取,VIP 3 can claim,VIP 4 có thể nhận,VIP3 수령 가능,{52=100;gold=10000;21006=100;card=30041}
+4,8001,4,vip4可领取,vip4可領取,VIP 4 can claim,VIP 5 có thể nhận,VIP4 수령 가능,{52=100;gold=10000;21006=100;card=30041}
+5,8001,5,vip5可领取,vip5可領取,VIP 5 can claim,VIP 6 có thể nhận,VIP5 수령 가능,{52=100;gold=10000;21006=100;card=30041}
+6,8001,6,vip6可领取,vip6可領取,VIP 6 can claim,VIP 7 có thể nhận,VIP6 수령 가능,{52=100;gold=10000;21006=100;card=30041}
+7,8001,7,vip7可领取,vip7可領取,VIP 7 can claim,VIP 8 có thể nhận,VIP7 수령 가능,{52=100;gold=10000;21006=100;card=30041}
+8,8001,8,vip8可领取,vip8可領取,VIP 8 can claim,VIP 9 có thể nhận,VIP8 수령 가능,{52=100;gold=10000;21006=100;card=30041}
+9,8001,9,vip9可领取,vip9可領取,VIP 9 can claim,VIP 10 có thể nhận,VIP9 수령 가능,{52=100;gold=10000;21006=100;card=30041}
+10,8001,10,vip10可领取,vip10可領取,VIP 10 can claim,VIP 11 có thể nhận,VIP10 수령 가능,{52=100;gold=10000;21006=100;card=30041}
+11,8001,11,vip11可领取,vip11可領取,VIP 11 can claim,VIP 12 có thể nhận,VIP11 수령 가능,{52=100;gold=10000;21006=100;card=30041}
+12,8001,12,vip12可领取,vip12可領取,VIP 12 can claim,VIP 13 có thể nhận,VIP12 수령 가능,{52=100;gold=10000;21006=100;card=30041}
+13,8001,13,vip13可领取,vip13可領取,VIP 13 can claim,VIP 14 có thể nhận,VIP13 수령 가능,{52=100;gold=10000;21006=100;card=30041}
+14,8001,14,vip14可领取,vip14可領取,VIP 14 can claim,VIP 15 có thể nhận,VIP14 수령 가능,{52=100;gold=10000;21006=100;card=30041}
+15,8001,15,vip15可领取,vip15可領取,VIP 15 can claim,VIP 16 có thể nhận,VIP15 수령 가능,{52=100;gold=10000;21006=100;card=30041}

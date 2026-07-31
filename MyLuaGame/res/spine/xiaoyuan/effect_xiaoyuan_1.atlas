@@ -1,0 +1,97 @@
+
+effect_xiaoyuan_1.png
+size: 1115, 542
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+skill/faz01_0000
+  rotate: false
+  xy: 521, 173
+  size: 337, 136
+  orig: 350, 150
+  offset: 7, 8
+  index: -1
+skill/yushui01/yus01_0001
+  rotate: true
+  xy: 2, 22
+  size: 14, 41
+  orig: 250, 350
+  offset: 150, 243
+  index: -1
+skill/yushui01/yus01_0003
+  rotate: false
+  xy: 860, 174
+  size: 229, 179
+  orig: 250, 350
+  offset: 9, 156
+  index: -1
+skill/yushui01/yus01_0005
+  rotate: false
+  xy: 712, 30
+  size: 207, 141
+  orig: 250, 350
+  offset: 30, 150
+  index: -1
+skill/yushui01/yus01_0007
+  rotate: false
+  xy: 467, 311
+  size: 205, 229
+  orig: 250, 350
+  offset: 33, 112
+  index: -1
+skill/yushui01/yus01_0009
+  rotate: true
+  xy: 674, 355
+  size: 185, 239
+  orig: 250, 350
+  offset: 58, 72
+  index: -1
+skill/yushui01/yus01_0011
+  rotate: false
+  xy: 229, 281
+  size: 236, 259
+  orig: 250, 350
+  offset: 6, 59
+  index: -1
+skill/yushui01/yus01_0013
+  rotate: false
+  xy: 285, 33
+  size: 234, 246
+  orig: 250, 350
+  offset: 6, 26
+  index: -1
+skill/yushui01/yus01_0015
+  rotate: false
+  xy: 2, 260
+  size: 225, 280
+  orig: 250, 350
+  offset: 8, 43
+  index: -1
+skill/yushui01/yus01_0017
+  rotate: true
+  xy: 2, 38
+  size: 220, 281
+  orig: 250, 350
+  offset: 10, 20
+  index: -1
+skill/yushui01/yus01_0019
+  rotate: false
+  xy: 921, 2
+  size: 192, 170
+  orig: 250, 350
+  offset: 30, 89
+  index: -1
+skill/yushui01/yus01_0021
+  rotate: false
+  xy: 521, 6
+  size: 189, 165
+  orig: 250, 350
+  offset: 31, 51
+  index: -1
+skill/yushui01/yus01_0023
+  rotate: true
+  xy: 915, 355
+  size: 185, 90
+  orig: 250, 350
+  offset: 33, 82
+  index: -1

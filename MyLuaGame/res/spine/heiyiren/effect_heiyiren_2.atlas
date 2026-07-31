@@ -1,0 +1,48 @@
+
+effect_heiyiren_2.png
+size: 737, 165
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+baozha0001
+  rotate: true
+  xy: 172, 9
+  size: 154, 148
+  orig: 180, 160
+  offset: 11, 7
+  index: -1
+baozha0003
+  rotate: true
+  xy: 461, 9
+  size: 154, 142
+  orig: 180, 160
+  offset: 9, 10
+  index: -1
+baozha0005
+  rotate: true
+  xy: 322, 2
+  size: 161, 137
+  orig: 180, 160
+  offset: 10, 10
+  index: -1
+baozha0007
+  rotate: false
+  xy: 2, 26
+  size: 168, 137
+  orig: 180, 160
+  offset: 8, 7
+  index: -1
+baozha0009
+  rotate: false
+  xy: 605, 55
+  size: 130, 108
+  orig: 180, 160
+  offset: 28, 25
+  index: -1
+guangdian
+  rotate: false
+  xy: 605, 8
+  size: 45, 45
+  orig: 50, 50
+  offset: 3, 2
+  index: -1

@@ -1,0 +1,90 @@
+
+spine4_1_1.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 280
+  size: 1568, 736
+  orig: 1568, 736
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 2010, 500
+  size: 104, 62
+  orig: 104, 62
+  offset: 0, 0
+  index: -1
+datui1
+  rotate: true
+  xy: 2825, 714
+  size: 302, 450
+  orig: 302, 450
+  offset: 0, 0
+  index: -1
+datui2
+  rotate: true
+  xy: 2, 88
+  size: 190, 327
+  orig: 190, 327
+  offset: 0, 0
+  index: -1
+liuhai1
+  rotate: false
+  xy: 1572, 331
+  size: 62, 156
+  orig: 62, 156
+  offset: 0, 0
+  index: -1
+liuhai2
+  rotate: false
+  xy: 2, 2
+  size: 34, 84
+  orig: 34, 84
+  offset: 0, 0
+  index: -1
+liuhai3
+  rotate: false
+  xy: 2346, 615
+  size: 54, 91
+  orig: 54, 91
+  offset: 0, 0
+  index: -1
+liuhai4
+  rotate: false
+  xy: 331, 202
+  size: 31, 76
+  orig: 31, 76
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1572, 489
+  size: 436, 527
+  orig: 436, 527
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 3277, 788
+  size: 218, 228
+  orig: 218, 228
+  offset: 0, 0
+  index: -1
+xiaotui1
+  rotate: true
+  xy: 2346, 708
+  size: 308, 477
+  orig: 308, 477
+  offset: 0, 0
+  index: -1
+xiaotui2
+  rotate: false
+  xy: 2010, 564
+  size: 334, 452
+  orig: 334, 452
+  offset: 0, 0
+  index: -1

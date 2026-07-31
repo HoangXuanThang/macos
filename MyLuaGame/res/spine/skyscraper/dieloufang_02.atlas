@@ -1,0 +1,118 @@
+
+dieloufang_02.png
+size: 1791,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaoqing_daiji
+  rotate: true
+  xy: 1769, 268
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+effect/y1a
+  rotate: false
+  xy: 968, 137
+  size: 513, 166
+  orig: 513, 166
+  offset: 0, 0
+  index: -1
+effect/y2a
+  rotate: false
+  xy: 1, 12
+  size: 965, 291
+  orig: 965, 291
+  offset: 0, 0
+  index: -1
+effect/y3a
+  rotate: false
+  xy: 968, 16
+  size: 509, 119
+  orig: 509, 119
+  offset: 0, 0
+  index: -1
+effect/yumao
+  rotate: true
+  xy: 1613, 186
+  size: 117, 122
+  orig: 117, 122
+  offset: 0, 0
+  index: -1
+pingshi
+  rotate: true
+  xy: 1649, 106
+  size: 78, 108
+  orig: 78, 108
+  offset: 0, 0
+  index: -1
+shentifly
+  rotate: false
+  xy: 1621, 1
+  size: 84, 103
+  orig: 84, 103
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 1707, 36
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: true
+  xy: 1479, 1
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+y_chibang1
+  rotate: true
+  xy: 1483, 120
+  size: 62, 164
+  orig: 62, 164
+  offset: 0, 0
+  index: -1
+y_chibang2
+  rotate: false
+  xy: 1483, 184
+  size: 128, 119
+  orig: 128, 119
+  offset: 0, 0
+  index: -1
+y_zhuazi
+  rotate: true
+  xy: 1769, 244
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+z_chibang1
+  rotate: true
+  xy: 1479, 19
+  size: 99, 140
+  orig: 99, 140
+  offset: 0, 0
+  index: -1
+z_chibang2
+  rotate: false
+  xy: 1737, 196
+  size: 30, 107
+  orig: 30, 107
+  offset: 0, 0
+  index: -1
+z_zhuazi
+  rotate: false
+  xy: 1735, 12
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 1707, 11
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1

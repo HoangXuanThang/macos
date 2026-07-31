@@ -1,0 +1,34 @@
+
+shengjitiao.png
+size: 459,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TX/TX_S1_szgh_0052
+  rotate: false
+  xy: 1, 23
+  size: 256, 234
+  orig: 256, 234
+  offset: 0, 0
+  index: -1
+images/TX/TX_xt_g_0017
+  rotate: false
+  xy: 259, 58
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: -1
+images/TX/shengjitiao
+  rotate: false
+  xy: 1, 1
+  size: 455, 20
+  orig: 455, 20
+  offset: 0, 0
+  index: -1
+images/TX/zdsl_slgy2
+  rotate: true
+  xy: 259, 39
+  size: 17, 181
+  orig: 17, 181
+  offset: 0, 0
+  index: -1

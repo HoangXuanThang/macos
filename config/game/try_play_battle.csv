@@ -1,0 +1,10 @@
+﻿VariableName,roleId,roleForce,level,skills,star,activeSkill,classify,hp,mp1,mp2,hpRecover,mp1Recover,mp2Recover,damage,specialDamage,defence,specialDefence,defenceIgnore,specialDefenceIgnore,speed,strike,strikeDamage,strikeResistance,block,breakBlock,blockPower,dodge,hit,damageAdd,damageSub,ultimateAdd,ultimateSub,damageDeepen,damageReduce,suckBlood,suckBlood1,cure,natureRestraint,controlPer,immuneControl,initMp1
+Defaults,,,100,{},12,0,0,1400000,1000,1,1,1,1,1,1,1,1,1,1,1,1,15000,1,1,1,1,1,10000,1,1,0,0,1,1,0,0,1,1,1,1,0
+ID,roleId,roleForce,level,skills,star,activeSkill,classify,hp,mp1,mp2,hpRecover,mp1Recover,mp2Recover,damage,specialDamage,defence,specialDefence,defenceIgnore,specialDefenceIgnore,speed,strike,strikeDamage,strikeResistance,block,breakBlock,blockPower,dodge,hit,damageAdd,damageSub,ultimateAdd,ultimateSub,damageDeepen,damageReduce,suckBlood,suckBlood1,cure,natureRestraint,controlPer,immuneControl,initMp1
+2,0,1,,,,,3,,,1000,,1000,1000,1000000,1000000,3000,3000,,,20,,,,,,,,,,,,,,,,,,,,,1000
+7,60493,2,,{4932=1;4933=1},,,3,99999999,,,,,,1000,1000,3000,3000,,,14,,,,,,,,,,,,,,,,,,,,,
+8,60493,2,,{4932=1;4933=1},,,3,99999999,,,,,,1000,1000,3000,3000,,,14,,,,,,,,,,,,,,,,,,,,,
+9,60493,2,,{4932=1;4933=1},,,3,99999999,,,,,,1000,1000,3000,3000,,,14,,,,,,,,,,,,,,,,,,,,,
+10,60082,2,,{823=1;822=1},,,3,99999999,,,,,,1000,1000,3000,3000,,,14,,,,,,,,,,,,,,,,,,,,,
+11,60044,2,,{443=1;442=1},,,3,99999999,,,,,,1000,1000,3000,3000,,,14,,,,,,,,,,,,,,,,,,,,,
+12,60082,2,,{823=1;822=1},,,3,99999999,,,,,,1000,1000,3000,3000,,,14,,,,,,,,,,,,,,,,,,,,,

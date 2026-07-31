@@ -1,0 +1,21 @@
+﻿VariableName,name,name_vn,name_en,name_th,name_in,name_ph,name_ma,weight,weight_kr,spine,CDTime,fix,robot1,robot2,robot3,robot4,recommendAttr
+Defaults,"""""","""""","""""","""""","""""","""""","""""",0,0,"""""",0,0,0,1,2,3,<>
+属性ID,元素名,name_vn,name_en,name_th,name_in,name_ph,name_ma,权值,权值,spine配置,冷却时间（单位：天数）,机器人修正值（只对6个基础属性及精灵等级和技能等级进行修正）,机器人1卡牌ID,机器人2卡牌ID,机器人3卡牌ID,机器人4卡牌ID,推荐属性列表(填数字，数量任意)
+1,Holy Light,Thánh Quang,Holy Light,แสงศักดิ์สิทธิ์,Cahaya Suci,Banal na Liwanag,Cahaya Suci,100,,18ys/huizhang1.skel,2,0.75,731,1082,3152,1841,<9;13;17>
+2,Fire Blaze,Hỏa Diệm,Fire Blaze,ไฟเพลิง,Nyala Api,Apoy na Naglalagablab,Nyala Api,100,,18ys/huizhang1.skel,2,0.75,1221,1293,3161,1911,<3;9;15>
+3,Mystic Water,Huyền Thủy,Mystic Water,น้ำลึกลับ,Air Mistis,Mistikong Tubig,Air Mistis,100,,18ys/huizhang1.skel,2,0.75,1903,1612,3181,2023,<5;6;13>
+4,Leprosy,Tật Phong,Leprosy,โรคเรื้อน,Kusta,Kulani,Kusta,100,,18ys/huizhang1.skel,2,0.75,1931,2033,3251,2242,<7;8;14>
+5,Thunderstorm,Lôi Đình,Thunderstorm,พายุฟ้าผ่า,Badai Petir,Bagyong Kidlat,Badai Petir,100,,18ys/huizhang1.skel,2,0.75,3543,972,3592,2723,<4;9;13>
+6,Frozen,Băng Giá,Frozen,แช่แข็ง,Beku,Naka-yelong,Nyatakan Beku,100,,18ys/huizhang3.skel,2,0.75,163,1032,3663,3003,<2;14;15>
+7,Combat Awareness,Giác Đấu,Combat Awareness,ความตื่นตัวในการต่อสู้,Sadar Tempur,Sanay sa Labanan,Kesedaran Pertempuran,100,,18ys/huizhang3.skel,2,0.75,242,1071,1082,3152,<6;10;12>
+8,Deadly Poison,Kịch Độc,Deadly Poison,พิษร้าย, Racun Mematikan,Mapanganib na Lason, Racun Mematikan,100,,18ys/huizhang2.skel,2,0.75,333,1253,1293,3161,<2;3;1>
+9,Earth,Đất,Earth,แผ่นดิน,Bumi,Lupa,Bumi,100,,18ys/huizhang1.skel,2,0.75,503,1303,1612,3181,<3;4;16>
+10,Flight,Phi Hành,Flight,การบิน,Penerbangan,Paglipad,Penerbangan,100,,18ys/huizhang3.skel,2,0.75,593,1381,2033,3251,<4;15;16>
+11,Psychic,Siêu Năng,Psychic,จิต, Psikis,Psikiko,Psikik,100,,18ys/huizhang3.skel,2,0.75,603,1772,972,3592,<1;8;18>
+12,Swordsmanship,Kiếm Thuật,Swordsmanship,การใช้ดาบ,Keahlian Pedang,Pagkasanay sa Espada,Keahlian Pedang,100,,18ys/huizhang3.skel,2,0.75,611,1813,1032,3663,<10;11;16>
+13,Lava,Nham Thạch,Lava,ลาวา,Lava,Lava,Lava,100,,18ys/huizhang2.skel,2,0.75,631,1841,1071,1082,<6;7;14>
+14,Spirit,Vong Linh,Spirit,จิตวิญญาณ,Roh,Espiritu,Roh,100,,18ys/huizhang3.skel,2,0.75,641,1911,1253,1293,<1;5;18>
+15,Demon,Ma Thần,Demon,ปีศาจ,Setan,Demonyo,Setan,100,,18ys/huizhang2.skel,2,0.75,712,2023,1303,1612,<7;11;12>
+16,Darkness,Hắc Ám,Darkness,ความมืด,Kegelapan,Kadiliman,Kegelapan,100,,18ys/huizhang2.skel,2,0.75,741,2242,1381,2033,<1;8;15>
+17,Mechanical,Cơ Khí,Mechanical,เครื่องจักร,Mekanis,Mekanikal,Mekanikal,100,,18ys/huizhang2.skel,2,0.75,863,2723,1772,972,<2;5;11>
+18,Ninjutsu,Nhẫn Thuật,Ninjutsu,ศิลปะนินจา,Ninjutsu,Ninjutsu,Ninjutsu,100,,18ys/huizhang2.skel,2,0.75,883,3003,1813,1032,<10;12;17>

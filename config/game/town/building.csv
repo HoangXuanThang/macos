@@ -1,0 +1,44 @@
+﻿VariableName,buildID,level,levelUpCost,levelUpCostTime,upgradeConditions,name,name_vn,desc,desc_vn
+Defaults,0,1,{},1,<>,"""""","""""","""""",""""""
+ID,建筑id 1:市中心 2:我的小屋,等级,升级消耗,升级所需时间(秒),升级条件,建筑名,建筑名,描述,描述
+1,1,,,,,Trung tâm thành phố,Trung tâm thành phố,Trung tâm thành phố 1,Trung tâm thành phố 1
+2,1,2,{gold=100},60,,Trung tâm thành phố,Trung tâm thành phố,Trung tâm thành phố 2,Trung tâm thành phố 2
+3,1,3,{gold=200},80,,Trung tâm thành phố,Trung tâm thành phố,Trung tâm thành phố 3,Trung tâm thành phố 3
+4,1,4,{gold=300},100,,Trung tâm thành phố,Trung tâm thành phố,Trung tâm thành phố 4,Trung tâm thành phố 4
+5,1,5,{gold=400},120,,Trung tâm thành phố,Trung tâm thành phố,Trung tâm thành phố 5,Trung tâm thành phố 5
+6,1,6,{gold=500},140,,Trung tâm thành phố,Trung tâm thành phố,Trung tâm thành phố 6,Trung tâm thành phố 6
+7,1,7,{gold=600},160,,Trung tâm thành phố,Trung tâm thành phố,Trung tâm thành phố 7,Trung tâm thành phố 7
+8,1,8,{gold=700},180,,Trung tâm thành phố,Trung tâm thành phố,Trung tâm thành phố 8,Trung tâm thành phố 8
+9,1,9,{gold=800},200,,Trung tâm thành phố,Trung tâm thành phố,Trung tâm thành phố 9,Trung tâm thành phố 9
+10,1,10,{gold=900},220,,Trung tâm thành phố,Trung tâm thành phố,Trung tâm thành phố 10,Trung tâm thành phố 10
+101,2,,,,,Ngôi nhà của tôi,Ngôi nhà của tôi,,Trung tâm thành phố 1
+102,2,2,{gold=100},5,<201>,Ngôi nhà của tôi,Ngôi nhà của tôi,,Trung tâm thành phố 1
+103,2,3,{gold=200},5,<201>,Ngôi nhà của tôi,Ngôi nhà của tôi,,Trung tâm thành phố 1
+104,2,4,{gold=300},5,<201>,Ngôi nhà của tôi,Ngôi nhà của tôi,,Trung tâm thành phố 1
+105,2,5,{gold=400},5,<201>,Ngôi nhà của tôi,Ngôi nhà của tôi,,Trung tâm thành phố 1
+106,2,6,{gold=500},5,<202>,Ngôi nhà của tôi,Ngôi nhà của tôi,,Trung tâm thành phố 1
+107,2,7,{gold=600},5,<202>,Ngôi nhà của tôi,Ngôi nhà của tôi,,Trung tâm thành phố 1
+108,2,8,{gold=700},5,<203>,Ngôi nhà của tôi,Ngôi nhà của tôi,,Trung tâm thành phố 1
+109,2,9,{gold=800},5,<203>,Ngôi nhà của tôi,Ngôi nhà của tôi,,Trung tâm thành phố 1
+110,2,10,{gold=900},5,<203>,Ngôi nhà của tôi,Ngôi nhà của tôi,,Trung tâm thành phố 1
+201,3,,,,,Nhà máy giả kim,Nhà máy giả kim,,Trung tâm thành phố 1
+202,3,2,{gold=100},5,,Nhà máy giả kim,Nhà máy giả kim,,Trung tâm thành phố 1
+203,3,3,{gold=200},5,,Nhà máy giả kim,Nhà máy giả kim,,Trung tâm thành phố 1
+204,3,4,{gold=300},5,,Nhà máy giả kim,Nhà máy giả kim,,Trung tâm thành phố 1
+205,3,5,{gold=400},5,,Nhà máy giả kim,Nhà máy giả kim,,Trung tâm thành phố 1
+206,3,6,{gold=500},5,,Nhà máy giả kim,Nhà máy giả kim,,Trung tâm thành phố 1
+207,3,7,{gold=600},5,,Nhà máy giả kim,Nhà máy giả kim,,Trung tâm thành phố 1
+208,3,8,{gold=700},5,,Nhà máy giả kim,Nhà máy giả kim,,Trung tâm thành phố 1
+209,3,9,{gold=800},5,,Nhà máy giả kim,Nhà máy giả kim,,Trung tâm thành phố 1
+210,3,10,{gold=900},5,,Nhà máy giả kim,Nhà máy giả kim,,Trung tâm thành phố 1
+301,4,,,,,Trung tâm tài chính,Trung tâm tài chính,,Trung tâm thành phố 1
+302,4,2,{gold=100},5,,Trung tâm tài chính,Trung tâm tài chính,,Trung tâm thành phố 1
+303,4,3,{gold=200},5,,Trung tâm tài chính,Trung tâm tài chính,,Trung tâm thành phố 1
+304,4,4,{gold=300},5,,Trung tâm tài chính,Trung tâm tài chính,,Trung tâm thành phố 1
+305,4,5,{gold=400},5,,Trung tâm tài chính,Trung tâm tài chính,,Trung tâm thành phố 1
+306,4,6,{gold=500},5,,Trung tâm tài chính,Trung tâm tài chính,,Trung tâm thành phố 1
+307,4,7,{gold=600},5,,Trung tâm tài chính,Trung tâm tài chính,,Trung tâm thành phố 1
+308,4,8,{gold=700},5,,Trung tâm tài chính,Trung tâm tài chính,,Trung tâm thành phố 1
+309,4,9,{gold=800},5,,Trung tâm tài chính,Trung tâm tài chính,,Trung tâm thành phố 1
+310,4,10,{gold=900},5,,Trung tâm tài chính,Trung tâm tài chính,,Trung tâm thành phố 1
+401,5,,,,,Cuộc phiêu lưu không xác định,Cuộc phiêu lưu không xác định,,Trung tâm thành phố 1

@@ -1,0 +1,174 @@
+
+dwj_bzz.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj1
+  rotate: false
+  xy: 694, 776
+  size: 780, 246
+  orig: 780, 246
+  offset: 0, 0
+  index: -1
+bj2
+  rotate: false
+  xy: 1508, 307
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+bj3
+  rotate: false
+  xy: 1624, 307
+  size: 94, 114
+  orig: 94, 114
+  offset: 0, 0
+  index: -1
+canzhuo
+  rotate: false
+  xy: 1476, 727
+  size: 565, 295
+  orig: 566, 295
+  offset: 1, 0
+  index: -1
+dadadazy
+  rotate: false
+  xy: 2, 35
+  size: 798, 205
+  orig: 798, 205
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 1859, 634
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+mupai_1
+  rotate: false
+  xy: 1802, 531
+  size: 92, 100
+  orig: 92, 100
+  offset: 0, 0
+  index: -1
+mupai_2
+  rotate: false
+  xy: 694, 256
+  size: 103, 20
+  orig: 103, 20
+  offset: 0, 0
+  index: -1
+mupai_3
+  rotate: false
+  xy: 1802, 429
+  size: 92, 100
+  orig: 92, 100
+  offset: 0, 0
+  index: -1
+mupai_4
+  rotate: true
+  xy: 1150, 173
+  size: 103, 20
+  orig: 103, 20
+  offset: 0, 0
+  index: -1
+mupai_pl
+  rotate: true
+  xy: 2, 2
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+mupai_zl
+  rotate: false
+  xy: 2011, 676
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+panzi1
+  rotate: true
+  xy: 1064, 105
+  size: 171, 84
+  orig: 171, 84
+  offset: 0, 0
+  index: -1
+panzi2
+  rotate: true
+  xy: 1087, 23
+  size: 80, 40
+  orig: 81, 40
+  offset: 0, 0
+  index: -1
+role
+  rotate: false
+  xy: 2, 242
+  size: 690, 780
+  orig: 692, 880
+  offset: 0, 0
+  index: -1
+s2shengzi
+  rotate: true
+  xy: 1200, 407
+  size: 367, 260
+  orig: 367, 260
+  offset: 0, 0
+  index: -1
+s2zongzi
+  rotate: false
+  xy: 694, 278
+  size: 504, 496
+  orig: 504, 496
+  offset: 0, 0
+  index: -1
+xian
+  rotate: true
+  xy: 1722, 442
+  size: 189, 78
+  orig: 189, 78
+  offset: 0, 0
+  index: -1
+yannn1
+  rotate: true
+  xy: 1462, 423
+  size: 208, 258
+  orig: 208, 258
+  offset: 0, 0
+  index: -1
+zhenlong
+  rotate: false
+  xy: 1200, 282
+  size: 306, 123
+  orig: 316, 123
+  offset: 0, 0
+  index: -1
+zhenlongyy
+  rotate: false
+  xy: 1859, 666
+  size: 150, 59
+  orig: 154, 60
+  offset: 0, 0
+  index: -1
+zhongjianzongzi
+  rotate: false
+  xy: 802, 105
+  size: 260, 171
+  orig: 260, 171
+  offset: 0, 0
+  index: -1
+zhongye1
+  rotate: false
+  xy: 1462, 633
+  size: 395, 92
+  orig: 395, 92
+  offset: 0, 0
+  index: -1
+zhongye2
+  rotate: false
+  xy: 802, 14
+  size: 283, 89
+  orig: 283, 89
+  offset: 0, 0
+  index: -1

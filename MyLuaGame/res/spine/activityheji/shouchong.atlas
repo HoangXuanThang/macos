@@ -1,0 +1,90 @@
+
+shouchong.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianzi
+  rotate: false
+  xy: 2, 110
+  size: 193, 328
+  orig: 193, 328
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 197, 305
+  size: 93, 34
+  orig: 93, 34
+  offset: 0, 0
+  index: -1
+gebo
+  rotate: false
+  xy: 370, 550
+  size: 35, 82
+  orig: 35, 82
+  offset: 0, 0
+  index: -1
+liuhai1
+  rotate: false
+  xy: 370, 634
+  size: 45, 155
+  orig: 45, 155
+  offset: 0, 0
+  index: -1
+liuhai2
+  rotate: false
+  xy: 309, 357
+  size: 40, 81
+  orig: 40, 81
+  offset: 0, 0
+  index: -1
+liuhai3
+  rotate: false
+  xy: 126, 7
+  size: 36, 101
+  orig: 36, 101
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 440
+  size: 366, 581
+  orig: 366, 581
+  offset: 0, 0
+  index: -1
+shetou
+  rotate: false
+  xy: 417, 775
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 629, 956
+  size: 99, 65
+  orig: 99, 65
+  offset: 0, 0
+  index: -1
+tui01
+  rotate: false
+  xy: 370, 791
+  size: 257, 230
+  orig: 257, 230
+  offset: 0, 0
+  index: -1
+xiong01
+  rotate: false
+  xy: 197, 341
+  size: 110, 97
+  orig: 110, 97
+  offset: 0, 0
+  index: -1
+xiong02
+  rotate: true
+  xy: 2, 2
+  size: 106, 122
+  orig: 106, 122
+  offset: 0, 0
+  index: -1

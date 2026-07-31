@@ -1,0 +1,83 @@
+
+chenghao_4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image1
+  rotate: false
+  xy: 2, 308
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+image10
+  rotate: false
+  xy: 204, 104
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+image11
+  rotate: false
+  xy: 204, 2
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+image2
+  rotate: false
+  xy: 204, 410
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+image3
+  rotate: false
+  xy: 2, 206
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+image4
+  rotate: false
+  xy: 204, 308
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+image5
+  rotate: true
+  xy: 406, 310
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+image6
+  rotate: false
+  xy: 2, 104
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+image7
+  rotate: false
+  xy: 2, 2
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+image8
+  rotate: false
+  xy: 204, 206
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+image9
+  rotate: false
+  xy: 2, 410
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1

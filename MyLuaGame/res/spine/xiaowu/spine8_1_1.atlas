@@ -1,0 +1,104 @@
+
+spine8_1_1.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 278
+  size: 1560, 720
+  orig: 1560, 720
+  offset: 0, 0
+  index: -1
+gebo1
+  rotate: false
+  xy: 2096, 754
+  size: 169, 244
+  orig: 169, 244
+  offset: 0, 0
+  index: -1
+gebo2
+  rotate: true
+  xy: 316, 154
+  size: 122, 255
+  orig: 122, 255
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: true
+  xy: 2267, 779
+  size: 65, 105
+  orig: 65, 105
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1564, 302
+  size: 530, 696
+  orig: 530, 696
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2096, 594
+  size: 147, 158
+  orig: 147, 158
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 709, 172
+  size: 54, 104
+  orig: 54, 104
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 316, 69
+  size: 83, 136
+  orig: 83, 136
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: true
+  xy: 2, 2
+  size: 51, 121
+  orig: 51, 121
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 2, 55
+  size: 312, 221
+  orig: 312, 221
+  offset: 0, 0
+  index: -1
+xiezi1
+  rotate: false
+  xy: 2267, 846
+  size: 107, 152
+  orig: 107, 152
+  offset: 0, 0
+  index: -1
+xiezi2
+  rotate: true
+  xy: 573, 154
+  size: 122, 134
+  orig: 122, 134
+  offset: 0, 0
+  index: -1
+xiong01
+  rotate: false
+  xy: 2096, 478
+  size: 123, 114
+  orig: 123, 114
+  offset: 0, 0
+  index: -1
+xiong02
+  rotate: false
+  xy: 2376, 885
+  size: 117, 113
+  orig: 117, 113
+  offset: 0, 0
+  index: -1

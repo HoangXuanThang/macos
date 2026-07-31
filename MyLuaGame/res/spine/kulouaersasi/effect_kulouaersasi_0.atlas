@@ -1,0 +1,83 @@
+
+effect_kulouaersasi_0.png
+size: 416, 271
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+effect/baodiandi00
+  rotate: false
+  xy: 345, 103
+  size: 65, 74
+  orig: 192, 192
+  offset: 65, 61
+  index: -1
+effect/baodiandi01
+  rotate: false
+  xy: 102, 11
+  size: 86, 115
+  orig: 192, 192
+  offset: 55, 40
+  index: -1
+effect/baodiandi02
+  rotate: false
+  xy: 2, 3
+  size: 98, 123
+  orig: 192, 192
+  offset: 46, 36
+  index: -1
+effect/baodiandi03
+  rotate: true
+  xy: 190, 13
+  size: 113, 139
+  orig: 192, 192
+  offset: 39, 28
+  index: -1
+effect/baodiandi04
+  rotate: false
+  xy: 2, 128
+  size: 115, 141
+  orig: 192, 192
+  offset: 38, 27
+  index: -1
+effect/baodiandi05
+  rotate: false
+  xy: 230, 130
+  size: 113, 139
+  orig: 192, 192
+  offset: 39, 28
+  index: -1
+effect/baodiandi06
+  rotate: false
+  xy: 119, 128
+  size: 109, 141
+  orig: 192, 192
+  offset: 41, 31
+  index: -1
+effect/flash
+  rotate: true
+  xy: 380, 13
+  size: 27, 28
+  orig: 30, 33
+  offset: 1, 2
+  index: -1
+effect/qi
+  rotate: false
+  xy: 345, 179
+  size: 69, 90
+  orig: 99, 118
+  offset: 11, 15
+  index: -1
+effect/star
+  rotate: true
+  xy: 331, 2
+  size: 38, 47
+  orig: 60, 65
+  offset: 12, 10
+  index: -1
+effect/suipian
+  rotate: false
+  xy: 331, 42
+  size: 77, 59
+  orig: 98, 84
+  offset: 11, 12
+  index: -1

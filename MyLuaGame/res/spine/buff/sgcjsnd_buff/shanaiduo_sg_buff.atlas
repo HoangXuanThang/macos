@@ -1,0 +1,139 @@
+
+shanaiduo_sg_buff.png
+size: 824,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caidai
+  rotate: false
+  xy: 600, 76
+  size: 154, 30
+  orig: 154, 30
+  offset: 0, 0
+  index: -1
+ci
+  rotate: true
+  xy: 631, 48
+  size: 26, 175
+  orig: 26, 175
+  offset: 0, 0
+  index: -1
+huaban0
+  rotate: false
+  xy: 228, 24
+  size: 68, 103
+  orig: 68, 103
+  offset: 0, 0
+  index: -1
+huahai
+  rotate: false
+  xy: 396, 26
+  size: 219, 39
+  orig: 219, 39
+  offset: 0, 0
+  index: -1
+jingji
+  rotate: true
+  xy: 169, 12
+  size: 115, 57
+  orig: 115, 57
+  offset: 0, 0
+  index: -1
+jingji1
+  rotate: true
+  xy: 617, 28
+  size: 18, 165
+  orig: 18, 165
+  offset: 0, 0
+  index: -1
+jingji2
+  rotate: true
+  xy: 600, 108
+  size: 19, 223
+  orig: 19, 223
+  offset: 0, 0
+  index: -1
+jingji3
+  rotate: true
+  xy: 228, 1
+  size: 21, 201
+  orig: 21, 201
+  offset: 0, 0
+  index: -1
+jingji4
+  rotate: true
+  xy: 631, 5
+  size: 21, 165
+  orig: 21, 165
+  offset: 0, 0
+  index: -1
+jingji_yy
+  rotate: true
+  xy: 122, 9
+  size: 118, 45
+  orig: 118, 45
+  offset: 0, 0
+  index: -1
+jiu
+  rotate: true
+  xy: 566, 82
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: true
+  xy: 298, 27
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+logo
+  rotate: true
+  xy: 431, 1
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+sha3
+  rotate: true
+  xy: 468, 2
+  size: 22, 161
+  orig: 22, 161
+  offset: 0, 0
+  index: -1
+sz
+  rotate: false
+  xy: 1, 8
+  size: 119, 119
+  orig: 154, 154
+  offset: 18, 18
+  index: -1
+xin
+  rotate: false
+  xy: 396, 67
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+xin2
+  rotate: false
+  xy: 515, 78
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+xin3
+  rotate: false
+  xy: 458, 71
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: true
+  xy: 169, 2
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1

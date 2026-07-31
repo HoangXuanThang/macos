@@ -1,0 +1,1918 @@
+
+jiren_power.png
+size: 4081, 4007
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Arm_L_1_A1
+  rotate: false
+  xy: 963, 3967
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+Arm_L_1_A2
+  rotate: true
+  xy: 2676, 3892
+  size: 66, 91
+  orig: 66, 91
+  offset: 0, 0
+  index: -1
+Arm_L_1_A5
+  rotate: true
+  xy: 624, 3968
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+Arm_L_1_A6
+  rotate: false
+  xy: 522, 3916
+  size: 74, 51
+  orig: 74, 51
+  offset: 0, 0
+  index: -1
+Arm_L_1_A7
+  rotate: true
+  xy: 2715, 3960
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+Arm_L_1_A8
+  rotate: true
+  xy: 2088, 3963
+  size: 42, 79
+  orig: 42, 79
+  offset: 0, 0
+  index: -1
+Arm_L_1_H
+  rotate: false
+  xy: 384, 3919
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+Arm_L_1_HF
+  rotate: false
+  xy: 3459, 3958
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+Arm_L_1_M
+  rotate: true
+  xy: 2554, 3961
+  size: 44, 86
+  orig: 44, 86
+  offset: 0, 0
+  index: -1
+Arm_L_1_S1
+  rotate: true
+  xy: 1023, 3967
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+Arm_L_1_S2
+  rotate: true
+  xy: 1180, 3966
+  size: 39, 69
+  orig: 39, 69
+  offset: 0, 0
+  index: -1
+Arm_L_1_S4
+  rotate: false
+  xy: 1198, 3909
+  size: 76, 55
+  orig: 76, 55
+  offset: 0, 0
+  index: -1
+Arm_L_1_S5
+  rotate: false
+  xy: 691, 3968
+  size: 121, 37
+  orig: 121, 37
+  offset: 0, 0
+  index: -1
+Arm_L_2_A1
+  rotate: false
+  xy: 138, 3922
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+Arm_L_2_A4
+  rotate: false
+  xy: 1251, 3966
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+Arm_L_2_A5
+  rotate: false
+  xy: 213, 3973
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+Arm_L_2_A6
+  rotate: false
+  xy: 2502, 3962
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+Arm_L_2_A7
+  rotate: true
+  xy: 2782, 3960
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+Arm_L_2_A8
+  rotate: true
+  xy: 598, 3915
+  size: 51, 85
+  orig: 51, 85
+  offset: 0, 0
+  index: -1
+Arm_L_2_H
+  rotate: false
+  xy: 385, 3972
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+Arm_L_2_HF
+  rotate: false
+  xy: 113, 3974
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+Arm_L_2_S1
+  rotate: false
+  xy: 2, 3975
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+Arm_L_2_S2
+  rotate: false
+  xy: 2169, 3963
+  size: 79, 42
+  orig: 79, 42
+  offset: 0, 0
+  index: -1
+Arm_L_2_S4
+  rotate: false
+  xy: 685, 3915
+  size: 66, 51
+  orig: 66, 51
+  offset: 0, 0
+  index: -1
+Arm_R_1_A1
+  rotate: false
+  xy: 3156, 3959
+  size: 117, 46
+  orig: 117, 46
+  offset: 0, 0
+  index: -1
+Arm_R_1_A2
+  rotate: true
+  xy: 449, 3971
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+Arm_R_1_A5
+  rotate: true
+  xy: 824, 3913
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+Arm_R_1_A7
+  rotate: true
+  xy: 1300, 3966
+  size: 39, 73
+  orig: 39, 73
+  offset: 0, 0
+  index: -1
+Arm_R_1_A8
+  rotate: true
+  xy: 2, 3925
+  size: 48, 71
+  orig: 48, 71
+  offset: 0, 0
+  index: -1
+Arm_R_1_H
+  rotate: true
+  xy: 75, 3923
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+Arm_R_1_HF
+  rotate: true
+  xy: 2850, 3960
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+Arm_R_1_M
+  rotate: false
+  xy: 1786, 3965
+  size: 76, 40
+  orig: 76, 40
+  offset: 0, 0
+  index: -1
+Arm_R_1_S1
+  rotate: true
+  xy: 953, 3912
+  size: 53, 71
+  orig: 53, 71
+  offset: 0, 0
+  index: -1
+Arm_R_1_S2
+  rotate: false
+  xy: 3513, 3958
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+Arm_R_1_S3
+  rotate: false
+  xy: 1276, 3909
+  size: 115, 55
+  orig: 115, 55
+  offset: 0, 0
+  index: -1
+Arm_R_2_A2
+  rotate: false
+  xy: 59, 3975
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+Arm_R_2_A3
+  rotate: true
+  xy: 3564, 3958
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+Arm_R_2_A5
+  rotate: false
+  xy: 814, 3968
+  size: 58, 37
+  orig: 58, 37
+  offset: 0, 0
+  index: -1
+Arm_R_2_A6
+  rotate: false
+  xy: 3617, 3958
+  size: 90, 47
+  orig: 90, 47
+  offset: 0, 0
+  index: -1
+Arm_R_2_A7
+  rotate: true
+  xy: 2250, 3963
+  size: 42, 74
+  orig: 42, 74
+  offset: 0, 0
+  index: -1
+Arm_R_2_A8
+  rotate: true
+  xy: 281, 3973
+  size: 32, 102
+  orig: 32, 102
+  offset: 0, 0
+  index: -1
+Arm_R_2_H
+  rotate: false
+  xy: 2447, 3896
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+Arm_R_2_HF
+  rotate: false
+  xy: 2910, 3960
+  size: 63, 45
+  orig: 63, 45
+  offset: 0, 0
+  index: -1
+Arm_R_2_M
+  rotate: true
+  xy: 3709, 3958
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+Arm_R_2_S2
+  rotate: true
+  xy: 175, 3974
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+Arm_R_2_S4
+  rotate: false
+  xy: 312, 3921
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1
+Body_A1
+  rotate: true
+  xy: 2, 3834
+  size: 87, 98
+  orig: 87, 98
+  offset: 0, 0
+  index: -1
+Body_A2
+  rotate: true
+  xy: 3343, 3878
+  size: 79, 107
+  orig: 79, 107
+  offset: 0, 0
+  index: -1
+Body_A3
+  rotate: true
+  xy: 435, 3819
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+Body_A4
+  rotate: true
+  xy: 533, 3818
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: -1
+Body_A5
+  rotate: true
+  xy: 3586, 3872
+  size: 84, 114
+  orig: 84, 114
+  offset: 0, 0
+  index: -1
+Body_A6
+  rotate: true
+  xy: 102, 3833
+  size: 87, 95
+  orig: 87, 95
+  offset: 0, 0
+  index: -1
+Body_A7
+  rotate: true
+  xy: 199, 3828
+  size: 91, 124
+  orig: 91, 124
+  offset: 0, 0
+  index: -1
+Body_A8
+  rotate: false
+  xy: 3146, 3879
+  size: 109, 78
+  orig: 109, 78
+  offset: 0, 0
+  index: -1
+Body_H
+  rotate: true
+  xy: 325, 3823
+  size: 94, 108
+  orig: 94, 108
+  offset: 0, 0
+  index: -1
+Body_HF
+  rotate: true
+  xy: 633, 3814
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+Body_I
+  rotate: true
+  xy: 860, 3784
+  size: 126, 128
+  orig: 126, 128
+  offset: 0, 0
+  index: -1
+Body_M
+  rotate: false
+  xy: 735, 3812
+  size: 123, 99
+  orig: 123, 99
+  offset: 0, 0
+  index: -1
+Body_S1
+  rotate: true
+  xy: 3800, 3870
+  size: 86, 128
+  orig: 86, 128
+  offset: 0, 0
+  index: -1
+Body_S2
+  rotate: true
+  xy: 2843, 3890
+  size: 68, 100
+  orig: 68, 100
+  offset: 0, 0
+  index: -1
+Body_S4
+  rotate: true
+  xy: 3452, 3875
+  size: 81, 132
+  orig: 81, 132
+  offset: 0, 0
+  index: -1
+Body_S5
+  rotate: true
+  xy: 3702, 3872
+  size: 84, 96
+  orig: 84, 96
+  offset: 0, 0
+  index: -1
+Head_A1
+  rotate: false
+  xy: 1375, 3966
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+Head_A3
+  rotate: true
+  xy: 2326, 3963
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+Head_A8
+  rotate: true
+  xy: 1424, 3966
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+Head_H
+  rotate: true
+  xy: 1470, 3966
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+Head_HF
+  rotate: false
+  xy: 1942, 3964
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+Head_I
+  rotate: true
+  xy: 504, 3970
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+Head_M
+  rotate: true
+  xy: 1515, 3966
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+Hip_A2
+  rotate: false
+  xy: 3761, 3958
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+Hip_A3
+  rotate: false
+  xy: 3275, 3959
+  size: 57, 46
+  orig: 57, 46
+  offset: 0, 0
+  index: -1
+Hip_A8
+  rotate: false
+  xy: 892, 3913
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+Hip_H
+  rotate: false
+  xy: 2373, 3963
+  size: 52, 42
+  orig: 52, 42
+  offset: 0, 0
+  index: -1
+Hip_HF
+  rotate: false
+  xy: 1563, 3966
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+Hip_S2
+  rotate: true
+  xy: 3810, 3958
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+Hip_S3
+  rotate: true
+  xy: 3334, 3959
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+Hip_S4
+  rotate: false
+  xy: 753, 3914
+  size: 69, 52
+  orig: 69, 52
+  offset: 0, 0
+  index: -1
+Leg_L_1_A1
+  rotate: false
+  xy: 2975, 3960
+  size: 85, 45
+  orig: 85, 45
+  offset: 0, 0
+  index: -1
+Leg_L_1_A2
+  rotate: true
+  xy: 1749, 3906
+  size: 57, 89
+  orig: 57, 89
+  offset: 0, 0
+  index: -1
+Leg_L_1_A4
+  rotate: false
+  xy: 545, 3969
+  size: 77, 36
+  orig: 77, 36
+  offset: 0, 0
+  index: -1
+Leg_L_1_A6
+  rotate: true
+  xy: 3047, 3881
+  size: 77, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+Leg_L_1_A8
+  rotate: true
+  xy: 3930, 3870
+  size: 86, 104
+  orig: 86, 104
+  offset: 0, 0
+  index: -1
+Leg_L_1_H
+  rotate: false
+  xy: 2525, 3895
+  size: 70, 64
+  orig: 70, 64
+  offset: 0, 0
+  index: -1
+Leg_L_1_HF
+  rotate: false
+  xy: 2642, 3961
+  size: 71, 44
+  orig: 71, 44
+  offset: 0, 0
+  index: -1
+Leg_L_1_I
+  rotate: true
+  xy: 1864, 3965
+  size: 40, 76
+  orig: 40, 76
+  offset: 0, 0
+  index: -1
+Leg_L_1_M
+  rotate: false
+  xy: 2086, 3899
+  size: 113, 62
+  orig: 113, 62
+  offset: 0, 0
+  index: -1
+Leg_L_1_S2
+  rotate: true
+  xy: 1840, 3906
+  size: 57, 92
+  orig: 57, 92
+  offset: 0, 0
+  index: -1
+Leg_L_1_S4
+  rotate: false
+  xy: 3861, 3958
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+Leg_L_1_S5
+  rotate: false
+  xy: 438, 3918
+  size: 82, 50
+  orig: 82, 50
+  offset: 0, 0
+  index: -1
+Leg_L_2_A1
+  rotate: true
+  xy: 3916, 3958
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+Leg_L_2_A2
+  rotate: true
+  xy: 1934, 3905
+  size: 57, 83
+  orig: 57, 83
+  offset: 0, 0
+  index: -1
+Leg_L_2_A4
+  rotate: true
+  xy: 1393, 3909
+  size: 55, 93
+  orig: 55, 93
+  offset: 0, 0
+  index: -1
+Leg_L_2_H
+  rotate: true
+  xy: 3062, 3960
+  size: 45, 92
+  orig: 45, 92
+  offset: 0, 0
+  index: -1
+Leg_L_2_HF
+  rotate: false
+  xy: 1026, 3912
+  size: 91, 53
+  orig: 91, 53
+  offset: 0, 0
+  index: -1
+Leg_L_2_I
+  rotate: true
+  xy: 1613, 3966
+  size: 39, 93
+  orig: 39, 93
+  offset: 0, 0
+  index: -1
+Leg_L_2_S4
+  rotate: true
+  xy: 874, 3968
+  size: 37, 87
+  orig: 37, 87
+  offset: 0, 0
+  index: -1
+Leg_R_1_A1
+  rotate: true
+  xy: 1488, 3909
+  size: 55, 69
+  orig: 55, 69
+  offset: 0, 0
+  index: -1
+Leg_R_1_A2
+  rotate: true
+  xy: 2019, 3903
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+Leg_R_1_A4
+  rotate: true
+  xy: 191, 3922
+  size: 49, 119
+  orig: 49, 119
+  offset: 0, 0
+  index: -1
+Leg_R_1_A8
+  rotate: false
+  xy: 2201, 3899
+  size: 69, 62
+  orig: 69, 62
+  offset: 0, 0
+  index: -1
+Leg_R_1_H
+  rotate: true
+  xy: 1708, 3966
+  size: 39, 76
+  orig: 39, 76
+  offset: 0, 0
+  index: -1
+Leg_R_1_HF
+  rotate: false
+  xy: 4011, 3958
+  size: 68, 47
+  orig: 68, 47
+  offset: 0, 0
+  index: -1
+Leg_R_1_I
+  rotate: true
+  xy: 3384, 3959
+  size: 46, 73
+  orig: 46, 73
+  offset: 0, 0
+  index: -1
+Leg_R_1_M
+  rotate: false
+  xy: 1119, 3911
+  size: 77, 53
+  orig: 77, 53
+  offset: 0, 0
+  index: -1
+Leg_R_1_S2
+  rotate: false
+  xy: 2597, 3894
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+Leg_R_1_S4
+  rotate: true
+  xy: 2769, 3892
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+Leg_R_2_A1
+  rotate: true
+  xy: 3257, 3879
+  size: 78, 84
+  orig: 78, 84
+  offset: 0, 0
+  index: -1
+Leg_R_2_A2
+  rotate: true
+  xy: 2945, 3889
+  size: 69, 100
+  orig: 69, 100
+  offset: 0, 0
+  index: -1
+Leg_R_2_A8
+  rotate: false
+  xy: 2427, 3963
+  size: 73, 42
+  orig: 73, 42
+  offset: 0, 0
+  index: -1
+Leg_R_2_H
+  rotate: true
+  xy: 1559, 3909
+  size: 55, 84
+  orig: 55, 84
+  offset: 0, 0
+  index: -1
+Leg_R_2_HF
+  rotate: false
+  xy: 1645, 3908
+  size: 102, 56
+  orig: 102, 56
+  offset: 0, 0
+  index: -1
+Leg_R_2_I
+  rotate: true
+  xy: 1082, 3967
+  size: 38, 96
+  orig: 38, 96
+  offset: 0, 0
+  index: -1
+Leg_R_2_M
+  rotate: false
+  xy: 2343, 3898
+  size: 102, 63
+  orig: 102, 63
+  offset: 0, 0
+  index: -1
+Leg_R_2_S2
+  rotate: true
+  xy: 1989, 3964
+  size: 41, 97
+  orig: 41, 97
+  offset: 0, 0
+  index: -1
+Leg_R_2_S4
+  rotate: true
+  xy: 2272, 3899
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+hong/10
+  rotate: false
+  xy: 990, 3732
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/11
+  rotate: false
+  xy: 1306, 3732
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/12
+  rotate: false
+  xy: 1622, 3728
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/13
+  rotate: false
+  xy: 1938, 3722
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/14
+  rotate: false
+  xy: 2254, 3718
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/15
+  rotate: false
+  xy: 2570, 3713
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/16
+  rotate: false
+  xy: 2886, 3702
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/17
+  rotate: false
+  xy: 3202, 3698
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/18
+  rotate: false
+  xy: 3518, 3693
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/19
+  rotate: false
+  xy: 2, 3651
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/2
+  rotate: false
+  xy: 318, 3637
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/20
+  rotate: false
+  xy: 634, 3607
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/21
+  rotate: false
+  xy: 950, 3555
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/22
+  rotate: false
+  xy: 1266, 3555
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/23
+  rotate: true
+  xy: 3834, 3554
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/24
+  rotate: false
+  xy: 1582, 3551
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/25
+  rotate: false
+  xy: 1898, 3545
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/26
+  rotate: false
+  xy: 2214, 3541
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/27
+  rotate: false
+  xy: 2530, 3536
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/3
+  rotate: false
+  xy: 2846, 3525
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/4
+  rotate: false
+  xy: 3162, 3521
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/5
+  rotate: false
+  xy: 3478, 3516
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/6
+  rotate: false
+  xy: 2, 3474
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/7
+  rotate: false
+  xy: 318, 3460
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/8
+  rotate: false
+  xy: 634, 3430
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+hong/9
+  rotate: false
+  xy: 950, 3378
+  size: 314, 175
+  orig: 314, 175
+  offset: 0, 0
+  index: -1
+shield_00000
+  rotate: false
+  xy: 2, 2778
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+shield_00001
+  rotate: false
+  xy: 3358, 2362
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+shield_00002
+  rotate: false
+  xy: 2, 2126
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+shield_00003
+  rotate: false
+  xy: 3358, 1710
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+shield_00004
+  rotate: false
+  xy: 2706, 1358
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+shield_00005
+  rotate: false
+  xy: 3358, 1058
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+shield_00006
+  rotate: false
+  xy: 2706, 706
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+shield_00007
+  rotate: false
+  xy: 3358, 406
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+shield_00008
+  rotate: false
+  xy: 2706, 54
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+skill 4_00024
+  rotate: false
+  xy: 1266, 3034
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00026
+  rotate: false
+  xy: 2618, 3014
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00028
+  rotate: false
+  xy: 654, 2532
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00030
+  rotate: false
+  xy: 2006, 2512
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00032
+  rotate: false
+  xy: 654, 2030
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00034
+  rotate: false
+  xy: 2006, 2010
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00036
+  rotate: false
+  xy: 2, 1528
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00038
+  rotate: false
+  xy: 1354, 1508
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00040
+  rotate: false
+  xy: 2, 1026
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00042
+  rotate: false
+  xy: 1354, 1006
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00044
+  rotate: false
+  xy: 2, 524
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00046
+  rotate: false
+  xy: 1354, 504
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00048
+  rotate: false
+  xy: 2, 22
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00050
+  rotate: false
+  xy: 1354, 2
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+
+jiren_power_2.png
+size: 3720, 3938
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+shield_00009
+  rotate: false
+  xy: 3064, 224
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00012
+  rotate: false
+  xy: 2, 3282
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00014
+  rotate: false
+  xy: 2, 2626
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00016
+  rotate: false
+  xy: 1533, 3282
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00018
+  rotate: false
+  xy: 2, 1970
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00020
+  rotate: false
+  xy: 1533, 2626
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00024
+  rotate: false
+  xy: 2, 1314
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00026
+  rotate: false
+  xy: 1533, 1970
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00028
+  rotate: true
+  xy: 3064, 2407
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00030
+  rotate: false
+  xy: 2, 658
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00032
+  rotate: false
+  xy: 1533, 1314
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00034
+  rotate: false
+  xy: 2, 2
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00036
+  rotate: false
+  xy: 1533, 658
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00040
+  rotate: true
+  xy: 3064, 876
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00042
+  rotate: false
+  xy: 1533, 2
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+
+jiren_power_3.png
+size: 3720, 3938
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+shield_00010
+  rotate: false
+  xy: 3064, 224
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00044
+  rotate: false
+  xy: 2, 3282
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00046
+  rotate: false
+  xy: 2, 2626
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00048
+  rotate: false
+  xy: 1533, 3282
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00052
+  rotate: false
+  xy: 2, 1970
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00054
+  rotate: false
+  xy: 1533, 2626
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00056
+  rotate: false
+  xy: 2, 1314
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00058
+  rotate: false
+  xy: 1533, 1970
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00060
+  rotate: true
+  xy: 3064, 2407
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00062
+  rotate: false
+  xy: 2, 658
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00064
+  rotate: false
+  xy: 1533, 1314
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00066
+  rotate: false
+  xy: 2, 2
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00068
+  rotate: false
+  xy: 1533, 658
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00070
+  rotate: true
+  xy: 3064, 876
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00072
+  rotate: false
+  xy: 1533, 2
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+
+jiren_power_4.png
+size: 3720, 3938
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+shield_00011
+  rotate: false
+  xy: 3064, 224
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00074
+  rotate: false
+  xy: 2, 3282
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00076
+  rotate: false
+  xy: 2, 2626
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00080
+  rotate: false
+  xy: 1533, 3282
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00082
+  rotate: false
+  xy: 2, 1970
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00086
+  rotate: false
+  xy: 1533, 2626
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00088
+  rotate: false
+  xy: 2, 1314
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00090
+  rotate: false
+  xy: 1533, 1970
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00092
+  rotate: true
+  xy: 3064, 2407
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00094
+  rotate: false
+  xy: 2, 658
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00096
+  rotate: false
+  xy: 1533, 1314
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00098
+  rotate: false
+  xy: 2, 2
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00100
+  rotate: false
+  xy: 1533, 658
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00102
+  rotate: true
+  xy: 3064, 876
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00104
+  rotate: false
+  xy: 1533, 2
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+
+jiren_power_5.png
+size: 3720, 3938
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+shield_00012
+  rotate: false
+  xy: 3064, 224
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00106
+  rotate: false
+  xy: 2, 3282
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00108
+  rotate: false
+  xy: 2, 2626
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00110
+  rotate: false
+  xy: 1533, 3282
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00112
+  rotate: false
+  xy: 2, 1970
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00114
+  rotate: false
+  xy: 1533, 2626
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00116
+  rotate: false
+  xy: 2, 1314
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00118
+  rotate: false
+  xy: 1533, 1970
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00120
+  rotate: true
+  xy: 3064, 2407
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00122
+  rotate: false
+  xy: 2, 658
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00124
+  rotate: false
+  xy: 1533, 1314
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00126
+  rotate: false
+  xy: 2, 2
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00128
+  rotate: false
+  xy: 1533, 658
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00130
+  rotate: true
+  xy: 3064, 876
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00132
+  rotate: false
+  xy: 1533, 2
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+
+jiren_power_6.png
+size: 4058, 3666
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+shield_00013
+  rotate: false
+  xy: 1354, 2
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+shield_00014
+  rotate: false
+  xy: 2006, 2
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+shield_00015
+  rotate: false
+  xy: 2658, 2
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+shield_00016
+  rotate: false
+  xy: 3310, 2
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+skill 4_00052
+  rotate: false
+  xy: 2, 3164
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00054
+  rotate: false
+  xy: 1354, 3164
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00056
+  rotate: false
+  xy: 2706, 3164
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00058
+  rotate: false
+  xy: 2, 2662
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00060
+  rotate: false
+  xy: 1354, 2662
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00062
+  rotate: false
+  xy: 2706, 2662
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00064
+  rotate: false
+  xy: 2, 2160
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00066
+  rotate: false
+  xy: 1354, 2160
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00068
+  rotate: false
+  xy: 2706, 2160
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00070
+  rotate: false
+  xy: 2, 1658
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00072
+  rotate: false
+  xy: 1354, 1658
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00074
+  rotate: false
+  xy: 2706, 1658
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00076
+  rotate: false
+  xy: 2, 1156
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00078
+  rotate: false
+  xy: 1354, 1156
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00080
+  rotate: false
+  xy: 2706, 1156
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00082
+  rotate: false
+  xy: 2, 654
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00084
+  rotate: false
+  xy: 1354, 654
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00086
+  rotate: false
+  xy: 2706, 654
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+skill 4_00088
+  rotate: false
+  xy: 2, 152
+  size: 1350, 500
+  orig: 1350, 500
+  offset: 0, 0
+  index: -1
+
+jiren_power_7.png
+size: 3716, 3934
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+shield_00017
+  rotate: false
+  xy: 3064, 3282
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+shield_00018
+  rotate: false
+  xy: 1533, 1314
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+shield_00019
+  rotate: false
+  xy: 2, 2
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+shield_00020
+  rotate: false
+  xy: 3064, 2630
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+shield_00021
+  rotate: false
+  xy: 1533, 662
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+shield_00022
+  rotate: false
+  xy: 2185, 1314
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+shield_00023
+  rotate: false
+  xy: 654, 2
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+shield_00024
+  rotate: false
+  xy: 3064, 1978
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+shield_00025
+  rotate: false
+  xy: 2185, 662
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+shield_00026
+  rotate: false
+  xy: 2837, 1314
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+shield_00027
+  rotate: false
+  xy: 2837, 662
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+shield_00028
+  rotate: false
+  xy: 1306, 2
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+shield_00029
+  rotate: false
+  xy: 1958, 10
+  size: 650, 650
+  orig: 650, 650
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00134
+  rotate: false
+  xy: 2, 3278
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00136
+  rotate: false
+  xy: 2, 2622
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00138
+  rotate: false
+  xy: 1533, 3278
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00140
+  rotate: false
+  xy: 2, 1966
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00142
+  rotate: false
+  xy: 1533, 2622
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00144
+  rotate: false
+  xy: 2, 1310
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00146
+  rotate: false
+  xy: 1533, 1966
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1
+吉连魔化0308文件夹和序列帧/吉连魔化0308文件夹/吉连魔化-eff03renwu-PNG/c_00148
+  rotate: false
+  xy: 2, 654
+  size: 1529, 654
+  orig: 1529, 654
+  offset: 0, 0
+  index: -1

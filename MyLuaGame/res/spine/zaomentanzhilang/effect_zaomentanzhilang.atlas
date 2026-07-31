@@ -1,0 +1,314 @@
+
+effect_zaomentanzhilang.png
+size: 2017, 1832
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+baidi_01_01
+  rotate: false
+  xy: 1779, 977
+  size: 112, 104
+  orig: 112, 104
+  offset: 0, 0
+  index: -1
+tanzhilang_skill02_dg01_27
+  rotate: false
+  xy: 1033, 1241
+  size: 516, 275
+  orig: 554, 279
+  offset: 26, 2
+  index: -1
+tanzhilang_skill02_dg01_28
+  rotate: false
+  xy: 1035, 980
+  size: 477, 259
+  orig: 554, 279
+  offset: 22, 17
+  index: -1
+tanzhilang_skill02_dg01_29
+  rotate: true
+  xy: 894, 571
+  size: 373, 248
+  orig: 554, 279
+  offset: 28, 26
+  index: -1
+tanzhilang_skill02_dg01_30
+  rotate: false
+  xy: 846, 89
+  size: 325, 246
+  orig: 554, 279
+  offset: 29, 27
+  index: -1
+tanzhilang_skill02_dg01_31
+  rotate: true
+  xy: 596, 116
+  size: 322, 248
+  orig: 554, 279
+  offset: 30, 27
+  index: -1
+tanzhilang_skill02_dg02_34
+  rotate: false
+  xy: 530, 1211
+  size: 501, 310
+  orig: 522, 331
+  offset: 12, 12
+  index: -1
+tanzhilang_skill02_dg02_35
+  rotate: false
+  xy: 1072, 1518
+  size: 506, 312
+  orig: 522, 331
+  offset: 7, 10
+  index: -1
+tanzhilang_skill02_dg02_36
+  rotate: true
+  xy: 2, 463
+  size: 507, 301
+  orig: 522, 331
+  offset: 6, 9
+  index: -1
+tanzhilang_skill02_dg02_37
+  rotate: false
+  xy: 530, 946
+  size: 503, 263
+  orig: 522, 331
+  offset: 8, 5
+  index: -1
+tanzhilang_skill02_dg02_39
+  rotate: true
+  xy: 297, 1022
+  size: 501, 231
+  orig: 522, 331
+  offset: 10, 37
+  index: -1
+tanzhilang_skill02_dg03_40
+  rotate: true
+  xy: 2, 972
+  size: 551, 293
+  orig: 565, 321
+  offset: 7, 13
+  index: -1
+tanzhilang_skill02_dg03_41
+  rotate: false
+  xy: 2, 1525
+  size: 550, 305
+  orig: 565, 321
+  offset: 8, 14
+  index: -1
+tanzhilang_skill02_dg03_42
+  rotate: false
+  xy: 554, 1523
+  size: 516, 307
+  orig: 565, 321
+  offset: 42, 14
+  index: -1
+tanzhilang_skill02_dg03_43
+  rotate: false
+  xy: 1580, 1532
+  size: 385, 298
+  orig: 565, 321
+  offset: 172, 15
+  index: -1
+tanzhilang_skill02_dg03_44
+  rotate: false
+  xy: 508, 646
+  size: 384, 298
+  orig: 565, 321
+  offset: 172, 15
+  index: -1
+tanzhilang_skill02_dgbd_40
+  rotate: true
+  xy: 328, 2
+  size: 111, 184
+  orig: 293, 383
+  offset: 93, 101
+  index: -1
+tanzhilang_skill02_dgbd_42
+  rotate: true
+  xy: 305, 466
+  size: 128, 168
+  orig: 293, 383
+  offset: 86, 104
+  index: -1
+tanzhilang_skill02_dgbd_44
+  rotate: true
+  xy: 1879, 120
+  size: 138, 134
+  orig: 293, 383
+  offset: 80, 103
+  index: -1
+tanzhilang_skill02_dgbd_46
+  rotate: false
+  xy: 1879, 2
+  size: 136, 116
+  orig: 293, 383
+  offset: 75, 127
+  index: -1
+tanzhilang_skill02_dgbd_48
+  rotate: true
+  xy: 1893, 978
+  size: 103, 105
+  orig: 293, 383
+  offset: 82, 143
+  index: -1
+tanzhilang_skill02_dgbd_49
+  rotate: true
+  xy: 514, 7
+  size: 106, 103
+  orig: 293, 383
+  offset: 80, 147
+  index: -1
+tanzhilang_skill02_rwrj02_39
+  rotate: false
+  xy: 1173, 16
+  size: 273, 161
+  orig: 375, 167
+  offset: 6, 2
+  index: -1
+tanzhilang_skill02_rwrj02_45
+  rotate: false
+  xy: 1448, 13
+  size: 226, 161
+  orig: 375, 167
+  offset: 15, 2
+  index: -1
+tanzhilang_skill02_rwsx01_23
+  rotate: false
+  xy: 1144, 692
+  size: 367, 286
+  orig: 375, 290
+  offset: 8, 3
+  index: -1
+tanzhilang_skill02_rwsx01_25
+  rotate: false
+  xy: 1144, 419
+  size: 357, 271
+  orig: 375, 290
+  offset: 18, 19
+  index: -1
+tanzhilang_skill02_rwsx01_26
+  rotate: false
+  xy: 1173, 179
+  size: 311, 238
+  orig: 375, 290
+  offset: 64, 52
+  index: -1
+tanzhilang_skill02_rwsx01_27
+  rotate: true
+  xy: 1503, 436
+  size: 254, 205
+  orig: 375, 290
+  offset: 121, 85
+  index: -1
+tanzhilang_skill02_rwsx02_30
+  rotate: false
+  xy: 2, 14
+  size: 324, 447
+  orig: 357, 447
+  offset: 13, 0
+  index: -1
+tanzhilang_skill02_rwsx02_32
+  rotate: false
+  xy: 328, 115
+  size: 266, 323
+  orig: 357, 447
+  offset: 10, 0
+  index: -1
+tanzhilang_skill02_rwsx02_33
+  rotate: false
+  xy: 1710, 453
+  size: 230, 252
+  orig: 357, 447
+  offset: 14, 0
+  index: -1
+tanzhilang_skill02_rwsx04_44
+  rotate: false
+  xy: 305, 596
+  size: 201, 424
+  orig: 214, 433
+  offset: 4, 5
+  index: -1
+tanzhilang_skill02_rwsx04_45
+  rotate: true
+  xy: 508, 440
+  size: 204, 346
+  orig: 214, 433
+  offset: 4, 4
+  index: -1
+tanzhilang_skill02_rwsx04_46
+  rotate: false
+  xy: 1781, 1269
+  size: 201, 261
+  orig: 214, 433
+  offset: 4, 5
+  index: -1
+tanzhilang_skill02_rwtw01_32
+  rotate: true
+  xy: 1671, 208
+  size: 226, 163
+  orig: 302, 171
+  offset: 71, 4
+  index: -1
+tanzhilang_skill02_rwtw01_37
+  rotate: true
+  xy: 1836, 260
+  size: 191, 163
+  orig: 302, 171
+  offset: 92, 4
+  index: -1
+tanzhilang_skill02_rwtw04_50
+  rotate: false
+  xy: 1676, 4
+  size: 201, 202
+  orig: 204, 324
+  offset: 2, 0
+  index: -1
+tanzhilang_skill02_rwtw04_54
+  rotate: false
+  xy: 1781, 1083
+  size: 201, 184
+  orig: 204, 324
+  offset: 2, 1
+  index: -1
+tanzhilang_skill02_shbk_58
+  rotate: false
+  xy: 1486, 176
+  size: 183, 241
+  orig: 288, 327
+  offset: 56, 66
+  index: -1
+tanzhilang_skill02_shbk_60
+  rotate: false
+  xy: 1551, 1239
+  size: 228, 277
+  orig: 288, 327
+  offset: 39, 45
+  index: -1
+tanzhilang_skill02_shbk_63
+  rotate: true
+  xy: 856, 337
+  size: 232, 280
+  orig: 288, 327
+  offset: 36, 41
+  index: -1
+tanzhilang_skill02_shbk_65
+  rotate: false
+  xy: 1757, 707
+  size: 236, 268
+  orig: 288, 327
+  offset: 31, 47
+  index: -1
+tanzhilang_skill02_shbk_67
+  rotate: false
+  xy: 1513, 710
+  size: 242, 265
+  orig: 288, 327
+  offset: 24, 50
+  index: -1
+tanzhilang_skill02_shbk_69
+  rotate: true
+  xy: 1514, 977
+  size: 260, 263
+  orig: 288, 327
+  offset: 12, 45
+  index: -1

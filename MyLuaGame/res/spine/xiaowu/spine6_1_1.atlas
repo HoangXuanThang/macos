@@ -1,0 +1,153 @@
+
+spine6_1_1.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 0, 297
+  size: 1560, 720
+  orig: 1560, 720
+  offset: 0, 0
+  index: -1
+bianizi2
+  rotate: false
+  xy: 2368, 720
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+bianzi1
+  rotate: true
+  xy: 2712, 791
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+binjiao1
+  rotate: false
+  xy: 3475, 943
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+binjiao2
+  rotate: false
+  xy: 1562, 297
+  size: 41, 72
+  orig: 41, 72
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 2040, 378
+  size: 55, 24
+  orig: 55, 24
+  offset: 0, 0
+  index: -1
+chibang1
+  rotate: false
+  xy: 2712, 831
+  size: 369, 186
+  orig: 369, 186
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 0, 98
+  size: 592, 197
+  orig: 592, 197
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: false
+  xy: 1159, 173
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+houfa1
+  rotate: false
+  xy: 2040, 716
+  size: 326, 301
+  orig: 326, 301
+  offset: 0, 0
+  index: -1
+houfa2
+  rotate: false
+  xy: 3083, 763
+  size: 264, 254
+  orig: 264, 254
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: false
+  xy: 594, 105
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+niao
+  rotate: false
+  xy: 1013, 169
+  size: 144, 126
+  orig: 144, 126
+  offset: 0, 0
+  index: -1
+niaochibang1
+  rotate: false
+  xy: 3349, 893
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+niaochibang2
+  rotate: false
+  xy: 1159, 190
+  size: 107, 105
+  orig: 107, 105
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 594, 154
+  size: 417, 141
+  orig: 417, 141
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1562, 371
+  size: 476, 646
+  orig: 476, 646
+  offset: 0, 0
+  index: -1
+yougebo
+  rotate: false
+  xy: 0, 0
+  size: 99, 96
+  orig: 99, 96
+  offset: 0, 0
+  index: -1
+youqunzi
+  rotate: false
+  xy: 2040, 404
+  size: 313, 310
+  orig: 313, 310
+  offset: 0, 0
+  index: -1
+zuogebo
+  rotate: false
+  xy: 3349, 818
+  size: 99, 73
+  orig: 99, 73
+  offset: 0, 0
+  index: -1
+zuoqunzi
+  rotate: true
+  xy: 2368, 774
+  size: 243, 342
+  orig: 243, 342
+  offset: 0, 0
+  index: -1

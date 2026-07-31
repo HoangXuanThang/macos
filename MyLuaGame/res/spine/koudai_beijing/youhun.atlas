@@ -1,0 +1,41 @@
+
+youhun.png
+size: 432,357
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cj/huaping
+  rotate: true
+  xy: 169, 140
+  size: 216, 118
+  orig: 216, 121
+  offset: 0, 0
+  index: -1
+cj/jingji3
+  rotate: true
+  xy: 1, 2
+  size: 59, 293
+  orig: 59, 293
+  offset: 0, 0
+  index: -1
+cj/jingji4
+  rotate: false
+  xy: 1, 63
+  size: 166, 293
+  orig: 166, 293
+  offset: 0, 0
+  index: -1
+cj/yan0_2
+  rotate: true
+  xy: 296, 1
+  size: 140, 135
+  orig: 150, 143
+  offset: 4, 4
+  index: -1
+cj/zhalan
+  rotate: true
+  xy: 296, 143
+  size: 213, 135
+  orig: 213, 135
+  offset: 0, 0
+  index: -1

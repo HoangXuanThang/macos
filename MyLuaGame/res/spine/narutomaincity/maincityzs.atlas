@@ -1,0 +1,27 @@
+
+maincityzs.png
+size: 128,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0khm_Ultrakill_edit_0000
+  rotate: false
+  xy: 2, 2
+  size: 93, 165
+  orig: 93, 165
+  offset: 0, 0
+  index: -1
+0khm_Ultrakill_edit_0002
+  rotate: false
+  xy: 2, 169
+  size: 91, 167
+  orig: 91, 167
+  offset: 0, 0
+  index: -1
+0khm_Ultrakill_edit_0003
+  rotate: false
+  xy: 2, 338
+  size: 91, 169
+  orig: 91, 169
+  offset: 0, 0
+  index: -1

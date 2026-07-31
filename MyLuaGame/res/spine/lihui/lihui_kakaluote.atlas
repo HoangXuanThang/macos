@@ -1,0 +1,153 @@
+
+lihui_kakaluote.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houfa1
+  rotate: true
+  xy: 2, 119
+  size: 396, 610
+  orig: 396, 610
+  offset: 0, 0
+  index: -1
+houfa2
+  rotate: false
+  xy: 908, 1532
+  size: 347, 479
+  orig: 347, 479
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 517
+  size: 904, 1494
+  orig: 904, 1494
+  offset: 0, 0
+  index: -1
+texiao/baqi_00000
+  rotate: false
+  xy: 1413, 1289
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+texiao/baqi_00001
+  rotate: false
+  xy: 1129, 977
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+texiao/baqi_00002
+  rotate: false
+  xy: 614, 5
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+texiao/baqi_00003
+  rotate: false
+  xy: 796, 5
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+texiao/baqi_00004
+  rotate: false
+  xy: 1652, 1525
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+texiao/baqi_00005
+  rotate: false
+  xy: 1834, 1525
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+texiao/baqi_00006
+  rotate: false
+  xy: 1413, 1107
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+texiao/baqi_00007
+  rotate: false
+  xy: 1154, 658
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 1246, 1240
+  size: 165, 229
+  orig: 165, 229
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 2, 2
+  size: 293, 115
+  orig: 293, 115
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: true
+  xy: 908, 1159
+  size: 371, 336
+  orig: 371, 336
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: false
+  xy: 614, 187
+  size: 276, 328
+  orig: 276, 328
+  offset: 0, 0
+  index: -1
+toufa5
+  rotate: true
+  xy: 1257, 1471
+  size: 176, 354
+  orig: 176, 354
+  offset: 0, 0
+  index: -1
+toufa6
+  rotate: false
+  xy: 1129, 840
+  size: 95, 135
+  orig: 95, 135
+  offset: 0, 0
+  index: -1
+xiong01
+  rotate: false
+  xy: 1652, 1707
+  size: 296, 304
+  orig: 296, 304
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 908, 531
+  size: 276, 244
+  orig: 276, 244
+  offset: 0, 0
+  index: -1
+zuogebo
+  rotate: false
+  xy: 1257, 1649
+  size: 393, 362
+  orig: 393, 362
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 908, 809
+  size: 348, 219
+  orig: 348, 219
+  offset: 0, 0
+  index: -1

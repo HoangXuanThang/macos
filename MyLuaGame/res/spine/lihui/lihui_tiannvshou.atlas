@@ -1,0 +1,125 @@
+
+lihui_tiannvshou.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishi
+  rotate: false
+  xy: 2, 159
+  size: 860, 860
+  orig: 860, 860
+  offset: 0, 0
+  index: -1
+chibang1
+  rotate: false
+  xy: 2, 2
+  size: 570, 155
+  orig: 570, 155
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: true
+  xy: 864, 452
+  size: 567, 159
+  orig: 567, 159
+  offset: 0, 0
+  index: -1
+chibang3
+  rotate: false
+  xy: 1257, 959
+  size: 660, 509
+  orig: 660, 509
+  offset: 0, 0
+  index: -1
+chibang4
+  rotate: false
+  xy: 1257, 1470
+  size: 653, 575
+  orig: 653, 575
+  offset: 0, 0
+  index: -1
+chujiao1
+  rotate: false
+  xy: 769, 37
+  size: 52, 120
+  orig: 52, 120
+  offset: 0, 0
+  index: -1
+chujiao2
+  rotate: true
+  xy: 1025, 460
+  size: 46, 110
+  orig: 46, 110
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 1021
+  size: 1253, 1024
+  orig: 1253, 1024
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 864, 133
+  size: 178, 317
+  orig: 178, 317
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 1025, 700
+  size: 198, 319
+  orig: 198, 319
+  offset: 0, 0
+  index: -1
+xiong01
+  rotate: true
+  xy: 574, 22
+  size: 135, 193
+  orig: 135, 193
+  offset: 0, 0
+  index: -1
+xiong02
+  rotate: false
+  xy: 1025, 508
+  size: 128, 190
+  orig: 128, 190
+  offset: 0, 0
+  index: -1
+yougebo
+  rotate: false
+  xy: 1912, 1802
+  size: 101, 243
+  orig: 101, 243
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 1683, 682
+  size: 211, 275
+  orig: 211, 275
+  offset: 0, 0
+  index: -1
+yumao1
+  rotate: false
+  xy: 1155, 559
+  size: 61, 139
+  orig: 61, 139
+  offset: 0, 0
+  index: -1
+yumao2
+  rotate: false
+  xy: 1912, 1647
+  size: 81, 153
+  orig: 81, 153
+  offset: 0, 0
+  index: -1
+zuogebo
+  rotate: true
+  xy: 1225, 698
+  size: 259, 456
+  orig: 259, 456
+  offset: 0, 0
+  index: -1

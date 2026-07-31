@@ -1,0 +1,118 @@
+
+effect_kelisi_2.png
+size: 530, 271
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+ad_00001
+  rotate: false
+  xy: 315, 134
+  size: 81, 19
+  orig: 184, 66
+  offset: 51, 17
+  index: -1
+ad_00005
+  rotate: true
+  xy: 190, 113
+  size: 156, 48
+  orig: 184, 66
+  offset: 13, 9
+  index: -1
+ad_00009
+  rotate: true
+  xy: 98, 108
+  size: 161, 51
+  orig: 184, 66
+  offset: 10, 7
+  index: -1
+ad_00013
+  rotate: true
+  xy: 2, 104
+  size: 165, 52
+  orig: 184, 66
+  offset: 6, 7
+  index: -1
+ad_00017
+  rotate: true
+  xy: 56, 107
+  size: 162, 40
+  orig: 184, 66
+  offset: 5, 6
+  index: -1
+ad_00019
+  rotate: true
+  xy: 151, 110
+  size: 159, 37
+  orig: 184, 66
+  offset: 9, 10
+  index: -1
+chongji_00000
+  rotate: false
+  xy: 418, 5
+  size: 90, 69
+  orig: 111, 115
+  offset: 10, 2
+  index: -1
+chongji_00002
+  rotate: false
+  xy: 240, 155
+  size: 99, 114
+  orig: 111, 115
+  offset: 6, 1
+  index: -1
+chongji_00004
+  rotate: true
+  xy: 214, 5
+  size: 106, 111
+  orig: 111, 115
+  offset: 3, 2
+  index: -1
+chongji_00006
+  rotate: true
+  xy: 2, 2
+  size: 100, 106
+  orig: 111, 115
+  offset: 1, 5
+  index: -1
+chongji_00008
+  rotate: true
+  xy: 110, 3
+  size: 103, 102
+  orig: 111, 115
+  offset: 0, 7
+  index: -1
+chongji_00010
+  rotate: false
+  xy: 341, 168
+  size: 100, 101
+  orig: 111, 115
+  offset: 0, 8
+  index: -1
+chongji_00012
+  rotate: false
+  xy: 327, 33
+  size: 89, 99
+  orig: 111, 115
+  offset: 10, 11
+  index: -1
+chongji_00014
+  rotate: false
+  xy: 418, 76
+  size: 87, 90
+  orig: 111, 115
+  offset: 11, 15
+  index: -1
+chongji_00016
+  rotate: false
+  xy: 443, 179
+  size: 85, 90
+  orig: 111, 115
+  offset: 12, 16
+  index: -1
+chongji_00018
+  rotate: true
+  xy: 240, 127
+  size: 26, 73
+  orig: 111, 115
+  offset: 41, 19
+  index: -1

@@ -1,0 +1,104 @@
+
+spine9_2_1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 1304
+  size: 1560, 720
+  orig: 1560, 720
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 2, 2
+  size: 114, 66
+  orig: 114, 66
+  offset: 0, 0
+  index: -1
+qunzi1
+  rotate: true
+  xy: 660, 294
+  size: 286, 395
+  orig: 286, 395
+  offset: 0, 0
+  index: -1
+qunzi2
+  rotate: false
+  xy: 2, 248
+  size: 656, 332
+  orig: 656, 332
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 582
+  size: 1010, 720
+  orig: 1010, 720
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 1706, 1382
+  size: 101, 122
+  orig: 101, 122
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 1203, 725
+  size: 40, 84
+  orig: 40, 84
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 1014, 602
+  size: 46, 78
+  orig: 46, 78
+  offset: 0, 0
+  index: -1
+xiong01
+  rotate: false
+  xy: 1414, 1190
+  size: 147, 112
+  orig: 147, 112
+  offset: 0, 0
+  index: -1
+xiong02
+  rotate: false
+  xy: 1564, 1380
+  size: 140, 124
+  orig: 140, 124
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: false
+  xy: 1564, 1506
+  size: 478, 518
+  orig: 478, 518
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 2, 70
+  size: 176, 624
+  orig: 176, 624
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: false
+  xy: 1203, 767
+  size: 209, 535
+  orig: 209, 535
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 1014, 682
+  size: 620, 187
+  orig: 620, 187
+  offset: 0, 0
+  index: -1

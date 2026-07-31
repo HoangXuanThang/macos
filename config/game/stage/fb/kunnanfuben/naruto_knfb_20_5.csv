@@ -1,0 +1,4 @@
+VariableName,frameScale,scale,y,y_speed,ylength,x_speed,opp_y_speed,yloop,xlength,xloop,res,resType,x,opp_x_speed
+Defaults,2,2,0,0,757,0,0,1,,0,,1,0,0
+ID,frameScale,scale,y,y_speed,ylength,x_speed,opp_y_speed,yloop,xlength,xloop,res,resType,x,opp_x_speed
+1,2,2,0,0,757,0,0,1,1136,1,battle/scene/battle_map_13.png,1,0,0

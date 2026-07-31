@@ -1,0 +1,160 @@
+
+jitan.png
+size: 1986,566
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj/dilei
+  rotate: true
+  xy: 1760, 27
+  size: 187, 44
+  orig: 187, 44
+  offset: 0, 0
+  index: -1
+bj/fushi
+  rotate: true
+  xy: 786, 119
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+bj/fushi2
+  rotate: true
+  xy: 862, 123
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+bj/fuwen
+  rotate: true
+  xy: 1470, 202
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+bj/jiguang
+  rotate: true
+  xy: 1042, 131
+  size: 305, 269
+  orig: 305, 269
+  offset: 0, 0
+  index: -1
+bj/mobile_effect_2751
+  rotate: true
+  xy: 1261, 1
+  size: 128, 254
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+bj/qianshan4
+  rotate: true
+  xy: 453, 140
+  size: 425, 331
+  orig: 425, 331
+  offset: 0, 0
+  index: -1
+bj/shitou01
+  rotate: false
+  xy: 1313, 135
+  size: 155, 120
+  orig: 155, 120
+  offset: 0, 0
+  index: -1
+bj/tiandi
+  rotate: true
+  xy: 1948, 392
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+bj/tuan
+  rotate: false
+  xy: 1, 24
+  size: 389, 89
+  orig: 389, 89
+  offset: 0, 0
+  index: -1
+bj/xingkong_x
+  rotate: false
+  xy: 938, 124
+  size: 78, 61
+  orig: 83, 65
+  offset: 0, 4
+  index: -1
+bj/yan0_2
+  rotate: false
+  xy: 1806, 71
+  size: 150, 143
+  orig: 150, 143
+  offset: 0, 0
+  index: -1
+bj/yuanguang
+  rotate: false
+  xy: 1, 115
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: -1
+bj/yuanshan
+  rotate: false
+  xy: 1042, 438
+  size: 938, 127
+  orig: 938, 127
+  offset: 0, 0
+  index: -1
+bj/yueliang
+  rotate: true
+  xy: 1517, 13
+  size: 242, 241
+  orig: 242, 241
+  offset: 0, 0
+  index: -1
+bj/yun1
+  rotate: false
+  xy: 1760, 216
+  size: 225, 39
+  orig: 225, 39
+  offset: 0, 0
+  index: -1
+bj/yun2
+  rotate: true
+  xy: 830, 187
+  size: 378, 135
+  orig: 378, 135
+  offset: 0, 0
+  index: -1
+bj/yun4
+  rotate: true
+  xy: 786, 183
+  size: 382, 42
+  orig: 382, 42
+  offset: 0, 0
+  index: -1
+bj/yun5
+  rotate: true
+  xy: 967, 212
+  size: 353, 33
+  orig: 353, 33
+  offset: 0, 0
+  index: -1
+bj/yun6
+  rotate: false
+  xy: 392, 31
+  size: 867, 82
+  orig: 867, 87
+  offset: 0, 5
+  index: -1
+bj/yun7
+  rotate: true
+  xy: 1002, 213
+  size: 352, 38
+  orig: 353, 38
+  offset: 0, 0
+  index: -1
+bj/yun8
+  rotate: false
+  xy: 1313, 257
+  size: 633, 179
+  orig: 633, 180
+  offset: 0, 1
+  index: -1

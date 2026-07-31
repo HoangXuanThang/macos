@@ -1,0 +1,118 @@
+
+effect_feicunjianxin_2.png
+size: 959, 553
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+daoguang0001
+  rotate: false
+  xy: 152, 14
+  size: 118, 77
+  orig: 220, 185
+  offset: 102, 69
+  index: -1
+daoguang0002
+  rotate: true
+  xy: 797, 12
+  size: 129, 126
+  orig: 220, 185
+  offset: 67, 24
+  index: -1
+daoguang0003
+  rotate: true
+  xy: 798, 195
+  size: 157, 159
+  orig: 220, 185
+  offset: 37, 15
+  index: -1
+daoguang0004
+  rotate: true
+  xy: 272, 2
+  size: 124, 179
+  orig: 220, 185
+  offset: 14, 4
+  index: -1
+daoguang0005
+  rotate: true
+  xy: 453, 8
+  size: 118, 169
+  orig: 220, 185
+  offset: 12, 4
+  index: -1
+daoguang0006
+  rotate: true
+  xy: 624, 29
+  size: 112, 171
+  orig: 220, 185
+  offset: 9, 0
+  index: -1
+daoguang0007
+  rotate: true
+  xy: 2, 9
+  size: 82, 148
+  orig: 220, 185
+  offset: 5, 4
+  index: -1
+daoguang0008
+  rotate: true
+  xy: 805, 480
+  size: 71, 91
+  orig: 220, 185
+  offset: 2, 18
+  index: -1
+skill002_hit_0000
+  rotate: false
+  xy: 626, 354
+  size: 177, 197
+  orig: 180, 202
+  offset: 2, 2
+  index: -1
+skill002_hit_0001
+  rotate: false
+  xy: 620, 143
+  size: 176, 203
+  orig: 182, 208
+  offset: 4, 1
+  index: -1
+skill002_hit_0002
+  rotate: false
+  xy: 426, 128
+  size: 192, 206
+  orig: 196, 208
+  offset: 3, 2
+  index: -1
+skill002_hit_0003
+  rotate: false
+  xy: 430, 348
+  size: 194, 203
+  orig: 198, 206
+  offset: 2, 2
+  index: -1
+skill002_hit_0004
+  rotate: false
+  xy: 2, 320
+  size: 212, 231
+  orig: 214, 236
+  offset: 1, 2
+  index: -1
+skill002_hit_0005
+  rotate: false
+  xy: 2, 93
+  size: 215, 225
+  orig: 218, 228
+  offset: 2, 0
+  index: -1
+skill002_hit_0006
+  rotate: false
+  xy: 216, 336
+  size: 212, 215
+  orig: 216, 218
+  offset: 3, 0
+  index: -1
+skill002_hit_0007
+  rotate: true
+  xy: 219, 128
+  size: 206, 205
+  orig: 210, 210
+  offset: 3, 3
+  index: -1

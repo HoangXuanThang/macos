@@ -1,0 +1,78 @@
+
+maincity.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maincity_night_3
+  rotate: false
+  xy: 2, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+maincity2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maincity_night_1
+  rotate: false
+  xy: 2, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+maincity3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maincity_night_2
+  rotate: false
+  xy: 2, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+maincity4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maincity_renderOut_1_1
+  rotate: false
+  xy: 2, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+maincity5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maincity_renderOut_2_1
+  rotate: false
+  xy: 2, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+maincity6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maincity_renderOut_3_1
+  rotate: false
+  xy: 2, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1

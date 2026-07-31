@@ -1,0 +1,27 @@
+
+huodexinjingling.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/zdsl_gy2
+  rotate: false
+  xy: 2, 2
+  size: 1106, 219
+  orig: 1106, 219
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 1110, 109
+  size: 354, 34
+  orig: 354, 34
+  offset: 0, 0
+  index: -1
+txt_getnewhero
+  rotate: false
+  xy: 1110, 145
+  size: 578, 76
+  orig: 578, 76
+  offset: 0, 0
+  index: -1

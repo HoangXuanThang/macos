@@ -1,0 +1,55 @@
+
+my_spine6.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 152, 236
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: false
+  xy: 67, 51
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 81
+  size: 133, 162
+  orig: 133, 162
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 31
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 137, 190
+  size: 13, 53
+  orig: 13, 53
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: false
+  xy: 2, 2
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+zhedang
+  rotate: false
+  xy: 137, 170
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1

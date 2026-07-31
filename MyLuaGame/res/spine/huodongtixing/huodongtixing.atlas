@@ -1,0 +1,27 @@
+
+huodongtixing.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GO
+  rotate: false
+  xy: 340, 89
+  size: 61, 37
+  orig: 61, 37
+  offset: 0, 0
+  index: -1
+dikuang
+  rotate: false
+  xy: 2, 2
+  size: 336, 124
+  orig: 336, 124
+  offset: 0, 0
+  index: -1
+jt
+  rotate: false
+  xy: 340, 50
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1

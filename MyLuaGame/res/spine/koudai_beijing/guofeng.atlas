@@ -1,0 +1,153 @@
+
+guofeng.png
+size: 1937,473
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fushou
+  rotate: false
+  xy: 1, 309
+  size: 710, 163
+  orig: 710, 163
+  offset: 0, 0
+  index: -1
+fushoudi
+  rotate: false
+  xy: 713, 305
+  size: 679, 167
+  orig: 679, 167
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 1102, 4
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 1394, 345
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+jinxian1
+  rotate: false
+  xy: 1394, 352
+  size: 449, 38
+  orig: 449, 38
+  offset: 0, 0
+  index: -1
+jinxian2
+  rotate: true
+  xy: 1885, 124
+  size: 348, 51
+  orig: 348, 51
+  offset: 0, 0
+  index: -1
+jinxian3
+  rotate: false
+  xy: 1394, 392
+  size: 489, 80
+  orig: 489, 80
+  offset: 0, 0
+  index: -1
+qiaodun
+  rotate: false
+  xy: 1, 153
+  size: 708, 154
+  orig: 708, 154
+  offset: 0, 0
+  index: -1
+qiaomian
+  rotate: false
+  xy: 711, 150
+  size: 389, 153
+  orig: 389, 153
+  offset: 0, 0
+  index: -1
+shan1
+  rotate: true
+  xy: 1733, 179
+  size: 171, 91
+  orig: 171, 91
+  offset: 0, 0
+  index: -1
+shan2
+  rotate: false
+  xy: 1403, 177
+  size: 328, 173
+  orig: 328, 173
+  offset: 0, 0
+  index: -1
+shan3
+  rotate: false
+  xy: 1403, 14
+  size: 212, 161
+  orig: 212, 161
+  offset: 0, 0
+  index: -1
+shan4
+  rotate: true
+  xy: 1617, 13
+  size: 162, 58
+  orig: 163, 58
+  offset: 1, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 567, 1
+  size: 282, 20
+  orig: 282, 20
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 1845, 2
+  size: 388, 38
+  orig: 388, 38
+  offset: 0, 0
+  index: -1
+yan3
+  rotate: false
+  xy: 851, 16
+  size: 210, 42
+  orig: 210, 42
+  offset: 0, 0
+  index: -1
+yan4
+  rotate: false
+  xy: 1, 4
+  size: 564, 147
+  orig: 564, 147
+  offset: 0, 0
+  index: -1
+yan5
+  rotate: false
+  xy: 567, 105
+  size: 371, 43
+  orig: 396, 43
+  offset: 25, 0
+  index: -1
+yun1
+  rotate: false
+  xy: 567, 23
+  size: 268, 80
+  orig: 268, 80
+  offset: 0, 0
+  index: -1
+yun2
+  rotate: false
+  xy: 837, 60
+  size: 255, 43
+  orig: 255, 43
+  offset: 0, 0
+  index: -1
+yun3
+  rotate: true
+  xy: 1677, 62
+  size: 113, 86
+  orig: 113, 86
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+chongzhifanzuan.png
+size: 576,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangyun
+  rotate: false
+  xy: 1, 1
+  size: 316, 314
+  orig: 316, 314
+  offset: 0, 0
+  index: -1
+liziguangci
+  rotate: false
+  xy: 319, 59
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+xianguang
+  rotate: false
+  xy: 319, 25
+  size: 256, 32
+  orig: 256, 32
+  offset: 0, 0
+  index: -1

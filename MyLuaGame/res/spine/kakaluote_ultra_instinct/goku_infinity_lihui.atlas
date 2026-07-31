@@ -1,0 +1,229 @@
+
+goku_infinity_lihui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st2
+  rotate: true
+  xy: 236, 854
+  size: 168, 318
+  orig: 168, 318
+  offset: 0, 0
+  index: -1
+st3
+  rotate: false
+  xy: 236, 654
+  size: 305, 198
+  orig: 305, 198
+  offset: 0, 0
+  index: -1
+st4
+  rotate: true
+  xy: 216, 15
+  size: 259, 463
+  orig: 259, 463
+  offset: 0, 0
+  index: -1
+st5
+  rotate: true
+  xy: 681, 850
+  size: 172, 324
+  orig: 172, 324
+  offset: 0, 0
+  index: -1
+wukongbai_0
+  rotate: false
+  xy: 681, 2
+  size: 67, 87
+  orig: 67, 87
+  offset: 0, 0
+  index: -1
+wukongbai_1
+  rotate: false
+  xy: 556, 921
+  size: 119, 101
+  orig: 119, 101
+  offset: 0, 0
+  index: -1
+wukongbai_12
+  rotate: true
+  xy: 681, 558
+  size: 290, 323
+  orig: 290, 323
+  offset: 0, 0
+  index: -1
+wukongbai_15
+  rotate: false
+  xy: 905, 375
+  size: 115, 78
+  orig: 115, 78
+  offset: 0, 0
+  index: -1
+wukongbai_16
+  rotate: true
+  xy: 681, 91
+  size: 188, 208
+  orig: 188, 208
+  offset: 0, 0
+  index: -1
+wukongbai_17
+  rotate: false
+  xy: 848, 5
+  size: 136, 58
+  orig: 136, 58
+  offset: 0, 0
+  index: -1
+wukongbai_2
+  rotate: false
+  xy: 497, 575
+  size: 151, 77
+  orig: 151, 77
+  offset: 0, 0
+  index: -1
+wukongbai_20
+  rotate: true
+  xy: 750, 3
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+wukongbai_22
+  rotate: true
+  xy: 891, 65
+  size: 160, 131
+  orig: 160, 131
+  offset: 0, 0
+  index: -1
+wukongbai_3
+  rotate: true
+  xy: 905, 227
+  size: 146, 112
+  orig: 146, 112
+  offset: 0, 0
+  index: -1
+wukongbai_4
+  rotate: true
+  xy: 556, 677
+  size: 242, 105
+  orig: 242, 105
+  offset: 0, 0
+  index: -1
+wukongbai_5
+  rotate: true
+  xy: 236, 281
+  size: 275, 667
+  orig: 275, 667
+  offset: 0, 0
+  index: -1
+wukongbai_6
+  rotate: true
+  xy: 2, 7
+  size: 267, 212
+  orig: 267, 212
+  offset: 0, 0
+  index: -1
+wukongbai_7
+  rotate: false
+  xy: 2, 276
+  size: 232, 746
+  orig: 232, 746
+  offset: 0, 0
+  index: -1
+wukongbai_8
+  rotate: false
+  xy: 236, 570
+  size: 259, 82
+  orig: 259, 82
+  offset: 0, 0
+  index: -1
+wukongbai_9
+  rotate: true
+  xy: 905, 455
+  size: 101, 116
+  orig: 101, 116
+  offset: 0, 0
+  index: -1
+
+goku_infinity_lihui2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st1
+  rotate: false
+  xy: 2, 141
+  size: 306, 515
+  orig: 306, 515
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 632, 553
+  size: 168, 162
+  orig: 168, 162
+  offset: 0, 0
+  index: -1
+wukongbai_10
+  rotate: false
+  xy: 611, 295
+  size: 137, 128
+  orig: 137, 128
+  offset: 0, 0
+  index: -1
+wukongbai_11
+  rotate: false
+  xy: 632, 717
+  size: 195, 244
+  orig: 195, 244
+  offset: 0, 0
+  index: -1
+wukongbai_13
+  rotate: false
+  xy: 829, 785
+  size: 173, 176
+  orig: 173, 176
+  offset: 0, 0
+  index: -1
+wukongbai_14
+  rotate: true
+  xy: 611, 168
+  size: 125, 136
+  orig: 125, 136
+  offset: 0, 0
+  index: -1
+wukongbai_18
+  rotate: false
+  xy: 829, 626
+  size: 171, 157
+  orig: 171, 157
+  offset: 0, 0
+  index: -1
+wukongbai_19
+  rotate: true
+  xy: 2, 2
+  size: 137, 244
+  orig: 137, 244
+  offset: 0, 0
+  index: -1
+wukongbai_21
+  rotate: false
+  xy: 611, 425
+  size: 163, 126
+  orig: 163, 126
+  offset: 0, 0
+  index: -1
+ycb
+  rotate: false
+  xy: 2, 658
+  size: 628, 303
+  orig: 628, 303
+  offset: 0, 0
+  index: -1
+zcb
+  rotate: true
+  xy: 310, 166
+  size: 490, 299
+  orig: 490, 299
+  offset: 0, 0
+  index: -1

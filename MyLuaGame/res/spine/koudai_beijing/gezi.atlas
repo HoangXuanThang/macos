@@ -1,0 +1,111 @@
+
+gezi.png
+size: 1378,506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cj/bj1
+  rotate: true
+  xy: 800, 3
+  size: 273, 106
+  orig: 273, 106
+  offset: 0, 0
+  index: -1
+cj/dimian
+  rotate: false
+  xy: 498, 265
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+cj/genggui
+  rotate: true
+  xy: 1035, 320
+  size: 185, 152
+  orig: 185, 152
+  offset: 0, 0
+  index: -1
+cj/guangyun
+  rotate: false
+  xy: 1, 10
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: -1
+cj/hei
+  rotate: true
+  xy: 1, 1
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+cj/huaping
+  rotate: true
+  xy: 1189, 289
+  size: 216, 118
+  orig: 216, 121
+  offset: 0, 0
+  index: -1
+cj/jingji1
+  rotate: true
+  xy: 498, 19
+  size: 67, 300
+  orig: 67, 300
+  offset: 0, 0
+  index: -1
+cj/jingji2
+  rotate: true
+  xy: 498, 88
+  size: 175, 300
+  orig: 175, 300
+  offset: 0, 0
+  index: -1
+cj/jingji3
+  rotate: true
+  xy: 740, 278
+  size: 59, 293
+  orig: 59, 293
+  offset: 0, 0
+  index: -1
+cj/jingji4
+  rotate: true
+  xy: 740, 339
+  size: 166, 293
+  orig: 166, 293
+  offset: 0, 0
+  index: -1
+cj/mubei1
+  rotate: false
+  xy: 1045, 114
+  size: 107, 204
+  orig: 107, 204
+  offset: 0, 0
+  index: -1
+cj/mubei2
+  rotate: true
+  xy: 1201, 21
+  size: 114, 176
+  orig: 114, 176
+  offset: 0, 0
+  index: -1
+cj/mubei3
+  rotate: true
+  xy: 1045, 5
+  size: 107, 154
+  orig: 107, 154
+  offset: 0, 0
+  index: -1
+cj/yan0_2
+  rotate: true
+  xy: 1154, 137
+  size: 150, 143
+  orig: 150, 143
+  offset: 0, 0
+  index: -1
+cj/zhalan
+  rotate: true
+  xy: 908, 63
+  size: 213, 135
+  orig: 213, 135
+  offset: 0, 0
+  index: -1

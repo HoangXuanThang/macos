@@ -1,0 +1,139 @@
+
+dashu.png
+size: 2032,1009
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bz/diaosu2
+  rotate: true
+  xy: 1088, 3
+  size: 94, 179
+  orig: 94, 179
+  offset: 0, 0
+  index: -1
+bz/diaosu3
+  rotate: true
+  xy: 1, 24
+  size: 23, 194
+  orig: 23, 194
+  offset: 0, 0
+  index: -1
+bz/shuijin1
+  rotate: false
+  xy: 1672, 82
+  size: 214, 152
+  orig: 214, 152
+  offset: 0, 0
+  index: -1
+bz/yuan2
+  rotate: false
+  xy: 603, 7
+  size: 483, 199
+  orig: 483, 199
+  offset: 0, 0
+  index: -1
+dashu1
+  rotate: false
+  xy: 1678, 236
+  size: 312, 374
+  orig: 312, 374
+  offset: 0, 0
+  index: -1
+dashu2
+  rotate: false
+  xy: 1401, 1
+  size: 269, 252
+  orig: 269, 252
+  offset: 0, 0
+  index: -1
+dimian
+  rotate: false
+  xy: 1092, 255
+  size: 542, 121
+  orig: 542, 121
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: true
+  xy: 1092, 99
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 1092, 644
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+shitou
+  rotate: false
+  xy: 1, 651
+  size: 1132, 357
+  orig: 1132, 357
+  offset: 0, 0
+  index: -1
+shitou4
+  rotate: false
+  xy: 603, 208
+  size: 487, 441
+  orig: 489, 441
+  offset: 2, 0
+  index: -1
+shu1
+  rotate: false
+  xy: 1902, 724
+  size: 63, 88
+  orig: 63, 88
+  offset: 0, 0
+  index: -1
+shu2
+  rotate: false
+  xy: 1636, 323
+  size: 18, 53
+  orig: 18, 53
+  offset: 0, 0
+  index: -1
+tx/sudu
+  rotate: true
+  xy: 1902, 814
+  size: 194, 83
+  orig: 194, 83
+  offset: 0, 0
+  index: -1
+xianquan2
+  rotate: true
+  xy: 1672, 3
+  size: 77, 154
+  orig: 77, 154
+  offset: 0, 0
+  index: -1
+xingkong
+  rotate: false
+  xy: 1, 49
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+xingkong2
+  rotate: false
+  xy: 1135, 612
+  size: 765, 396
+  orig: 765, 396
+  offset: 0, 0
+  index: -1
+xingkong3
+  rotate: false
+  xy: 1092, 378
+  size: 584, 232
+  orig: 584, 232
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 1888, 84
+  size: 150, 143
+  orig: 150, 143
+  offset: 0, 0
+  index: -1

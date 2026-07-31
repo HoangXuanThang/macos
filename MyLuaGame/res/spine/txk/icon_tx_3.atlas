@@ -1,0 +1,118 @@
+
+icon_tx_3.png
+size: 431, 126
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+BHG
+  rotate: true
+  xy: 275, 78
+  size: 46, 94
+  orig: 160, 160
+  offset: 103, 32
+  index: -1
+GX
+  rotate: false
+  xy: 195, 42
+  size: 78, 82
+  orig: 160, 160
+  offset: 70, 48
+  index: -1
+LG1
+  rotate: false
+  xy: 257, 7
+  size: 57, 33
+  orig: 160, 160
+  offset: 35, 17
+  index: -1
+LG2
+  rotate: true
+  xy: 195, 2
+  size: 38, 60
+  orig: 160, 160
+  offset: 24, 25
+  index: -1
+LG3
+  rotate: true
+  xy: 275, 48
+  size: 28, 65
+  orig: 160, 160
+  offset: 19, 46
+  index: -1
+SG
+  rotate: false
+  xy: 126, 15
+  size: 67, 109
+  orig: 160, 160
+  offset: 77, 23
+  index: -1
+SY1
+  rotate: false
+  xy: 350, 2
+  size: 22, 22
+  orig: 160, 160
+  offset: 116, 98
+  index: -1
+SY2
+  rotate: false
+  xy: 374, 2
+  size: 22, 22
+  orig: 160, 160
+  offset: 75, 118
+  index: -1
+SY3
+  rotate: true
+  xy: 316, 3
+  size: 43, 32
+  orig: 160, 160
+  offset: 112, 80
+  index: -1
+SY4
+  rotate: false
+  xy: 350, 26
+  size: 32, 27
+  orig: 160, 160
+  offset: 96, 107
+  index: -1
+SY5
+  rotate: false
+  xy: 384, 29
+  size: 22, 22
+  orig: 160, 160
+  offset: 132, 58
+  index: -1
+XD1
+  rotate: false
+  xy: 389, 53
+  size: 40, 30
+  orig: 160, 160
+  offset: 38, 18
+  index: -1
+XD2
+  rotate: true
+  xy: 342, 55
+  size: 21, 45
+  orig: 160, 160
+  offset: 26, 42
+  index: -1
+XD3
+  rotate: false
+  xy: 371, 85
+  size: 31, 39
+  orig: 160, 160
+  offset: 17, 69
+  index: -1
+dk
+  rotate: false
+  xy: 2, 2
+  size: 122, 122
+  orig: 160, 160
+  offset: 18, 19
+  index: -1
+star
+  rotate: true
+  xy: 404, 102
+  size: 22, 24
+  orig: 22, 25
+  offset: 0, 0
+  index: -1

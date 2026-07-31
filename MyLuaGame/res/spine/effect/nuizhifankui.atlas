@@ -1,0 +1,20 @@
+
+nuizhifankui.png
+size: 1024,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/zdsl_slgy2
+  rotate: true
+  xy: 668, 5
+  size: 13, 290
+  orig: 13, 290
+  offset: 0, 0
+  index: -1
+guangtiao
+  rotate: false
+  xy: 2, 2
+  size: 664, 16
+  orig: 664, 16
+  offset: 0, 0
+  index: -1

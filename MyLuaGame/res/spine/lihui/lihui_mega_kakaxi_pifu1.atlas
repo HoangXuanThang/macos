@@ -1,0 +1,209 @@
+
+lihui_mega_kakaxi_pifu1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 1220
+  size: 1042, 825
+  orig: 1042, 825
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 856, 577
+  size: 117, 33
+  orig: 117, 33
+  offset: 0, 0
+  index: -1
+houfa
+  rotate: false
+  xy: 522, 696
+  size: 392, 522
+  orig: 392, 522
+  offset: 0, 0
+  index: -1
+liuhai1
+  rotate: false
+  xy: 1281, 1112
+  size: 119, 207
+  orig: 119, 207
+  offset: 0, 0
+  index: -1
+liuhai2
+  rotate: false
+  xy: 1402, 1174
+  size: 160, 145
+  orig: 160, 145
+  offset: 0, 0
+  index: -1
+longjiao1
+  rotate: false
+  xy: 1738, 1639
+  size: 238, 406
+  orig: 238, 406
+  offset: 0, 0
+  index: -1
+longjiao2
+  rotate: false
+  xy: 522, 286
+  size: 332, 408
+  orig: 332, 408
+  offset: 0, 0
+  index: -1
+longtou
+  rotate: false
+  xy: 1046, 1321
+  size: 690, 724
+  orig: 690, 724
+  offset: 0, 0
+  index: -1
+longzui
+  rotate: false
+  xy: 522, 70
+  size: 350, 214
+  orig: 350, 214
+  offset: 0, 0
+  index: -1
+shandian/leihuah_00
+  rotate: false
+  xy: 1978, 1977
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+shandian/leihuah_01
+  rotate: false
+  xy: 1978, 1907
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+shandian/leihuah_02
+  rotate: false
+  xy: 1978, 1837
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+shandian/leihuah_03
+  rotate: false
+  xy: 1978, 1767
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+shandian/leihuah_04
+  rotate: false
+  xy: 1978, 1697
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+shandian/leihuah_05
+  rotate: false
+  xy: 1978, 1627
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+shandian/leihuah_06
+  rotate: false
+  xy: 1043, 721
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+shandian/leihuah_07
+  rotate: false
+  xy: 1972, 1557
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+shandian/leihuah_08
+  rotate: false
+  xy: 1909, 1458
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 70
+  size: 518, 1148
+  orig: 518, 1148
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 2, 4
+  size: 122, 64
+  orig: 122, 64
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 1564, 1192
+  size: 127, 161
+  orig: 127, 161
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: true
+  xy: 1113, 778
+  size: 116, 126
+  orig: 116, 126
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: true
+  xy: 1909, 1528
+  size: 109, 61
+  orig: 109, 61
+  offset: 0, 0
+  index: -1
+toufa5
+  rotate: false
+  xy: 126, 2
+  size: 76, 66
+  orig: 76, 66
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: false
+  xy: 916, 791
+  size: 195, 427
+  orig: 195, 427
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: false
+  xy: 1113, 896
+  size: 166, 423
+  orig: 166, 423
+  offset: 0, 0
+  index: -1
+youjian
+  rotate: true
+  xy: 1281, 908
+  size: 202, 118
+  orig: 202, 118
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: false
+  xy: 1738, 1357
+  size: 169, 280
+  orig: 169, 280
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 916, 699
+  size: 90, 125
+  orig: 90, 125
+  offset: 0, 0
+  index: -1

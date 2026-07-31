@@ -1,0 +1,41 @@
+
+gonghuixunlian.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TX_S1_szgh_0052
+  rotate: false
+  xy: 135, 110
+  size: 154, 140
+  orig: 154, 140
+  offset: 0, 0
+  index: -1
+images/TX_xt_g_0017
+  rotate: false
+  xy: 291, 131
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+images/baiguang
+  rotate: true
+  xy: 135, 2
+  size: 106, 107
+  orig: 106, 107
+  offset: 0, 0
+  index: -1
+images/dimian
+  rotate: false
+  xy: 2, 33
+  size: 131, 217
+  orig: 131, 217
+  offset: 0, 0
+  index: -1
+images/guangze
+  rotate: false
+  xy: 412, 143
+  size: 26, 107
+  orig: 26, 107
+  offset: 0, 0
+  index: -1

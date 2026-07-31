@@ -1,0 +1,251 @@
+
+changguan2.png
+size: 1667,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+changguan/1lou
+  rotate: false
+  xy: 678, 240
+  size: 449, 249
+  orig: 449, 249
+  offset: 0, 0
+  index: -1
+changguan/2lou
+  rotate: true
+  xy: 1509, 612
+  size: 210, 155
+  orig: 210, 155
+  offset: 0, 0
+  index: -1
+changguan/Smoke006_005
+  rotate: true
+  xy: 1428, 111
+  size: 161, 183
+  orig: 161, 183
+  offset: 0, 0
+  index: -1
+changguan/bj1
+  rotate: false
+  xy: 368, 13
+  size: 273, 53
+  orig: 273, 53
+  offset: 0, 0
+  index: -1
+changguan/dalou1
+  rotate: true
+  xy: 1220, 476
+  size: 269, 202
+  orig: 269, 202
+  offset: 0, 0
+  index: -1
+changguan/dalou2
+  rotate: false
+  xy: 1220, 747
+  size: 252, 284
+  orig: 252, 284
+  offset: 0, 0
+  index: -1
+changguan/dalou3
+  rotate: false
+  xy: 1129, 189
+  size: 297, 133
+  orig: 297, 133
+  offset: 0, 0
+  index: -1
+changguan/dingpeng1
+  rotate: false
+  xy: 1, 160
+  size: 673, 44
+  orig: 673, 44
+  offset: 0, 0
+  index: -1
+changguan/dingpeng2
+  rotate: true
+  xy: 678, 169
+  size: 69, 350
+  orig: 69, 350
+  offset: 0, 0
+  index: -1
+changguan/dingpeng3
+  rotate: false
+  xy: 1, 130
+  size: 576, 28
+  orig: 576, 28
+  offset: 0, 0
+  index: -1
+changguan/guangyun
+  rotate: true
+  xy: 1129, 324
+  size: 150, 300
+  orig: 150, 300
+  offset: 0, 0
+  index: -1
+changguan/guangzhu
+  rotate: true
+  xy: 1, 23
+  size: 105, 365
+  orig: 105, 365
+  offset: 0, 0
+  index: -1
+changguan/hei
+  rotate: true
+  xy: 1661, 603
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+changguan/men
+  rotate: true
+  xy: 643, 1
+  size: 102, 150
+  orig: 102, 150
+  offset: 0, 0
+  index: -1
+changguan/shengzi
+  rotate: false
+  xy: 795, 80
+  size: 300, 23
+  orig: 300, 23
+  offset: 0, 0
+  index: -1
+changguan/shitou6
+  rotate: false
+  xy: 1270, 108
+  size: 137, 79
+  orig: 137, 79
+  offset: 0, 0
+  index: -1
+changguan/shouji_001
+  rotate: true
+  xy: 1270, 37
+  size: 69, 115
+  orig: 77, 154
+  offset: 2, 1
+  index: -1
+changguan/shouji_002
+  rotate: true
+  xy: 957, 2
+  size: 76, 124
+  orig: 77, 154
+  offset: 0, 15
+  index: -1
+changguan/shouji_003
+  rotate: true
+  xy: 1409, 33
+  size: 76, 114
+  orig: 77, 154
+  offset: 1, 33
+  index: -1
+changguan/shouji_004
+  rotate: true
+  xy: 1525, 33
+  size: 76, 103
+  orig: 77, 154
+  offset: 1, 51
+  index: -1
+changguan/shouji_005
+  rotate: true
+  xy: 795, 1
+  size: 77, 88
+  orig: 77, 154
+  offset: 0, 66
+  index: -1
+changguan/shouji_006
+  rotate: true
+  xy: 885, 1
+  size: 77, 70
+  orig: 77, 154
+  offset: 0, 84
+  index: -1
+changguan/shouji_007
+  rotate: false
+  xy: 1155, 11
+  size: 72, 58
+  orig: 77, 154
+  offset: 2, 96
+  index: -1
+changguan/weiqiang
+  rotate: false
+  xy: 1, 206
+  size: 675, 825
+  orig: 675, 825
+  offset: 0, 0
+  index: -1
+changguan/xiaoshitou
+  rotate: true
+  xy: 1083, 1
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+changguan/xiaosuishi
+  rotate: false
+  xy: 1030, 177
+  size: 85, 61
+  orig: 85, 61
+  offset: 0, 0
+  index: -1
+changguan/y1b
+  rotate: true
+  xy: 1424, 489
+  size: 256, 83
+  orig: 256, 83
+  offset: 0, 0
+  index: -1
+changguan/y3b
+  rotate: false
+  xy: 368, 68
+  size: 255, 60
+  orig: 255, 60
+  offset: 0, 0
+  index: -1
+changguan/y6b
+  rotate: false
+  xy: 676, 105
+  size: 341, 62
+  orig: 341, 62
+  offset: 0, 0
+  index: -1
+changguan/y_qiang
+  rotate: true
+  xy: 1474, 824
+  size: 207, 192
+  orig: 207, 192
+  offset: 0, 0
+  index: -1
+changguan/yan
+  rotate: false
+  xy: 1117, 71
+  size: 151, 116
+  orig: 151, 116
+  offset: 0, 0
+  index: -1
+changguan/yan2
+  rotate: false
+  xy: 1509, 467
+  size: 150, 143
+  orig: 150, 143
+  offset: 0, 0
+  index: -1
+changguan/z_qiang
+  rotate: false
+  xy: 1431, 274
+  size: 206, 191
+  orig: 206, 191
+  offset: 0, 0
+  index: -1
+changguan/zhuomian
+  rotate: false
+  xy: 678, 491
+  size: 540, 540
+  orig: 540, 540
+  offset: 0, 0
+  index: -1
+changguan/zhuzi
+  rotate: false
+  xy: 1613, 122
+  size: 30, 150
+  orig: 30, 150
+  offset: 0, 0
+  index: -1

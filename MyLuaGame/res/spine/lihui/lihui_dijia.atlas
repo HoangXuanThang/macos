@@ -1,0 +1,237 @@
+
+lihui_dijia.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houjing
+  rotate: false
+  xy: 727, 1651
+  size: 400, 395
+  orig: 400, 395
+  offset: 0, 0
+  index: -1
+houjing2
+  rotate: true
+  xy: 954, 1418
+  size: 231, 207
+  orig: 231, 207
+  offset: 0, 0
+  index: -1
+houqing1
+  rotate: false
+  xy: 2, 25
+  size: 263, 53
+  orig: 263, 53
+  offset: 0, 0
+  index: -1
+houqing2
+  rotate: false
+  xy: 2, 80
+  size: 353, 183
+  orig: 353, 183
+  offset: 0, 0
+  index: -1
+qianshang
+  rotate: true
+  xy: 2, 265
+  size: 778, 431
+  orig: 778, 431
+  offset: 0, 0
+  index: -1
+qianshang2
+  rotate: true
+  xy: 1299, 1528
+  size: 129, 28
+  orig: 129, 28
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 1045
+  size: 723, 1001
+  orig: 723, 1001
+  offset: 0, 0
+  index: -1
+shitou
+  rotate: false
+  xy: 798, 955
+  size: 89, 104
+  orig: 89, 104
+  offset: 0, 0
+  index: -1
+shitou1
+  rotate: false
+  xy: 2, 2
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+shitou2
+  rotate: false
+  xy: 357, 201
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+shitou3
+  rotate: true
+  xy: 727, 1045
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+shitou4
+  rotate: false
+  xy: 1357, 1675
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1129, 1659
+  size: 160, 226
+  orig: 160, 226
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 954, 1198
+  size: 182, 218
+  orig: 182, 218
+  offset: 0, 0
+  index: -1
+zuogebo
+  rotate: true
+  xy: 662, 430
+  size: 149, 147
+  orig: 149, 147
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 1821, 1704
+  size: 115, 222
+  orig: 115, 222
+  offset: 0, 0
+  index: -1
+闪电BUFF/1
+  rotate: false
+  xy: 435, 818
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+闪电BUFF/2
+  rotate: false
+  xy: 727, 1424
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+闪电BUFF/3
+  rotate: false
+  xy: 1129, 1821
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+闪电BUFF/4
+  rotate: false
+  xy: 435, 591
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+闪电BUFF/5
+  rotate: false
+  xy: 727, 1197
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+闪电BUFF/6
+  rotate: false
+  xy: 1356, 1821
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+闪电BUFF/7
+  rotate: false
+  xy: 435, 364
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+闪电BUFF/8
+  rotate: false
+  xy: 1583, 1821
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+闪电BUFF/9
+  rotate: false
+  xy: 1810, 1821
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+闪电BUFF/diandian01
+  rotate: true
+  xy: 1357, 1685
+  size: 134, 230
+  orig: 134, 230
+  offset: 0, 0
+  index: -1
+闪电BUFF/diandian02
+  rotate: true
+  xy: 1589, 1685
+  size: 134, 230
+  orig: 134, 230
+  offset: 0, 0
+  index: -1
+闪电BUFF/diandian03
+  rotate: true
+  xy: 727, 1061
+  size: 134, 230
+  orig: 134, 230
+  offset: 0, 0
+  index: -1
+闪电BUFF/diandian04
+  rotate: false
+  xy: 1163, 1427
+  size: 134, 230
+  orig: 134, 230
+  offset: 0, 0
+  index: -1
+闪电BUFF/diandian05
+  rotate: true
+  xy: 435, 228
+  size: 134, 230
+  orig: 134, 230
+  offset: 0, 0
+  index: -1
+闪电BUFF/diandian06
+  rotate: true
+  xy: 959, 1062
+  size: 134, 230
+  orig: 134, 230
+  offset: 0, 0
+  index: -1
+闪电BUFF/diandian07
+  rotate: false
+  xy: 662, 813
+  size: 134, 230
+  orig: 134, 230
+  offset: 0, 0
+  index: -1
+闪电BUFF/diandian08
+  rotate: false
+  xy: 662, 581
+  size: 134, 230
+  orig: 134, 230
+  offset: 0, 0
+  index: -1

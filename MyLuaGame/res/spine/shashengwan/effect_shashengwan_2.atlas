@@ -1,0 +1,69 @@
+
+effect_shashengwan_2.png
+size: 1543, 335
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+images/2204c87ebc
+  rotate: false
+  xy: 2, 2
+  size: 114, 114
+  orig: 128, 128
+  offset: 7, 7
+  index: -1
+images/holo_quan
+  rotate: true
+  xy: 397, 104
+  size: 229, 220
+  orig: 256, 256
+  offset: 16, 19
+  index: -1
+images/quanyuz
+  rotate: true
+  xy: 2, 118
+  size: 215, 393
+  orig: 215, 393
+  offset: 0, 0
+  index: -1
+images/quanyuz_0000
+  rotate: false
+  xy: 619, 6
+  size: 152, 327
+  orig: 168, 415
+  offset: 8, 45
+  index: -1
+images/quanyuz_0001
+  rotate: false
+  xy: 773, 6
+  size: 152, 327
+  orig: 168, 415
+  offset: 8, 45
+  index: -1
+images/quanyuz_0003
+  rotate: false
+  xy: 927, 6
+  size: 152, 327
+  orig: 168, 415
+  offset: 8, 45
+  index: -1
+images/quanyuz_0005
+  rotate: false
+  xy: 1081, 6
+  size: 152, 327
+  orig: 168, 415
+  offset: 8, 45
+  index: -1
+images/quanyuz_0007
+  rotate: false
+  xy: 1235, 6
+  size: 152, 327
+  orig: 168, 415
+  offset: 8, 45
+  index: -1
+images/quanyuz_0009
+  rotate: false
+  xy: 1389, 6
+  size: 152, 327
+  orig: 168, 415
+  offset: 8, 45
+  index: -1

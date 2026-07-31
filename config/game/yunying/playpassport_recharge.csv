@@ -1,0 +1,11 @@
+﻿VariableName,name,name_tw,name_en,name_vn,rechargeID,huodongID,originalPrice,logo,res,desc,desc_en,desc_kr,icon
+Defaults,,,,,,,0,,,"""""","""""","""""",""""""
+ID,名称,名称,名称,名称_越南,充值ID,活动版本,原价,商品角标（0:折扣 1:热 2:限 3:新）,经验值资源,富文本显示,富文本显示,富文本显示,图标资源路径
+1,Deluxe Pass,豪華版通行證,Deluxe Pass,Vé Phiên Bản Cao Cấp,106,1010,198,,,,,,
+2,Deluxe Pass,豪華版通行證,Deluxe Pass,Vé Phiên Bản Cao Cấp,106,2001,788,,,,,,
+3,Deluxe Pass,豪華版通行證,Deluxe Pass,Vé Phiên Bản Cao Cấp,106,3001,788,,,,,,
+4,Deluxe Pass,豪華版通行證,Deluxe Pass,Vé Phiên Bản Cao Cấp,109,4001,788,,,,,,
+5,Deluxe Pass,豪華版通行證,Deluxe Pass,Vé Phiên Bản Cao Cấp,109,1001,788,,,,,,
+6,Deluxe Pass,豪華版通行證,Deluxe Pass,Vé Phiên Bản Cao Cấp,106,4010,588,,,,,,
+7,Themed Hero Battle Pass,,Themed Hero Battle Pass,Thẻ thông hành anh hùng theo chủ đề,103,7001,588,,,,,,
+8,Themed Hero Battle Pass,,Themed Hero Battle Pass,Thẻ thông hành anh hùng theo chủ đề,103,7001,588,,,,,,

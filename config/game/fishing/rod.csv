@@ -1,0 +1,12 @@
+﻿VariableName,name_cn,name_tw,name,name_vn,name_kr,_desc,_desc_tw,_desc_en,_desc_vn,_desc_kr,extraProbability,itemId,cost,res,extraSpeed,lowerSpeed,extraZone,needLv,lowerWait
+Defaults,"""""","""""","""""","""""","""""","""""","""""","""""","""""","""""",0,0,{},"""""",0,0,0,0,0
+ID,名字,名字,名字,名字,名字,描述,描述,描述,描述,描述,自动钓鱼额外成功率（同类增益互相相加）,关联物品表id,解锁消耗,鱼竿外观,使用时提升进度上升速度,使用时降低进度下降速度,扩大鱼钩判定范围,需要钓鱼等级,降低等待时间
+1,入门鱼竿,入門魚竿,Starter fishing rod,Cần câu nhập môn,입문용 낚싯대,,,,,,,7000,{gold=100000},rod_0,,,,1,
+2,初级鱼竿,初級魚竿,Junior fishing rod,Cần câu sơ cấp,초급 낚싯대,,,,,,0.02,7001,{gold=500000},rod_1,0.05,0.05,1.1,3,
+3,中级鱼竿,中級魚竿,Veteran fishing rod,Cần câu trung cấp,중급 낚싯대,,,,,,0.04,7002,{gold=1000000},rod_2,0.1,0.1,1.2,6,0.1
+4,高级鱼竿,高級魚竿,Advanced fishing rod,Cần câu cao cấp,고급 낚싯대,,,,,,0.06,7003,{gold=3000000},rod_3,0.15,0.15,1.3,10,0.15
+5,特级鱼竿,特級魚竿,Premium fishing rod,Cần câu siêu cấp,특급 낚싯대,,,,,,0.08,7004,{gold=5000000},rod_4,0.2,0.2,1.4,15,0.2
+6,迅捷鱼竿,迅捷魚竿,Swift Fishing Rod,Cần câu nhẹ,스피드스타 낚싯대,,,,,,,7005,,rod_5,,,,20,
+7,精炼鱼竿,精煉魚竿,Refined fishing rod,Cần câu tinh luyện,정교한 낚싯대,,,,,,,7006,,rod_6,,,,20,
+8,魅力鱼竿,魅力魚竿,Charm fishing rod,Cần câu quyến rũ,매력의 낚싯대,,,,,,,7007,,rod_7,,,,20,
+9,轻松鱼竿,輕松魚竿,Easy fishing rod,Cần câu dễ dàng,릴렉스한 낚싯대,,,,,,0.15,7008,{rmb=880},rod_8,,,,3,

@@ -1,0 +1,27 @@
+
+mabi.png
+size: 359,250
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dian5_1
+  rotate: false
+  xy: 307, 54
+  size: 51, 195
+  orig: 109, 249
+  offset: 55, 38
+  index: -1
+images/dian5_2
+  rotate: false
+  xy: 241, 58
+  size: 64, 191
+  orig: 109, 249
+  offset: 40, 36
+  index: -1
+images/lizi6_4
+  rotate: false
+  xy: 1, 1
+  size: 238, 248
+  orig: 238, 248
+  offset: 0, 0
+  index: -1

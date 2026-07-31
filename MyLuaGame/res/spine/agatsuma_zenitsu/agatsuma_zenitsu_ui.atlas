@@ -1,0 +1,167 @@
+
+agatsuma_zenitsu_ui.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1154, 118
+  size: 124, 109
+  orig: 124, 109
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2600, 138
+  size: 113, 72
+  orig: 113, 72
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 2817, 130
+  size: 80, 97
+  orig: 80, 97
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 2715, 125
+  size: 85, 100
+  orig: 85, 100
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 2600, 212
+  size: 297, 373
+  orig: 297, 373
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 1732, 214
+  size: 295, 435
+  orig: 295, 435
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 2169, 155
+  size: 354, 429
+  orig: 354, 429
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 953, 76
+  size: 199, 166
+  orig: 199, 166
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 3336, 277
+  size: 283, 232
+  orig: 283, 232
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 685, 66
+  size: 176, 266
+  orig: 176, 266
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 1230, 303
+  size: 500, 206
+  orig: 500, 206
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1265, 148
+  size: 37, 94
+  orig: 37, 94
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 3800, 312
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 3621, 198
+  size: 161, 177
+  orig: 161, 177
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 4053, 469
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 1230, 244
+  size: 57, 72
+  orig: 57, 72
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 1304, 226
+  size: 75, 92
+  orig: 75, 92
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 3621, 361
+  size: 243, 148
+  orig: 243, 148
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 2
+  size: 118, 55
+  orig: 118, 55
+  offset: 0, 0
+  index: -1
+txh
+  rotate: false
+  xy: 2, 59
+  size: 681, 450
+  orig: 681, 450
+  offset: 0, 0
+  index: -1
+txq1
+  rotate: true
+  xy: 3866, 353
+  size: 156, 185
+  orig: 156, 185
+  offset: 0, 0
+  index: -1
+txq2
+  rotate: true
+  xy: 2975, 246
+  size: 263, 359
+  orig: 263, 359
+  offset: 0, 0
+  index: -1
+txq3
+  rotate: false
+  xy: 685, 244
+  size: 543, 265
+  orig: 543, 265
+  offset: 0, 0
+  index: -1

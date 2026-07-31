@@ -1,0 +1,83 @@
+
+xianshichouka.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/ganraoxian
+  rotate: true
+  xy: 1882, 1707
+  size: 256, 106
+  orig: 256, 106
+  offset: 0, 0
+  index: -1
+TX/guangyun
+  rotate: false
+  xy: 1564, 1649
+  size: 316, 314
+  orig: 316, 314
+  offset: 0, 0
+  index: -1
+TX/h
+  rotate: false
+  xy: 948, 1175
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+TX/kejilizi
+  rotate: false
+  xy: 634, 847
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+TX/kejiquan
+  rotate: false
+  xy: 1564, 1411
+  size: 236, 236
+  orig: 236, 236
+  offset: 0, 0
+  index: -1
+TX/kejiquan1
+  rotate: false
+  xy: 2, 670
+  size: 630, 512
+  orig: 630, 512
+  offset: 0, 0
+  index: -1
+TX/kejixian1
+  rotate: false
+  xy: 85, 647
+  size: 256, 21
+  orig: 256, 21
+  offset: 0, 0
+  index: -1
+TX/xiangsuquan
+  rotate: true
+  xy: 2, 2
+  size: 227, 81
+  orig: 227, 81
+  offset: 0, 0
+  index: -1
+bg1
+  rotate: false
+  xy: 2, 1184
+  size: 1560, 779
+  orig: 1560, 779
+  offset: 0, 0
+  index: -1
+huoqu/bodian
+  rotate: false
+  xy: 634, 977
+  size: 312, 205
+  orig: 312, 205
+  offset: 0, 0
+  index: -1
+jianbianguang
+  rotate: false
+  xy: 2, 231
+  size: 81, 437
+  orig: 81, 437
+  offset: 0, 0
+  index: -1

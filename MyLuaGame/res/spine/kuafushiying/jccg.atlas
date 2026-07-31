@@ -1,0 +1,34 @@
+
+jccg.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tubiao
+  rotate: false
+  xy: 267, 2
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+wjx
+  rotate: false
+  xy: 371, 29
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+wz
+  rotate: false
+  xy: 2, 23
+  size: 263, 81
+  orig: 263, 81
+  offset: 0, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 448, 55
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1

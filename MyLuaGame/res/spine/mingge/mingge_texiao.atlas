@@ -1,0 +1,139 @@
+
+mingge_texiao.png
+size: 1024, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 199
+  size: 281, 302
+  orig: 281, 302
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 223, 195
+  orig: 223, 195
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 652, 189
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 227, 3
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 756, 350
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+FX_ENDshine2
+  rotate: false
+  xy: 359, 49
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Light_wave_blur
+  rotate: false
+  xy: 293, 33
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Particle01
+  rotate: false
+  xy: 533, 280
+  size: 221, 221
+  orig: 221, 221
+  offset: 0, 0
+  index: -1
+Saberlight
+  rotate: false
+  xy: 756, 198
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Saberlight2
+  rotate: false
+  xy: 227, 67
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+Snow_particles
+  rotate: false
+  xy: 746, 266
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+bling
+  rotate: false
+  xy: 558, 186
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+games_zxb_zhizuo_080-_1
+  rotate: false
+  xy: 285, 255
+  size: 246, 246
+  orig: 246, 246
+  offset: 0, 0
+  index: -1
+guang01
+  rotate: false
+  xy: 463, 160
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+ringglowwhite2_1_00
+  rotate: false
+  xy: 909, 399
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+sn_xiguan_1
+  rotate: false
+  xy: 909, 295
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+spot
+  rotate: false
+  xy: 285, 207
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+starflashblue_1_00
+  rotate: false
+  xy: 908, 191
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+type1glowR_1
+  rotate: false
+  xy: 359, 151
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1

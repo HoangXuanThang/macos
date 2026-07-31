@@ -1,0 +1,16 @@
+﻿VariableName,title,title_tw,title_en,title_vn,title_th,title_in,title_ph,title_ma,unlockFeature,type,sortIndex,flag,nameRes,lockbg1,unionFeature,serverDayInfo,goto
+Defaults,"""""","""""","""""","""""","""""","""""","""""","""""","""""","""""",0,0,"""""","""""",,,""""""
+序号,功能名,功能名,title_en,title_vn,title_th,title_in,title_ph,title_ma,功能key（由对应unlock控制功能开放状态）,系统类型，属于pvp or pve,排序优先级（小的在前）,该配置是否有效（0有效;1无效）,标题资源路径,显示背景,公会等级需求（union_level 表openFeature字段）,开服天数需求,跳转字段
+1,Rewards  ,,Rewards  ,Phần thưởng,รางวัล  ,Hadiah  ,Mga Gantimpala  ,Ganjaran  ,activityGate,pve,1,,,city/adventure/activityselect/img_rcfb@,,,activityGate
+2,Growth Path  ,,Growth Path  ,Con đường trưởng thành,เส้นทางการเติบโต  ,Jalur Pertumbuhan  ,Landas ng Paglago  ,Laluan Pertumbuhan  ,endlessTower,pve,2,,,city/adventure/activityselect/img_wxtz@,,,endlessTower
+3,Dispatch Missions  ,,Dispatch Missions  ,Nhiệm vụ phái cử,ภารกิจส่งตัว  ,Misi Penugasan  ,Misyon sa Pagpapadala  ,Misi Penghantaran  ,dispatchTask,pve,3,,,city/adventure/activityselect/img_pq@,,,dispatchTask
+4,Dimensional Tower  ,,Dimensional Tower  ,Tháp Thứ Nguyên,หอคอยมิติ  ,Menara Dimensi  ,Tore ng Dimensyon  ,Menara Dimensi  ,randomTower,pve,5,,,city/adventure/activityselect/img_ytly@,,,randomTower
+5,Illusion Challenge  ,,Illusion Challenge  ,Thử thách ảo ảnh,ท้าทายมายา  ,Tantangan Ilusi  ,Hamon ng Ilusyon  ,Cabaran Ilusi  ,cloneBattle,pve,4,,,city/adventure/activityselect/img_ystz@,,,cloneBattle
+7,Dojo Challenge  ,,Dojo Challenge  ,Thử thách đạo quán,ท้าทายสำนัก  ,Tantangan Dojo  ,Hamon sa Dojo  ,Cabaran Dojo  ,gym,pve,7,,,city/adventure/activityselect/img_dgtz,,,gymChallenge
+8,Hero’s Journey  ,,Hero’s Journey  ,Hành trình anh hùng,การผจญภัยของฮีโร่  ,Perjalanan Pahlawan  ,Paglalakbay ng Bayani  ,Perjalanan Wira  ,hunting,pve,8,,,city/adventure/activityselect/img_sldd@,,,hunting
+101,Arena  ,,Arena  ,Đấu trường,อารีน่า  ,Arena  ,Arena  ,Arena  ,arena,pvp,1,,,city/pvp/img_jjc,,,arena
+102,Guild War  ,,Guild War  ,Chiến tranh bang hội,สงครามกิลด์  ,Perang Guild  ,Giyera ng Guild  ,Perang Guild  ,unionFight,pvp,3,,,city/pvp/img_ghz,unionFight,{funcType=less;sevCsv=csv.union_fight.base[1].servOpenDays},unionFight
+103,Martial Arts Tournament  ,,Martial Arts Tournament  ,Đại hội võ thuật,การแข่งขันศิลปะการต่อสู้  ,Turnamen Bela Diri  ,Paligsahan ng Martial Arts  ,Kejohanan Seni Mempertahankan Diri  ,craft,pvp,2,,,city/pvp/img_sydh,,{funcType=less;sevCsv=csv.craft.base[1].servOpenDays},craft
+104,Martial Arts League  ,,Martial Arts League  ,Liên đấu võ đạo,ลีกศิลปะการต่อสู้  ,Liga Bela Diri  ,Liga ng Martial Arts  ,Duel Seni Mempertahankan Diri  ,crossCraft,pvp,4,,,city/pvp/img_kfsydh,,{funcType=less;sevCsv=csv.cross.craft.base[1].servOpenDays},crossCraft
+105,Cross-server Arena  ,,Cross-server Arena  ,Đấu trường liên server,อารีน่าข้ามเซิร์ฟเวอร์  ,Arena Antar Server  ,Cross-server Arena  ,Arena Rentas Server  ,crossArena,pvp,5,,,city/pvp/img_kfjjc,,{funcType=less;sevCsv=csv.cross.arena.base[1].servOpenDays},crossArena
+107,Cross-server Trial Tower  ,,Cross-server Trial Tower  ,Tháp Thí Luyện Liên Server,หอคอยทดสอบข้ามเซิร์ฟเวอร์  ,Menara Uji Antar Server  ,Cross-server Trial Tower  ,Menara Ujian Rentas Server,crossMine,pvp,7,,,city/pvp/img_kfzyz,,{funcType=less;sevCsv=csv.cross.mine.base[1].servOpenDays},crossMine

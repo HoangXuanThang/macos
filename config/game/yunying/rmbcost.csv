@@ -1,0 +1,8 @@
+﻿VariableName,huodongID,amount,desc,desc_tw,desc_en,desc_kr,desc_vn,award
+Defaults,0,0,"""""","""""","""""","""""","""""",{}
+ID,活动版本ID,额度,描述,描述,描述,描述_韩,描述_韩,奖励
+1,5001,280,累计消耗280钻石,累計消耗280鑽石,Spend 280 diamonds in total,280다이아 누적 소모,Tiêu tổng cộng 280 Nguyên Bảo,{52=100;gold=10000;21006=100;card=30041}
+2,5001,1280,累计消耗1280钻石,累計消耗1280鑽石,Spend 1280 diamonds in total,1280다이아 누적 소모,Tiêu tổng cộng 1280 Nguyên Bảo,{52=100;gold=10000;21006=100;card=30041}
+3,5001,3280,累计消耗3280钻石,累計消耗3280鑽石,Spend 3280 diamonds in total,3280다이아 누적 소모,Tiêu tổng cộng 3280 Nguyên Bảo,{52=100;gold=10000;21006=100;card=30041}
+4,5001,6800,累计消耗6800钻石,累計消耗6800鑽石,Spend 6800 diamonds in total,6800다이아 누적 소모,Tiêu tổng cộng 6800 Nguyên Bảo,{52=100;gold=10000;21006=100;card=30041}
+5,5001,13800,累计消耗13800钻石,累計消耗13800鑽石,Spend 13800 diamonds in total,13800다이아 누적 소모,Tiêu tổng cộng 13800 Nguyên Bảo,{52=100;gold=10000;21006=100;card=30041}

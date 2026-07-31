@@ -1,0 +1,12 @@
+﻿VariableName,rankMax,award,version
+Defaults,,{},0
+ID,最大排名,排名奖励,奖励版本
+1,1,{coin3=800;rmb=200;gold=600000},
+2,2,{coin3=600;rmb=170;gold=525000},
+3,3,{coin3=450;rmb=150;gold=450000},
+4,4,{coin3=350;rmb=130;gold=375000},
+5,6,{coin3=300;rmb=110;gold=300000},
+6,8,{coin3=270;rmb=100;gold=225000},
+7,16,{coin3=240;rmb=90;gold=195000},
+8,32,{coin3=220;rmb=80;gold=165000},
+9,99999,{coin3=200;rmb=70;gold=150000},

@@ -1,0 +1,90 @@
+
+guihuoyujin.png
+size: 315,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baidi
+  rotate: false
+  xy: 158, 383
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+effect/3chen
+  rotate: false
+  xy: 1, 234
+  size: 155, 164
+  orig: 157, 166
+  offset: 0, 0
+  index: -1
+effect/xingyun4
+  rotate: false
+  xy: 1, 400
+  size: 197, 123
+  orig: 197, 123
+  offset: 0, 0
+  index: -1
+huo0001
+  rotate: false
+  xy: 200, 383
+  size: 82, 140
+  orig: 97, 168
+  offset: 6, 6
+  index: -1
+huo0002
+  rotate: true
+  xy: 158, 4
+  size: 81, 137
+  orig: 97, 168
+  offset: 9, 6
+  index: -1
+huo0003
+  rotate: false
+  xy: 158, 236
+  size: 81, 145
+  orig: 97, 168
+  offset: 10, 6
+  index: -1
+huo0004
+  rotate: false
+  xy: 75, 80
+  size: 75, 152
+  orig: 97, 168
+  offset: 10, 6
+  index: -1
+huo0005
+  rotate: false
+  xy: 241, 236
+  size: 73, 145
+  orig: 97, 168
+  offset: 10, 6
+  index: -1
+huo0006
+  rotate: false
+  xy: 1, 76
+  size: 72, 156
+  orig: 97, 168
+  offset: 8, 6
+  index: -1
+huo0007
+  rotate: true
+  xy: 1, 1
+  size: 73, 155
+  orig: 97, 168
+  offset: 8, 6
+  index: -1
+huo0008
+  rotate: false
+  xy: 203, 91
+  size: 81, 143
+  orig: 97, 168
+  offset: 5, 4
+  index: -1
+yinying
+  rotate: true
+  xy: 152, 87
+  size: 145, 49
+  orig: 150, 56
+  offset: 3, 3
+  index: -1

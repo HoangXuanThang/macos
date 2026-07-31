@@ -1,0 +1,104 @@
+
+effect_chanyata_2.png
+size: 1035, 289
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_0003
+  rotate: false
+  xy: 476, 35
+  size: 95, 49
+  orig: 720, 1280
+  offset: 242, 628
+  index: -1
+1_0004
+  rotate: false
+  xy: 573, 36
+  size: 124, 48
+  orig: 720, 1280
+  offset: 208, 628
+  index: -1
+1_0005
+  rotate: false
+  xy: 212, 24
+  size: 133, 58
+  orig: 720, 1280
+  offset: 202, 622
+  index: -1
+1_0006
+  rotate: false
+  xy: 347, 29
+  size: 127, 53
+  orig: 720, 1280
+  offset: 197, 625
+  index: -1
+1_0007
+  rotate: false
+  xy: 80, 23
+  size: 130, 59
+  orig: 720, 1280
+  offset: 204, 622
+  index: -1
+2
+  rotate: true
+  xy: 2, 2
+  size: 285, 76
+  orig: 720, 1280
+  offset: 98, 614
+  index: -1
+3_0007
+  rotate: false
+  xy: 710, 2
+  size: 154, 100
+  orig: 720, 1280
+  offset: 229, 598
+  index: -1
+3_0008
+  rotate: true
+  xy: 710, 104
+  size: 183, 153
+  orig: 720, 1280
+  offset: 218, 572
+  index: -1
+3_0009
+  rotate: true
+  xy: 80, 84
+  size: 203, 176
+  orig: 720, 1280
+  offset: 206, 553
+  index: -1
+3_0010
+  rotate: true
+  xy: 427, 86
+  size: 201, 182
+  orig: 720, 1280
+  offset: 202, 550
+  index: -1
+3_0011
+  rotate: true
+  xy: 258, 84
+  size: 203, 167
+  orig: 720, 1280
+  offset: 195, 566
+  index: -1
+3_0012
+  rotate: false
+  xy: 865, 159
+  size: 168, 128
+  orig: 720, 1280
+  offset: 212, 600
+  index: -1
+3_0013
+  rotate: true
+  xy: 611, 95
+  size: 192, 97
+  orig: 720, 1280
+  offset: 198, 594
+  index: -1
+4
+  rotate: false
+  xy: 866, 8
+  size: 164, 149
+  orig: 720, 1280
+  offset: 278, 565
+  index: -1

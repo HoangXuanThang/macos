@@ -1,0 +1,279 @@
+
+effect_lingboli_2.png
+size: 1955, 1004
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+add_00
+  rotate: false
+  xy: 1439, 203
+  size: 219, 175
+  orig: 350, 305
+  offset: 71, 58
+  index: -1
+add_01
+  rotate: false
+  xy: 522, 16
+  size: 250, 197
+  orig: 350, 305
+  offset: 56, 56
+  index: -1
+add_02
+  rotate: false
+  xy: 626, 534
+  size: 281, 217
+  orig: 350, 305
+  offset: 40, 55
+  index: -1
+add_03
+  rotate: false
+  xy: 2, 764
+  size: 312, 238
+  orig: 350, 305
+  offset: 25, 54
+  index: -1
+add_04
+  rotate: true
+  xy: 2, 448
+  size: 314, 236
+  orig: 350, 305
+  offset: 24, 53
+  index: -1
+add_06
+  rotate: false
+  xy: 316, 767
+  size: 314, 235
+  orig: 350, 305
+  offset: 24, 45
+  index: -1
+add_08
+  rotate: true
+  xy: 2, 148
+  size: 298, 236
+  orig: 350, 305
+  offset: 30, 38
+  index: -1
+add_10
+  rotate: false
+  xy: 1220, 762
+  size: 290, 240
+  orig: 350, 305
+  offset: 31, 32
+  index: -1
+add_12
+  rotate: false
+  xy: 632, 753
+  size: 297, 249
+  orig: 350, 305
+  offset: 25, 28
+  index: -1
+add_14
+  rotate: false
+  xy: 931, 746
+  size: 287, 256
+  orig: 350, 305
+  offset: 19, 25
+  index: -1
+diceng_12
+  rotate: false
+  xy: 1154, 159
+  size: 223, 85
+  orig: 280, 175
+  offset: 17, 50
+  index: -1
+diceng_14
+  rotate: false
+  xy: 626, 215
+  size: 263, 121
+  orig: 280, 175
+  offset: 0, 35
+  index: -1
+diceng_16
+  rotate: false
+  xy: 1205, 425
+  size: 253, 126
+  orig: 280, 175
+  offset: 13, 32
+  index: -1
+diceng_18
+  rotate: false
+  xy: 891, 195
+  size: 261, 136
+  orig: 280, 175
+  offset: 11, 26
+  index: -1
+diceng_20
+  rotate: false
+  xy: 2, 2
+  size: 264, 144
+  orig: 280, 175
+  offset: 10, 19
+  index: -1
+diceng_22
+  rotate: true
+  xy: 1808, 513
+  size: 266, 145
+  orig: 280, 175
+  offset: 11, 19
+  index: -1
+diceng_24
+  rotate: true
+  xy: 1803, 287
+  size: 224, 134
+  orig: 280, 175
+  offset: 7, 14
+  index: -1
+diceng_26
+  rotate: true
+  xy: 1811, 781
+  size: 221, 137
+  orig: 280, 175
+  offset: 9, 13
+  index: -1
+diceng_28
+  rotate: true
+  xy: 1379, 2
+  size: 199, 124
+  orig: 280, 175
+  offset: 23, 19
+  index: -1
+diceng_30
+  rotate: true
+  xy: 774, 27
+  size: 186, 115
+  orig: 280, 175
+  offset: 33, 19
+  index: -1
+xialuo_00
+  rotate: true
+  xy: 1792, 191
+  size: 94, 136
+  orig: 260, 360
+  offset: 15, 222
+  index: -1
+xialuo_01
+  rotate: false
+  xy: 1660, 206
+  size: 130, 172
+  orig: 260, 360
+  offset: 41, 146
+  index: -1
+xialuo_02
+  rotate: true
+  xy: 1147, 2
+  size: 155, 196
+  orig: 260, 360
+  offset: 41, 105
+  index: -1
+xialuo_03
+  rotate: false
+  xy: 455, 515
+  size: 169, 250
+  orig: 260, 360
+  offset: 37, 58
+  index: -1
+xialuo_04
+  rotate: true
+  xy: 1193, 246
+  size: 177, 244
+  orig: 260, 360
+  offset: 41, 60
+  index: -1
+xialuo_05
+  rotate: true
+  xy: 1220, 553
+  size: 207, 286
+  orig: 260, 360
+  offset: 38, 23
+  index: -1
+xialuo_07
+  rotate: true
+  xy: 1512, 787
+  size: 215, 297
+  orig: 260, 360
+  offset: 33, 20
+  index: -1
+xialuo_09
+  rotate: false
+  xy: 240, 466
+  size: 213, 296
+  orig: 260, 360
+  offset: 33, 22
+  index: -1
+yanwu_00
+  rotate: false
+  xy: 891, 16
+  size: 254, 177
+  orig: 315, 250
+  offset: 46, 47
+  index: -1
+yanwu_02
+  rotate: false
+  xy: 626, 338
+  size: 282, 194
+  orig: 315, 250
+  offset: 23, 34
+  index: -1
+yanwu_04
+  rotate: false
+  xy: 910, 333
+  size: 281, 206
+  orig: 315, 250
+  offset: 19, 24
+  index: -1
+yanwu_06
+  rotate: true
+  xy: 240, 174
+  size: 290, 211
+  orig: 315, 250
+  offset: 13, 19
+  index: -1
+yanwu_08
+  rotate: false
+  xy: 909, 541
+  size: 294, 203
+  orig: 315, 250
+  offset: 9, 17
+  index: -1
+yanwu_10
+  rotate: false
+  xy: 1508, 380
+  size: 293, 203
+  orig: 315, 250
+  offset: 7, 14
+  index: -1
+yanwu_12
+  rotate: false
+  xy: 1512, 585
+  size: 294, 200
+  orig: 315, 250
+  offset: 8, 12
+  index: -1
+yanwu_14
+  rotate: false
+  xy: 268, 5
+  size: 252, 167
+  orig: 315, 250
+  offset: 53, 40
+  index: -1
+yanwu_16
+  rotate: true
+  xy: 453, 273
+  size: 191, 171
+  orig: 315, 250
+  offset: 50, 38
+  index: -1
+yanwu_18
+  rotate: true
+  xy: 1505, 8
+  size: 193, 174
+  orig: 315, 250
+  offset: 49, 36
+  index: -1
+yanwu_20
+  rotate: true
+  xy: 1681, 43
+  size: 161, 94
+  orig: 315, 250
+  offset: 54, 116
+  index: -1

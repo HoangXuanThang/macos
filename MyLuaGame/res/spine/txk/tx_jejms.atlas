@@ -1,0 +1,83 @@
+
+tx_jejms.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuang
+  rotate: false
+  xy: 304, 88
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+shui01
+  rotate: false
+  xy: 464, 146
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+shui02
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+shui03
+  rotate: false
+  xy: 566, 146
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+shui04
+  rotate: false
+  xy: 104, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+shui05
+  rotate: false
+  xy: 668, 146
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+shui06
+  rotate: false
+  xy: 770, 146
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+shui07
+  rotate: false
+  xy: 872, 146
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+shui08
+  rotate: false
+  xy: 464, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+wp2
+  rotate: false
+  xy: 2, 104
+  size: 280, 70
+  orig: 280, 70
+  offset: 0, 0
+  index: -1
+wp3
+  rotate: false
+  xy: 2, 176
+  size: 300, 70
+  orig: 300, 70
+  offset: 0, 0
+  index: -1

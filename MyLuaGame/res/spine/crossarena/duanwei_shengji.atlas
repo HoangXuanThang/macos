@@ -1,0 +1,13 @@
+
+duanwei_shengji.png
+size: 202,202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/guangyun
+  rotate: false
+  xy: 1, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

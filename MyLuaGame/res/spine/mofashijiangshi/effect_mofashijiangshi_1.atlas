@@ -1,0 +1,48 @@
+
+effect_mofashijiangshi_1.png
+size: 340, 277
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+zhangjiao_skill03/00
+  rotate: true
+  xy: 306, 47
+  size: 106, 29
+  orig: 150, 150
+  offset: 28, 5
+  index: -1
+zhangjiao_skill03/01
+  rotate: true
+  xy: 306, 155
+  size: 120, 32
+  orig: 150, 150
+  offset: 19, 3
+  index: -1
+zhangjiao_skill03/02
+  rotate: true
+  xy: 2, 5
+  size: 128, 148
+  orig: 150, 150
+  offset: 13, 2
+  index: -1
+zhangjiao_skill03/03
+  rotate: true
+  xy: 154, 2
+  size: 134, 150
+  orig: 150, 150
+  offset: 9, 0
+  index: -1
+zhangjiao_skill03/04
+  rotate: true
+  xy: 154, 138
+  size: 137, 150
+  orig: 150, 150
+  offset: 8, 0
+  index: -1
+zhangjiao_skill03/05
+  rotate: true
+  xy: 2, 135
+  size: 140, 150
+  orig: 150, 150
+  offset: 7, 0
+  index: -1

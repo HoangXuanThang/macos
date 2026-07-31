@@ -1,0 +1,27 @@
+
+getizhi.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TX/TX_S1_szgh_0052
+  rotate: false
+  xy: 2, 48
+  size: 154, 140
+  orig: 154, 140
+  offset: 0, 0
+  index: -1
+images/TX/guangze
+  rotate: true
+  xy: 2, 2
+  size: 44, 178
+  orig: 44, 178
+  offset: 0, 0
+  index: -1
+images/wanmei
+  rotate: true
+  xy: 158, 74
+  size: 114, 67
+  orig: 114, 67
+  offset: 0, 0
+  index: -1

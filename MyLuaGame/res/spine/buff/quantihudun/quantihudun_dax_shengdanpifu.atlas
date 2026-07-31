@@ -1,0 +1,118 @@
+
+quantihudun_dax_shengdanpifu.png
+size: 1354,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/TX_A_x1
+  rotate: true
+  xy: 637, 1
+  size: 198, 184
+  orig: 198, 184
+  offset: 0, 0
+  index: -1
+TX/bingchen2_3
+  rotate: false
+  xy: 1056, 15
+  size: 273, 194
+  orig: 295, 216
+  offset: 22, 9
+  index: -1
+TX/shouji9_1
+  rotate: true
+  xy: 1192, 258
+  size: 263, 161
+  orig: 263, 161
+  offset: 0, 0
+  index: -1
+TX/shouji9_2
+  rotate: true
+  xy: 1005, 211
+  size: 310, 185
+  orig: 310, 185
+  offset: 0, 0
+  index: -1
+TX/shouji9_3
+  rotate: true
+  xy: 818, 206
+  size: 315, 185
+  orig: 315, 185
+  offset: 0, 0
+  index: -1
+TX/shouji9_4
+  rotate: true
+  xy: 637, 201
+  size: 320, 179
+  orig: 320, 179
+  offset: 0, 0
+  index: -1
+TX/suipian4_1
+  rotate: false
+  xy: 513, 44
+  size: 55, 65
+  orig: 76, 76
+  offset: 11, 2
+  index: -1
+TX/suipian4_2
+  rotate: false
+  xy: 326, 33
+  size: 61, 76
+  orig: 76, 76
+  offset: 6, 0
+  index: -1
+TX/suipian4_3
+  rotate: false
+  xy: 262, 33
+  size: 62, 76
+  orig: 76, 76
+  offset: 5, 0
+  index: -1
+TX/suipian4_4
+  rotate: false
+  xy: 389, 37
+  size: 62, 72
+  orig: 76, 76
+  offset: 5, 4
+  index: -1
+TX/suipian4_5
+  rotate: false
+  xy: 453, 44
+  size: 58, 65
+  orig: 76, 76
+  offset: 8, 11
+  index: -1
+TX/suipian4_6
+  rotate: false
+  xy: 570, 51
+  size: 56, 58
+  orig: 76, 76
+  offset: 9, 16
+  index: -1
+TX/z_baoshi
+  rotate: true
+  xy: 1, 26
+  size: 83, 259
+  orig: 83, 259
+  offset: 0, 0
+  index: -1
+hei
+  rotate: true
+  xy: 1, 17
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+hz
+  rotate: false
+  xy: 823, 8
+  size: 231, 196
+  orig: 231, 196
+  offset: 0, 0
+  index: -1
+lan_gq
+  rotate: true
+  xy: 1, 111
+  size: 410, 634
+  orig: 410, 634
+  offset: 0, 0
+  index: -1

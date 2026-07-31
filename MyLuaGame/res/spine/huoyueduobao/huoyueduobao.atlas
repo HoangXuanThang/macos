@@ -1,0 +1,76 @@
+
+huoyueduobao.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaoti1
+  rotate: false
+  xy: 1469, 286
+  size: 434, 215
+  orig: 434, 215
+  offset: 0, 0
+  index: -1
+biaoti2
+  rotate: false
+  xy: 1469, 69
+  size: 434, 215
+  orig: 434, 215
+  offset: 0, 0
+  index: -1
+daoguang_1
+  rotate: false
+  xy: 1905, 101
+  size: 105, 400
+  orig: 105, 400
+  offset: 0, 0
+  index: -1
+deng1
+  rotate: true
+  xy: 938, 34
+  size: 33, 676
+  orig: 33, 676
+  offset: 0, 0
+  index: -1
+deng2
+  rotate: false
+  xy: 938, 10
+  size: 902, 22
+  orig: 902, 22
+  offset: 0, 0
+  index: -1
+guangguan
+  rotate: false
+  xy: 634, 243
+  size: 833, 258
+  orig: 833, 258
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 2, 187
+  size: 316, 314
+  orig: 316, 314
+  offset: 0, 0
+  index: -1
+sg
+  rotate: false
+  xy: 320, 190
+  size: 312, 311
+  orig: 312, 311
+  offset: 0, 0
+  index: -1
+sparks_06_00003
+  rotate: false
+  xy: 320, 95
+  size: 150, 93
+  orig: 150, 93
+  offset: 0, 0
+  index: -1
+xuankuang
+  rotate: false
+  xy: 634, 2
+  size: 302, 239
+  orig: 302, 239
+  offset: 0, 0
+  index: -1

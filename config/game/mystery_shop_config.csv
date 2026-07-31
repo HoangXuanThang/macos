@@ -1,0 +1,4 @@
+﻿VariableName,stamina_weight_max,stamina_weight_min,daily_active_times,shop_exist_time,shop_cd_time,min_level
+Defaults,0.06,0.04,5,3600,3600,30
+ID,权值上限,权值下限,每日激活次数,商店存在时间,商店冷却时间,触发最低等级
+1,,0.02,3,,,25

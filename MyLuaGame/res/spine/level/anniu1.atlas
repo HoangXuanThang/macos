@@ -1,0 +1,146 @@
+
+anniu1.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/_NavigationFire_00829
+  rotate: false
+  xy: 118, 37
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+TX/_NavigationFire_00830
+  rotate: true
+  xy: 293, 48
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+TX/_NavigationFire_00831
+  rotate: false
+  xy: 962, 205
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+TX/_NavigationFire_00832
+  rotate: false
+  xy: 815, 193
+  size: 73, 61
+  orig: 73, 61
+  offset: 0, 0
+  index: -1
+TX/energy_06_00001
+  rotate: false
+  xy: 2, 38
+  size: 114, 46
+  orig: 114, 46
+  offset: 0, 0
+  index: -1
+TX/energy_28_00009
+  rotate: false
+  xy: 587, 148
+  size: 117, 106
+  orig: 117, 106
+  offset: 0, 0
+  index: -1
+TX/guangyun
+  rotate: false
+  xy: 465, 134
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+TX/skill2_2_1
+  rotate: false
+  xy: 175, 45
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+baidian
+  rotate: true
+  xy: 61, 2
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+baikuang
+  rotate: false
+  xy: 172, 106
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+f_heidi
+  rotate: false
+  xy: 706, 211
+  size: 107, 43
+  orig: 107, 43
+  offset: 0, 0
+  index: -1
+f_hongkuang
+  rotate: false
+  xy: 706, 166
+  size: 106, 43
+  orig: 106, 43
+  offset: 0, 0
+  index: -1
+hongdian
+  rotate: false
+  xy: 814, 161
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+jinglingbiao
+  rotate: true
+  xy: 890, 196
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+neiyuan1
+  rotate: false
+  xy: 322, 112
+  size: 141, 142
+  orig: 141, 142
+  offset: 0, 0
+  index: -1
+sanjiao
+  rotate: false
+  xy: 400, 61
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+waiguang1
+  rotate: true
+  xy: 2, 2
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
+waikuangdi
+  rotate: false
+  xy: 2, 86
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+xing1
+  rotate: false
+  xy: 236, 50
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+xing_wu
+  rotate: false
+  xy: 343, 56
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1

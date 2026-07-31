@@ -1,0 +1,48 @@
+
+hero_heiyemoling2.png
+size: 957,189
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/skill1_0100031
+  rotate: true
+  xy: 548, 15
+  size: 173, 166
+  orig: 180, 180
+  offset: 3, 7
+  index: -1
+tx/yuzhou/heidonghei
+  rotate: true
+  xy: 716, 1
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+tx/yuzhou/heidonghei2
+  rotate: true
+  xy: 834, 68
+  size: 120, 122
+  orig: 120, 122
+  offset: 0, 0
+  index: -1
+tx/yuzhou/xingyun3
+  rotate: false
+  xy: 1, 16
+  size: 277, 172
+  orig: 277, 172
+  offset: 0, 0
+  index: -1
+tx/yuzhou/xingyun4
+  rotate: false
+  xy: 280, 21
+  size: 266, 167
+  orig: 266, 167
+  offset: 0, 0
+  index: -1
+tx/yuzhou/xinhe
+  rotate: true
+  xy: 716, 33
+  size: 155, 116
+  orig: 155, 116
+  offset: 0, 0
+  index: -1

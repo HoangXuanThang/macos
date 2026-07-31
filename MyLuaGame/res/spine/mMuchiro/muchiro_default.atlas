@@ -1,0 +1,258 @@
+
+muchiro_default.png
+size: 2481, 555
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1
+  rotate: true
+  xy: 596, 42
+  size: 511, 108
+  orig: 517, 108
+  offset: 6, 0
+  index: -1
+10
+  rotate: true
+  xy: 2, 14
+  size: 539, 592
+  orig: 539, 592
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 2126, 8
+  size: 74, 139
+  orig: 74, 139
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 2292, 224
+  size: 166, 156
+  orig: 166, 156
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 775, 12
+  size: 58, 121
+  orig: 58, 121
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 2167, 230
+  size: 133, 112
+  orig: 133, 112
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2167, 149
+  size: 79, 109
+  orig: 79, 109
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 856, 73
+  size: 274, 88
+  orig: 274, 88
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 706, 2
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 1132, 73
+  size: 145, 107
+  orig: 148, 107
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2371, 115
+  size: 108, 107
+  orig: 108, 107
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1674, 225
+  size: 91, 87
+  orig: 91, 87
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1861, 225
+  size: 144, 92
+  orig: 144, 92
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 2202, 10
+  size: 137, 102
+  orig: 137, 103
+  offset: 0, 1
+  index: -1
+t
+  rotate: true
+  xy: 2292, 382
+  size: 171, 177
+  orig: 172, 178
+  offset: 0, 1
+  index: -1
+tf1
+  rotate: false
+  xy: 2156, 365
+  size: 134, 188
+  orig: 134, 188
+  offset: 0, 0
+  index: -1
+tf10
+  rotate: true
+  xy: 1241, 4
+  size: 214, 180
+  orig: 214, 180
+  offset: 0, 0
+  index: -1
+tf11
+  rotate: true
+  xy: 1423, 12
+  size: 210, 144
+  orig: 210, 144
+  offset: 0, 0
+  index: -1
+tf12
+  rotate: false
+  xy: 1777, 319
+  size: 224, 234
+  orig: 224, 234
+  offset: 0, 0
+  index: -1
+tf13
+  rotate: true
+  xy: 898, 16
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+tf14
+  rotate: true
+  xy: 1569, 22
+  size: 200, 128
+  orig: 200, 128
+  offset: 0, 0
+  index: -1
+tf15
+  rotate: false
+  xy: 2007, 225
+  size: 158, 133
+  orig: 158, 133
+  offset: 0, 0
+  index: -1
+tf16
+  rotate: true
+  xy: 1891, 29
+  size: 194, 76
+  orig: 194, 76
+  offset: 0, 0
+  index: -1
+tf2
+  rotate: true
+  xy: 2306, 12
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+tf3
+  rotate: true
+  xy: 2278, 149
+  size: 73, 91
+  orig: 73, 91
+  offset: 0, 0
+  index: -1
+tf4
+  rotate: true
+  xy: 1767, 229
+  size: 83, 92
+  orig: 83, 92
+  offset: 0, 0
+  index: -1
+tf5
+  rotate: false
+  xy: 596, 7
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+tf6
+  rotate: true
+  xy: 1969, 30
+  size: 193, 155
+  orig: 193, 155
+  offset: 0, 0
+  index: -1
+tf7
+  rotate: false
+  xy: 954, 19
+  size: 214, 52
+  orig: 214, 52
+  offset: 0, 0
+  index: -1
+tf8
+  rotate: true
+  xy: 1699, 26
+  size: 197, 190
+  orig: 201, 190
+  offset: 0, 0
+  index: -1
+tf9
+  rotate: true
+  xy: 2003, 360
+  size: 193, 151
+  orig: 193, 151
+  offset: 0, 0
+  index: -1
+yh1
+  rotate: true
+  xy: 856, 163
+  size: 390, 259
+  orig: 390, 259
+  offset: 0, 0
+  index: -1
+yh2
+  rotate: true
+  xy: 706, 72
+  size: 481, 148
+  orig: 481, 148
+  offset: 0, 0
+  index: -1
+yq1
+  rotate: false
+  xy: 1353, 224
+  size: 319, 329
+  orig: 319, 329
+  offset: 0, 0
+  index: -1
+yq2
+  rotate: true
+  xy: 1117, 220
+  size: 333, 234
+  orig: 333, 234
+  offset: 0, 0
+  index: -1
+yq3
+  rotate: true
+  xy: 1674, 314
+  size: 239, 101
+  orig: 239, 101
+  offset: 0, 0
+  index: -1

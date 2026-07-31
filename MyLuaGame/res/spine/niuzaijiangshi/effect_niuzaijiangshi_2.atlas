@@ -1,0 +1,62 @@
+
+effect_niuzaijiangshi_2.png
+size: 269, 452
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+dian01
+  rotate: true
+  xy: 128, 36
+  size: 88, 96
+  orig: 160, 160
+  offset: 36, 32
+  index: -1
+dian02
+  rotate: false
+  xy: 2, 98
+  size: 124, 116
+  orig: 160, 160
+  offset: 24, 29
+  index: -1
+dian03
+  rotate: false
+  xy: 2, 316
+  size: 160, 134
+  orig: 160, 160
+  offset: 0, 20
+  index: -1
+dianbao01
+  rotate: false
+  xy: 2, 216
+  size: 159, 98
+  orig: 160, 132
+  offset: 0, 17
+  index: -1
+dianbao02
+  rotate: true
+  xy: 163, 126
+  size: 113, 101
+  orig: 160, 132
+  offset: 23, 16
+  index: -1
+dianbao03
+  rotate: false
+  xy: 164, 350
+  size: 103, 100
+  orig: 160, 132
+  offset: 28, 16
+  index: -1
+dianbao04
+  rotate: true
+  xy: 164, 241
+  size: 107, 102
+  orig: 160, 132
+  offset: 26, 15
+  index: -1
+dianbao05
+  rotate: false
+  xy: 2, 2
+  size: 94, 94
+  orig: 160, 132
+  offset: 33, 19
+  index: -1

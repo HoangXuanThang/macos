@@ -1,0 +1,272 @@
+
+lihui_meipulu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 1177
+  size: 1118, 857
+  orig: 1118, 857
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 1181, 173
+  size: 120, 54
+  orig: 120, 54
+  offset: 0, 0
+  index: -1
+dunpai
+  rotate: true
+  xy: 1122, 1713
+  size: 321, 892
+  orig: 321, 892
+  offset: 0, 0
+  index: -1
+houkuijia
+  rotate: false
+  xy: 1178, 528
+  size: 345, 359
+  orig: 345, 359
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: false
+  xy: 1181, 59
+  size: 55, 112
+  orig: 55, 112
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 123
+  size: 846, 1052
+  orig: 846, 1052
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: true
+  xy: 1767, 1431
+  size: 280, 278
+  orig: 280, 278
+  offset: 0, 0
+  index: -1
+texiao10
+  rotate: false
+  xy: 2016, 1843
+  size: 20, 191
+  orig: 20, 191
+  offset: 0, 0
+  index: -1
+texiao11
+  rotate: true
+  xy: 570, 50
+  size: 71, 295
+  orig: 71, 295
+  offset: 0, 0
+  index: -1
+texiao12
+  rotate: false
+  xy: 1705, 624
+  size: 159, 34
+  orig: 159, 34
+  offset: 0, 0
+  index: -1
+texiao13
+  rotate: false
+  xy: 1064, 7
+  size: 59, 227
+  orig: 59, 227
+  offset: 0, 0
+  index: -1
+texiao14
+  rotate: true
+  xy: 1525, 447
+  size: 519, 55
+  orig: 519, 55
+  offset: 0, 0
+  index: -1
+texiao15
+  rotate: false
+  xy: 570, 6
+  size: 265, 42
+  orig: 265, 42
+  offset: 0, 0
+  index: -1
+texiao16
+  rotate: true
+  xy: 1032, 562
+  size: 61, 144
+  orig: 61, 144
+  offset: 0, 0
+  index: -1
+texiao17_1
+  rotate: false
+  xy: 1032, 625
+  size: 144, 550
+  orig: 144, 550
+  offset: 0, 0
+  index: -1
+texiao18
+  rotate: true
+  xy: 1705, 660
+  size: 306, 162
+  orig: 306, 162
+  offset: 0, 0
+  index: -1
+texiao19
+  rotate: false
+  xy: 1030, 236
+  size: 157, 290
+  orig: 157, 290
+  offset: 0, 0
+  index: -1
+texiao2
+  rotate: false
+  xy: 2, 2
+  size: 566, 119
+  orig: 566, 119
+  offset: 0, 0
+  index: -1
+texiao20
+  rotate: true
+  xy: 1998, 1082
+  size: 187, 46
+  orig: 187, 46
+  offset: 0, 0
+  index: -1
+texiao3
+  rotate: false
+  xy: 1520, 968
+  size: 202, 315
+  orig: 202, 315
+  offset: 0, 0
+  index: -1
+texiao4
+  rotate: true
+  xy: 850, 545
+  size: 630, 180
+  orig: 630, 180
+  offset: 0, 0
+  index: -1
+texiao5_1
+  rotate: true
+  xy: 1125, 7
+  size: 227, 54
+  orig: 227, 54
+  offset: 0, 0
+  index: -1
+texiao5_2
+  rotate: true
+  xy: 1425, 360
+  size: 166, 57
+  orig: 166, 57
+  offset: 0, 0
+  index: -1
+texiao7
+  rotate: false
+  xy: 1178, 889
+  size: 340, 366
+  orig: 340, 366
+  offset: 0, 0
+  index: -1
+texiao8
+  rotate: false
+  xy: 1869, 754
+  size: 177, 255
+  orig: 177, 255
+  offset: 0, 0
+  index: -1
+texiao9
+  rotate: false
+  xy: 1582, 596
+  size: 121, 370
+  orig: 121, 370
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 850, 150
+  size: 70, 212
+  orig: 70, 212
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 1189, 229
+  size: 130, 189
+  orig: 130, 189
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 1122, 1227
+  size: 53, 28
+  orig: 53, 28
+  offset: 0, 0
+  index: -1
+xiabai1
+  rotate: true
+  xy: 1767, 1271
+  size: 158, 277
+  orig: 158, 277
+  offset: 0, 0
+  index: -1
+xiabai2
+  rotate: false
+  xy: 850, 222
+  size: 178, 321
+  orig: 178, 321
+  offset: 0, 0
+  index: -1
+xiabai3
+  rotate: false
+  xy: 1455, 1285
+  size: 310, 426
+  orig: 310, 426
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: false
+  xy: 1189, 361
+  size: 234, 165
+  orig: 234, 165
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: false
+  xy: 1869, 676
+  size: 164, 76
+  orig: 164, 76
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 1724, 1011
+  size: 272, 258
+  orig: 272, 258
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: false
+  xy: 867, 39
+  size: 195, 109
+  orig: 195, 109
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: false
+  xy: 1582, 424
+  size: 135, 170
+  orig: 135, 170
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 1122, 1257
+  size: 331, 454
+  orig: 331, 454
+  offset: 0, 0
+  index: -1

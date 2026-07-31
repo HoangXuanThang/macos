@@ -1,0 +1,41 @@
+
+qusan.png
+size: 652,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/daoguang_1
+  rotate: true
+  xy: 1, 134
+  size: 105, 400
+  orig: 105, 400
+  offset: 0, 0
+  index: -1
+images/guangmu
+  rotate: true
+  xy: 1, 27
+  size: 105, 190
+  orig: 105, 190
+  offset: 0, 0
+  index: -1
+images/guangyun1
+  rotate: false
+  xy: 193, 31
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+images/lizi6_4
+  rotate: true
+  xy: 403, 1
+  size: 238, 248
+  orig: 238, 248
+  offset: 0, 0
+  index: -1
+images/xing1
+  rotate: false
+  xy: 296, 66
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,209 @@
+
+effect_tiannvshou_3.png
+size: 246, 1013
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+dd_4
+  rotate: false
+  xy: 198, 46
+  size: 42, 42
+  orig: 50, 50
+  offset: 4, 4
+  index: -1
+g2
+  rotate: true
+  xy: 2, 82
+  size: 85, 133
+  orig: 100, 147
+  offset: 8, 10
+  index: -1
+quan26
+  rotate: false
+  xy: 2, 528
+  size: 175, 175
+  orig: 200, 200
+  offset: 13, 12
+  index: -1
+tpystx
+  rotate: true
+  xy: 176, 265
+  size: 96, 68
+  orig: 100, 72
+  offset: 2, 2
+  index: -1
+tx_hb02
+  rotate: false
+  xy: 51, 8
+  size: 44, 72
+  orig: 50, 100
+  offset: 2, 1
+  index: -1
+tx_hb03
+  rotate: false
+  xy: 2, 2
+  size: 47, 78
+  orig: 50, 100
+  offset: 1, 11
+  index: -1
+tx_hb04
+  rotate: false
+  xy: 97, 9
+  size: 49, 71
+  orig: 50, 100
+  offset: 1, 23
+  index: -1
+tx_hb05
+  rotate: true
+  xy: 179, 443
+  size: 48, 62
+  orig: 50, 100
+  offset: 2, 35
+  index: -1
+tx_hb06
+  rotate: true
+  xy: 184, 808
+  size: 48, 56
+  orig: 50, 100
+  offset: 2, 44
+  index: -1
+tx_hb07
+  rotate: false
+  xy: 148, 44
+  size: 48, 44
+  orig: 50, 100
+  offset: 2, 56
+  index: -1
+tx_hb08
+  rotate: true
+  xy: 137, 121
+  size: 46, 36
+  orig: 50, 100
+  offset: 1, 64
+  index: -1
+tx_sd101
+  rotate: true
+  xy: 137, 93
+  size: 26, 29
+  orig: 66, 80
+  offset: 23, 14
+  index: -1
+tx_sd102
+  rotate: true
+  xy: 175, 216
+  size: 47, 68
+  orig: 66, 80
+  offset: 3, 9
+  index: -1
+tx_sd103
+  rotate: false
+  xy: 175, 90
+  size: 52, 74
+  orig: 66, 80
+  offset: 2, 6
+  index: -1
+tx_sd104
+  rotate: false
+  xy: 184, 858
+  size: 60, 77
+  orig: 66, 80
+  offset: 1, 3
+  index: -1
+tx_sd105
+  rotate: false
+  xy: 178, 363
+  size: 61, 78
+  orig: 66, 80
+  offset: 2, 1
+  index: -1
+tx_sd106
+  rotate: false
+  xy: 179, 565
+  size: 63, 69
+  orig: 66, 80
+  offset: 2, 0
+  index: -1
+tx_sd107
+  rotate: false
+  xy: 179, 493
+  size: 62, 70
+  orig: 66, 80
+  offset: 3, 0
+  index: -1
+tx_sd108
+  rotate: false
+  xy: 175, 166
+  size: 61, 48
+  orig: 66, 80
+  offset: 3, 0
+  index: -1
+tx_shdian02
+  rotate: false
+  xy: 194, 937
+  size: 50, 74
+  orig: 100, 200
+  offset: 22, 124
+  index: -1
+tx_shdian03
+  rotate: true
+  xy: 2, 951
+  size: 60, 190
+  orig: 100, 200
+  offset: 22, 0
+  index: -1
+tx_shdian04
+  rotate: true
+  xy: 2, 390
+  size: 61, 174
+  orig: 100, 200
+  offset: 26, 7
+  index: -1
+tx_shdian05
+  rotate: true
+  xy: 2, 453
+  size: 73, 175
+  orig: 100, 200
+  offset: 14, 2
+  index: -1
+tx_shdian06
+  rotate: true
+  xy: 2, 219
+  size: 81, 171
+  orig: 100, 200
+  offset: 10, 1
+  index: -1
+tx_shdian07
+  rotate: true
+  xy: 2, 705
+  size: 68, 176
+  orig: 100, 200
+  offset: 13, 2
+  index: -1
+tx_shdian08
+  rotate: true
+  xy: 2, 302
+  size: 86, 172
+  orig: 100, 200
+  offset: 14, 3
+  index: -1
+tx_shdian10
+  rotate: true
+  xy: 2, 169
+  size: 48, 171
+  orig: 100, 200
+  offset: 22, 6
+  index: -1
+tx_shdian12
+  rotate: false
+  xy: 184, 636
+  size: 53, 170
+  orig: 100, 200
+  offset: 21, 5
+  index: -1
+tx_xlh
+  rotate: true
+  xy: 2, 775
+  size: 174, 180
+  orig: 216, 195
+  offset: 21, 4
+  index: -1

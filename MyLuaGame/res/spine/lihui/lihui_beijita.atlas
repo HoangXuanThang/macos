@@ -1,0 +1,167 @@
+
+lihui_beijita.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1 (1)
+  rotate: true
+  xy: 893, 100
+  size: 194, 147
+  orig: 194, 147
+  offset: 0, 0
+  index: -1
+1 (2)
+  rotate: true
+  xy: 1882, 828
+  size: 194, 147
+  orig: 194, 147
+  offset: 0, 0
+  index: -1
+1 (3)
+  rotate: false
+  xy: 1279, 355
+  size: 194, 147
+  orig: 194, 147
+  offset: 0, 0
+  index: -1
+1 (4)
+  rotate: false
+  xy: 1566, 486
+  size: 194, 147
+  orig: 194, 147
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 296
+  size: 782, 726
+  orig: 782, 726
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 25
+  size: 269, 369
+  orig: 269, 369
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 1046, 328
+  size: 174, 231
+  orig: 174, 231
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 1042, 122
+  size: 94, 206
+  orig: 94, 206
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 1762, 460
+  size: 132, 173
+  orig: 132, 173
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: true
+  xy: 1279, 282
+  size: 71, 212
+  orig: 71, 212
+  offset: 0, 0
+  index: -1
+toufa5
+  rotate: true
+  xy: 1046, 218
+  size: 108, 213
+  orig: 108, 213
+  offset: 0, 0
+  index: -1
+toufa6
+  rotate: false
+  xy: 1042, 2
+  size: 160, 118
+  orig: 160, 118
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 1566, 635
+  size: 269, 127
+  orig: 269, 127
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 786, 816
+  size: 314, 206
+  orig: 314, 206
+  offset: 0, 0
+  index: -1
+闪电BUFF/1
+  rotate: false
+  xy: 373, 36
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
+闪电BUFF/2
+  rotate: false
+  xy: 786, 556
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
+闪电BUFF/3
+  rotate: false
+  xy: 786, 296
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
+闪电BUFF/4
+  rotate: false
+  xy: 633, 36
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
+闪电BUFF/5
+  rotate: false
+  xy: 1102, 764
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
+闪电BUFF/6
+  rotate: false
+  xy: 1362, 764
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
+闪电BUFF/7
+  rotate: false
+  xy: 1622, 764
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
+闪电BUFF/8
+  rotate: false
+  xy: 1046, 504
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
+闪电BUFF/9
+  rotate: false
+  xy: 1306, 504
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1

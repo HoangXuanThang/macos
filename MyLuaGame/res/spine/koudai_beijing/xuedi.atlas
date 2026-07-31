@@ -1,0 +1,104 @@
+
+xuedi.png
+size: 1270,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bj1
+  rotate: false
+  xy: 957, 96
+  size: 273, 106
+  orig: 273, 106
+  offset: 0, 0
+  index: -1
+images/cao4
+  rotate: false
+  xy: 1232, 133
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+images/dayan2
+  rotate: true
+  xy: 961, 2
+  size: 92, 156
+  orig: 92, 156
+  offset: 0, 0
+  index: -1
+images/diimian_qian
+  rotate: false
+  xy: 1, 96
+  size: 480, 106
+  orig: 480, 106
+  offset: 0, 0
+  index: -1
+images/dimian_hou
+  rotate: false
+  xy: 1, 2
+  size: 480, 92
+  orig: 480, 92
+  offset: 0, 0
+  index: -1
+images/dimian_zhong
+  rotate: false
+  xy: 483, 91
+  size: 472, 111
+  orig: 472, 111
+  offset: 0, 0
+  index: -1
+images/hei
+  rotate: false
+  xy: 784, 24
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+images/p_lx0101
+  rotate: false
+  xy: 1232, 165
+  size: 37, 37
+  orig: 38, 38
+  offset: 1, 1
+  index: -1
+images/shan1
+  rotate: false
+  xy: 643, 1
+  size: 139, 28
+  orig: 139, 31
+  offset: 0, 0
+  index: -1
+images/shi1
+  rotate: false
+  xy: 1119, 28
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+images/shi5
+  rotate: false
+  xy: 815, 13
+  size: 144, 76
+  orig: 144, 76
+  offset: 0, 0
+  index: -1
+images/shu4
+  rotate: true
+  xy: 643, 31
+  size: 58, 170
+  orig: 58, 170
+  offset: 0, 0
+  index: -1
+images/shuzhi2
+  rotate: true
+  xy: 483, 3
+  size: 86, 158
+  orig: 86, 158
+  offset: 0, 0
+  index: -1
+images/shuzhi4
+  rotate: true
+  xy: 1202, 23
+  size: 71, 46
+  orig: 71, 46
+  offset: 0, 0
+  index: -1

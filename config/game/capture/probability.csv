@@ -1,0 +1,13 @@
+﻿VariableName,probability,desc,desc_vn,desc_tw,desc_en,desc_th,desc_in,desc_ph,desc_ma
+Defaults,0,"""""","""""","""""","""""","""""","""""","""""",""""""
+ID,最大等级,文本描述,desc_vn,文本描述,desc_en,desc_th,desc_in,desc_ph,desc_ma
+1,100,Guaranteed success,Chắc chắn thành công,,Guaranteed success,รับประกันความสำเร็จ,Keberhasilan dijamin,Tagumpay na garantisado,Jaminan kejayaan
+2,90,Almost guaranteed success,Gần như chắc chắn thành công,,Almost guaranteed success,เกือบรับประกันความสำเร็จ,Keberhasilan hampir dijamin,Halos garantisadong tagumpay,Hampir jaminan kejayaan
+3,80,Extremely high success rate,Tỷ lệ thành công cực cao,,Extremely high success rate,อัตราความสำเร็จสูงมาก,Tingkat keberhasilan sangat tinggi,Napakataas na porsyento ng tagumpay,Kadar kejayaan sangat tinggi
+4,70,Very high success rate,Tỷ lệ thành công rất cao,,Very high success rate,อัตราความสำเร็จสูงมาก,Tingkat keberhasilan sangat tinggi,Napakataas na porsyento ng tagumpay,Kadar kejayaan tinggi
+5,50,High success rate,Tỷ lệ thành công cao,,High success rate,อัตราความสำเร็จสูง,Tingkat keberhasilan tinggi,Mataas na porsyento ng tagumpay,Kadar kejayaan tinggi
+6,40,Above average success rate,Tỷ lệ thành công trên trung bình,,Above average success rate,อัตราความสำเร็จสูงกว่าค่าเฉลี่ย,Tingkat keberhasilan di atas rata-rata,Porsyento ng tagumpay na higit sa karaniwan,Kadar kejayaan di atas purata
+7,20,Average success rate,Tỷ lệ thành công trung bình,,Average success rate,อัตราความสำเร็จเฉลี่ย,Tingkat keberhasilan rata-rata,Porsyento ng karaniwang tagumpay,Kadar kejayaan purata
+8,10,Low success rate,Tỷ lệ thành công thấp,,Low success rate,อัตราความสำเร็จต่ำ,Tingkat keberhasilan rendah,Mababang porsyento ng tagumpay,Kadar kejayaan rendah
+9,5,Very low success rate,Tỷ lệ thành công rất thấp,,Very low success rate,อัตราความสำเร็จต่ำมาก,Tingkat keberhasilan sangat rendah,Napakababang porsyento ng tagumpay,Kadar kejayaan sangat rendah
+10,,Extremely low success rate,Tỷ lệ thành công cực thấp,,Extremely low success rate,อัตราความสำเร็จต่ำสุด,Tingkat keberhasilan paling rendah,Napakababang porsyento ng tagumpay,Kadar kejayaan sangat rendah

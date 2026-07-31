@@ -1,0 +1,118 @@
+
+ban1.png
+size: 1906,381
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fk
+  rotate: false
+  xy: 1834, 35
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+fk2
+  rotate: true
+  xy: 1834, 91
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 1119, 1
+  size: 379, 379
+  orig: 379, 379
+  offset: 0, 0
+  index: -1
+hei
+  rotate: true
+  xy: 1890, 65
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+hua_1
+  rotate: true
+  xy: 833, 40
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1
+jy_ban1
+  rotate: true
+  xy: 930, 46
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+jy_ban2
+  rotate: true
+  xy: 734, 38
+  size: 98, 97
+  orig: 98, 97
+  offset: 0, 0
+  index: -1
+jy_ban3
+  rotate: false
+  xy: 1021, 47
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+qt_hong
+  rotate: true
+  xy: 1500, 146
+  size: 234, 198
+  orig: 234, 198
+  offset: 0, 0
+  index: -1
+qt_lan
+  rotate: true
+  xy: 1700, 147
+  size: 233, 198
+  orig: 233, 198
+  offset: 0, 0
+  index: -1
+sfqr_bian
+  rotate: false
+  xy: 1, 244
+  size: 1116, 136
+  orig: 1116, 136
+  offset: 0, 0
+  index: -1
+sfqr_di
+  rotate: false
+  xy: 1, 138
+  size: 1116, 104
+  orig: 1116, 104
+  offset: 0, 0
+  index: -1
+sfqr_wz
+  rotate: false
+  xy: 1500, 45
+  size: 332, 99
+  orig: 332, 99
+  offset: 0, 0
+  index: -1
+top_ban
+  rotate: false
+  xy: 242, 66
+  size: 254, 70
+  orig: 254, 70
+  offset: 0, 0
+  index: -1
+yun_1
+  rotate: false
+  xy: 1, 60
+  size: 239, 76
+  orig: 239, 76
+  offset: 0, 0
+  index: -1
+yun_2
+  rotate: false
+  xy: 498, 61
+  size: 234, 75
+  orig: 234, 75
+  offset: 0, 0
+  index: -1

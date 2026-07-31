@@ -1,0 +1,118 @@
+
+new_jiacheng.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX_xx1
+  rotate: false
+  xy: 869, 150
+  size: 86, 84
+  orig: 86, 84
+  offset: 0, 0
+  index: -1
+icon_ckjc_d
+  rotate: false
+  xy: 344, 87
+  size: 148, 147
+  orig: 148, 147
+  offset: 0, 0
+  index: -1
+icon_ckjc_l
+  rotate: false
+  xy: 192, 85
+  size: 150, 149
+  orig: 150, 149
+  offset: 0, 0
+  index: -1
+icon_clll
+  rotate: false
+  xy: 192, 13
+  size: 88, 70
+  orig: 88, 70
+  offset: 0, 0
+  index: -1
+sf0
+  rotate: true
+  xy: 282, 2
+  size: 81, 67
+  orig: 81, 67
+  offset: 0, 0
+  index: -1
+sf1
+  rotate: false
+  xy: 351, 9
+  size: 84, 76
+  orig: 84, 76
+  offset: 0, 0
+  index: -1
+sf2
+  rotate: false
+  xy: 778, 145
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+sf3
+  rotate: false
+  xy: 869, 63
+  size: 78, 85
+  orig: 78, 85
+  offset: 0, 0
+  index: -1
+sf4
+  rotate: true
+  xy: 778, 62
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+sf6
+  rotate: false
+  xy: 437, 9
+  size: 72, 76
+  orig: 72, 76
+  offset: 0, 0
+  index: -1
+sf7
+  rotate: true
+  xy: 949, 76
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+sf8
+  rotate: true
+  xy: 957, 168
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+sf9
+  rotate: false
+  xy: 511, 17
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+shouji14_2
+  rotate: false
+  xy: 2, 48
+  size: 188, 186
+  orig: 188, 186
+  offset: 0, 0
+  index: -1
+xjiac_1
+  rotate: false
+  xy: 494, 94
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+xjiac_2
+  rotate: false
+  xy: 636, 94
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1

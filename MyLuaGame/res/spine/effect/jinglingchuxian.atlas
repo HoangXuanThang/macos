@@ -1,0 +1,41 @@
+
+jinglingchuxian.png
+size: 760,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/TX_xt_g_0017
+  rotate: false
+  xy: 560, 92
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: -1
+TX/flare_Fire
+  rotate: false
+  xy: 302, 35
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+TX/sg1
+  rotate: true
+  xy: 1, 1
+  size: 290, 299
+  orig: 312, 311
+  offset: 10, 7
+  index: -1
+TX/xing1
+  rotate: false
+  xy: 666, 24
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+TX/zdsl_slgy2
+  rotate: true
+  xy: 302, 17
+  size: 16, 362
+  orig: 16, 362
+  offset: 0, 0
+  index: -1

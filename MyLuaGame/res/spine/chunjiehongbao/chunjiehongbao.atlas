@@ -1,0 +1,188 @@
+
+chunjiehongbao.png
+size: 1913,381
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha_001
+  rotate: false
+  xy: 1812, 197
+  size: 99, 86
+  orig: 171, 128
+  offset: 35, 19
+  index: -1
+baozha_002
+  rotate: false
+  xy: 636, 1
+  size: 116, 88
+  orig: 171, 128
+  offset: 26, 17
+  index: -1
+baozha_003
+  rotate: true
+  xy: 1812, 285
+  size: 95, 100
+  orig: 171, 128
+  offset: 44, 11
+  index: -1
+baozha_005
+  rotate: false
+  xy: 438, 10
+  size: 51, 52
+  orig: 171, 128
+  offset: 71, 53
+  index: -1
+bianpao
+  rotate: false
+  xy: 754, 15
+  size: 66, 129
+  orig: 66, 129
+  offset: 0, 0
+  index: -1
+bj1
+  rotate: false
+  xy: 1058, 5
+  size: 455, 177
+  orig: 455, 177
+  offset: 0, 0
+  index: -1
+daoguang_1
+  rotate: true
+  xy: 236, 9
+  size: 53, 200
+  orig: 53, 200
+  offset: 0, 0
+  index: -1
+denglong
+  rotate: true
+  xy: 822, 27
+  size: 117, 234
+  orig: 117, 234
+  offset: 0, 0
+  index: -1
+dyanhua0013
+  rotate: false
+  xy: 1515, 11
+  size: 196, 171
+  orig: 196, 185
+  offset: 0, 14
+  index: -1
+dyanhua0017
+  rotate: true
+  xy: 971, 184
+  size: 196, 185
+  orig: 196, 185
+  offset: 0, 0
+  index: -1
+dyanhua0019
+  rotate: true
+  xy: 1158, 184
+  size: 196, 185
+  orig: 196, 185
+  offset: 0, 0
+  index: -1
+dyanhua0020
+  rotate: true
+  xy: 1345, 184
+  size: 196, 185
+  orig: 196, 185
+  offset: 0, 0
+  index: -1
+dyanhua0021
+  rotate: true
+  xy: 1532, 184
+  size: 196, 185
+  orig: 196, 185
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: true
+  xy: 236, 64
+  size: 316, 314
+  orig: 316, 314
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 491, 2
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+hongbao_gai
+  rotate: true
+  xy: 726, 146
+  size: 234, 170
+  orig: 234, 170
+  offset: 0, 0
+  index: -1
+honngbao1
+  rotate: false
+  xy: 1, 6
+  size: 233, 374
+  orig: 233, 374
+  offset: 0, 0
+  index: -1
+huab1
+  rotate: true
+  xy: 1713, 31
+  size: 151, 97
+  orig: 151, 97
+  offset: 0, 0
+  index: -1
+meihua
+  rotate: true
+  xy: 1719, 188
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+meihua2
+  rotate: false
+  xy: 491, 19
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+paibian
+  rotate: true
+  xy: 636, 91
+  size: 289, 88
+  orig: 289, 88
+  offset: 0, 0
+  index: -1
+paibian_zi
+  rotate: true
+  xy: 552, 64
+  size: 316, 82
+  orig: 316, 82
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: true
+  xy: 898, 152
+  size: 228, 71
+  orig: 228, 71
+  offset: 0, 0
+  index: -1
+pikaqiu
+  rotate: false
+  xy: 1719, 266
+  size: 91, 114
+  orig: 91, 114
+  offset: 0, 0
+  index: -1
+shengzi
+  rotate: true
+  xy: 236, 3
+  size: 4, 78
+  orig: 4, 78
+  offset: 0, 0
+  index: -1
+sparks_06_00003
+  rotate: true
+  xy: 1812, 45
+  size: 150, 93
+  orig: 154, 118
+  offset: 0, 15
+  index: -1

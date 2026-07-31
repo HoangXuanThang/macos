@@ -1,0 +1,90 @@
+
+my_spine5.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bangdai
+  rotate: false
+  xy: 89, 36
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 132, 101
+  size: 20, 6
+  orig: 20, 6
+  offset: 0, 0
+  index: -1
+houtoufa
+  rotate: true
+  xy: 2, 2
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: true
+  xy: 157, 114
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 28
+  size: 85, 95
+  orig: 85, 95
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 132, 109
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 89, 69
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 48, 17
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 104, 44
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: true
+  xy: 2, 13
+  size: 13, 44
+  orig: 13, 44
+  offset: 0, 0
+  index: -1
+zui1
+  rotate: false
+  xy: 89, 30
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+zui2
+  rotate: false
+  xy: 29, 3
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1

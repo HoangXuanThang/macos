@@ -1,0 +1,90 @@
+
+effect_dashe_1.png
+size: 1446, 229
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+skill/2/026
+  rotate: false
+  xy: 2, 2
+  size: 130, 56
+  orig: 300, 200
+  offset: 84, 76
+  index: -1
+skill/2/028
+  rotate: false
+  xy: 677, 19
+  size: 236, 97
+  orig: 300, 200
+  offset: 31, 52
+  index: -1
+skill/2/030
+  rotate: false
+  xy: 934, 10
+  size: 250, 107
+  orig: 300, 200
+  offset: 24, 47
+  index: -1
+skill/2/032
+  rotate: false
+  xy: 1186, 13
+  size: 258, 104
+  orig: 300, 200
+  offset: 20, 50
+  index: -1
+skill/2/034
+  rotate: false
+  xy: 174, 9
+  size: 262, 106
+  orig: 300, 200
+  offset: 18, 49
+  index: -1
+skill/2/036
+  rotate: false
+  xy: 934, 119
+  size: 262, 108
+  orig: 300, 200
+  offset: 18, 49
+  index: -1
+skill/2/038
+  rotate: false
+  xy: 174, 117
+  size: 259, 110
+  orig: 300, 200
+  offset: 19, 51
+  index: -1
+skill/2/040
+  rotate: false
+  xy: 677, 118
+  size: 255, 109
+  orig: 300, 200
+  offset: 21, 52
+  index: -1
+skill/2/042
+  rotate: false
+  xy: 435, 117
+  size: 240, 110
+  orig: 300, 200
+  offset: 22, 51
+  index: -1
+skill/2/044
+  rotate: false
+  xy: 1198, 119
+  size: 236, 108
+  orig: 300, 200
+  offset: 24, 51
+  index: -1
+skill/2/045
+  rotate: false
+  xy: 438, 9
+  size: 234, 106
+  orig: 300, 200
+  offset: 26, 51
+  index: -1
+utskill/trail_qiu_0009
+  rotate: true
+  xy: 2, 60
+  size: 167, 170
+  orig: 300, 274
+  offset: 15, 104
+  index: -1

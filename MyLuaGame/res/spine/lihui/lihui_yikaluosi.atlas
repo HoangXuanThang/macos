@@ -1,0 +1,111 @@
+
+lihui_yikaluosi.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: true
+  xy: 1970, 924
+  size: 98, 59
+  orig: 98, 59
+  offset: 0, 0
+  index: -1
+chibang1
+  rotate: false
+  xy: 2, 515
+  size: 1135, 507
+  orig: 1135, 507
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: true
+  xy: 1139, 7
+  size: 1015, 624
+  orig: 1015, 624
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: false
+  xy: 102, 3
+  size: 85, 54
+  orig: 85, 54
+  offset: 0, 0
+  index: -1
+kuijia
+  rotate: true
+  xy: 1897, 509
+  size: 134, 132
+  orig: 134, 132
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: true
+  xy: 2, 2
+  size: 55, 98
+  orig: 55, 98
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: true
+  xy: 1765, 645
+  size: 377, 203
+  orig: 377, 203
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 59
+  size: 454, 1034
+  orig: 454, 1034
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 1038, 342
+  size: 85, 171
+  orig: 85, 171
+  offset: 0, 0
+  index: -1
+xiong01
+  rotate: true
+  xy: 1897, 401
+  size: 106, 122
+  orig: 106, 122
+  offset: 0, 0
+  index: -1
+xiong02
+  rotate: true
+  xy: 1765, 96
+  size: 140, 115
+  orig: 140, 115
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 1038, 238
+  size: 69, 102
+  orig: 69, 102
+  offset: 0, 0
+  index: -1
+yvmao
+  rotate: true
+  xy: 1765, 410
+  size: 233, 130
+  orig: 233, 130
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 1765, 31
+  size: 63, 103
+  orig: 63, 103
+  offset: 0, 0
+  index: -1
+zuoshoubi
+  rotate: false
+  xy: 1765, 238
+  size: 120, 170
+  orig: 120, 170
+  offset: 0, 0
+  index: -1

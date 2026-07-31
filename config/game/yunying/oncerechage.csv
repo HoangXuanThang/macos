@@ -1,0 +1,24 @@
+﻿VariableName,huodongID,needRmb,needRmb_vn,needRmb_en,needRmb_tw,needRmb_kr,desc,desc_en,desc_vn,award,award_vn,award_en,award_th,icon
+Defaults,0,1,1,1,1,1,"""""","""""","""""",{},{},{},{},""""""
+ID,活动版本ID,要求充值,要求充值,要求充值,要求充值,要求充值,描述,描述,描述_越南,奖励,奖励,奖励,奖励,奖励图标
+1,3001,6480,,6580,6580,6580,Single recharge 6580 diamond,Single recharge 6580 diamond,404404,{rmb=6480},,{rmb=6580},{rmb=6580},activity/once_recharge_award/icon_czfz1.png
+2,3001,3280,,3380,3380,3380,Single recharge 3380 diamond,Single recharge 3380 diamond,404404,{rmb=3280},,{rmb=3380},{rmb=3380},activity/once_recharge_award/icon_czfz2.png
+3,3001,1980,,1980,1980,1980,Single recharge 1980 diamond,Single recharge 1980 diamond,404404,{rmb=1980},,{rmb=1980},{rmb=1980},activity/once_recharge_award/icon_czfz3.png
+4,3001,980,,980,980,980,Single recharge 980 diamond,Single recharge 980 diamond,404404,{rmb=980},,{rmb=980},{rmb=980},activity/once_recharge_award/icon_czfz4.png
+5,3001,600,,580,580,580,Single recharge 580 diamond,Single recharge 580 diamond,404404,{rmb=600},,{rmb=580},{rmb=580},activity/once_recharge_award/icon_czfz5.png
+6,3001,300,,340,340,340,Single recharge 340 diamond,Single recharge 340 diamond,404404,{rmb=300},,{rmb=340},{rmb=340},activity/once_recharge_award/icon_czfz6.png
+7,3001,60,,66,66,66,Single recharge 66 diamond,Single recharge 66 diamond,Đơn bút nạp tiền 60 Kim cương,{rmb=60},,{rmb=66},{rmb=66},activity/once_recharge_award/icon_czfz7.png
+11,3003,6480,,6580,6580,6580,Single recharge 6580 diamond,Single recharge 6580 diamond,404404,{rmb=6480},,{rmb=6580},{rmb=6580},activity/once_recharge_award/icon_czfz1.png
+12,3003,3280,,3380,3380,3380,Single recharge 3380 diamond,Single recharge 3380 diamond,404404,{rmb=3280},,{rmb=3380},{rmb=3380},activity/once_recharge_award/icon_czfz2.png
+13,3003,1980,,1980,1980,1980,Single recharge 1980 diamond,Single recharge 1980 diamond,404404,{rmb=1980},,{rmb=1980},{rmb=1980},activity/once_recharge_award/icon_czfz3.png
+14,3003,980,,980,980,980,Single recharge 980 diamond,Single recharge 980 diamond,404404,{rmb=980},,{rmb=980},{rmb=980},activity/once_recharge_award/icon_czfz4.png
+15,3003,600,,580,580,580,Single recharge 580 diamond,Single recharge 580 diamond,404404,{rmb=600},,{rmb=580},{rmb=580},activity/once_recharge_award/icon_czfz5.png
+16,3003,300,,340,340,340,Single recharge 340 diamond,Single recharge 340 diamond,404404,{rmb=300},,{rmb=340},{rmb=340},activity/once_recharge_award/icon_czfz6.png
+17,3003,60,,66,66,66,Single recharge 66 diamond,Single recharge 66 diamond,Đơn bút nạp tiền 60 Kim cương,{rmb=60},,{rmb=66},{rmb=66},activity/once_recharge_award/icon_czfz7.png
+21,3004,30000,30000,30000,30000,30000,Recharge 30k diamond package,Recharge 30k diamond package,Recharge 30k diamond package,{rmb=300000},{rmb=300000},{rmb=300000},{rmb=300000},activity/once_recharge_award/icon_czfz1.png
+22,3004,15000,15000,15000,15000,15000,Recharge 15k diamond package,Recharge 15k diamond package,Recharge 15k diamond package,{rmb=150000},{rmb=150000},{rmb=150000},{rmb=150000},activity/once_recharge_award/icon_czfz2.png
+23,3004,10000,10000,10000,10000,10000,Recharge 10k diamond package,Recharge 10k diamond package,Recharge 10k diamond package,{rmb=100000},{rmb=100000},{rmb=100000},{rmb=100000},activity/once_recharge_award/icon_czfz3.png
+24,3004,5000,5000,5000,5000,5000,Recharge 5k diamond package,Recharge 5k diamond package,Recharge 5k diamond package,{rmb=50000},{rmb=50000},{rmb=50000},{rmb=50000},activity/once_recharge_award/icon_czfz4.png
+25,3004,3000,3000,3000,3000,3000,Recharge 3k diamond package,Recharge 3k diamond package,Recharge 3k diamond package,{rmb=30000},{rmb=30000},{rmb=30000},{rmb=30000},activity/once_recharge_award/icon_czfz5.png
+26,3004,2000,2000,2000,2000,2000,Recharge 2k diamond package,Recharge 2k diamond package,Recharge 2k diamond package,{rmb=20000},{rmb=20000},{rmb=20000},{rmb=20000},activity/once_recharge_award/icon_czfz6.png
+27,3004,1000,1000,1000,1000,1000,Recharge 1k diamond package,Recharge 1k diamond package,Recharge 1k diamond package,{rmb=10000},{rmb=10000},{rmb=10000},{rmb=10000},activity/once_recharge_award/icon_czfz7.png

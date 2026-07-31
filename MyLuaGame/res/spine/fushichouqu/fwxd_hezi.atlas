@@ -1,0 +1,27 @@
+
+fwxd_hezi.png
+size: 361,122
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gb
+  rotate: false
+  xy: 1, 4
+  size: 201, 117
+  orig: 201, 117
+  offset: 0, 0
+  index: -1
+hz
+  rotate: false
+  xy: 204, 62
+  size: 156, 59
+  orig: 156, 59
+  offset: 0, 0
+  index: -1
+hz2
+  rotate: false
+  xy: 204, 1
+  size: 156, 59
+  orig: 156, 59
+  offset: 0, 0
+  index: -1

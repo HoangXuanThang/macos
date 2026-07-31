@@ -1,0 +1,62 @@
+
+qlm_effect.png
+size: 399,513
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ayan_7
+  rotate: true
+  xy: 201, 10
+  size: 211, 81
+  orig: 211, 81
+  offset: 0, 0
+  index: -1
+beimian
+  rotate: false
+  xy: 284, 203
+  size: 110, 112
+  orig: 110, 112
+  offset: 0, 0
+  index: -1
+mm_dq
+  rotate: false
+  xy: 0, 24
+  size: 199, 197
+  orig: 199, 197
+  offset: 0, 0
+  index: -1
+mm_x
+  rotate: true
+  xy: 0, 11
+  size: 11, 167
+  orig: 11, 167
+  offset: 0, 0
+  index: -1
+momian_fg
+  rotate: false
+  xy: 0, 223
+  size: 252, 290
+  orig: 253, 290
+  offset: 1, 0
+  index: -1
+particle02
+  rotate: false
+  xy: 284, 96
+  size: 109, 105
+  orig: 109, 105
+  offset: 0, 0
+  index: -1
+tougu3
+  rotate: false
+  xy: 254, 317
+  size: 145, 196
+  orig: 150, 196
+  offset: 0, 0
+  index: -1
+z_5
+  rotate: false
+  xy: 0, 0
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1

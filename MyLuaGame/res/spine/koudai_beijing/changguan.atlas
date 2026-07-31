@@ -1,0 +1,83 @@
+
+changguan.png
+size: 981,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guanzhong
+  rotate: false
+  xy: 544, 171
+  size: 221, 88
+  orig: 221, 88
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 767, 251
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+kuai
+  rotate: false
+  xy: 767, 37
+  size: 211, 211
+  orig: 211, 211
+  offset: 0, 0
+  index: -1
+men
+  rotate: true
+  xy: 803, 250
+  size: 272, 177
+  orig: 272, 177
+  offset: 0, 0
+  index: -1
+qiang1
+  rotate: false
+  xy: 1, 376
+  size: 800, 146
+  orig: 800, 146
+  offset: 0, 0
+  index: -1
+qiang2
+  rotate: false
+  xy: 1, 312
+  size: 800, 62
+  orig: 800, 62
+  offset: 0, 0
+  index: -1
+qiang3
+  rotate: false
+  xy: 1, 261
+  size: 800, 49
+  orig: 800, 49
+  offset: 0, 0
+  index: -1
+yun_6
+  rotate: false
+  xy: 1, 12
+  size: 458, 150
+  orig: 458, 154
+  offset: 0, 0
+  index: -1
+zhantai
+  rotate: false
+  xy: 461, 112
+  size: 251, 50
+  orig: 251, 50
+  offset: 0, 0
+  index: -1
+zhuo1
+  rotate: false
+  xy: 461, 1
+  size: 180, 34
+  orig: 180, 34
+  offset: 0, 0
+  index: -1
+zhuzi
+  rotate: true
+  xy: 1, 164
+  size: 95, 541
+  orig: 95, 541
+  offset: 0, 0
+  index: -1

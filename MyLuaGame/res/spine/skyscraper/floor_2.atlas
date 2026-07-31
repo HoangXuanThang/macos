@@ -1,0 +1,34 @@
+
+floor_2.png
+size: 547,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuanghu
+  rotate: true
+  xy: 278, 2
+  size: 106, 97
+  orig: 106, 97
+  offset: 0, 0
+  index: -1
+douhuazhai
+  rotate: false
+  xy: 1, 18
+  size: 271, 151
+  orig: 271, 151
+  offset: 0, 0
+  index: -1
+hengliang
+  rotate: false
+  xy: 1, 1
+  size: 275, 15
+  orig: 275, 15
+  offset: 0, 0
+  index: -1
+wuding
+  rotate: false
+  xy: 274, 110
+  size: 272, 59
+  orig: 272, 59
+  offset: 0, 0
+  index: -1
