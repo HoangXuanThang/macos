@@ -11,7 +11,7 @@
 	<key>loginServer2</key>
 	<string>163.223.12.142:16666</string>
 	<key>patch</key>
-	<string>1</string>
+	<string>13</string>
 	<key>serverUrl</key>
 	<string>http://163.223.12.142:18080/servers</string>
 	<key>versionUrl</key>
