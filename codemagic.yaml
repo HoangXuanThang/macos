@@ -16,6 +16,26 @@ workflows:
       - name: Prepare environment and set permissions
         script: |
           echo "=== 1. Setting up Android Build Environment ==="
+          
+          # Remove hardcoded Windows local.properties paths
+          rm -f "$ANDROID_PROJECT/local.properties"
+          
+          # Dynamically set SDK and NDK paths for Codemagic environment
+          if [ -n "$ANDROID_SDK_ROOT" ]; then
+            echo "sdk.dir=$ANDROID_SDK_ROOT" >> "$ANDROID_PROJECT/local.properties"
+          elif [ -n "$ANDROID_HOME" ]; then
+            echo "sdk.dir=$ANDROID_HOME" >> "$ANDROID_PROJECT/local.properties"
+          fi
+          
+          if [ -n "$ANDROID_NDK_HOME" ]; then
+            echo "ndk.dir=$ANDROID_NDK_HOME" >> "$ANDROID_PROJECT/local.properties"
+          elif [ -n "$ANDROID_NDK" ]; then
+            echo "ndk.dir=$ANDROID_NDK" >> "$ANDROID_PROJECT/local.properties"
+          fi
+          
+          echo "Generated local.properties:"
+          cat "$ANDROID_PROJECT/local.properties" || true
+
           chmod +x "$ANDROID_PROJECT/gradlew" || true
           chmod -R +x tools/ || true
           
