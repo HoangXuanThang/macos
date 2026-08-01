@@ -13,15 +13,46 @@ workflows:
       java: 1.8
 
     scripts:
-      - name: Prepare environment and set permissions
+      - name: Prepare environment and configure Android NDK
         script: |
-          echo "=== 1. Setting up Android Build Environment ==="
+          echo "=== 1. Setting up Android SDK & NDK Environment ==="
           
-          # Clean up invalid Windows paths and environment variables
-          unset ANDROID_NDK_HOME || true
-          unset ANDROID_SDK_ROOT || true
-          rm -f "$ANDROID_PROJECT/local.properties"
+          # Detect Android SDK root
+          SDK_DIR="$ANDROID_SDK_ROOT"
+          if [ -z "$SDK_DIR" ]; then SDK_DIR="$ANDROID_HOME"; fi
+          if [ -z "$SDK_DIR" ]; then SDK_DIR="/Users/builder/Library/Android/sdk"; fi
           
+          # Detect or install Android NDK
+          NDK_DIR=""
+          if [ -d "$SDK_DIR/ndk-bundle" ]; then
+            NDK_DIR="$SDK_DIR/ndk-bundle"
+          else
+            NDK_DIR=$(find "$SDK_DIR/ndk" -maxdepth 1 -mindepth 1 2>/dev/null | sort -V | tail -n 1)
+          fi
+          
+          if [ -z "$NDK_DIR" ] || [ ! -d "$NDK_DIR" ]; then
+            echo "Installing Android NDK via sdkmanager..."
+            SDK_MANAGER=$(find "$SDK_DIR" -name "sdkmanager" | head -n 1)
+            if [ -n "$SDK_MANAGER" ]; then
+              yes | "$SDK_MANAGER" --licenses || true
+              "$SDK_MANAGER" "ndk-bundle" || "$SDK_MANAGER" "ndk;21.4.7075529" || true
+            fi
+            NDK_DIR=$(find "$SDK_DIR/ndk" -maxdepth 1 -mindepth 1 2>/dev/null | sort -V | tail -n 1)
+            if [ -z "$NDK_DIR" ] && [ -d "$SDK_DIR/ndk-bundle" ]; then NDK_DIR="$SDK_DIR/ndk-bundle"; fi
+          fi
+          
+          echo "Found Android SDK: $SDK_DIR"
+          echo "Found Android NDK: $NDK_DIR"
+          
+          # Generate clean local.properties for Gradle
+          echo "sdk.dir=$SDK_DIR" > "$ANDROID_PROJECT/local.properties"
+          if [ -n "$NDK_DIR" ]; then
+            echo "ndk.dir=$NDK_DIR" >> "$ANDROID_PROJECT/local.properties"
+          fi
+          
+          echo "=== local.properties contents ==="
+          cat "$ANDROID_PROJECT/local.properties"
+
           chmod +x "$ANDROID_PROJECT/gradlew" || true
           chmod -R +x tools/ || true
           
@@ -36,10 +67,6 @@ workflows:
       - name: Build and Sign Android APK
         script: |
           echo "=== 2. Building Release APK with Gradle & Keystore ==="
-          unset ANDROID_NDK_HOME || true
-          unset ANDROID_SDK_ROOT || true
-          rm -f "$ANDROID_PROJECT/local.properties"
-          
           cd "$ANDROID_PROJECT"
           ./gradlew assembleRelease --no-daemon
 
