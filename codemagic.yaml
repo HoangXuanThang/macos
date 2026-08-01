@@ -10,7 +10,7 @@ workflows:
     environment:
       vars:
         ANDROID_PROJECT: "MyLuaGame/frameworks/pokemon_proj_tc_qd/proj.android"
-      java: 17
+      java: 1.8
 
     scripts:
       - name: Prepare environment and set permissions
