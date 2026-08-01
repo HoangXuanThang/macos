@@ -1,3 +1,12 @@
+// Auto-clean hardcoded Windows SDK/NDK paths on CI build servers
+def localPropFile = new File(settingsDir, "local.properties")
+if (localPropFile.exists()) {
+    def text = localPropFile.text
+    if (text.contains("D:") || text.contains("adt-bundle") || text.contains("android-ndk")) {
+        localPropFile.delete()
+    }
+}
+
 include ':libcocos2dx'
 project(':libcocos2dx').projectDir = new File(settingsDir, '../../cocos2d-x/cocos/platform/android/libcocos2dx')
 include ':cnfree'
