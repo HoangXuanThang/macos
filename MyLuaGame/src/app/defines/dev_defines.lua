@@ -37,7 +37,7 @@ if cc.PLATFORM_OS_WINDOWS == targetPlatform then
 	-- dev.LOGIN_ACCOUNT = "zxd"
 	-- dev.LOGIN_SERVER_KEY = "game.dev.2"
 else
-	dev.GUIDE_CLOSED = false
+	dev.GUIDE_CLOSED = true -- Tắt toàn bộ tân thủ hướng dẫn
 	dev.IGNORE_POPUP_BOX = false
 	dev.ONLINE_VERSION_LANGUAGE = nil
 	dev.REQUEST_LOG_IGNORE = {
